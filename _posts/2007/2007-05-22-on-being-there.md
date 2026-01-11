@@ -1,0 +1,14 @@
+---
+layout: post
+permalink: /2007/05/on-being-there/
+title: On Being There
+description: None
+date: 2007-05-22 18:18:19 -0000
+last_modified_at: 2007-05-22 18:18:19 -0000
+publish: true
+pin: false
+categories:
+- Video
+tags: []
+---
+[![Barbie Cummings \(click to see larger version\)](/images/barbiecummings-thumb.webp)](/images/barbiecummings.webp) Or "good enough" revisited. We had a video go viral this week. We had a story on Sunday about a Knoxville porn starlet who goes by the name of Barbie Cummings. She blogged that she had oral sex and had naughty photos taken during a traffic stop by a Tennessee State Trooper. (Her NSFW [blog](https://www.barbiecummings.com/) suddenly disappeared Tuesday) The Highway Patrol has suspended the trooper while it investigates. The sordid tale is [here](https://www.knoxnews.com/kns/local_news/article/0,1406,KNS_347_5546133,00.html). We weren't the first to have the story. We got scooped by a local TV station, [WATE](https://www.wate.com/), on Friday night. But the reporter assigned to the story, Matt Lakin, got an interview with the Cummings on Saturday. He took his $99 Target camera ([wait, they're $89 now](https://www.target.com/gp/detail.html/ref=sc_iw_r_1_0/602-5890833-8956646?ie=UTF8&asin=B000FD8MJS)). No lights. No external mic. No tripod. usually poor audio and a challenge to hold steady. We're not taking a fancy HD camera here, folks. It's just sightly larger than a cigarette pack. Lakin shot the video and online producer Erin Chapin edited and posted it Saturday night. Despite the technical limitation, it proved good enough. You can see his interview:  We believe he is the only reporter who has done a video interview with Cummings about her encounter with the Tennessee trooper. Traffic to the video soared on Monday, getting almost as many views during Monday as we had for all videos last week, according to stats from the Associated Press. We are one of the early sites using AP to host and play local videos. AP said the video, which was available most of Monday only from our branded version of the AP player, ranked as the third most viewed video of the day in its Online Video Network of over 1,600 affiliates. Calls came in from TV networks and Tennessee TV stations to use the video. The video was moved to the full national network and on Tuesday was listed as an "Editor's Pick" in the national AP channel. At mid-afternoon, it was No. 1 in the AP network. Sometimes getting the story is about thinking and being there. And that's good reporting, print or video, right? Updated: This posted was updated 2/17/2013 to fix some problem links. Instead of linking to the video, it's embedded. Tags: [Barbie Cummings](https://technorati.com/tag/barbie cummings) | [porn star](https://technorati.com/tag/porn star) | [Tennessee Highway Patrol](https://technorati.com/tag/Tennessee Highway Patrol) | [newspaper video](https://technorati.com/tag/newspaper video)

@@ -1,0 +1,74 @@
+---
+layout: default
+title: Home
+---
+
+<style>
+  /* This constrains the content width and centers it */
+  .home-wrapper {
+    max-width: 900px; /* Adjust this number to make it wider/narrower */
+    margin: 0 auto;   /* Centers the box */
+    padding: 0 20px;  /* Adds side gutters so text doesn't hit the edge on phones */
+  }
+  
+  /* Optional: Adds a little breathing room between posts */
+  .entry {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee; /* Remove this line if you want a cleaner look */
+  }
+  
+  .entry-title a {
+    text-decoration: none;
+  }
+</style>
+
+<div class="home-wrapper">
+
+  <div class="entries-list">
+    {% for post in paginator.posts %}
+    <article class="entry">
+      <header class="entry-header">
+        <h3 class="entry-title">
+          <a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a>
+        </h3>
+        <span class="entry-date" style="font-size: 0.8em; color: #888;">
+          {{ post.date | date: "%B %d, %Y" }}
+        </span>
+      </header>
+      
+      <div class="entry-excerpt">
+        {% if post.excerpt %}
+          {{ post.excerpt | strip_html | truncatewords: 40 }}
+        {% else %}
+          {{ post.content | strip_html | truncatewords: 40 }}
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+
+  {% if paginator.total_pages > 1 %}
+  <nav class="pagination" style="margin-top: 40px; text-align: center;">
+    <ul>
+      {% if paginator.previous_page %}
+      <li class="previous">
+        <a href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
+      </li>
+      {% endif %}
+      
+      <li class="page_number" style="display: inline-block; padding: 0 10px;">
+        Page {{ paginator.page }} of {{ paginator.total_pages }}
+      </li>
+      
+      {% if paginator.next_page %}
+      <li class="next">
+        <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+      </li>
+      {% endif %}
+    </ul>
+  </nav>
+  {% endif %}
+
+</div>
+/* test */

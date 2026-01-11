@@ -1,0 +1,54 @@
+User-agent: Googlebot-Image
+User-agent: AdsBot-Google
+User-agent: Googlebot
+Disallow: /stats/
+Disallow: /opcache/
+Disallow: /xmlrpc.php$
+Disallow: /cdn-cgi/
+Disallow: */feed/
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*/?wordfence_lh=1&hid=*
+Disallow: /*/?wordfence_logHuman=*
+
+User-Agent: *
+Allow: /
+Disallow: /stats/
+Disallow: /opcache/
+Disallow: /*.asp$
+Disallow: /*.php$
+Disallow: /*.cgi$
+Disallow: /*.js$ 
+Disallow: /*.css$
+Disallow: /stats/
+Disallow: /category/
+Disallow: /opcache/
+Disallow: /xmlrpc.php$
+Disallow: /cdn-cgi/
+Disallow: */feed/
+Disallow: /*/?wordfence_lh=1&hid=*
+Disallow: /*/?wordfence_logHuman=*
+
+Sitemap: http://www.jacklail.com/sitemap.xml
+
+#spinn3r  Slow down!
+User-agent: Spinn3r
+Crawl-delay: 120
+Allow: /*
+
+# Limit Blekkobot's crawl rate (example is to crawl no more than 1 page every 5 seconds)
+User-agent: Blekkobot
+Crawl-delay: 5
+
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: Acoon
+Disallow: /
+
+user-agent: AhrefsBot
+disallow: /
+
+	

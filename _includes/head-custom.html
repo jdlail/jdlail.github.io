@@ -1,0 +1,23 @@
+<!-- start custom head snippets -->
+
+<style>
+/* Mobile-friendly adjustment for aligned images */
+@media screen and (max-width: 600px) {
+  /* Added .align-left to the list of classes to fix */
+  .align-right, .align-left {
+    float: none !important;    /* Stop pushing text to the side */
+    display: block;            /* Make it its own block */
+    margin: 1.5em auto;        /* Center the image and add vertical spacing */
+    width: 100% !important;    /* Let it fill the width if necessary */
+    max-width: 100% !important;/* Override inline max-widths if they are too wide */
+  }
+}
+</style>
+
+<link rel="icon" type="image/png" href="{{ '/favicon-96x96.png' | relative_url }}" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}" />
+<link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}" />
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}" />
+<link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}" />
+
+<!-- end custom head snippets -->

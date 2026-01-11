@@ -1,0 +1,14 @@
+---
+layout: post
+permalink: /2007/05/and-i-didnt-eve/
+title: And I didn't even study
+description: None
+date: 2007-05-06 20:22:23 -0000
+last_modified_at: 2007-05-06 20:22:23 -0000
+publish: true
+pin: false
+categories:
+- Ramblings
+tags: []
+---
+The technology and media use quiz from the Pew Internet and American Life Project divines that I'm in the "Omnivores typology group," part of what Pew calls "Elite Tech Users" in a report posted on its site on Sunday. I don't think it's deadly, but it may tag me geeky. It doesn't exactly describe me; I'm not in my twenties or a student. But in general, yeah. But the real question is what are [you](https://www.pewinternet.org/quiz/)? All the groups are described [here](https://www.pewinternet.org/quiz/results.asp) and in the report linked on this [page](https://www.pewinternet.org/PPF/r/213/report_display.asp). Key report finding: Half of all American adults are only occasional users of modern information gadgetry Oh yes, Omnivores. Here's what we know about Omnivores (from the Pew report) ... Omnivores make up 8% of the American public. **Basic Description** Members of this group use their extensive suite of technology tools to do an enormous range of things online, on the go, and with their cell phones. Omnivores are highly engaged with video online and digital content. Between blogging, maintaining their Web pages, remixing digital content, or posting their creations to their websites, they are creative participants in cyberspace. **Defining Characteristics** You might see them watching video on an iPod. They might talk about their video games or their participation in virtual worlds the way their parents talked about their favorite TV episode a generation ago. Much of this chatter will take place via instant messages, texting on a cell phone, or on personal blogs. Omnivores are particularly active in dealing with video content. Most have video or digital cameras, and most have tried watching TV on a non-television device, such as a laptop or a cell phone. Omnivores embrace all this connectivity, feeling confident in how they manage information and their many devices. This puts information technology at the center of how they express themselves, do their jobs, and connect to their friends. **Who They Are** They are young, ethnically diverse, and mostly male (70%). The median age is 28; just more than half of them are under age 30, versus one in five in the general population. Over half are white (64%) and 11% are black (compared to 12% in the general population). English-speaking Hispanics make up 18% of this group. Perhaps unsurprisingly, many (42% versus the 13% average) of Omnivores are students. (via Twitter friend [sheywood](https://twitter.com/sheywood)) Tags: [Pew](https://technorati.com/tag/Pew) | [technology use](https://technorati.com/tag/technology use)

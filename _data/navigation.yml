@@ -1,0 +1,11 @@
+- title: Home
+  url: /
+- title: Resume
+  url: /jack-lail-resume/
+#  
+# - title: Categories
+#  url: /categories/
+# - title: External Page
+#  url: https://whatever-site.com/page.html
+- title: Search
+  url: /search/

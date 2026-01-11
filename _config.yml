@@ -1,0 +1,97 @@
+# -----------------------------
+# Site Settings
+# -----------------------------
+title: "Jack D. Lail"
+description: "Journalism, Technology, History"
+url: "https://jacklail.com"
+baseurl: "" # Keep empty for a root domain
+locale: "en-US"
+tagline: "A retired Tennessee journalist writing about media, tech, and genealogy."
+
+# -----------------------------
+# Theme & Plugins
+# -----------------------------
+remote_theme: mmistakes/so-simple-theme
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Home page pagination settings
+paginate: 10  # amount of posts to show per page
+paginate_path: /page:num/
+
+# -----------------------------
+# Theme Configuration
+# -----------------------------
+# Skin options: /default, /dark, /solarized-light, /solarized-dark
+skin: "/assets/css/skins/default.css"
+
+# Layout basics
+logo: # "/assets/images/my-logo.png" (Uncomment if you add a logo later)
+
+# Author information
+author:
+  name: "Jack D. Lail"
+  picture: /assets/author/jack-d-lail.webp
+  # avatar: "/assets/images/my-photo.jpg" 
+  bio: "Writing about media, tech, and genealogy."
+  location: "Knoxville, Tennessee, USA"
+  links:
+    - label: "Email"
+      url: "mailto:contact@goldenleaf.addy.io"
+      icon: fas fa-envelope
+
+
+# footer links
+footer_links:
+  - title: Threads
+    url: https://threads.com/@jacklail
+    icon: fa-brands fa-threads
+  - title: X
+    url: https://x.com/jacklail
+    icon: fa-brands fa-x-twitter
+  - title: GitHub
+    url: https://github.com/jdlail
+    icon: fa-brands fa-github-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jacklail/
+    icon: fa-brands fa-linkedin
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+
+
+# Features
+search: true
+read_time: true
+taxonomy: true # Enables tags and categories
+
+# Google Analytics
+google_analytics: "G-5P5WVKZK48"
+
+# Social media links
+social:
+  name: Jack D. Lail"
+  links:
+    - https://facebook.com/jacklail
+    - https://www.reddit.com/user/jacklail/
+    - https://threads.com/@jacklail
+    - https://x.com/jacklail
+    - https://github.com/jdlail
+    - https://www.linkedin.com/in/jacklail/
+
+# -----------------------------
+# Jekyll Settings
+# -----------------------------
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:title/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

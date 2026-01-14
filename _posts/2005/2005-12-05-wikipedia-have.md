@@ -8,7 +8,7 @@ last_modified_at: 2005-12-05 21:37:15 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Wikipedia implemented Monday a registration system for new posts after getting its facts wrong in a bio on Tennessean John Seigenthaler.

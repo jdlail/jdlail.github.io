@@ -8,7 +8,7 @@ last_modified_at: 2005-02-18 22:33:26 -0000
 publish: true
 pin: false
 categories:
-- Uncategorized
+- Ramblings
 tags: []
 ---
 OK, I mumble. But I think what I'm saying is clear. So follow these random mumbles to see where they lead.

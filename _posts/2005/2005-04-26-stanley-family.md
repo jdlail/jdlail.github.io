@@ -11,4 +11,4 @@ categories:
 - Family
 tags: []
 ---
-I've created a blog site for the [Stanley Family Reunion](https://www.stanleyfamilyreunion.com/) in October. My cousin Richard has already posted a [ on the initial entry.
+I've created a blog site for the [Stanley Family Reunion](https://www.stanleyfamilyreunion.com/) in October. My cousin Richard has already posted an initial entry.

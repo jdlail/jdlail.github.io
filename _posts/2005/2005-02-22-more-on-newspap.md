@@ -8,10 +8,10 @@ last_modified_at: 2005-02-22 11:35:14 -0000
 publish: true
 pin: false
 categories:
-- Uncategorized
+- Media
 tags: []
 ---
-More on the ABout.com and MarketWatch buys:
+More on the About.com and MarketWatch buys:
 
 > NEW YORK (Reuters) - Newspaper publishers, often seen as stodgy and slow-growing, will pay whatever it takes to grab a bigger piece of the fast-growing online advertising market -- if two recent deals are any indication.
 

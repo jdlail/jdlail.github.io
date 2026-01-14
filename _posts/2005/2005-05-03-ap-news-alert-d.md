@@ -8,10 +8,12 @@ last_modified_at: 2023-04-28 14:24:31 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
-Please pardon this [disintermediation](https://www.webopedia.com/TERM/D/disintermediation.html) ... we're just changing all the rules. Does the venerable Associated Press get disintermediation in its core business? A couple E.W. Scripps executives I work with think not and made some provocative arguments in [OJR](https://www.ojr.org/ojr/stories/050428benzphillips/) last week. They envision a Napster model in which Internet technologies are used to open the system and drive down costs.
+Please pardon this [disintermediation](https://www.webopedia.com/TERM/D/disintermediation.html) ... we're just changing all the rules.
+
+Des the venerable Associated Press get disintermediation in its core business? A couple E.W. Scripps executives I work with think not and made some provocative arguments in [OJR](https://www.ojr.org/ojr/stories/050428benzphillips/) last week. They envision a Napster model in which Internet technologies are used to open the system and drive down costs.
 
 > If AP had its collective head firmly inside the 21st Century, it already would be moving at least parts of its services in the Napster direction. But AP is like any business confronted with a disruptive technology. Its first inclination is self-preservation, not cannibalization.
 

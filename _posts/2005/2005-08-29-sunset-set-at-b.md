@@ -12,5 +12,7 @@ categories:
 tags: []
 ---
 We went for a boat ride on Badin Lake on Saturday near sunset....  
-[![DSC_0101.jpg](/images/archives/DSC_0101-thumb.webp)](/images/archives/DSC_0101.webp)  
+
+[![DSC_0101.jpg](/images/archives/DSC_0101-thumb.webp)](/images/archives/DSC_0101.webp)
+
 _(click to see a larger version)_

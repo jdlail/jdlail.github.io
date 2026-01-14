@@ -11,7 +11,8 @@ categories:
 - Family
 tags: []
 ---
-I went to my Uncle Will's funeral Saturday in Hickory, N.C.  
+I went to my Uncle Will's funeral Saturday in Hickory, N.C.
+
 (William Sudduth, 2/25/1995 - 2/23/2005, a native of Coila, Miss., who lived nearly all his adult life on Snow Creek Road in Hickory in a house I spent many hours in as a child.)
 
 The service included his sons, and grandsons and a couple nephews playing a few country/bluegrass songs, including the "Will the Circle Be Unbroken." Guitars, electric bass, drums, fiddle, mandolin .. it was a nice tribute.

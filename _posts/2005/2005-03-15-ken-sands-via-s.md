@@ -8,7 +8,7 @@ last_modified_at: 2005-03-15 18:40:28 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Online Publisher Ken Sands in Spokane has good good points in this [Online News](https://talk.poynter.org/online-news/) post that the indefatigable Susan Mernit posted to her [blog](https://susanmernit.blogspot.com/2005/03/ken-sands-doing-online-news-another.html).

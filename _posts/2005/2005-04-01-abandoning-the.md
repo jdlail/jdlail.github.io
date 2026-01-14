@@ -8,8 +8,8 @@ last_modified_at: 2005-04-01 07:26:26 -0000
 publish: true
 pin: false
 categories:
-- Uncategorized
-tags: []
+- Media
+tags: [Newspapers]
 ---
 There seem to a spate of articles about the future of news and newspaper -- most of them filled with dire predictions. One of the most thought-provoking I've seen appeared this week: Merrill Brown's "[Abandoning the News](https://www.carnegie.org/reporter/10/news/index.html)" report for the Carnegie Corp.
 

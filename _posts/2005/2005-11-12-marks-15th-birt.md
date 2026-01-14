@@ -11,4 +11,6 @@ categories:
 - Family
 tags: []
 ---
-[![DSC_0023.JPG](/DSC_0023-thumb.JPG)](/DSC_0023.JPG) Here are some photos from Mark's [15th birthday](https://lailnet.com/gallery/slideshow.php?mode=high&set_albumName=mark15).
+[![DSC_0023.JPG](/DSC_0023-thumb.JPG)](/DSC_0023.JPG)
+
+Here are some photos from Mark's [15th birthday](https://lailnet.com/gallery/slideshow.php?mode=high&set_albumName=mark15).

@@ -2,6 +2,7 @@
 # Site Settings
 # -----------------------------
 title: "Jack D. Lail"
+logo: "/assets/site-logo/jacklail-website-logo.png" # relative path of site logo
 description: "Journalism, Technology, History"
 url: "https://jacklail.com"
 baseurl: "" # Keep empty for a root domain
@@ -38,7 +39,6 @@ skin: "/assets/css/skins/default.css"
 # -----------------------------
 # Layout basics
 # -----------------------------
-logo: # "/assets/images/my-logo.png" (Uncomment if you add a logo later)
 
 # -----------------------------
 # Author information
@@ -91,7 +91,7 @@ google_analytics: "G-5P5WVKZK48"
 # Social media links
 # -----------------------------
 social:
-  name: Jack D. Lail"
+  name: "Jack D. Lail"
   links:
     - https://facebook.com/jacklail
     - https://www.reddit.com/user/jacklail/

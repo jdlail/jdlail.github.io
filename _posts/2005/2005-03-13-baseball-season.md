@@ -11,4 +11,6 @@ categories:
 - Family
 tags: []
 ---
-[![Mark scores a run](/images/photos/runninghome-thumb.webp)](/images/photos/runninghome.webp) The Knox Sox were in a tournament in Farragut this weekend. Friday, there were snow flurries and a cold game. Satruday was a much better day: sunny, mild and two wins. (click on the photo to see a larger version)
+[![Mark scores a run](/images/photos/runninghome-thumb.webp)](/images/photos/runninghome.webp)
+
+The Knox Sox were in a tournament in Farragut this weekend. Friday, there were snow flurries and a cold game. Saturday was a much better day: sunny, mild and two wins. (click on the photo to see a larger version)

@@ -8,8 +8,8 @@ last_modified_at: 2005-04-15 13:16:43 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Media
+tags: [Photography]
 ---
 Disruptive technologies have a funny way of being disrupted themselves. Digital cameras disrupted the business for film for still photos and now finds itself disrupted by cell phone manufacturers. This item from "[om malik on broadband](https://www.gigaom.com/2005/04/14/camera-phones-hot-cameras-not/):"
 

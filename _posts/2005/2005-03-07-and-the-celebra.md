@@ -8,8 +8,8 @@ last_modified_at: 2005-03-07 01:48:15 -0000
 publish: true
 pin: false
 categories:
-- Quotable
-tags: []
+- Sports
+tags: [Quotable]
 ---
 The Lady Vols beat No. 1-ranked LSU to win their first SEC title in five years. Here's what Coach Pat Head Summitt said:
 

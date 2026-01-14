@@ -15,7 +15,7 @@ categories:
 tags:
 - Chromebook
 - Training
-- video
+- Video
 ---
 **_Updated: Additional code examples, resource links, some corrections._**
 

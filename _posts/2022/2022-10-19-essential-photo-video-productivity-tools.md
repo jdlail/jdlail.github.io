@@ -18,7 +18,7 @@ tags:
 - Linux
 - photos
 - Tools
-- video
+- Video
 ---
 This is a listing of programs I use regularly on my Pixelbook, a Chromebook introduced in 2017. That is to say it's not the most powerful or fastest Chromebook and all the apps listed here work with it.
 

@@ -9,6 +9,8 @@ publish: true
 pin: false
 categories:
 - Ramblings
-tags: []
+tags: [Productivity]
 ---
-I've taken the plunge. I'm trying to get a handle on my Inbox this year. Good luck, huh? I've gone the _GTD_ route and moved all my existing Inbox messages to a DMZ folder and am resolving to keep my Inbox clear. I've made several passes through the DMZ folder and deleted _hundreds_ of useless e-mails. ... But I have a ways to go!
+I've taken the plunge. I'm trying to get a handle on my Inbox this year. Good luck, huh? I've gone the _GTD_ route and moved all my existing Inbox messages to a DMZ folder and am resolving to keep my Inbox clear.
+
+I've made several passes through the DMZ folder and deleted _hundreds_ of useless e-mails. ... But I have a ways to go!

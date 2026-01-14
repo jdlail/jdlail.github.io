@@ -9,6 +9,8 @@ publish: true
 pin: false
 categories:
 - Video
-tags: []
+tags: [Video]
 ---
-A collection of what appears to be handy Web-based video tools are [here](https://newteevee.com/2006/12/27/how-to-save-online-videos/). What are the best tools out there? Tags: [video tools](https://technorati.com/tag/video tools)
+A collection of what appears to be handy Web-based video [tools](https://newteevee.com/2006/12/27/how-to-save-online-videos/).
+
+What are the best tools out there?

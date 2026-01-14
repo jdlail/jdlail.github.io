@@ -16,4 +16,5 @@ Everybody's looking for next the innovation, be it an online product or the late
   1. It didn't take endless meetings.
   2. He made decisions.
   3. It happened fast.
+
 I believe we could learn a thing or two from his entrepreneurship. Even if he never sells more than two bucks of his "skate brand," he's thinking the right way at an early age.

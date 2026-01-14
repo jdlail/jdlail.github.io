@@ -10,8 +10,8 @@ pin: false
 categories:
 - Ramblings
 tags:
-- hurricane
-- IRMA
+- Hurricane
+- Hurricane
 ---
  
 ![Hurricane Irma](/assets/wp-content/uploads/2017/09/irmamap.webp "Hurricane Irma")

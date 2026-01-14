@@ -12,7 +12,7 @@ image:
 categories:
 - Video
 tags:
-- analytics
+- Analytics
 - YouTube
 ---
 Here are my top YouTube videos based on views in 2021. The No. 1 video had more than four times the views of the next one.

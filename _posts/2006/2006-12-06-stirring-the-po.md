@@ -9,6 +9,8 @@ publish: true
 pin: false
 categories:
 - Video
-tags: []
+tags: [Food, Cooking, Video]
 ---
-[![Stirring the Pot](/images/stirringthepotpromo-375.webp)](https://blogs.knoxnews.com/knx/constantine/) We launched a real nice cooking video feature today. Online Editor Jigsha Desai did the heavy lifting and it stars food editor Mary Constantine. Take a [look](https://blogs.knoxnews.com/knx/constantine/). What, no samples? Tags: [food](https://technorati.com/tag/food) | [cooking](https://technorati.com/tag/cooking) | [video](https://technorati.com/tag/video)
+[![Stirring the Pot](/images/stirringthepotpromo-375.webp)](https://blogs.knoxnews.com/knx/constantine/) We launched a real nice cooking video feature today. Online Editor Jigsha Desai did the heavy lifting and it stars food editor Mary Constantine.
+
+Take a [look](https://blogs.knoxnews.com/knx/constantine/). What, no samples?

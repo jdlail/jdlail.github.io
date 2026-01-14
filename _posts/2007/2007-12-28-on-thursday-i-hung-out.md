@@ -11,6 +11,8 @@ categories:
 - Ramblings
 tags: []
 ---
-On Thursday I hung out at the [family business](https://www.saponaplastics.com/) in North Carolina for a short while.  It's a custom injection molder (makes plastic stuff). As such, it makes parts and assembles products for a number of different customers. One of the more unusual products  (at least for me) they have been making are the housings for the mirrors featured in the YouTube video below that are sold by this [company](https://www.stmachine.com/bike/index.php).  
-  
+On Thursday I hung out at the [family business](https://www.saponaplastics.com/) in North Carolina for a short while.
 
+It's a custom injection molder (makes plastic stuff). As such, it makes parts and assembles products for a number of different customers.
+
+One of the more unusual products  (at least for me) they have been making are the housings for the mirrors featured in the YouTube video below that are sold by this [company](https://www.stmachine.com/bike/index.php).  

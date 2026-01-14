@@ -10,7 +10,7 @@ pin: false
 categories:
 - Newspapers
 tags:
-- newspapers
+- Newspapers
 ---
   
 A video is a better idea than a special section!  

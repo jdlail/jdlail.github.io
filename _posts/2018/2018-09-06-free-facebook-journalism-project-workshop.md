@@ -11,8 +11,8 @@ categories:
 - Online Media
 tags:
 - Facebook
-- journalism training
-- training
+- Training
+- Training
 ---
 ![](/assets/wp-content/uploads/2018/09/facebook-journalism-project.webp)The Facebook Journalism Project  
 

@@ -15,7 +15,7 @@ categories:
 - Ramblings
 tags:
 - 9/11
-- new york
+- New York
 - photos
 ---
 A lot will be written and broadcast about [9/11](https://abcnews.go.com/US/photos/photos-remembering-911-148555/image-79823554) on its [20th anniversary](https://www.youtube.com/watch?v=se7YcZ-hQCw) on Saturday. Here are a few glimpses from my personal time machine.

@@ -12,7 +12,3 @@ categories:
 tags: []
 ---
 The [Newscoma](https://newscoma.wordpress.com/2007/12/22/new-website-for-open-meetings-laws/) points to a new Tennessee [Sunshine site](https://openmeetingslawtn.blogspot.com/).  
-  
-More Sunshine news in Tennessee:  
-  
-

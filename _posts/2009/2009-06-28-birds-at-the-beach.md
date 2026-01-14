@@ -13,7 +13,7 @@ tags:
 - chincoteague
 - photography
 - vacation
-- virginia
+- Virginia
 ---
 [![birds at Chincoteague](https://farm3.static.flickr.com/2551/3669624387_bf3c5dc7f0.jpg)](https://www.flickr.com/photos/jackdlail/3669624387/ "Birds at Chincoteague")  
   

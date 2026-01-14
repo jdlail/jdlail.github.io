@@ -13,7 +13,7 @@ image:
 categories:
 - Ramblings
 tags:
-- google
+- Google
 - networking
 ---
 A few weeks ago I decided to upgrade my aging, but rock solid Wi-Fi network.

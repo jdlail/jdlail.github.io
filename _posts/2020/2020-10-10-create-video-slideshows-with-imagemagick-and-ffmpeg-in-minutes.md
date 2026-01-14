@@ -12,7 +12,7 @@ image:
 categories:
 - Video
 tags:
-- ffmpeg
+- FFmpeg
 - ImageMagick
 - slideshow
 ---

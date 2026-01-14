@@ -10,9 +10,9 @@ pin: false
 categories:
 - Uncategorized
 tags:
-- open records
+- Open Records
 - TCOG
-- tennessee open records
+- Open Records
 ---
 <figure style="width: 300px" class="align-right">
 <img src="{{ 'https://www.gannett-cdn.com/media/2016/09/23/Knoxville/K0012365739--663771.JPG' | absolute_url }}" alt="Deborah Fisher">

@@ -10,8 +10,8 @@ pin: false
 categories:
 - Adversity is a mean teacher
 tags:
-- journalism
-- journalists
+- Journalism
+- Journalists
 ---
 What do journalists after newspapers and TV. [Journalism](https://politics.nashvillepost.com/2008/08/12/messing-with-texas-trent-seibert-leaves-think-tank-for-internet-startup/).
 

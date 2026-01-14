@@ -29,5 +29,3 @@ MTV's citizen journalism initiative is funded with a a $700,000 Knight News Chal
 I believe we will see the most innovative campaign coverage ever in this presidential cycle. We've already seen video questions from non-journalists in debates in the CNN/YouTube debates and various truth checkers, map mashups, Twittering candidates and other cool election tools. 2008 will definitely be the year of the Internet Election, but it will also herald the arrival of cell phone coverage.  
   
 This project's focus on citizen journalists delivering video dispatches for cell phones is doubly intriguing.  
-
-

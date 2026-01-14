@@ -14,4 +14,3 @@ tags: []
 [![122507xkcd.jpg](/images/122507xkcd.webp)](https://xkcd.com/361/)
 
 [xkcd comic](https://xkcd.com/361/)
-

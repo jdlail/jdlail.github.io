@@ -13,7 +13,7 @@ image:
 categories:
 - Tesla
 tags:
-- knoxville
+- Knoxville
 - supercharger
 ---
 _**UPDATE: This 250 kW supercharger recently became operational and should make supercharging in Knoxville a bit easier. The 150 kW supercharger in Turkey Creek was often full and with a line on weekends.**_

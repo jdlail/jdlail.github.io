@@ -17,7 +17,7 @@ categories:
 - Tesla
 tags:
 - Tesla
-- weather
+- Weather
 ---
 A winter storm this weekend is stretching from Arkansas through Tennessee into the Carolinas and moving in Virginia.
 

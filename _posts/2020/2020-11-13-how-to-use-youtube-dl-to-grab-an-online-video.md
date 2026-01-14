@@ -13,7 +13,7 @@ image:
 categories:
 - Video
 tags:
-- journalism training
+- Training
 ---
 **_Updated: Youtube-dl has not been updated in months, try using the actively maintained[yt-dlp](https://github.com/yt-dlp/yt-dlp). _**
 

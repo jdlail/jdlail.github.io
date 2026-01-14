@@ -13,7 +13,7 @@ image:
 categories:
 - Adversity is a mean teacher
 tags:
-- journalism jobs
+- Journalism jobs
 ---
 Media and news job cuts this year are expected to hit the lowest level since at least 2008, according to data from Challenger Gray & Christmas reported by the [Axios Media Trends newsletter](https://www.axios.com/newsletters/axios-media-trends-cd57a4ce-26bb-4c48-b459-21bf45e90312.html?chunk=3&utm_term=twsocialshare#story3).
 

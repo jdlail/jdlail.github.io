@@ -10,7 +10,7 @@ pin: false
 categories:
 - Ramblings
 tags:
-- journalists
+- Journalists
 - press freedom
 ---
 Check out the [Press Freedom Tracker](https://pressfreedomtracker.us/). Story [here](https://www.editorandpublisher.com/a-section/media-organizations-launch-u-s-press-freedom-tracker/).

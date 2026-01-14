@@ -10,7 +10,7 @@ pin: false
 categories:
 - Ramblings
 tags:
-- training
+- Training
 ---
 From the Tennessee Association of Broadcasters president Whit Adamson:
 

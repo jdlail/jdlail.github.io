@@ -20,5 +20,3 @@ Continuing a theme from a [Sunday post](/2007/12/your-writings-pretty-good-hows.
 [Yoni Greenbaum](https://www.yonigreenbaum.com/index.php/20071231/spread-the-wealth-and-share-the-data/) sees some value in at least enlightening writers about what is read:  "I think it’s important for desk editors and reporters to understand the habits of their online readers. Desk editors should know what stories play best online; this is not to say that you don't report some stories, but editors should understand of what plays best and where."  
   
 [Katie Allison Granju](https://knoxvilletalks.com/2007/12/30/we-online-scribes-live-or-die-by-our-ad-impressions/): "We online scribes live or die by our ad impressions."  
-  
-

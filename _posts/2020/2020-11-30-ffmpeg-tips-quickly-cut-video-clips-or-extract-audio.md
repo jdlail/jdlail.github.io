@@ -13,8 +13,8 @@ image:
 categories:
 - Video
 tags:
-- chromebook
-- journalism training
+- Chromebook
+- Training
 - video
 ---
 **_Updated: Additional code examples, resource links, some corrections._**

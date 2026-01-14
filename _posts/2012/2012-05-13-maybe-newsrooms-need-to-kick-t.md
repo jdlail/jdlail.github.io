@@ -19,7 +19,7 @@ One chapter of Duhigg's book deals with civil rights pioneer Rosa Parks' Dec. 1,
   
 In addition to social movements, Duhigg explores how habits -- good and bad -- affect companies and how some leaders have reprogrammed habits and reshaped culture within their companies. Surely, if habits can help create and sustain social movements and affect some of the nation's largest companies, they might have some use for transformating newspapers, who have floundered in adapting to change. So I saved for this blog one question and Duhigg's answer from the email.  
   
-Q: As a person in an industry -- newspapers -- undergoing great upheaval and transformation that is apparently lacking a [Paul O'Neill](https://www.businessweek.com/2001/01_06/b3718006.htm) or a [Howard Schultz](https://people.forbes.com/profile/howard-schultz/74304), are there lessons in what you learned about habits and successful companies that could or should be applied to newspapers?  
+Q: As a person in an industry -- Newspapers -- undergoing great upheaval and transformation that is apparently lacking a [Paul O'Neill](https://www.businessweek.com/2001/01_06/b3718006.htm) or a [Howard Schultz](https://people.forbes.com/profile/howard-schultz/74304), are there lessons in what you learned about habits and successful companies that could or should be applied to newspapers?  
   
 Duhigg: Newspapers have organizational habits built around the front page - that's how most newsrooms decide what is important, and it's how editors transmit signals to reporters. As more and more readers go online, we need to figure out how to create habits that respond to more segmented audiences, and news cycles that have varying durations.  
   

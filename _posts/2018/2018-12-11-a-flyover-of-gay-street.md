@@ -11,9 +11,9 @@ categories:
 - Video
 tags:
 - Google Earth
-- Google Earth Studio
 ---
 {% include youtube.html id="eytLvvscBIU" %}
+
 I'm experimenting with Google Earth Studio, the new web-based animation tool for Google Earth. I suspect it replaces the aging Google Earth Pro desktop program. It certainly appears more powerful.
 
 It''s awesome!
@@ -35,4 +35,3 @@ That command line string translates to 30 frames per second, starting with the i
 Resources:
 
 <https://trac.ffmpeg.org/wiki/Slideshow>
-

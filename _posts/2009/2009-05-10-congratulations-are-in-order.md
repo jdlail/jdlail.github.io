@@ -11,7 +11,7 @@ categories:
 - Newspapers
 - Online Media
 tags:
-- awards
+- Awards
 - contests
 - honors
 ---

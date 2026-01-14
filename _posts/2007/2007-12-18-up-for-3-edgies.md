@@ -40,5 +40,3 @@ Statesman.com (The Austin American-Statesman)
 E.W. Scripps has 11 finalists in all for Edgies.  
   
 Yes, the categories are still based on print circulation.  
-
-

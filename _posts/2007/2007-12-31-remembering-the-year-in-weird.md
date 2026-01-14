@@ -12,5 +12,3 @@ categories:
 tags: []
 ---
 My favorite list of  [Top 10 stories for 2007](https://www.knoxnews.com/news/2007/dec/31/top-5-weird-news-2007/). East Tennessee is certainly a contender for the title of "Home of the Weird Story."  
-
-

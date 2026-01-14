@@ -25,5 +25,3 @@ That's taking a logical law to its illogical end.
 Preposterous? Ask a few formerly naive [University of Tennessee students](https://www.knoxnews.com/search/?q=riaa&sortby=date&sources=site) about the recording industry's ball peen hammer tactics.  
   
 More from [Duncan Riley](https://www.techcrunch.com/2007/12/28/riaas-target-in-2008-you/) at TechCrunch.  
-
-

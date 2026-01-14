@@ -13,7 +13,7 @@ image:
 categories:
 - Ramblings
 tags:
-- etspj
+- ETSPJ
 - Tennessee Legislature
 ---
 The League of Women Voters of Knoxville/Knox County and the East Tennessee Society of Professional Journalists are holding a "Legislative Webinar" on Saturday at 10 a.m. to hear lawmakers talk about key issues that will be taken up by the Tennessee General Assembly this year.

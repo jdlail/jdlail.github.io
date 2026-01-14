@@ -12,10 +12,10 @@ image:
 categories:
 - Open Meetings/Open Records
 tags:
-- open records
-- sunshine
+- Open Records
+- Sunshine
 - TCOG
-- tennessee open records
+- Open Records
 ---
 [Sunshine Week](https://www.newsleaders.org/sunshine-week-about) is March 14-20 which highlights and celebrates access to public information and open government.
 

@@ -20,20 +20,29 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
+# -----------------------------
 # Home page pagination settings
+# -----------------------------
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 
 # -----------------------------
 # Theme Configuration
 # -----------------------------
+
+# -----------------------------
 # Skin options: /default, /dark, /solarized-light, /solarized-dark
+# -----------------------------
 skin: "/assets/css/skins/default.css"
 
+# -----------------------------
 # Layout basics
+# -----------------------------
 logo: # "/assets/images/my-logo.png" (Uncomment if you add a logo later)
 
+# -----------------------------
 # Author information
+# -----------------------------
 author:
   name: "Jack D. Lail"
   picture: /assets/author/jack-d-lail.webp
@@ -46,7 +55,9 @@ author:
       icon: fas fa-envelope
 
 
+# -----------------------------
 # footer links
+# -----------------------------
 footer_links:
   - title: Threads
     url: https://threads.com/@jacklail
@@ -64,16 +75,21 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
-
+# -----------------------------
 # Features
+# -----------------------------
 search: true
 read_time: true
 taxonomy: true # Enables tags and categories
 
+# -----------------------------
 # Google Analytics
+# -----------------------------
 google_analytics: "G-5P5WVKZK48"
 
+# -----------------------------
 # Social media links
+# -----------------------------
 social:
   name: Jack D. Lail"
   links:
@@ -83,6 +99,12 @@ social:
     - https://x.com/jacklail
     - https://github.com/jdlail
     - https://www.linkedin.com/in/jacklail/
+
+# -----------------------------
+# Taxonomy
+# -----------------------------
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # -----------------------------
 # Jekyll Settings

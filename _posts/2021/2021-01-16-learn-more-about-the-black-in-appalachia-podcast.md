@@ -13,10 +13,9 @@ image:
 categories:
 - Online Media
 tags:
-- etspj
-- podcast
+- ETSPJ
+- Podcasts
 ---
 Journalist and activist Angela Dennis and University of Tennessee sociologist and critical studies scholar Dr. Enkeshi El-Amin will talk about the [Black in Appalachia podcast](https://www.blackinappalachia.org/podcast) in a session for the East Tennessee Society of Professional Journalists on Feb. 2 at noon.
 
 Registration details for the one-hour Zoom event are on the [ETSPJ website](https://etspj.org/a-conversation-with-the-creators-of-black-in-appalachia/). It will be livestreamed on the [East Tennessee SPJ Facebook page](https://www.facebook.com/EastTNSPJ) as well with no pre-registration required.
-

@@ -11,7 +11,9 @@ categories:
 - Music
 tags: []
 ---
-One of my Christmas [music favs](https://www.blountviews.com/node/438) from Robert Earl Keen, who has described it as the Rocky Horror Picture Show of Christmas songs. The song has a [fairly extensive Wikipedia entry](https://en.wikipedia.org/wiki/Merry_Christmas_from_the_Family) for the curious.  
+One of my Christmas [music favs](https://www.blountviews.com/node/438) from Robert Earl Keen, who has described it as the Rocky Horror Picture Show of Christmas songs.
+
+The song has a [fairly extensive Wikipedia entry](https://en.wikipedia.org/wiki/Merry_Christmas_from_the_Family) for the curious.  
   
 _Mom got drunk and Dad got drunk at our Christmas party  
 We were drinking champagne punch and homemade eggnog  
@@ -56,6 +58,4 @@ A bag of lemons and some Diet Sprites
 A box of tampons, some Salem Lights  
 Haleluja, everybody say cheese  
 Merry Christmas from the Family  
-_  
-
-
+_

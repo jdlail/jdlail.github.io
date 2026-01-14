@@ -11,9 +11,9 @@ categories:
 - ETSPJ
 - Uncategorized
 tags:
-- journalism
-- journalism training
-- journalists
+- Journalism
+- Training
+- Journalists
 - Poynter
 ---
 If you're a journalist in East Tennessee, this is a "can't miss" event, a chance to attend a workshop led by Al Tompkins for free! (Make sure to RSVP.)

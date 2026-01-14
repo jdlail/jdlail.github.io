@@ -14,7 +14,7 @@ categories:
 - Ramblings
 - Video
 tags:
-- chromebook
+- Chromebook
 - Linux
 - photos
 - Tools

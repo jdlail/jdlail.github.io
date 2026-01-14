@@ -13,7 +13,7 @@ image:
 categories:
 - ETSPJ
 tags:
-- journalism awards
+- Awards
 ---
 Get you best work of 2020 recognized by entering the East Tennessee Society of Professional Journalists [Golden Press Card Awards](https://betternewspapercontest.com/2020-etspj).
 

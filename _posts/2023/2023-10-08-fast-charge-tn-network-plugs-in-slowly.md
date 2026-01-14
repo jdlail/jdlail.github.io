@@ -12,7 +12,6 @@ image:
 categories:
 - Tesla
 tags:
-- electric vehicle
 - EV
 - supercharger
 - Tesla
@@ -74,4 +73,3 @@ The opening of the Tesla network to drivers of other makes will also help overal
 ## 'Battery Belt' state can do better
 
 This need to most fast with it's "Fast 50" plan should be obvious to TVA and Tennessee, part of the emerging "[Battery Belt](https://www.axios.com/2022/08/17/electric-cars-vehicles-batteries-battery-belt-biden)" of the United States. I just don't see the energy being exerted that is needed to push this effort along.
-

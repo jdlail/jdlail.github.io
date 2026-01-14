@@ -10,9 +10,9 @@ pin: false
 categories:
 - Ramblings
 tags:
-- chromebook
+- Chromebook
 - Linux
-- pixelbook
+- Pixelbook
 ---
 ![My desk](/assets/wp-content/uploads/2018/10/my-desk.webp)
 My desk with the Pixelbook connected to a KVM switcher with a PC mouse, keyboard and 26 inch monitor. I can switch from a Windows 10 desktop to the Pixelbook.

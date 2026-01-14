@@ -11,7 +11,7 @@ categories:
 - Ramblings
 tags:
 - video
-- weather
+- Weather
 ---
 Just seven days ago, Knoxville was flooded by historic rainfall, more than five inches on in a day on top of 10 days of continuous rainy days. Here is what it looked like just outside my subdivision.
 

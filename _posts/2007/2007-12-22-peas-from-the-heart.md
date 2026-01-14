@@ -24,5 +24,3 @@ There's a Frozen Pea Friday flickr [group](https://www.flickr.com/groups/frozenp
 An interesting use and heartwarming use of Twitter. My best wishes to Susan Reynolds.  
   
 If you don't already, [follow me](https://twitter.com/jacklail) on Twitter.  
-  
-

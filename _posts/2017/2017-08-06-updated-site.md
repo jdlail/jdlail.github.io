@@ -11,7 +11,7 @@ categories:
 - Ramblings
 tags:
 - movable type
-- wordpress
+- Wordpress
 ---
 I overcame inertia and turned the lights out on my old Movable Type blog CMS and moved to Wordpress and SSL. Things went pretty well (it seems). ![](/assets/wp-content/uploads/2017/08/comodo_secure_seal_100x85_transp.webp)  
 

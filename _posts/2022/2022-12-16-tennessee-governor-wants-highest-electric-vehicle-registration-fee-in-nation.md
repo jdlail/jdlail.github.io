@@ -13,7 +13,7 @@ image:
 categories:
 - Tesla
 tags:
-- electric vehicle
+- EV
 - Tennessee Legislature
 - Tesla
 ---
@@ -58,4 +58,3 @@ Even using the state's average of a 22.4 mpg car, I would be paying close to a d
 I hope state lawmakers take a close look at the shortsightedness of [this plan](https://www.pcmag.com/news/tenn-governor-eyes-raising-electric-vehicle-fee-from-100-to-300-annually).
 
 _(Photo of Teslas at a SuperCharger is by Ed Uthman and is used under a Creative Commons license. Via[WikiMedia Commons](https://commons.wikimedia.org/wiki/File:Four_Tesla_Electric_Vehicles_Columbus_Texas_Supercharger_cropped_01.jpg).)_
-

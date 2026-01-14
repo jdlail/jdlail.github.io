@@ -13,7 +13,7 @@ image:
 categories:
 - Ramblings
 tags:
-- knoxville
+- Knoxville
 ---
 {% include youtube.html id="1HXdU0etNV0" %}
 With new census data just out for [Knoxville](https://www.wate.com/news/tn-census-2020-just-13-counties-have-a-population-larger-than-neyland-stadium/) and [Tennessee](https://news.utk.edu/2021/04/28/2020-census-data-shows-tennessee-population-topping-6-9-million/) ([_Explore_](https://mtgis-portal.geo.census.gov/arcgis/apps/MapSeries/index.html?appid=2566121a73de463995ed2b2fd7ff6eb7)), here's a fun look at how my Northshore Hills neighborhood has changed from 1959 to present using aerial imagery from the Knoxville, Knox County, Knoxville Utilities Board Geographic Information System, usually just called [KGIS](https://www.kgis.org/portal/AboutUs.aspx).

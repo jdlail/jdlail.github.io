@@ -14,7 +14,7 @@ image:
 categories:
 - Ramblings
 tags:
-- weather
+- Weather
 ---
 Today, two weeks after Hurricane Helene it is hard to comprehend the scope, scale, and fury of the storm that hit western North Carolina, East Tennessee, the Upstate in South Carolina and parts Georgia and Virginia.
 

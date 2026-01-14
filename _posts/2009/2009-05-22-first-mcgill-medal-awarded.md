@@ -10,9 +10,9 @@ pin: false
 categories:
 - Ramblings
 tags:
-- awards
-- journalism
-- uga
+- Awards
+- Journalism
+- UGA
 ---
 [![Jerry Mitchell](/assets_c/2009/05/AINTREPID_P1-thumb-150x99-462.webp)](/images/AINTREPID_P1.webp)You might have missed this. The University of Georgia awarded the first "[McGill Medal for Journalist Courage](https://www.grady.uga.edu/mcgill/news/mcgill09medalrelease.pdf)" on April 30 to Clarion-Ledger reporter Jerry Mitchell for his reporting that has put four Ku Klux Klansmen behind bars.  
   

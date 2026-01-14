@@ -10,7 +10,7 @@ pin: false
 categories:
 - Quotable
 tags:
-- journalsm
+- Journalism
 ---
 > "My mandate for news teams is that I want them to shoot every story like it's about their mother, brother, sister, father, and cousin. Tell it that way. That's the road to clarity, truth, understanding and fully becoming global."  
 >

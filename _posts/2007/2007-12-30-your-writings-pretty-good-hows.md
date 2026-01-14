@@ -26,4 +26,3 @@ Penelope Trunk; she'll do fine. For hundreds of other journalists, the value pla
 (One of my favorite blog posts by her is about the [origin of her name](https://blog.penelopetrunk.com/2007/03/05/my-name-is-not-really-penelope/), a "brand me" classic. Her Wikipedia [entry](https://en.wikipedia.org/wiki/Penelope_Trunk), however, is over the top caustic, describing her as an "American idiot," at least at the time of this writing.)  
   
 (via [Sparkwood and 21](https://www.brittneygilbert.com/2007/12/27/1458/))
-

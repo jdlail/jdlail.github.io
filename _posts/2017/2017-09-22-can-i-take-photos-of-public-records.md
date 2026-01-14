@@ -10,8 +10,8 @@ pin: false
 categories:
 - Ramblings
 tags:
-- open records
-- sunshine
+- Open Records
+- Sunshine
 ---
 Even Tennessee lawmakers sometimes tire of government open records silliness.
 

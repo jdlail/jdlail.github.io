@@ -12,10 +12,10 @@ image:
 categories:
 - Newspapers
 tags:
-- etspj
-- journalism
-- newspapers
-- spj
+- ETSPJ
+- Journalism
+- Newspapers
+- SPJ
 ---
 The East Tennessee Pro Chapter of the Society of Professional Journalists is holding [three events in September about Adolph Ochs'](https://etspj.org/three-september-events-to-honor-knoxville-journalism-history/) early years, when he lived in Knoxville. The last event will dedicate a historical plaque about [Ochs](https://www.nypl.org/sites/default/files/archivalcollections/pdf/ochs.pdf) on Market Square
 

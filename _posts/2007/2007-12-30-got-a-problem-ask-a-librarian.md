@@ -40,5 +40,3 @@ The problems were:
 The study was funded with a grant from a federal agency that supports libraries.  
   
 Somewhere, Ben Franklin is smiling.  
-
-

@@ -11,5 +11,4 @@ categories:
 - Ramblings
 tags: []
 ---
-﻿﻿﻿ From the [Google Earth Engine](https://earthengine.google.com/timelapse/).
-
+From the [Google Earth Engine](https://earthengine.google.com/timelapse/).

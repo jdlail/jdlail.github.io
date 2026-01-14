@@ -9,12 +9,10 @@ publish: true
 pin: false
 categories:
 - Newspapers
-tags: []
+tags: [APME]
 ---
 As part of its national Conference, Sept. 19-21 in Nashville, the Associated Press Media Editors is offering a special one-day rate of $35 for the Social Media Day on Friday, Sept. 21.  
   
 This is a great opportunity to hear some great panels and get some takeaways you can start using immediately.  
   
 It's open to line editors and top editors at newspapers, news directors at television stations or journalism educators. [APME President Bob Heisse has the details](https://apmeblog.blogspot.com/2012/08/35-one-day-rate-to-attend-social-media.html).  
-
-

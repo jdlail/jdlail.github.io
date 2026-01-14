@@ -13,5 +13,5 @@ tags: []
 ---
   
 [![iKill](https://images.onlinembaprograms.org.s3.amazonaws.com/ikill.jpg)](https://www.onlinembaprograms.org/ikill/)  
-Created by: [Online MBA Programs](https://www.onlinembaprograms.org/)
 
+Created by: [Online MBA Programs](https://www.onlinembaprograms.org/)

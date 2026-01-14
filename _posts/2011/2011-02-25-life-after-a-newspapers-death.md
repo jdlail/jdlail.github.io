@@ -17,6 +17,3 @@ tags: []
 >
 
 (Hat tip to Michael Apuan)  
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=bac02d68-40d6-4956-893a-d594d79f40ce)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

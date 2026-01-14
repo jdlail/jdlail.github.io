@@ -9,7 +9,7 @@ publish: true
 pin: false
 categories:
 - Carnival
-tags: []
+tags: [Training]
 ---
   
 My April [Carnival of Journalism](https://carnivalofjournalism.com/2012/04/20/april-carnival-of-journalism-show-your-video/) entry offers up training as my most dangerous idea for pushing the boundaries of journalism.  
@@ -17,8 +17,3 @@ My April [Carnival of Journalism](https://carnivalofjournalism.com/2012/04/20/ap
 A roundup of all the responses to "What is your most dangerous idea for pushing the boundaries of journalism" will be posted sometime afer April 30.  
   
 Do you find training as an odd choice?  
-  
-   
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=23a0a816-4a5d-4637-b1ca-c042aaeca7a0)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

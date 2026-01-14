@@ -9,7 +9,7 @@ publish: true
 pin: false
 categories:
 - Online Media
-tags: []
+tags: [Online Comments]
 ---
   
 Gawker Media mastermind [Nick Denton](https://www.businessinsider.com/gawker-and-nick-denton-on-nbc-2012-3) said Sunday at South by Southwest Interactive that he plans to institute a new commenting system on his family of sites within the next six weeks; one that still allows anonymous comments, but which makes commenters into moderators. On certain stories, the new system will only allow certain users to comment at all.  
@@ -84,4 +84,3 @@ That leaves coming up with something else. It's not like news organizations and 
 * [Redding.com tries gamification to improve comments - JackLail.com](/2011/08/reddingcom-tries-gamification-.html)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=39ced6dc-32b6-4dd2-8055-274c997075de)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

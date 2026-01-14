@@ -22,6 +22,3 @@ Scripps Networks Interactive owns HGTV, the Food Network and a suite of other vi
 Parizman told Rubel that the company had passed on putting a lot of resources into Google+, but did put resources into Pinterest after already seeing traffic from it.  
   
 Traffic from [Pinterest](https://www.pinterest.com/) is exceeding 1 million page views a month for Scripps Networks, the article said.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=33758365-3783-47dc-b4ef-4aaebd7cab59)](https://www.zemanta.com/?px "Enhanced by Zemanta")
-

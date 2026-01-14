@@ -10,7 +10,7 @@ pin: false
 categories:
 - Newspapers
 - Online Media
-tags: []
+tags: [APME]
 ---
 I'm getting excited about a great panel I'm moderating at the [Associated Press Media Editors](https://apme.com/) Conference in Nashville on Friday, Sept. 21, 2012. You remember rock super-groups? I think I've got a digital super-group for the panel.
 
@@ -37,4 +37,3 @@ Here's my super-group of panelists:
 Hey, we're in Nashville; we've got to have the music industry at the table. [Beverly Keel](https://www.linkedin.com/pub/beverly-keel/5/626/354) is Senior Vice President of Media & Artist Relations of [Universal Music Group Nashville](https://www.umgnashville.com/), where she is responsible for developing and implementing extensive media campaigns for the company's roster. Before joining UMG Nashville, Keel was an award-winning music journalist and pop culture commentator who covered the music industry for two decades, including a decade as the Nashville correspondent for People Magazine. She also was a  celebrity columnist for The Tennessean.
 
 Again, just a fabulous group. [Join us](https://www.apme.com/?page=2012Conference).
-

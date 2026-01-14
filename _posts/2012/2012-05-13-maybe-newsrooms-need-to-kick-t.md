@@ -24,6 +24,3 @@ Q: As a person in an industry -- Newspapers -- undergoing great upheaval and tra
 Duhigg: Newspapers have organizational habits built around the front page - that's how most newsrooms decide what is important, and it's how editors transmit signals to reporters. As more and more readers go online, we need to figure out how to create habits that respond to more segmented audiences, and news cycles that have varying durations.  
   
 _Top Photo: President Barack Obama sits on the famed Rosa Parks' bus at the Henry Ford Museum following an event in Dearborn, Mich., April 18, 2012. (Official White House Photo by Pete Souza)_  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=0e18be7e-863c-42df-b6cc-43cdd18a1ca2)](https://www.zemanta.com/?px "Enhanced by Zemanta")
-

@@ -14,8 +14,7 @@ tags: []
 ---
 [![Steve Buttry, director of community engagement](https://farm2.static.flickr.com/1384/5163460403_02585d89c7_m.jpg)](https://www.flickr.com/photos/16483298@N00/5163460403)
 
-Steve Buttry, director of community  
-engagement (Photo credit: Kevglobal)  
+Steve Buttry, director of community engagement (Photo credit: Kevglobal)  
 
 The Social Media Day at the Associated Press Media Editors Conference at the John Seigenthaler Center in Nashville turned out newsier than I had anticipated. It had the "time-suck" that went viral in the world of digital journos.  
   
@@ -54,6 +53,3 @@ Also, don't miss [Rex Hammock's post](https://www.yelvington.com/content/social-
   
 > Of course, that is a critical facet of what is taking place, however, there a many things that are huddled under the "social" umbrella that have nothing to do with "social": Here are a few: 1. Incredible new tools and channels that allow me to personally record, create and edit HD video, photography, audio, text and distribute them to a worldwide audience. It's something individuals can do in a very unsocial way, if they choose. I think the term "social media" is yet another term that helps legacy media view themselves as bastions of something unique and above the babble -- as if there is "mass media" and "the media of the masses."  
 >
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=2682ef76-9cb4-4e47-be94-c048c75fcdcb)](https://www.zemanta.com/?px "Enhanced by Zemanta")
-

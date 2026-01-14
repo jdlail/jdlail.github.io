@@ -9,9 +9,10 @@ publish: true
 pin: false
 categories:
 - Newspapers
-tags: []
+tags: [Journalism]
 ---
-[![John Seigenthaler News Service](/assets_c/2012/09/seigenthalernewsservice1000-thumb-485x362-2457.webp)](/images/seigenthalernewsservice1000.webp)  
+[![John Seigenthaler News Service](/assets_c/2012/09/seigenthalernewsservice1000-thumb-485x362-2457.webp)](/images/seigenthalernewsservice1000.webp)
+
 News organizations are busy transforming themselves as their traditional business models change, forcing hard decisions in newsrooms, but it has also provided the impetus for thinking above new ways of covering news.  
   
 A journalist who started working as a reporter some 55 odd years ago, helped come up with an innovative idea that was announced Wednesday night at the Associated Press Media Editors Conference by[officials from Middle Tennessee State University.](https://mtsunews.com/seigenthaler-scholars-2012/)  
@@ -29,5 +30,3 @@ As part of its support of the project, the federal court is providing a room for
 This looks to be a win-win all around. The students will get invaluable experience, course credits and clips. The newspaper will get additional content that will bolster their court coverage. Judges want the public to know about the court system's activities.  
   
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=979a8fa3-e870-4ce6-89e5-a5e0a72c2303)](https://www.zemanta.com/?px "Enhanced by Zemanta")
-
-

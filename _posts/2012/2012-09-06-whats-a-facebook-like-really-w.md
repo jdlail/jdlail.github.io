@@ -9,7 +9,7 @@ publish: true
 pin: false
 categories:
 - Online Media
-tags: []
+tags: [APME]
 ---
 The Social Media Day at the Associated Press Media Editors Conference in Nashville has one panel that will attempt to provide some answers to that question. It's a star-studded lineup of newspaper and TV digital pioneers, who have been innovators and ground-breakers as traditional media expanded into digital.  
   
@@ -30,5 +30,3 @@ Here's a look at the panelists.
 [![Jay Small](/images/jaysmall.webp)Jay Small](https://jaysmall.com/) is president of Informed Interactive, a division of Evening Post Publishing Co. that oversees interactive strategy and operations for Evening Post newspapers and Cordillera TV stations nationwide. The company's online properties include PostandCourier.com in Charleston, S.C., LEX18.com in Lexington, Ky., and KVOA.com in Tucson, Ariz. With 27 years in local media and 17 years in interactive leadership, Small previously held senior posts at The E.W. Scripps Co., Belo Corp., Thomson Consumer Electronics, The Indianapolis Star and Evantage Consulting. He has also served as an independent interactive strategy consultant, with clients including the American Press Institute, Newspaper Association of America, The National Post of Canada, The Santa Fe New Mexican, a global pharmaceuticals company and a regional financial institution.  
   
 [![Steve Yelvington](/images/steveyelvington.webp)Steve Yelvington](https://yelvington.com/) works with audience and content teams at the Morris Publishing Group newspapers across the United States, helping them grow both news and non-news audiences. A longtime newspaper journalist, Steve Yelvington was founding editor of Star Tribune Online in Minneapolis in 1994 and built it into one of the top-ranked newspaper sites in the world. As executive editor and network content director for Cox Interactive Media, he supervised a nationwide network of city sites. Yelvington has been a featured speaker at online news gatherings throughout the United States and Europe.  
-  
-

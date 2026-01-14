@@ -9,7 +9,7 @@ publish: true
 pin: false
 categories:
 - Online Media
-tags: []
+tags: [E.W. Scripps]
 ---
   
 Last week, [E.W. Scripps](https://www.scripps.com/) editors, website managers, and corporate interactive folks (among others) took a break from strategic planning in a windowless hotel conference room in Orlando to tour the [Kennedy Space Center](https://www.nasa.gov/centers/kennedy/home/index.html "Kennedy Space Center").  
@@ -21,6 +21,3 @@ As part of the site launch, there will be lots of live coverage on the site of t
 The video above, mostly shot with the camera in the iPhone, is from the tour.  
   
 Give the site a look. It's [www.spacetimesnews.com](https://www.spacetimesnews.com/) and if you have suggestions, let me know. I will pass them on. Part of the purpose of the site is to give a place to try out a few new things.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=4ce46233-a54e-4b54-a0b5-c3df875d9feb)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

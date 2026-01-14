@@ -15,6 +15,3 @@ I participated in the February Carnival of Journalism. Lots of good ideas/observ
   
 > We have almost 40+ responses to the broad question: "What can I do to increase the number of news sources?" Many of your sentiments overlapped, but each person brought a unique perspective to the mix. Several agreed that increasing news sources is a bad idea, and others championed it. That's what this carnival is for -- to dialogue and engage one another and the community at large.  
 >
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=1b18942b-e70a-44e6-8252-7aafd43d98a4)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

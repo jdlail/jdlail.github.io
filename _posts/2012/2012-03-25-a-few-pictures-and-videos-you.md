@@ -20,5 +20,3 @@ When the [Supreme Court](https://www.supremecourt.gov/ "Supreme Court of the Uni
 Several media organizations had petitioned the court for an exception to its customary ban on photos and videos given extraordinary interest. But no, the court said it would release audio and written transcripts within two hours of the hearings.  
   
 The case would have been a good opportunity to be a bit more open. In an age of Facebook status updates, Twitpics, and YouTube, justice seems blind to the times or technology.  
-
-

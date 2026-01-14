@@ -9,10 +9,12 @@ publish: true
 pin: false
 categories:
 - Uncategorized
-tags: []
+tags: [Facebook]
 ---
   
-[![Bouncer](/assets_c/2011/03/bouncers-thumb-250x239-624.webp)](/images/bouncers.webp)The introduction of the new Facebook comment plugin and the legal efforts to force the Indianapolis Star to disclose information it may have on anonymous commenters makes it a salient time to post an updated list of comments links.  
+[![Bouncer](/assets_c/2011/03/bouncers-thumb-250x239-624.webp)](/images/bouncers.webp)
+
+The introduction of the new Facebook comment plugin and the legal efforts to force the Indianapolis Star to disclose information it may have on anonymous commenters makes it a salient time to post an updated list of comments links.  
   
 These are part of a collection of links on delicious about [comments on websites](https://www.delicious.com/jacklail/comments), particularly news websites. I hope you find them helpful. There are also some previous posts on [comments](/cgi-bin/mt/mt-search.cgi?search=tag%3DComments&IncludeBlogs=25&limit=75)..  
   
@@ -43,7 +45,3 @@ These are part of a collection of links on delicious about [comments on websites
 * [Don't Feed the Trolls. No, Wait! Feed the Trolls. | The Atlantic Wire](https://www.theatlanticwire.com/features/view/feature/Dont-Feed-the-Trolls-No-Wait-Feed-the-Trolls-2656)
 
  _[(Photo from I Hate Bars.)](https://ihatebars.info/)_
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=98c9591c-cd70-44d6-92db-3a446c53a490)](https://www.zemanta.com/ "Enhanced by Zemanta")  
-  
-

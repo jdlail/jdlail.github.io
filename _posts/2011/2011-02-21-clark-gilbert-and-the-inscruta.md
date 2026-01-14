@@ -45,6 +45,3 @@ _
 * [Innovator's dilemma](https://www.boston.com/business/technology/articles/2011/02/15/as_much_as_innovation_led_to_ken_olsons_rise_it_also_was_what_led_to_his_fall/?rss_id=Top+Stories) (boston.com)
 * [What I don't get about Enterprises & Creative Disruption](https://treadaway.typepad.com/notice/2011/02/what-i-dont-get-about-enterprises-creative-disruption.html) (treadaway.typepad.com)
 * [Three Year-End Innovation Takeaways from Asia](https://blogs.hbr.org/anthony/2010/12/three_year-end_innovation_take.html) (blogs.hbr.org)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=45021103-f6d4-45ac-87bd-a75f4375d86f)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

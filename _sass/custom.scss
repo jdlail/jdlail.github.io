@@ -1,0 +1,13 @@
+/* updated or modified post date styling */
+.modified-text {
+    display: inline-block;
+    /* Keeps it neat */
+    margin-top: 0.2em;
+    /* Adds a tiny bit of space between the dates */
+    font-size: 0.85em;
+    /* 85% of the normal font size */
+    color: #888888;
+    /* Light gray */
+    font-style: italic;
+    /* Optional: often looks good for metadata */
+}

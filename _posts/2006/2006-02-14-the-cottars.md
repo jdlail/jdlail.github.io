@@ -11,7 +11,7 @@ categories:
 - Music
 tags: [Music]
 ---
-[![The Cottars, click to see larger image](/thecottars-thumb.jpg)](/thecottars.jpg) Wow, what an impressive sounding album from a pair of sisters and brothers from Cape Breton Island in Nova Scotia. I got their new album, _Forerunner_ , a few days ago and it's really nice. And it's the band's third.
+Wow, what an impressive sounding album from a pair of sisters and brothers from Cape Breton Island in Nova Scotia. I got their new album, _Forerunner_ , a few days ago and it's really nice. And it's the band's third.
 
 The first came out in 2002 and they seem to have been together since 2000. _Forerunner_ is their U.S. debut album. The Cottars are four teens: two girls 16 and two guys 18. Ciarán and Fiona MacGillivray are the children of Canadian author/composer, Allister MacGillivray. The other half of the group is Roseanne and Jimmy MacKenzie.
 

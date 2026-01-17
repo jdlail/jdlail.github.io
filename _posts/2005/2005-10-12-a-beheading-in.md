@@ -11,7 +11,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![main-1053770-651821.jpg](/images/archives/main-1053770-651821-thumb.webp)](/images/archives/main-1053770-651821.webp) Whew, what a mystery. ECU Baseball Coach Randy Mazey is axed by AD Terry Holland for unspecified reasons.
+Whew, what a mystery. ECU Baseball Coach Randy Mazey is axed by AD Terry Holland for unspecified reasons.
 
 > “We’re going to continue to go down that road where you’re going to ask me things that I’m forced to say ‘no comment’ on."
 

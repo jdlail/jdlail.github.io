@@ -8,11 +8,14 @@ last_modified_at: 2020-10-16 18:08:02 -0000
 publish: true
 pin: false
 categories:
-- ETSPJ
-- Open Meetings/Open Records
-tags: []
+- Access
+tags: [ETSPJ, Open Meetings, Open Records]
 ---
-![Deborah Fisher, executive director of the Tennessee Coalition for Open Government.](/assets/wp-content/uploads/2020/09/deborah-fisher.webp)Deborah Fisher, executive director of the Tennessee Coalition for Open Government
+
+<figure class="align-center">
+  <a href="#"><img src="{{ '/assets/wp-content/uploads/2020/09/deborah-fisher.webp' | relative_url }}" alt="Deborah Fisher, executive director of the Tennessee Coalition for Open Government." width="350"></a>
+  <figcaption>Deborah Fisher, executive director of the Tennessee Coalition for Open Government</figcaption>
+</figure>
 
 Join us on Wednesday for "Access in a pandemic – what journalists need to know!"
 
@@ -25,4 +28,3 @@ From the East Tennessee Society of Professional Journalists newsletter:
 Tennessee open meetings/open records expert Deborah Fisher will discuss access during a pandemic, which is changing what “public access” is for courts, government meetings and even press conferences. Fisher, executive director of the Tennessee Coalition for Open Government (TCOG), will bring us up to speed on what is happening across the state and what journalists should watch out for now.
 
 This event is presented by the East Tennessee and University of Tennessee Student chapters of the Society of Professional Journalists.
-

@@ -11,7 +11,11 @@ categories:
 - Ramblings
 tags: [Viral]
 ---
-[![The faces of Lex Luthor](/images/lexluthor.webp)](https://www.kryptonsite.com/columns042804.htm)Photo adapted from [kryptonsite.com](https://www.kryptonsite.com/columns042804.htm) [Jim Smith](https://cutter.wordpress.com/2006/12/31/yeah-that-sounds-about-right/) over at [WATE](https://www.wate.com/) noticed I, too, had taken the Super Heroes test and said: "What about the Super Villians" test.
+[![The faces of Lex Luthor](/images/lexluthor.webp)](https://www.kryptonsite.com/columns042804.htm)
+
+Photo adapted from [kryptonsite.com](https://www.kryptonsite.com/columns042804.htm)
+
+[Jim Smith](https://cutter.wordpress.com/2006/12/31/yeah-that-sounds-about-right/) over at [WATE](https://www.wate.com/) noticed I, too, had taken the Super Heroes test and said: "What about the Super Villians" test.
 
 Below are the results.
 

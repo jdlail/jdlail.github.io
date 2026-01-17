@@ -11,7 +11,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Dick Tracy Watch](/images/blog/dicktracywatch-thumb-150x158.webp)](/images/blog/dicktracywatch.webp)One of the delightful things about innovation and technology changes is seeing the unintended impacts. While delightful to find, they are vexing to predict.  
+One of the delightful things about innovation and technology changes is seeing the unintended impacts. While delightful to find, they are vexing to predict.  
   
 This is not a particularly new one, but I noticed it in an article today at [SignOnSanDiego](https://www.signonsandiego.com/news/metro/20080127-9999-1n27phone.html):  
   
@@ -36,4 +36,3 @@ Have you? Do you see examples of social and use patterns changing in an unplanne
   
 (via [Steve Rubel](https://twitter.com/steverubel))  
   
-

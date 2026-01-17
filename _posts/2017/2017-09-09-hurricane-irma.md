@@ -11,7 +11,6 @@ categories:
 - Ramblings
 tags:
 - Hurricane
-- Hurricane
 ---
- 
+
 ![Hurricane Irma](/assets/wp-content/uploads/2017/09/irmamap.webp "Hurricane Irma")

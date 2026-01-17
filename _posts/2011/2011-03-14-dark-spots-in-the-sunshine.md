@@ -8,8 +8,8 @@ last_modified_at: 2011-03-14 17:37:30 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: [Sunshine]
+- Access
+tags: [Sunshine, Open Records]
 ---
 [![Black Spot](/assets_c/2011/03/blackspot-thumb-218x256-626.webp)](/images/blackspot.webp)
 

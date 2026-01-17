@@ -11,7 +11,9 @@ categories:
 - Music
 tags: [Music]
 ---
-[![burnsideonburnside.jpg](/images/burnsideonburnside-thumb.webp)](/images/burnsideonburnside.webp) I recently bought a couple R.L. Burnside CDs: "Burnside on Burnside" and "Wish I was in Heaven Sitting Down." Of the two, I like "Burnside on Burnside" the best.
+[![burnsideonburnside.jpg](/images/burnsideonburnside-thumb.webp)](/images/burnsideonburnside.webp)
+
+I recently bought a couple R.L. Burnside CDs: "Burnside on Burnside" and "Wish I was in Heaven Sitting Down." Of the two, I like "Burnside on Burnside" the best.
 
 It's a live concert recorded in January 2001 in San Francisco and Portland, Ore.  It's got that raw North Mississippi hill country blues style with "adopted" son Kenny Brown on guitar and Burnside's grandson Cedric on drums,
 

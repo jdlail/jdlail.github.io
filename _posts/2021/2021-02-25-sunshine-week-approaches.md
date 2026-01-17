@@ -10,18 +10,17 @@ pin: false
 image:
   path: /assets/wp-content/uploads/2021/02/sunshineweeksmallESTweb.webp
 categories:
-- Open Meetings/Open Records
+- Access
 tags:
-- Open Records
 - Sunshine
 - TCOG
-- Open Records
+- Open Meetings/Open Records
 ---
 [Sunshine Week](https://www.newsleaders.org/sunshine-week-about) is March 14-20 which highlights and celebrates access to public information and open government.
 
 The best source of information on public records and public access in Tennessee is the [Tennessee Coalition for Open Government](https://tcog.info/) (typically just called "TCOG").
 
-{% include twitter.html url="https://twitter.com/SunshineWeek/status/1360295815554748418" %}
+{% include twitter.html url="<https://twitter.com/SunshineWeek/status/1360295815554748418>" %}
 Sunshine Week is a project of the [News Leaders Association](https://www.newsleaders.org/).
 
 There are a lot of issues, including [this one](https://www.knoxnews.com/story/opinion/columnists/2021/01/04/knox-county-taxpayers-hook-appeal-open-records-case/4097595001/) locally.
@@ -31,4 +30,3 @@ There are a lot of issues, including [this one](https://www.knoxnews.com/story/o
 > Supreme Court Justice [Louis Brandeis](https://www.brandeis.edu/about/louis-brandeis.html)
 
 And Brandeis is said to have gotten the sunshine idea from [James Bruce](https://aroberts.us/2015/03/01/where-brandeis-got-sunlight-is-the-best-disinfectant/).
-

@@ -18,7 +18,10 @@ tags:
 ---
 Here's a photo of "a bench for Taylor Swift," one of the odder features of the popular Centennial Park in Nashville.
 
-![Plaque on Taylor Swift bench](/assets/wp-content/uploads/2024/04/2024-04-03_15_33_59_IMG_2285-cropped.webp)Plaque on Taylor Swift bench which was dedicated by the City of Nashville in May 2023.
+<figure class="align-center">
+  <a href="#"><img src="{{ '/assets/wp-content/uploads/2024/04/2024-04-03_15_33_59_IMG_2285-cropped.webp' | relative_url }}" alt="Plaque on Taylor Swift bench"></a>
+  <figcaption>Plaque on Taylor Swift bench which was dedicated by the City of Nashville in May 2023.</figcaption>
+</figure>
 
 The bench was [unveiled a year ago](https://www.wsmv.com/2023/05/05/nashville-dedicates-bench-taylor-swift-centennial-park/) by then-Mayor John Cooper just before her "Eras" tour shows in Bridgestone Arena.
 
@@ -31,4 +34,3 @@ The [bench plaque is a reference to the lyric](https://www.billboard.com/music/m
 Nice setting, though.
 
 ![A bench for Taylor Swift](/assets/wp-content/uploads/2024/04/2024-04-03_15_33_59_IMG_2285.webp)
-

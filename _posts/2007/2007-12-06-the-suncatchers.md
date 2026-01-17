@@ -11,7 +11,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Sausage](/images/blog/sausage-thumb-150x112.webp)](https://www.ntscblog.com/2008/12/sausage-is-better-than-politics.html)Joe Lance of "the pulse" in Chattanooga has a [good opinion piece](https://www.chattanoogapulse.com/vnews/display.v/ART/2007/12/05/4755c20c5ccae) on the Sunshine law "reform" called "A Quorum, a Forum, or a Threesum?"  
+Joe Lance of "the pulse" in Chattanooga has a [good opinion piece](https://www.chattanoogapulse.com/vnews/display.v/ART/2007/12/05/4755c20c5ccae) on the Sunshine law "reform" called "A Quorum, a Forum, or a Threesum?"  
   
 Lance is one of many disturbed by a state legislative committee's Sunshine Sausage.  
   

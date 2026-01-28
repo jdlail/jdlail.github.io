@@ -41,14 +41,42 @@ Allow: /*
 User-agent: Blekkobot
 Crawl-delay: 5
 
-
 User-agent: magpie-crawler
 Disallow: /
 
 User-agent: Acoon
 Disallow: /
 
-user-agent: AhrefsBot
+User-agent: AhrefsBot
 disallow: /
 
-	
+User-agent: Amazonbot
+disallow: /
+
+User-agent: anthropic-ai
+disallow: /
+
+User-agent: Applebot
+disallow: /
+
+User-agent: AwarioRssBot
+disallow: /
+
+User-agent: AwarioSmartBot
+disallow: /
+
+User-agent: Bytespider
+disallow: /
+
+User-agent: CCBot
+disallow: /
+
+User-agent: ChatGPT
+disallow: /
+
+User-agent: ChatGPT-User
+disallow: /
+
+User-agent: MJ12bot
+disallow: /
+

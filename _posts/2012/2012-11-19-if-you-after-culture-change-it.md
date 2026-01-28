@@ -8,10 +8,12 @@ last_modified_at: 2012-11-19 21:53:39 -0000
 publish: true
 pin: false
 categories:
-- Uncategorized
-tags: []
+- Sports
+tags: [Culture]
 ---
-[![James Franklin](/assets_c/2012/11/jamesfranklin-thumb-250x186-2467.webp)](/images/jamesfranklin.webp)Anybody that has ever been involved in a culture change or newsroom transformation effort has got to appreciate what Vanderbilt University football coach James Franklin has accomplished.
+[![James Franklin](/assets_c/2012/11/jamesfranklin-thumb-250x186-2467.webp)](/images/jamesfranklin.webp)
+
+Anybody that has ever been involved in a culture change or newsroom transformation effort has got to appreciate what Vanderbilt University football coach James Franklin has accomplished.
 
 He has more wins in his two years at the prestigious private university in Nashville than any [Vanderbilt coach since 1904-05](https://www.govolsxtra.com/news/2012/nov/19/franklins-wins-most-by-vandy-coach-since-1904-05/).
 
@@ -48,6 +50,3 @@ I wouldn't tell Franklin that. He's coaching in the toughest college football co
 We could use a few more "sky-is-the-limit" emotional psychos like James Franklin in our newsrooms, don't you think?
 
 _(Vanderbilt University photo of James Franklin.)_
-
-__
-

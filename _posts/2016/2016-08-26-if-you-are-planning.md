@@ -8,8 +8,9 @@ last_modified_at: 2016-08-26 06:46:12 -0000
 publish: true
 pin: false
 categories:
-- Uncategorized
-tags: []
+- Journalism
+- Tennessee
+tags: [Training, APME]
 ---
 ![doubletree-inn-murfreesboro.jpg](/images/doubletree-inn-murfreesboro.webp)
 
@@ -22,4 +23,3 @@ The hotel at 1850 Old Fort Parkway operates a free shuttle within a five-mile ra
 Need info on thew NewsTrain? Go here [bit.ly/MurfreesboroNewsTrain](https://bit.ly/MurfreesboroNewsTrain).
 
 NewsTrain is a premier journalism training program of the [Associated Press Media Editors](https://www.apme.com).
-

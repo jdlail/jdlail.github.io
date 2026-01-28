@@ -31,7 +31,4 @@ My most read blog posts during 2011 include only three written in 2011. [Long ta
   
 [First Amendment found damaged in storm cleanup (2011)](/2011/05/first-amendemnt-found-damaged-.html)  
   
-[In Washington, a half-effort on open government will get you an award (2011)](/2011/03/in-washington-a-half-effort-on.html)  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=c6e62579-6f5c-4a66-b569-68d07d7ab903)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
+[In Washington, a half-effort on open government will get you an award (2011)](/2011/03/in-washington-a-half-effort-on.html)

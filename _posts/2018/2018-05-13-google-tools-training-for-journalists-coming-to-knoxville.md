@@ -8,16 +8,18 @@ last_modified_at: 2018-05-14 00:38:42 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-- Uncategorized
+- Media
 tags:
 - ETSPJ
 - Google
 - Training
 - SPJ
-- SPJ
 ---
-[caption id="attachment_2088" align="alignnone" width="525"]![SPJ Training Program in association with Google News Initiative](/assets/wp-content/uploads/2018/05/SPJGNL_Logo2_highres.webp) SPJ Training Program in association with Google News Initiative[/caption] Don’t miss an upcoming free training opportunity in Knoxville for journalists. The [East Tennessee chapter of the Society of Professional Journalists](https://etspj.org/event/google-news-lab-training/?instance_id=106) is bringing SPJ’s Google Tools training to town on Saturday, June 2.
+![SPJ Training Program in association with Google News Initiative](/assets/wp-content/uploads/2018/05/SPJGNL_Logo2_highres.webp)
+
+_(SPJ Training Program in association with Google News Initiative)_
+
+Don’t miss an upcoming free training opportunity in Knoxville for journalists. The [East Tennessee chapter of the Society of Professional Journalists](https://etspj.org/event/google-news-lab-training/?instance_id=106) is bringing SPJ’s Google Tools training to town on Saturday, June 2.
 
 The four-hour session begins at 10 a.m. at the [Scripps Lab](https://www.google.com/maps/place/Scripps+Lab+Communications+Bldg./@35.9534119,-83.9282013,17z/data=!3m1!4b1!4m5!3m4!1s0x885c17e6b84c478b:0xb1464d96a9b6f1f0!8m2!3d35.9534119!4d-83.9260126), 1345 Circle Park Drive, on the University of Tennessee campus. While free, registration is required. Sign up here: <https://bit.ly/2IJ1cCR> Participants need to bring a laptop and phone to the session.
 

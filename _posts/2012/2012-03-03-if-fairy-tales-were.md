@@ -16,7 +16,4 @@ tags: []
   
 If fairy tales were news stories, they'd be a whole lot messier.  
   
-And, oh yeah, ths is a great ad. (via [Techdirt](https://www.techdirt.com/articles/20120301/14360117934/this-little-piggy-went-viral.shtml#comments))  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=8ed62ac9-1aac-413e-9ea8-2997df72ec94)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
+And, oh yeah, ths is a great ad. (via [Techdirt](https://www.techdirt.com/articles/20120301/14360117934/this-little-piggy-went-viral.shtml#comments))

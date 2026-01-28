@@ -9,7 +9,7 @@ publish: true
 pin: false
 categories:
 - Music
-tags: [Music]
+tags: []
 ---
 Wow, what an impressive sounding album from a pair of sisters and brothers from Cape Breton Island in Nova Scotia. I got their new album, _Forerunner_ , a few days ago and it's really nice. And it's the band's third.
 

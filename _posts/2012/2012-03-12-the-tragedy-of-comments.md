@@ -8,7 +8,7 @@ last_modified_at: 2012-03-12 15:46:35 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [Online Comments]
 ---
   
@@ -82,5 +82,3 @@ That leaves coming up with something else. It's not like news organizations and 
 * [South Korea's](https://arstechnica.com/tech-policy/news/2011/08/what-south-korea-can-teach-us-about-online-anonymity.ars)
 * [Anonymous D](https://www.democratandchronicle.com/article/20110806/NEWS01/108060315)
 * [Redding.com tries gamification to improve comments - JackLail.com](/2011/08/reddingcom-tries-gamification-.html)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=39ced6dc-32b6-4dd2-8055-274c997075de)](https://www.zemanta.com/ "Enhanced by Zemanta")

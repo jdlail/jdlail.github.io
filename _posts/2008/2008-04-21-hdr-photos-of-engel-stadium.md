@@ -9,11 +9,9 @@ publish: true
 pin: false
 categories:
 - Family
-tags: []
+tags: [Photography]
 ---
-[![Game Photo](/images/blog/HDR_engelgame_115_113_114-thumb-480x319.webp)](/images/blog/HDR_engelgame_115_113_114.webp)  
+
 Following up on my [Saturday post](/2008/04/sitting-in-baseball-history.html), I took some [HDR](https://en.wikipedia.org/wiki/High_dynamic_range_imaging) photos Sunday on Historic Engel Stadium in Chattanooga. My guess is rather than being restored, this baseball park will bulldozed at some point. The Bearden High School baseball team was playing in a tournament that was using the stadium as one of its playing sites.  
-  
-This is a game photo. See the HDR photos of the stadium [here](https://www.flickr.com/photos/jackdlail/tags/engelstadium/). All but this one was taken before the game. A couple of them were taken from the catwalk beside the pressbox atop the stadium.  
 
-
+This is a game photo. See the [HDR photos](https://www.flickr.com/photos/jackdlail/tags/engelstadium/) of the stadium. All but this one was taken before the game. A couple of them were taken from the catwalk beside the pressbox atop the stadium.  

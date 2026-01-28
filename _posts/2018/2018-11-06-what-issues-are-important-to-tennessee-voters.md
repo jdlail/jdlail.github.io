@@ -8,10 +8,9 @@ last_modified_at: 2019-01-13 16:53:42 -0000
 publish: true
 pin: false
 categories:
-- Uncategorized
-tags: []
+- Tennessee
+tags: [Elections]
 ---
 This is an interactive chart that will update. Click on a county to get county level trends. (Sorry, this embed doesn't seem to work anymore because it's not [AMP compliant](https://www.ampproject.org/). I've substituted a static image.)
 
 ![Top issues in the 2018 mid-term elections.](/assets/wp-content/uploads/2019/01/voting-issues-2018-midterms.webp)
-

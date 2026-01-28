@@ -27,6 +27,4 @@ The students will be directed by Pulitzer prize-winning journalism professor Wen
   
 As part of its support of the project, the federal court is providing a room for the students to work out of. In addition to the District Court, the students will cover the U.S. Attorney's office, the FBI, DEA, ATF and other federal law enforcement and court-related agencies.  
   
-This looks to be a win-win all around. The students will get invaluable experience, course credits and clips. The newspaper will get additional content that will bolster their court coverage. Judges want the public to know about the court system's activities.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=979a8fa3-e870-4ce6-89e5-a5e0a72c2303)](https://www.zemanta.com/?px "Enhanced by Zemanta")
+This looks to be a win-win all around. The students will get invaluable experience, course credits and clips. The newspaper will get additional content that will bolster their court coverage. Judges want the public to know about the court system's activities.

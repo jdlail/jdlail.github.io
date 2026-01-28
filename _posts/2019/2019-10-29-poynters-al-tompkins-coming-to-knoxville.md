@@ -9,7 +9,6 @@ publish: true
 pin: false
 categories:
 - ETSPJ
-- Uncategorized
 tags:
 - Journalism
 - Training
@@ -21,4 +20,3 @@ If you're a journalist in East Tennessee, this is a "can't miss" event, a chance
 There is also a community event featuring Tompkins on Friday evening, Nov. 8. This will be another great event.
 
 ![](/assets/wp-content/uploads/2019/10/al-tompkins-knoxville.webp)Al Tompkins in Knoxville on Nov. 8 and 9.
-

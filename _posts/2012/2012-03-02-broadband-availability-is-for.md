@@ -18,6 +18,3 @@ Use [this map to verify what's available](https://www.connectedtn.org/mapping/_i
 The good news: 95 percent of Tennessee hosueholds have broadband available. The bad news: 110,000 rural households are completely unserved.  
   
 Details on [how Connected Tennessee came up with its stats](https://www.connectedtn.org/mapping/faqs).  
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=c230b0e0-e46d-4425-ace3-31a7414c95af)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

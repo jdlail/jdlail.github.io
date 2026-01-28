@@ -30,7 +30,7 @@ AR is getting there.
   
 Just in recent days come reports that Google will begin marketing [Google Goggles](https://www.nytimes.com/2012/02/23/technology/google-glasses-will-be-powered-by-android.html) later this year. Talk about geeky glasses, these are [said to look like Oakley Thumps](https://www.mediabistro.com/10000words/google-glasses-augmented-reality-dystopian-horror-goggles-smartphone_b11178), run the Android operating system and be much like smartphones with GPS sensors, 4G cell service and inputs/outputs for video and audio.  
   
-At the prestigious Sundance Film Festival toward the end of last month, documentary "[Hunger in L.A.](https://filmguide.sundance.org/film/120006/hunger_in_los_angeles)" from former Newsweek correspondent [Nonny de la Pe�a](https://blog.uscannenberg.org/?p=3024) got a lot of [attention as an immersive piece](https://www.huffingtonpost.com/2012/01/30/hunger-in-los-angeles_n_1241468.html#s648722) that went beyond just showcasing gee-whiz technology and actually told a compelling story.  
+At the prestigious Sundance Film Festival toward the end of last month, documentary "[Hunger in L.A.](https://filmguide.sundance.org/film/120006/hunger_in_los_angeles)" from former Newsweek correspondent [Nonny de la Pea](https://blog.uscannenberg.org/?p=3024) got a lot of [attention as an immersive piece](https://www.huffingtonpost.com/2012/01/30/hunger-in-los-angeles_n_1241468.html#s648722) that went beyond just showcasing gee-whiz technology and actually told a compelling story.  
   
 Georgia Tech has been doing a lot of work around its [Argon augmented reality browser](https://argon.gatech.edu/)and software that let content creators instead of programmers create AR presentations.  
   
@@ -40,7 +40,4 @@ Some could say, and some will undoubtedly say, news organizations have been [exp
   
 Now, however, trends and technologies are converging. Powerful smartphones can run easy to use AR software. Consumer products like the forthcoming Google Goggles are coming. Content creation tools are available that don't require a team of hackers. Coupled with open standards, this segment is poised to redefine what is "a story."  
   
-Watch for the signs!  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=78fb4fbe-df2d-45b3-aa68-20eeddadbcb1)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
+Watch for the signs!

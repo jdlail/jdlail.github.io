@@ -8,8 +8,8 @@ last_modified_at: 2011-10-18 14:31:48 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- Media
+tags: [Journalists]
 ---
   
 Is MSNBC's [Dylan Ratigan](https://en.wikipedia.org/wiki/Dylan_Ratigan) Occupy Wall Street's [Rick Santelli](https://en.wikipedia.org/wiki/Rick_Santelli)?  
@@ -26,13 +26,10 @@ Like Santelli, Ratigan seems to articulate the rage and frustration of the grass
   
 In both cases, it is an odd role for journalist as observer.  
   
-###### Related articles
+## Related articles
 
 * [Dylan Ratigan: One Wave, One Message - Restore Fairness. End Bought Government](https://stevenspielbergpleasereadthis.com/2011/10/07/dylan-ratigan-one-wave-one-message-restore-fairness-end-bought-government/) (stevenspielbergpleasereadthis.com)
 * [Dylan Ratigan's Campaign Finance Reform Push](https://www.huffingtonpost.com/2011/10/12/dylan-ratigan-occupies-wall-street_n_1007023.html) (huffingtonpost.com)
 * [Rush Limbaugh Bashes Romney, Obama, Occupy Wall Street, And Dylan Ratigan](https://www.mediaite.com/online/rush-limbaugh-bashes-romney-obama-occupy-wall-street-and-dylan-ratigan/) (mediaite.com)
 * [Media Shill For OWS...](https://gunnyg.wordpress.com/2011/10/17/media-shill-for-ows/) (gunnyg.wordpress.com)
 * [Media Decoder Blog: Coverage Grows for Wall Street Protest](https://r.zemanta.com/?u=http%3A//mediadecoder.blogs.nytimes.com/2011/10/05/coverage-grows-for-wall-street-protest/&a=57262175&rid=00f53f20-2c06-4ac7-929c-6ca2d9e0a335&e=2df10ea9908b3d4649bdf6ff9de3579f) (mediadecoder.blogs.nytimes.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=00f53f20-2c06-4ac7-929c-6ca2d9e0a335)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

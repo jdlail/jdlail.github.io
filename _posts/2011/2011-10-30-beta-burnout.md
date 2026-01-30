@@ -62,6 +62,3 @@ If it is really something that the organization needs to accomplish a goal, then
 Give that a test, it works.  
   
 ([Photo by Moyan Brenn](https://www.flickr.com/photos/aigle_dore/4178265189/))  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=bad80604-7ec4-4ce8-93c1-7bada5d750f8)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

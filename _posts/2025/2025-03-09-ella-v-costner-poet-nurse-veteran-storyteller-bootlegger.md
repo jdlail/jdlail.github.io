@@ -62,7 +62,7 @@ Spring 1933: Ella opens The White Rock Inn in Cosby and becomes known for bootle
 
 August 1933: Ella is raided for alcohol at The White Rock Inn, but shrewdly escapes arrest. She closes the inn after the season.
 
-November 15, 1933: Ella's brother, Isaac "Ike" Costner, participates in a mail truck robbery in Charlotte. The robbery, sometimes referred to Charlotte's "[Crime of the Century,](https://www.ourstate.com/charlotte-gangsters/)" netted over $100,000 and was carried out by members of the notorious "Touhy Gang" of Chicago, headed by [Roger "The Terrible" Touhy](https://www.dncr.nc.gov/blog/2016/11/15/charlotte-heist-foiled-1933), a rival of Frank Nitti and the Chicago Outfit.
+November 15, 1933: Ella's brother, Isaac "Ike" Costner, participates in a [mail truck robbery]({% post_url 2026/2026-01-30-crime-of-century-loot-mystery-after-92-years %}) in Charlotte. The robbery, sometimes referred to Charlotte's "[Crime of the Century,](https://www.ourstate.com/charlotte-gangsters/)" netted over $100,000 and was carried out by members of the notorious "Touhy Gang" of Chicago, headed by [Roger "The Terrible" Touhy](https://www.dncr.nc.gov/blog/2016/11/15/charlotte-heist-foiled-1933), a rival of Frank Nitti and the Chicago Outfit.
 
 1934: Ella visits the Mecklenburg County jail in Charlotte to visit the then pregnant [Mae Blalock](https://avax.news/pictures/98028) of Knoxville, girlfriend of one of the men arrested in the mail truck robbery ([Basil "The Owl" Banghart](https://web.archive.org/web/20101016142919/http://americanmafia.com/Feature_Articles_175.html)) and who herself was arrested in Baltimore during the investigation. Blalock was just days away from her expected due date.
 
@@ -135,4 +135,3 @@ The timeline of her life is drawn from these sources.
 * "Smokies' Poet Laureate, Ella V. Costner, 88, Dies." The Knoxville News Sentinel, 13 July 1982, page 18
 
 (The Gosmokies site is transitioning to this [Facebook group](https://www.facebook.com/groups/3958262757743924).)
-

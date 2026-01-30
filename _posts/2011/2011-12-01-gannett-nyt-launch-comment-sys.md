@@ -8,8 +8,8 @@ last_modified_at: 2011-12-01 08:39:44 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
-tags: []
+- Media
+tags: [Mewspapers]
 ---
 Gannett Corp. and the New York Times have rolled out changes to comments on their web sites. Gannett, which had been piloting using Facebook comments (a Facebook account is required to comment), is switching all newspaper.com sites to it. The New York Times unveiled a "trusted commenter" system.  
   
@@ -42,6 +42,3 @@ Here are the latest links I've tagged in my Delicious [comments collection](http
 * [On Pseudonymity, Privacy and Responsibility on Google+ - TechnoSocial](https://www.marrowbones.com/commons/technosocial/2011/07/on_pseudonymity_privacy_and_re.html)
 * [danah boyd | apophenia](https://www.zephoria.org/thoughts/)
 * [Caterina.net» Blog Archive » Anonymity and Pseudonyms in Social Software](https://caterina.net/wp-archives/88)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=91c25ba2-1f49-4c7b-979c-2ff9930f236a)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

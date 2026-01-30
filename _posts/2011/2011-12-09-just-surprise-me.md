@@ -46,7 +46,3 @@ And, oh yes, you don't have to wait until Christmas. Anytime is just fine.
 I think you will find the other [Carnival wish lists somewhere around here](https://www.guardian.co.uk/info/developer-blog/2011/nov/24/carnival-of-journalism) within a few days.  
   
 _(The box of chocolates is from[Blackberry Creek Confections](https://www.blackberrycreekconfections.com/default.aspx).)_  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=294a8ea6-a9e4-4837-8c05-4d53a374becb)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
-

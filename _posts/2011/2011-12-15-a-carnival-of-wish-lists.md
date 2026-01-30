@@ -26,6 +26,3 @@ My offering was called [Just Surprise Me](/2011/12/just-surprise-me.html) and is
 > _And, correspondingly, if you are a programmer or developer, what would be the best present from journalism that Father Christmas could deliver down your chimney?_
 
 Check them out; some excellent reads.
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=ddb36f86-dc52-4818-b394-5f366caecd47)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

@@ -21,6 +21,3 @@ I liked that the projects were in general designed to improve people's daily liv
 The "Mark Your Territory" project by Andrew Ouitmeyer was one of the funniest and he enthusiastically explains it.  
   
 Hey, it's another thing you and the dog can do together.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=da352337-256b-44e0-a853-292cf74cc746)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

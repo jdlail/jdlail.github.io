@@ -8,8 +8,8 @@ last_modified_at: 2011-11-07 13:22:12 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Media
+tags: [Scripps]
 ---
 [![FLDemocracy2012.com](/assets_c/2011/11/FLDemocracy2012-thumb-458x106-657.webp)](/images/FLDemocracy2012.webp)  
   
@@ -22,6 +22,3 @@ The new site is called [FLDemocracy2012.com](https://www.fldemocracy2012.com/). 
 As usual, Florida is expected to be a pivotal state in the presidential campaign. A dedicated online producer will be in place for the site by early next year.  
   
 (Disclosure department: I work for an E.W. Scripps newspaper.)  
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=716b5954-0097-4036-8b72-506103aa73ac)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

@@ -16,11 +16,8 @@ Nashville Scene reporter Jonathan Meador "covers" [his own arrest during Occupy 
   
 More coverage:  
 
-###### Related articles
+## Related articles
 
 * [Journalist Uses Flip Camera To Document Own Arrest](https://www.pixiq.com/article/journalist-uses-flip-camera-to-document-own-arrest) (pixiq.com)
 * [No Curfews OWS !!!](https://2012patriot.wordpress.com/2011/10/30/no-curfew-ows/) (2012patriot.wordpress.com)
 * [Nashville Judge Tells Cops "You Have NO Lawful Basis To Arrest Occupy Protesters!"](https://occupycyberspace.wordpress.com/2011/10/30/nashville-judge-tells-cops-you-have-no-lawful-basis-to-arrest-occupy-protesters/) (occupycyberspace.wordpress.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=6fbbe73a-f382-4bbb-b024-0d6303acda46)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

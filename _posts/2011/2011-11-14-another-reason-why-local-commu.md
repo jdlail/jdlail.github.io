@@ -8,8 +8,8 @@ last_modified_at: 2011-11-14 15:06:42 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
-tags: []
+- Media
+tags: [Newspapers]
 ---
 The Knoxville News Sentinel, my employer, has [filed suit to unseal a secret file](https://www.knoxnews.com/news/2011/nov/11/news-sentinel-seeks-to-open-records-in-carjack/) being used by defense attorneys in efforts to overturn convictions in the brutal torture and murders of a young couple in 2007. Evidence presented in the trials outaged the community.  
   
@@ -35,6 +35,3 @@ Or as [McElroy said in his Sunday column](https://www.knoxnews.com/news/2011/nov
   
 > "There are times when a newspaper has no choice but to fight to force the government to conduct its business in public."  
 >
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=1ce8ec0b-05ea-43b9-bbf8-1aafc8f9561e)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

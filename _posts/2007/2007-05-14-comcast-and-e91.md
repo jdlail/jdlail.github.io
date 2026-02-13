@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/comcast-and-e91/
 title: Comcast and E911
-description: None
 date: 2007-05-14 11:53:25 -0000
 last_modified_at: 2007-05-14 11:53:25 -0000
 publish: true

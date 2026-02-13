@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/02/editors-armed-with-iphones-and/
 title: Editors armed with iPhones and notebooks invade Kennedy Space Center
-description: None
 date: 2011-02-23 19:42:38 -0000
 last_modified_at: 2011-02-23 19:42:38 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [E.W. Scripps]
 ---
   

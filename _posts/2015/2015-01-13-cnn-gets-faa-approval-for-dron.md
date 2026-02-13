@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/01/cnn-gets-faa-approval-for-dron/
 title: CNN gets FAA approval for drone tests
-description: None
 date: 2015-01-13 12:49:43 -0000
 last_modified_at: 2015-01-13 12:49:43 -0000
 publish: true

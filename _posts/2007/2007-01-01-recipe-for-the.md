@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/recipe-for-the/
 title: Recipe for the youth audience
-description: None
 date: 2007-01-01 22:15:56 -0000
 last_modified_at: 2007-01-01 22:15:56 -0000
 publish: true

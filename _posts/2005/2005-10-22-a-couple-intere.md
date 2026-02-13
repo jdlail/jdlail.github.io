@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/a-couple-intere/
 title: A couple interesting sites
-description: None
 date: 2005-10-22 08:43:14 -0000
 last_modified_at: 2005-10-22 08:43:14 -0000
 publish: true

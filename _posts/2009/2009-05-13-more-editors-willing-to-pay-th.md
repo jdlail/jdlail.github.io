@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/more-editors-willing-to-pay-th/
 title: More editors willing to pay the price of paid content
-description: None
 date: 2009-05-13 15:45:13 -0000
 last_modified_at: 2009-05-13 15:45:13 -0000
 publish: true

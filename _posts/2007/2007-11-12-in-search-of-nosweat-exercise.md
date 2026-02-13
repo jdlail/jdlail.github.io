@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/in-search-of-nosweat-exercise/
 title: In search of no-sweat exercise and the no-diet diet
-description: None
 date: 2007-11-12 07:47:57 -0000
 last_modified_at: 2007-11-12 07:47:57 -0000
 publish: true

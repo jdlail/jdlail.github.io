@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/new-journalist-resources-in-pu/
 title: New journalist resource in public beta
-description: None
 date: 2008-10-01 17:42:34 -0000
 last_modified_at: 2008-10-01 17:42:34 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/tell-a-story-like-its-about-yo/
 title: Tell a story like it's about your mother
-description: None
 date: 2009-06-17 06:12:10 -0000
 last_modified_at: 2009-06-17 06:12:10 -0000
 publish: true

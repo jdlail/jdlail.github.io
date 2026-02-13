@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/a-cycle-of-irra/
 title: A cycle of irrational negativity ...
-description: None
 date: 2007-01-14 21:16:36 -0000
 last_modified_at: 2007-01-14 21:16:36 -0000
 publish: true

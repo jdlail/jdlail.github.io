@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/scott-maentz-of-spring-city/
 title: Geeks eat pancakes
-description: None
 date: 2009-01-08 15:05:31 -0000
 last_modified_at: 2009-01-08 15:05:31 -0000
 publish: true

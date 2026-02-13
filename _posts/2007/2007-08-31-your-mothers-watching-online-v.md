@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/your-mothers-watching-online-v/
 title: Your mother's watching online vids
-description: None
 date: 2007-08-31 07:35:02 -0000
 last_modified_at: 2007-08-31 07:35:02 -0000
 publish: true

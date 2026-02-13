@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/05/maybe-newsrooms-need-to-kick-t/
 title: Maybe newsrooms need to kick the front page habit
-description: None
 date: 2012-05-13 13:34:49 -0000
 last_modified_at: 2012-05-13 13:34:49 -0000
 publish: true

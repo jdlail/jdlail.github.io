@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/less-bluster-more-ballyhoo/
 title: Less bluster; more ballyhoo
-description: None
 date: 2009-05-27 18:30:00 -0000
 last_modified_at: 2009-05-27 18:30:00 -0000
 publish: true

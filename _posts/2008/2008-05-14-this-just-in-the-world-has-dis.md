@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/this-just-in-the-world-has-dis/
 title: 'This just in: The world has discovered Twitter - and it went down'
-description: None
 date: 2008-05-14 22:55:04 -0000
 last_modified_at: 2008-05-14 22:55:04 -0000
 publish: true

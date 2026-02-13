@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/react-to-the-secs-new-media-po/
 title: React to the SEC's new media policies (or hand over that cell phone)
-description: None
 date: 2009-08-09 15:24:13 -0000
 last_modified_at: 2009-08-09 15:24:13 -0000
 publish: true

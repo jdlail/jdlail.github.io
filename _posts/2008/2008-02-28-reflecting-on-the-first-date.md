@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/02/reflecting-on-the-first-date/
 title: Reflecting on the first date
-description: None
 date: 2008-02-28 08:02:10 -0000
 last_modified_at: 2008-02-28 08:02:10 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![computation+journalism](/images/20080223_0351-0355-pano-200p-thumb-485x101.webp)](/images/20080223_0351-0355-pano-200p.webp)I'm still kind of digesting and fermenting all the things I heard at the [computation + journalism](https://www.computational-journalism.com/symposium/index.php) symposium at Georgia Tech last weekend. It also had the long name of "Journalism 3G: A Symposium on Computation & Journalism."  
@@ -29,4 +28,3 @@ He also points to another great recap of the sessions that I hadn't seen: John C
 Good stuff; good conference  
   
 (Photo from conference web site.)
-

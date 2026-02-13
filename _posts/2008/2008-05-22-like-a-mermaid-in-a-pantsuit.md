@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/like-a-mermaid-in-a-pantsuit/
 title: Like a mermaid in a pantsuit
-description: None
 date: 2008-05-22 06:46:59 -0000
 last_modified_at: 2008-05-22 06:46:59 -0000
 publish: true

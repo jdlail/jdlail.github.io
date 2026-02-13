@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/10/living-a-gutenberg-moment/
 title: Living a "Gutenberg Moment"
-description: None
 date: 2009-10-26 10:44:38 -0000
 last_modified_at: 2009-10-26 10:44:38 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 ![Larry Kramer](/images/larrykramer.webp)On Sunday, I caught up with an excellent podcast with former MarketWatch CEO founder Larry Kramer that was posted in late September.  
@@ -41,4 +40,3 @@ I also found this [Beet.tv video](https://www.beet.tv/2009/05/larry-kramers-real
   
 _(Photo from Beet.tv)_  
   
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/07/a-not-so-secret-scuffle-over-w/
 title: A not-so-secret scuffle over what's secret
-description: None
 date: 2009-07-16 11:27:03 -0000
 last_modified_at: 2009-07-16 11:27:03 -0000
 publish: true

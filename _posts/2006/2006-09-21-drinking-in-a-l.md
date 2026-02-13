@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/09/drinking-in-a-l/
 title: Drinking in a little family history
-description: None
 date: 2006-09-21 11:54:55 -0000
 last_modified_at: 2006-09-21 11:54:55 -0000
 publish: true

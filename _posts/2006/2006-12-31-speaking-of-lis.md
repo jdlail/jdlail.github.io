@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/speaking-of-lis/
 title: Speaking of lists ...
-description: None
 date: 2006-12-31 00:14:32 -0000
 last_modified_at: 2006-12-31 00:14:32 -0000
 publish: true

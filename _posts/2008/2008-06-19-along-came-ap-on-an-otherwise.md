@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/along-came-ap-on-an-otherwise/
 title: Along came AP on an otherwise slow day in June
-description: None
 date: 2008-06-19 07:12:31 -0000
 last_modified_at: 2008-06-19 07:12:31 -0000
 publish: true

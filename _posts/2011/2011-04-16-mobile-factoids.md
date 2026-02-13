@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/04/mobile-factoids/
 title: Mobile factoids
-description: None
 date: 2011-04-16 22:03:56 -0000
 last_modified_at: 2011-04-16 22:03:56 -0000
 publish: true

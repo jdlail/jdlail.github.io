@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/the-great-tag-cloud-in-the-sky/
 title: The great tag cloud in the sky
-description: None
 date: 2008-05-26 06:17:14 -0000
 last_modified_at: 2008-05-26 06:17:14 -0000
 publish: true

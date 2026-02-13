@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/03/where-to-find-what-you-need-to/
 title: Where to find what you need to know about mobile
-description: None
 date: 2011-03-27 10:32:04 -0000
 last_modified_at: 2011-03-27 10:32:04 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -31,4 +30,3 @@ it will be at the John Seigenthaler Center on the campus of Vanderbilt Universit
 * [Ah, mobile's the new new thing](/2011/03/ah-mobiles-the-new-new-thing.html) (jacklail.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=1288a72b-0d7b-4663-9826-48afecf50c4b)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

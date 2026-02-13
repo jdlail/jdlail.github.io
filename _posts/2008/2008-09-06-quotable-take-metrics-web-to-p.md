@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/09/quotable-take-metrics-web-to-p/
 title: 'Quotable: Take metrics web to print'
-description: None
 date: 2008-09-06 21:03:32 -0000
 last_modified_at: 2023-04-28 14:41:33 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/01/read-what-we-found/
 title: Read what we found
-description: None
 date: 2008-01-31 17:50:42 -0000
 last_modified_at: 2008-01-31 17:50:42 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Just four days ago I got an email from Scott Karp suggesting that his Web startup might have some tools that could make covering an election interesting -- really interesting.
@@ -30,4 +29,3 @@ You'll find the list on knoxnews and on the sites of the participating bloggers 
 News Sentinel reporter and blogger [Michael Silence](https://blogs.knoxnews.com/knx/silence) was tapped to find some folks that would be interested in doing the heavy lifting in the project. He found some good ones: [Newscoma](https://newscoma.wordpress.com/), [R. Neal](https://www.knoxviews.com/), [Russ McBee](https://russmcbee.com/default.aspx), [Joe Powell](https://cupofjoepowell.blogspot.com/), [Ben Cunningham](https://taxingtennessee.blogspot.com/), [Bob Krumm](https://www.bobkrumm.com/blog), and [Les Jones](https://www.lesjones.com/).  
 
 Silence and I will be aboard as well. How the ride will be is anybody's guess. It's an experiment and it's a bit out there as far as "news coverage" of an election. I hope you give it a look and give us some feedback on whether you find it useful.
-

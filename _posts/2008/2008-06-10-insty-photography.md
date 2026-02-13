@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/insty-photography/
 title: Insty-Photography
-description: None
 date: 2008-06-10 21:27:56 -0000
 last_modified_at: 2008-06-10 21:27:56 -0000
 publish: true

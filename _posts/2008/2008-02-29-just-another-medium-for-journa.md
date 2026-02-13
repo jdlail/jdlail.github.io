@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/02/just-another-medium-for-journa/
 title: Just another medium for journalists
-description: None
 date: 2008-02-29 18:43:12 -0000
 last_modified_at: 2008-02-29 18:43:12 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Anil Dash of blog software house Six Apart on Joshua Micah Marshall and his [Talking Points Memo](https://www.talkingpointsmemo.com/) wining a prestigious George Polk Award for Legal Reporting: It was the first time an internet only news service had won this journalism prize.  
@@ -17,4 +16,3 @@ Anil Dash of blog software house Six Apart on Joshua Micah Marshall and his [Tal
 >
 
 Apart from the self-congratulatory PR on the blogging platform, Dash [makes a a good point](https://www.movabletype.com/blog/2008/02/talking-points-memo-a-blog-jou.html).
-

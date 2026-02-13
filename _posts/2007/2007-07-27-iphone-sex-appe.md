@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/iphone-sex-appe/
 title: iPhone sex appeal overrated!
-description: None
 date: 2007-07-27 07:52:34 -0000
 last_modified_at: 2007-07-27 07:52:34 -0000
 publish: true

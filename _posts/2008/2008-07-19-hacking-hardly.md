@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/hacking-hardly/
 title: Hacking? Hardly!
-description: None
 date: 2008-07-19 22:46:44 -0000
 last_modified_at: 2008-07-19 22:46:44 -0000
 publish: true

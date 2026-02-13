@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/knoxville-in-just-six-words/
 title: Knoxville in just six words
-description: None
 date: 2008-02-17 10:04:19 -0000
 last_modified_at: 2008-02-17 10:04:19 -0000
 publish: true

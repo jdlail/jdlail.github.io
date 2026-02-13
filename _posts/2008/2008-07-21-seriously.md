@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/seriously/
 title: Seriously
-description: None
 date: 2008-07-21 19:12:00 -0000
 last_modified_at: 2008-07-21 19:12:00 -0000
 publish: true

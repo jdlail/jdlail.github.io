@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/a-darwinist-tale-the-evolution/
 title: 'A Darwinist Tale: The evolution of "Big Iron" to "Scrap Iron"'
-description: None
 date: 2009-02-21 10:57:31 -0000
 last_modified_at: 2009-02-21 10:57:31 -0000
 publish: true

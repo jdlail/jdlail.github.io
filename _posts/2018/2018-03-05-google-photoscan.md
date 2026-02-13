@@ -2,7 +2,6 @@
 layout: post
 permalink: /2018/03/google-photoscan/
 title: Google PhotoScan
-description: None
 date: 2018-03-06 02:21:58 -0000
 last_modified_at: 2018-03-06 02:21:58 -0000
 publish: true

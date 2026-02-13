@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/up-and-twitting/
 title: Up and Twitting
-description: None
 date: 2007-03-21 08:10:20 -0000
 last_modified_at: 2007-03-21 08:10:20 -0000
 publish: true

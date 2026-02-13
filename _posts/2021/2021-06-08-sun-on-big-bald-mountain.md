@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/06/sun-on-big-bald-mountain/
 title: Sun on Big Bald Mountain
-description: None
 date: 2021-06-08 15:44:06 -0000
 last_modified_at: 2021-06-09 00:31:07 -0000
 publish: true

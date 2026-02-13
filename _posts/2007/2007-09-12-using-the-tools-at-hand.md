@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/using-the-tools-at-hand/
 title: Using the tools at hand
-description: None
 date: 2007-09-12 05:52:24 -0000
 last_modified_at: 2007-09-12 05:52:24 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/12/your-writings-pretty-good-hows/
 title: Your writing's pretty good; how's your CPM?
-description: None
 date: 2007-12-30 12:59:57 -0000
 last_modified_at: 2007-12-30 12:59:57 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Career columnist Penelope Trunk [blogs her firing](https://blog.penelopetrunk.com/2007/12/27/how-to-deal-with-getting-fired-from-yahoo/) from Yahoo!.  

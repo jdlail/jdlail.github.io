@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/02/a-few-thoughts-on-frank-cagle/
 title: A few thoughts on Frank Cagle
-description: None
 date: 2021-02-27 13:09:55 -0000
 last_modified_at: 2021-02-27 13:09:57 -0000
 publish: true

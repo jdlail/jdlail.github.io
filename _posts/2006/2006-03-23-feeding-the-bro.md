@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/03/feeding-the-bro/
 title: Feeding the broadband news junkies
-description: None
 date: 2006-03-23 16:46:15 -0000
 last_modified_at: 2006-03-23 16:46:15 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [Howard Finberg](https://www.poynter.org/content/content_view.asp?id=98747&sid=26) did a nice piece on the new [Pew study](https://www.pewinternet.org/PPF/r/178/report_display.asp) yesterday and was left wondering at least two questions. [Jay Small](https://smallinitiatives.com/2006/03/23/broadband-makes-the-news-go-better/) said today the report raised a related issue with him. Rob Runett summed up the major findings of the study:

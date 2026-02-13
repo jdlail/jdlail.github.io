@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/lessons-from-the-latest-wave/
 title: Lessons from the latest wave
-description: None
 date: 2007-10-19 10:40:34 -0000
 last_modified_at: 2007-10-19 10:40:34 -0000
 publish: true

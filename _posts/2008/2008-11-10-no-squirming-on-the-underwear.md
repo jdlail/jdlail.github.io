@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/no-squirming-on-the-underwear/
 title: No squirming on the underwear issue
-description: None
 date: 2008-11-10 15:44:10 -0000
 last_modified_at: 2008-11-10 15:44:10 -0000
 publish: true

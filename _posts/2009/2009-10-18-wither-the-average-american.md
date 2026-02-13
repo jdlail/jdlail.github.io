@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/10/wither-the-average-american/
 title: Wither the 'Average American'
-description: None
 date: 2009-10-18 19:52:18 -0000
 last_modified_at: 2009-10-18 19:52:18 -0000
 publish: true

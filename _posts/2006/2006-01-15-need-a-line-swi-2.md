@@ -2,7 +2,7 @@
 layout: post
 permalink: /2006/01/need-a-line-swi-2/
 title: Need a line switcher or a Tungsten T cradle?
-description: None
+description: "I'm trying to sell a telephone line switcher (ComSwitch 5500). Works great, but I just don't need it any more."
 date: 2006-01-15 12:16:11 -0000
 last_modified_at: 2006-01-15 12:16:11 -0000
 publish: true

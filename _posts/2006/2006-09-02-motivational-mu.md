@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/09/motivational-mu/
 title: Motivational Music
-description: None
 date: 2006-09-02 15:28:15 -0000
 last_modified_at: 2006-09-02 15:28:15 -0000
 publish: true

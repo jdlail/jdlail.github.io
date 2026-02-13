@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/02/getting-the-sto/
 title: Getting the story
-description: None
 date: 2006-02-14 13:23:27 -0000
 last_modified_at: 2006-02-14 13:23:27 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Two good tales of "getting the story" from over the weekend. Terry Morrow tells in his [blog](https://blogs.knoxnews.com/knx/telebuddy/archives/2006/02/oh_my_gosh_i_sn.shtml) how he got to talk to local-boy-turned-superstar-country-singer Kenny Chesney -- and no other media did -- during his low-profile show show at a local nightclub on "the Strip" on Sunday night.

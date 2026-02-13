@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/now-that-none-of-these-will-wo/
 title: Now that none of these will work ...
-description: None
 date: 2009-02-09 12:17:26 -0000
 last_modified_at: 2009-02-09 12:17:26 -0000
 publish: true

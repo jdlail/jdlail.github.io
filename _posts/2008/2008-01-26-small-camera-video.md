@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/small-camera-video/
 title: Small camera video
-description: None
 date: 2008-01-26 09:47:13 -0000
 last_modified_at: 2008-01-26 09:47:13 -0000
 publish: true

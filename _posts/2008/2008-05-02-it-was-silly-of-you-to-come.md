@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/05/it-was-silly-of-you-to-come/
 title: It was silly of you to come, but stay awhile
-description: None
 date: 2008-05-02 11:13:22 -0000
 last_modified_at: 2008-05-02 11:13:22 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 In the quest for audience, we live by what marketing  whiz [Seth Godin](https://sethgodin.typepad.com/seths_blog/2008/04/silly-traffic.html) calls "silly traffic."  
@@ -47,5 +46,3 @@ A couple more resources:
   
 Avinash Kaushik: [Standard Metrics Revisited: #3: Bounce Rate](https://www.kaushik.net/avinash/2007/08/standard-metrics-revisited-3-bounce-rate.html)  
 Joshua J. Steimle: [What's an Average or Typical Bounce Rate?](https://www.theorganicseo.com/software_services_and_tools/whats_an_average_or_typical_bounce_rate.html)  
-
-

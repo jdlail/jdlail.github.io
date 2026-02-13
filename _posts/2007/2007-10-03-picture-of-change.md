@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/picture-of-change/
 title: Picture of change
-description: None
 date: 2007-10-03 18:00:22 -0000
 last_modified_at: 2007-10-03 18:00:22 -0000
 publish: true

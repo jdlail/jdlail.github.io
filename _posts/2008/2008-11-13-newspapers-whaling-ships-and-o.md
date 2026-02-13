@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/newspapers-whaling-ships-and-o/
 title: Newspapers, whaling ships and oil drilling
-description: None
 date: 2008-11-13 21:54:56 -0000
 last_modified_at: 2008-11-13 21:54:56 -0000
 publish: true

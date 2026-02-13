@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/10/a-cameo-appeara/
 title: A Cameo appearance
-description: None
 date: 2006-10-08 11:17:52 -0000
 last_modified_at: 2006-10-08 11:17:52 -0000
 publish: true

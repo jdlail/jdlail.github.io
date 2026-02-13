@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/06/new-site-dances-1/
 title: New site dances to the tune innovation
-description: None
 date: 2006-06-20 07:25:47 -0000
 last_modified_at: 2006-06-20 07:25:47 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [Food and Drink, Web, Entertainment]
 ---
 The interactive arm of [E.W. Scripps](https://www.scripps.com)' newspaper division (which is housed here in Knoxville) is experimenting with a new band-and-bar scene site called [knoxville520](https://www.knoxville520.com).

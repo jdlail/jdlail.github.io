@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/11/what-happened-to-local-tv-news/
 title: What happened to local TV news
-description: None
 date: 2011-11-06 08:00:00 -0000
 last_modified_at: 2011-11-06 08:00:00 -0000
 publish: true

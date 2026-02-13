@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/08/google-introducing-new-subscription-tool-for-publishers/
 title: Google introducing new subscription tool for publishers
-description: None
 date: 2017-08-18 23:42:46 -0000
 last_modified_at: 2017-08-18 23:42:46 -0000
 publish: true

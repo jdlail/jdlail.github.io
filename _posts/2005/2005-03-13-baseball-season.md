@@ -2,7 +2,7 @@
 layout: post
 permalink: /2005/03/baseball-season/
 title: Baseball season is here
-description: None
+description: The Knox Sox were in a tournament in Farragut.
 date: 2005-03-13 09:11:45 -0000
 last_modified_at: 2005-03-13 09:11:45 -0000
 publish: true

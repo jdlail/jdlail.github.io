@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/03/if-we-could-only-get-you-to-sc/
 title: If we could only get you to screw off more at work
-description: None
 date: 2010-03-09 21:29:28 -0000
 last_modified_at: 2010-03-09 21:29:28 -0000
 publish: true
@@ -29,6 +28,3 @@ Related articles by Zemanta
 * [The way we get our news is changing](https://e1evation.com/2010/03/01/the-way-we-get-our-news-is-changing/) (e1evation.com)
 * [Online 'beats newspapers' in US](https://news.bbc.co.uk/go/rss/-/2/hi/business/8542430.stm) (news.bbc.co.uk)
 * [Newspapers over-dependent on advertising, says Levy](https://r.zemanta.com/?u=http%3A//www.guardian.co.uk/media/2010/mar/09/newspapers-advertising-publicis-maurice-levy&a=14409322&rid=b9546fc7-e1d6-48fc-b157-ee595ab15536&e=8de9248ea8551b1a73d7160d86e38103) (guardian.co.uk)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=b9546fc7-e1d6-48fc-b157-ee595ab15536)](https://reblog.zemanta.com/zemified/b9546fc7-e1d6-48fc-b157-ee595ab15536/ "Reblog this post \[with Zemanta\]")
-

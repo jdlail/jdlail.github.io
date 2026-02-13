@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/journalism-group-calls-on-epa-to-quit-slow-walking-release-of-facts-in-tn-spill/
 title: Journalism group calls on EPA to quit slow-walking release of facts in TN spill
-description: None
 date: 2009-01-06 07:05:33 -0000
 last_modified_at: 2009-01-06 07:05:33 -0000
 publish: true

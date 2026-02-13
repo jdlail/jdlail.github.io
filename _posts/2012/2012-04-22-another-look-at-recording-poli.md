@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/04/another-look-at-recording-poli/
 title: Another look at recording police officers on the job
-description: None
 date: 2012-04-22 17:26:19 -0000
 last_modified_at: 2012-04-22 17:26:19 -0000
 publish: true

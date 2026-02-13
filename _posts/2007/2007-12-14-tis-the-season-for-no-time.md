@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/tis-the-season-for-no-time/
 title: Tis the season for no time
-description: None
 date: 2007-12-14 07:35:10 -0000
 last_modified_at: 2007-12-14 07:35:10 -0000
 publish: true

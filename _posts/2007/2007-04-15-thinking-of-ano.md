@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/thinking-of-ano/
 title: Thinking of another weighty subject
-description: None
 date: 2007-04-15 14:05:54 -0000
 last_modified_at: 2007-04-15 14:05:54 -0000
 publish: true

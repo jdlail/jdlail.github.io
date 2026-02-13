@@ -2,13 +2,12 @@
 layout: post
 permalink: /2013/02/is-conversation-management-a-c/
 title: Is 'conversation management' a core newsroom function?
-description: None
 date: 2013-02-28 09:38:26 -0000
 last_modified_at: 2013-02-28 09:38:26 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 There a good bit of continuing discussion about comments and how to manage them (see the link list below). One camp, of which newspapers and TV stations seem to be moving toward, are trying to find pain free ways to manage comments (technology solutions) or to elminate them. The problem: They're just so darn messy. Technology solutions alone are unlikely to be successful.
@@ -37,5 +36,3 @@ While not just about comments, this piece on "[The Princess and the Trolls](http
 * [Bill Would Protect Identity of Online Commenters | Humphrey on the Hill | knoxnews.com](https://blogs.knoxnews.com/humphrey/2013/01/bill-would-protect-identity-of.html)
 * [Not a good 24 hours for Facebook comments](https://www.niemanlab.org/2013/01/not-a-good-24-hours-for-facebook-comments/)
 * [Are comments just so 2009? - JackLail.com](/2013/01/are-comments-just-so-2009.html)
-
-

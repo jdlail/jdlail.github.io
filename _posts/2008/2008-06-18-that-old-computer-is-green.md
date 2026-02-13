@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/that-old-computer-is-green/
 title: That old computer is green
-description: None
 date: 2008-06-18 19:55:03 -0000
 last_modified_at: 2008-06-18 19:55:03 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/covering-an-election-different/
 title: Covering an election differently
-description: None
 date: 2008-01-27 09:17:35 -0000
 last_modified_at: 2008-01-27 09:17:35 -0000
 publish: true

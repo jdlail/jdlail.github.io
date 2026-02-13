@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/11/ogling-boobies-on-facebook/
 title: Ogling boobies on Facebook
-description: None
 date: 2007-11-23 23:25:23 -0000
 last_modified_at: 2023-03-13 13:37:36 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Topless babes in ads, OK; breast feeding mom photos, no.  

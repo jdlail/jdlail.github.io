@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/04/creating-news-that-finds-its-a/
 title: Creating news that finds its audience
-description: None
 date: 2008-04-29 22:35:07 -0000
 last_modified_at: 2008-04-29 22:35:07 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 An insider who's now an outsider has insider [advice](https://www.melissaworden.com/blogs/xdegree/2008/04/looking-from-the-outside-in/) on outsiders for insiders running news sites.  
@@ -29,5 +28,3 @@ It's a concept we need to get faster than Costello learned the names of the play
 Worden has some great observations on how her news habits have changed and some suggestions on how news can find her. What are some more?  
   
 _And best of luck, Melissa, in your HSN gig!_  
-
-

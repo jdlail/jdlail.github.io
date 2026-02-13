@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/05/how-it-was-done-back-in-the-da/
 title: How it was done back in the day
-description: None
 date: 2017-05-23 14:12:00 -0000
 last_modified_at: 2017-05-23 14:12:00 -0000
 publish: true

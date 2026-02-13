@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/03/nothing-to-do-g/
 title: Nothing to do? Go to a meeting!
-description: None
 date: 2006-03-04 12:00:47 -0000
 last_modified_at: 2006-03-04 12:00:47 -0000
 publish: true

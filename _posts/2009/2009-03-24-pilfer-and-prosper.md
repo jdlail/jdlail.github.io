@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/pilfer-and-prosper/
 title: Pilfer and prosper
-description: None
 date: 2009-03-24 15:03:12 -0000
 last_modified_at: 2009-03-24 15:03:12 -0000
 publish: true

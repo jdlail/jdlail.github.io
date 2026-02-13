@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/11/on-being-good-at-one-thing/
 title: On being good at one thing
-description: None
 date: 2011-11-23 11:03:53 -0000
 last_modified_at: 2011-11-23 11:03:53 -0000
 publish: true

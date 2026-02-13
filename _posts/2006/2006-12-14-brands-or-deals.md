@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/brands-or-deals/
 title: Brands or deals
-description: None
 date: 2006-12-14 21:04:13 -0000
 last_modified_at: 2006-12-14 21:04:13 -0000
 publish: true

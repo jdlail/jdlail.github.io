@@ -3,7 +3,7 @@ layout: post
 permalink: /2020/10/an-insider-turned-critics-view-of-health-insurance-covid-19-and-the-fate-of-the-affordable-care-act/
 title: An insider-turned-critic's view of health insurance, COVID-19, and the fate
   of the Affordable Care Act
-description: None
+description: 'Wendell Potter, a former journalist turned health industry spokesperson turned industry whistleblower, shares his insights on the insurance industry.'
 date: 2020-10-16 18:05:13 -0000
 last_modified_at: 2020-10-16 19:04:30 -0000
 publish: true

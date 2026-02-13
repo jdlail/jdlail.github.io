@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/04/revamping-the-take-a-chance-wi/
 title: Revamping the 'take a chance, win a prize approach' to funding journalism innovation
-description: None
 date: 2011-04-04 14:13:49 -0000
 last_modified_at: 2011-04-04 14:13:49 -0000
 publish: true

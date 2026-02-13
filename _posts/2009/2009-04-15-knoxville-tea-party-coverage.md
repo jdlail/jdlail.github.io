@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/knoxville-tea-party-coverage/
 title: Knoxville Tea Party coverage
-description: None
 date: 2009-04-15 21:29:38 -0000
 last_modified_at: 2009-04-15 21:29:38 -0000
 publish: true

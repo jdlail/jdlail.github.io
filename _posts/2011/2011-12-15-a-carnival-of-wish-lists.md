@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/12/a-carnival-of-wish-lists/
 title: A carnival of wish lists
-description: None
 date: 2011-12-15 16:05:00 -0000
 last_modified_at: 2011-12-15 16:05:00 -0000
 publish: true

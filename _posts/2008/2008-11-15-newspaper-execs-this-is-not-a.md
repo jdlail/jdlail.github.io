@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/newspaper-execs-this-is-not-a/
 title: 'Newspaper execs: This is not a fire drill'
-description: None
 date: 2008-11-15 15:59:04 -0000
 last_modified_at: 2008-11-15 15:59:04 -0000
 publish: true

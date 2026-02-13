@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/online-video-th/
 title: 'Online Video: They saw this'
-description: None
 date: 2007-07-26 22:09:28 -0000
 last_modified_at: 2007-07-26 22:09:28 -0000
 publish: true

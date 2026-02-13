@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/hot-tea-and-a-good-paper/
 title: Hot tea and a good paper
-description: None
 date: 2009-04-15 09:30:46 -0000
 last_modified_at: 2009-04-15 09:30:46 -0000
 publish: true

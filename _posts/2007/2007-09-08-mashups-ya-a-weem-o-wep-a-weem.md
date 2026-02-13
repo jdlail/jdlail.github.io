@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/mashups-ya-a-weem-o-wep-a-weem/
 title: 'Mashups: Ya a weem o wep a weem o wep'
-description: None
 date: 2007-09-08 11:13:05 -0000
 last_modified_at: 2007-09-08 11:13:05 -0000
 publish: true

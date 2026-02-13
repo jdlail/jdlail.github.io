@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/boring-and-bland-are-symptons/
 title: Boring and bland are symptoms of a disease
-description: None
 date: 2008-05-09 22:22:31 -0000
 last_modified_at: 2008-05-09 22:22:31 -0000
 publish: true

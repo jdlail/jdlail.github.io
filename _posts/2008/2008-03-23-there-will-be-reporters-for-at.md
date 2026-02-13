@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/there-will-be-reporters-for-at/
 title: There will be reporters for at least 60 years
-description: None
 date: 2008-03-23 23:41:01 -0000
 last_modified_at: 2008-03-23 23:41:01 -0000
 publish: true

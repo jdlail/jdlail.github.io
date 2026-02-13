@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/11/new-journalism-fellowship-on-t/
 title: New Journalism Fellowship on the Economics of Aging and Work
-description: None
 date: 2012-11-14 11:56:31 -0000
 last_modified_at: 2012-11-14 11:56:31 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/gingerbread-in-the-house/
 title: Gingerbread in the house
-description: None
 date: 2008-12-22 11:05:19 -0000
 last_modified_at: 2008-12-22 11:05:19 -0000
 publish: true

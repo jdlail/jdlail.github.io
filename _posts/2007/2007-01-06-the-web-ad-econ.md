@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/the-web-ad-econ/
 title: The Web ad economy is ....
-description: None
 date: 2007-01-06 21:44:23 -0000
 last_modified_at: 2007-01-06 21:44:23 -0000
 publish: true

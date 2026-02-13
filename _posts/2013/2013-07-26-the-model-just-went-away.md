@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/07/the-model-just-went-away/
 title: The model just went away
-description: None
 date: 2013-07-26 20:20:35 -0000
 last_modified_at: 2013-07-26 20:20:35 -0000
 publish: true

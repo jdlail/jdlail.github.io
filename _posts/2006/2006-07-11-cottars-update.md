@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/07/cottars-update/
 title: Cottars update
-description: None
 date: 2006-07-11 19:33:38 -0000
 last_modified_at: 2006-07-11 19:33:38 -0000
 publish: true

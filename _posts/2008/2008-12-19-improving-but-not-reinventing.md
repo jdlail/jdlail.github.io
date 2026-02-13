@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/improving-but-not-reinventing/
 title: Improving but not reinventing
-description: None
 date: 2008-12-19 08:01:05 -0000
 last_modified_at: 2008-12-19 08:01:05 -0000
 publish: true

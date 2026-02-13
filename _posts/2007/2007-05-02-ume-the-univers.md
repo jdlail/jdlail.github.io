@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/ume-the-univers/
 title: UMe -- The University of Me
-description: None
 date: 2007-05-02 22:13:39 -0000
 last_modified_at: 2007-05-02 22:13:39 -0000
 publish: true

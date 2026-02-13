@@ -2,7 +2,7 @@
 layout: page
 permalink: /privacy-policy/
 title: Privacy Policy
-description: None
+description: "Privacy Police for jacklail.com"
 date: 2018-08-07 23:16:19 -0000
 last_modified_at: 2019-05-14 23:11:56 -0000
 publish: true
@@ -24,12 +24,12 @@ Articles on this site may include embedded content (e.g. videos, images, article
 
 We use Google Analytics.
 
-**Data Used:** 
+**Data Used:**
 
-Please refer to the appropriate [Google Analytics documentation](https://developers.google.com/analytics/resources/concepts/gaConceptsTrackingOverview#howAnalyticsGetsData) for the specific type of data it collects. 
+Please refer to the appropriate [Google Analytics documentation](https://developers.google.com/analytics/resources/concepts/gaConceptsTrackingOverview#howAnalyticsGetsData) for the specific type of data it collects.
 
-**Activity Tracked:** 
+**Activity Tracked:**
 
-This feature sends page view events (and potentially [video play events](https://jetpackme.wordpress.com/support/for-your-privacy-policy/#video-hosting)) over to Google Analytics for consumption. 
+This feature sends page view events (and potentially [video play events](https://jetpackme.wordpress.com/support/for-your-privacy-policy/#video-hosting)) over to Google Analytics for consumption.
 
 Contact Jack Lail, <contact@goldenleaf.addy.io>

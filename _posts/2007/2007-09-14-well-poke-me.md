@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/well-poke-me/
 title: Well poke me
-description: None
 date: 2007-09-14 07:33:31 -0000
 last_modified_at: 2007-09-14 07:33:31 -0000
 publish: true

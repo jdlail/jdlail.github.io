@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/a-snapshot-of-change-in-newsro/
 title: A snapshot of change in newsrooms
-description: None
 date: 2008-07-22 06:28:42 -0000
 last_modified_at: 2008-07-22 06:28:42 -0000
 publish: true

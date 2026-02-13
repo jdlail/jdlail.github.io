@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/holy-hyphenation/
 title: Holy Hyphenation!
-description: None
 date: 2007-10-03 16:14:51 -0000
 last_modified_at: 2007-10-03 16:14:51 -0000
 publish: true

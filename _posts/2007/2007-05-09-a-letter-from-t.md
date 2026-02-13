@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/a-letter-from-t/
 title: A letter from the newspaper while watching morning TV
-description: None
 date: 2007-05-09 09:16:00 -0000
 last_modified_at: 2007-05-09 09:16:00 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/this-guy-wants-to-run-your-new/
 title: This guy wants to run your newspaper
-description: None
 date: 2007-11-22 20:05:55 -0000
 last_modified_at: 2007-11-22 20:05:55 -0000
 publish: true

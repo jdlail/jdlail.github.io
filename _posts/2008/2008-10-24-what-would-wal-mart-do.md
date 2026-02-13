@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/what-would-wal-mart-do/
 title: What would Wal-Mart do?
-description: None
 date: 2008-10-24 13:10:00 -0000
 last_modified_at: 2023-03-13 13:27:32 -0000
 publish: true

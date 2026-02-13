@@ -2,13 +2,12 @@
 layout: post
 permalink: /2014/04/about-that-comment/
 title: About that comment
-description: None
 date: 2014-04-17 09:40:26 -0000
 last_modified_at: 2014-04-17 09:40:26 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 What's new in comments about comments. The debate on anonymous comments on websites continues while publisher retool or junk their comment systems. Meanwhile, a few interesting new experiments are happening.
@@ -29,4 +28,3 @@ What's new in comments about comments. The debate on anonymous comments on websi
 * [Web comments 'more civil' when journalists interact, study shows | Media news | Journalism.co.uk](https://www.journalism.co.uk/news/what-happens-when-journalists-interact-with-comments/s2/a555603/)
 
 See the [bigger list of links](https://pinboard.in/u:jacklail/t:comments/) on comments.
-

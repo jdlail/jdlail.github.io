@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/01/freedom-of-speech-often-takes/
 title: Freedom of speech often takes courage
-description: None
 date: 2015-01-18 16:15:58 -0000
 last_modified_at: 2015-01-18 16:15:58 -0000
 publish: true

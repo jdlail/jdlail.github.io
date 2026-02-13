@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/whered-you-say-youre-from/
 title: Where'd you say you're from?
-description: None
 date: 2007-09-04 07:08:48 -0000
 last_modified_at: 2007-09-04 07:08:48 -0000
 publish: true

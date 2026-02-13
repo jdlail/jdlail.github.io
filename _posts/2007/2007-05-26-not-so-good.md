@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/not-so-good/
 title: Not so good
-description: None
 date: 2007-05-26 11:48:18 -0000
 last_modified_at: 2007-05-26 11:48:18 -0000
 publish: true

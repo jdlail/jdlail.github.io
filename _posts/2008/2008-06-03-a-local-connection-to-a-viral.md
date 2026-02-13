@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/a-local-connection-to-a-viral/
 title: A local connection to a viral infection by Weezer
-description: None
 date: 2008-06-03 23:12:17 -0000
 last_modified_at: 2023-03-13 13:25:41 -0000
 publish: true

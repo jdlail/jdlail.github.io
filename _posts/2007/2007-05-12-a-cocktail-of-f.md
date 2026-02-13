@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/a-cocktail-of-f/
 title: A cocktail of facts
-description: None
 date: 2007-05-12 19:30:06 -0000
 last_modified_at: 2007-05-12 19:30:06 -0000
 publish: true

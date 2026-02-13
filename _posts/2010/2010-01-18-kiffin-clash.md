@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/01/kiffin-clash/
 title: Kiffin clash
-description: None
 date: 2010-01-18 20:45:20 -0000
 last_modified_at: 2010-01-18 20:45:20 -0000
 publish: true

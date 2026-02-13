@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/07/whats-it-like-to-own-a-tesla-model-y-for-a-year/
 title: What's it like to own a Tesla Model Y for a year
-description: None
 date: 2021-07-20 15:02:57 -0000
 last_modified_at: 2021-07-31 16:04:32 -0000
 publish: true

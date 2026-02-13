@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/willful-igorance-may-win-out/
 title: '"Willful ignorance" may win out'
-description: None
 date: 2008-12-29 12:10:30 -0000
 last_modified_at: 2008-12-29 12:10:30 -0000
 publish: true

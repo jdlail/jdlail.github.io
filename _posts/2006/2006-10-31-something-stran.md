@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/10/something-stran/
 title: Something strange here ...
-description: None
 date: 2006-10-31 22:35:15 -0000
 last_modified_at: 2006-10-31 22:35:15 -0000
 publish: true

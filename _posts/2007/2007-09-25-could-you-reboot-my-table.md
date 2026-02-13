@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/09/could-you-reboot-my-table/
 title: Could you reboot my table?
-description: None
 date: 2007-09-25 07:06:53 -0000
 last_modified_at: 2007-09-25 07:06:53 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Miss, could you reboot my table?  

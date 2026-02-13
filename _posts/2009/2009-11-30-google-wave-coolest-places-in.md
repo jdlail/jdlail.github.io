@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/11/google-wave-coolest-places-in/
 title: 'Google Wave: Coolest places in Knoxville'
-description: None
 date: 2009-11-30 15:31:05 -0000
 last_modified_at: 2009-11-30 15:31:05 -0000
 publish: true

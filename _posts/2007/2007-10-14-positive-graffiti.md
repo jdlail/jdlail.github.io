@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/positive-graffiti/
 title: Positive graffiti
-description: None
 date: 2007-10-14 21:06:47 -0000
 last_modified_at: 2007-10-14 21:06:47 -0000
 publish: true

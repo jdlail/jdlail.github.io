@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/09/my-stats-have-been-chromed/
 title: My stats have been Chromed
-description: None
 date: 2008-09-05 08:08:56 -0000
 last_modified_at: 2008-09-05 08:08:56 -0000
 publish: true

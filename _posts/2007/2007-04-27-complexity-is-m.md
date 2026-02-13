@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/complexity-is-m/
 title: Complexity is maximal
-description: None
 date: 2007-04-27 07:48:06 -0000
 last_modified_at: 2007-04-27 07:48:06 -0000
 publish: true

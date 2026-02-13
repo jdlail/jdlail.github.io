@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/05/from-behind-the/
 title: From behind the mirrored glass
-description: None
 date: 2006-05-09 20:13:42 -0000
 last_modified_at: 2006-05-09 20:13:42 -0000
 publish: true

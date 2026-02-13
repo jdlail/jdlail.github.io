@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/poll-newspapers-will-print-for/
 title: 'Poll: Newspapers will print for ... years'
-description: None
 date: 2008-04-17 21:20:59 -0000
 last_modified_at: 2008-04-17 21:20:59 -0000
 publish: true

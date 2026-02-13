@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/11/the-elements-of-social-media/
 title: The elements of social media
-description: None
 date: 2007-11-08 06:18:19 -0000
 last_modified_at: 2007-11-08 06:18:19 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Reality + Identity + Playfulness + Experimentation = Energy (in the proper proportions).  

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2025/06/a-mostly-forgotten-medical-first-on-june-14-1965/
 title: A mostly forgotten medical first on June 14, 1965
-description: None
 date: 2025-06-14 16:19:31 -0000
 last_modified_at: 2025-06-14 16:19:32 -0000
 publish: true

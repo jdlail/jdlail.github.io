@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/09/facebook-has-begun-doing-quite/
 title: Be a more effective journalist on Facebook
-description: None
 date: 2011-09-15 12:39:59 -0000
 last_modified_at: 2011-09-15 12:39:59 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![IMG_0520.JPG](/assets_c/2011/09/IMG_0520-thumb-485x272-650.webp)](/images/IMG_0520.webp)  
@@ -29,8 +28,8 @@ Weekend Traffic: Saturday links received +85% clicks (Wednesday receive +37% cli
   
 Post Through the Day: Spikes at 7 & 8 a.m., 4 & 5 p.m., 12 a.m. and 2 a.m. (all times Eastern).  
   
-He also said posts with questions received 2X times more comments and 64% more feedback overall than an average post.   
-[  
+He also said posts with questions received 2X times more comments and 64% more feedback overall than an average post.
+[
 From the study](https://www.facebook.com/note.php?note_id=245775148767840), the most effective posting styles are:  
   
 Posts that asked questions or sought user input: +64%  
@@ -47,10 +46,4 @@ If you're developing your own following as a journalist on Facebook or are invol
 _  
 (Photo: Vadim Lavrusik, Journalist Program Manager for Facebook, speaking at the Associated Press Media Conference in Denver on Sept. 14, 2011.)_  
   
-
-
-  
-
-
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=6dabdcd5-1e82-421e-862a-330312c30868)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

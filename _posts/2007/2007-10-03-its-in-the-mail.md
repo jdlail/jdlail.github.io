@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/its-in-the-mail/
 title: It's in the mail
-description: None
 date: 2007-10-03 07:52:13 -0000
 last_modified_at: 2007-10-03 07:52:13 -0000
 publish: true

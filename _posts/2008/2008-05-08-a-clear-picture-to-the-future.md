@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/a-clear-picture-to-the-future/
 title: A clear picture to the future
-description: None
 date: 2008-05-08 10:07:29 -0000
 last_modified_at: 2008-05-08 10:07:29 -0000
 publish: true

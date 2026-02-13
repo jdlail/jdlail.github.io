@@ -2,7 +2,7 @@
 layout: post
 permalink: /2021/08/time-marches-through-the-neighborhood/
 title: Time marches through the neighborhood
-description: None
+description: 'A look at how my neighborhood has changed from 1959 viewed from aerial photography.'
 date: 2021-08-26 16:02:29 -0000
 last_modified_at: 2021-08-26 16:02:30 -0000
 publish: true
@@ -29,4 +29,3 @@ Fast Talkin by Kevin MacLeod is licensed under a Creative Commons Attribution 4.
 Source: <https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100590>
 
 Artist: <https://incompetech.com/>
-

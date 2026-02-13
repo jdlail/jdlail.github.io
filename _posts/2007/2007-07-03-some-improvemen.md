@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/some-improvemen/
 title: Some improvement, but still sucks
-description: None
 date: 2007-07-03 12:48:43 -0000
 last_modified_at: 2007-07-03 12:48:43 -0000
 publish: true

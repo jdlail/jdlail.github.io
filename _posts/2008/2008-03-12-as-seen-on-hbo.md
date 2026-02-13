@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/as-seen-on-hbo/
 title: As seen on HBO ...
-description: None
 date: 2008-03-12 19:37:01 -0000
 last_modified_at: 2008-03-12 19:37:01 -0000
 publish: true

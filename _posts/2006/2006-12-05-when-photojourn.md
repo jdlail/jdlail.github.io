@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/when-photojourn/
 title: When photojournalists become only memorable
-description: None
 date: 2006-12-05 13:11:28 -0000
 last_modified_at: 2006-12-05 13:11:28 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/02/sunshine-week-approaches/
 title: Sunshine Week approaches
-description: None
 date: 2021-02-25 16:19:36 -0000
 last_modified_at: 2021-02-25 16:19:37 -0000
 publish: true

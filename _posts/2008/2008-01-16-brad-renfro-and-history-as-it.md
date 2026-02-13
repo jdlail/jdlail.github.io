@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/01/brad-renfro-and-history-as-it/
 title: Brad Renfro and history as it happens
-description: None
 date: 2008-01-16 23:35:24 -0000
 last_modified_at: 2008-01-16 23:35:24 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 The death of 25-year-old Brad Renfro was big news in KnoxVegas on Tuesday night and Wednesday. Two things struck me: how fast the [Wikipedia entry](https://en.wikipedia.org/wiki/Brad_Renfro) was updated to reflect his death (very shortly after the story was broken TMZ.com) and how quickly videos appeared in [](https://www.youtube.com/results?search_type=search_videos&search_query=brad%20renfro&search_sort=video_date_uploaded&search_category=0&search=Search&v=&uploaded=&filter=1)[YouTube.com](https://en.wikipedia.org/wiki/Brad_Renfro)
@@ -20,5 +19,3 @@ While most of the celebrity and gossip news sties were regurgitating [the same i
 And if you were looking for art of Renfro, flickr [had much to offer](https://www.flickr.com/search/?q=%22brad%20renfro%22&w=all).
 
 Before is one of the tribute videos posted on YouTube.  
-
-

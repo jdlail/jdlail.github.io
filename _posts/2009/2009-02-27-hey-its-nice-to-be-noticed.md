@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/02/hey-its-nice-to-be-noticed/
 title: Hey, it's nice to be noticed
-description: None
 date: 2009-02-27 07:49:13 -0000
 last_modified_at: 2009-02-27 07:49:13 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 The Inland Press Association presented its New Frontier Awards during its annual meeting in San Antonio earlier this week and [knoxnews](https://www.knoxnews.com/) won a top "General Excellence" award.  
@@ -22,4 +21,3 @@ The judges said:
 
 [More details](https://blogs.knoxnews.com/knx/roll/2009/02/knoxnews-win-new-frontier-awar.html) and a very gracious "thank you" to the Inland judges.  
   
-

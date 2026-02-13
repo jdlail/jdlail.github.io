@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/appreciating-community/
 title: Appreciating community
-description: None
 date: 2007-10-28 15:56:13 -0000
 last_modified_at: 2007-10-28 15:56:13 -0000
 publish: true

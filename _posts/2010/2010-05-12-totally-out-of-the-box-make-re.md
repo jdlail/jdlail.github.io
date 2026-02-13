@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/05/totally-out-of-the-box-make-re/
 title: 'Totally out of the box: Make relevance a measure of journalistic quality'
-description: None
 date: 2010-05-12 12:59:45 -0000
 last_modified_at: 2010-05-12 12:59:45 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Media
+tags: [Journalism]
 ---
 [![Image representing Ben Elowitz as depicted in ...](https://www.crunchbase.com/assets/images/resized/0001/8470/18470v1-max-250x250.webp)](https://www.crunchbase.com/person/ben-elowitz)
 
@@ -28,9 +27,6 @@ It's a decent attempt at redefining what to measure to align the characteristics
   
 In a previous post, Elowitz pointed to [some yardsticks](https://paidcontent.org/article/419-traditional-ways-of-judging-quality-in-published-content-are-now-useles/) he says no longer work.  
   
-The way journalism quality is typically measured is by contests, usually judged by peers in the industry. In addition to the stated criteria, how the work measures up to the holy vows of journalism affects judges, it's part of their mind set.  
+The way journalism quality is typically measured is by contests, usually judged by peers in the industry. In addition to the stated criteria, how the work measures up to the holy vows of journalism affect judges, it's part of the mind set.  
   
 It would be interesting to see the entries and the winners of a contest that used Elowitz's four criteria of quality and that were judged by non-journalists. It might bring some surprising results.  
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=d1df8cec-fa3d-4e86-827f-715a6f685429)](https://reblog.zemanta.com/zemified/d1df8cec-fa3d-4e86-827f-715a6f685429/ "Reblog this post \[with Zemanta\]")
-

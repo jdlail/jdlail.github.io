@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/08/joy-mayer-engagament/
 title: Newsrooms that say they are succeeding at the 'two-way street' are mostly lying
-description: None
 date: 2011-08-18 07:45:10 -0000
 last_modified_at: 2011-08-18 07:45:10 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/03/a-few-pictures-and-videos-you/
 title: A few pictures and videos you won't see this week
-description: None
 date: 2012-03-25 12:16:00 -0000
 last_modified_at: 2012-03-25 12:16:00 -0000
 publish: true

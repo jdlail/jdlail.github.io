@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/ive-pulled-myse/
 title: I've pulled myself away to write this
-description: None
 date: 2007-05-14 22:20:00 -0000
 last_modified_at: 2007-05-14 22:20:00 -0000
 publish: true

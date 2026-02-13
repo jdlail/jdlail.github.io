@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/03/touch-typing-on-a-touch-screen/
 title: Touch typing on a touch screen with your eyes closed
-description: None
 date: 2012-03-08 06:51:54 -0000
 last_modified_at: 2012-03-08 06:51:54 -0000
 publish: true

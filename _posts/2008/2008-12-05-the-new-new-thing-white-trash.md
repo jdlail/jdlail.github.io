@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/the-new-new-thing-white-trash/
 title: 'The new, new thing: White trash computing'
-description: None
 date: 2008-12-05 07:10:30 -0000
 last_modified_at: 2008-12-05 07:10:30 -0000
 publish: true

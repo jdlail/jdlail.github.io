@@ -2,7 +2,7 @@
 layout: post
 permalink: /2021/11/remember-the-covid-toll-in-tennessee-on-this-more-normal-thanksgiving/
 title: Remember the COVID toll in Tennessee on this 'more normal' Thanksgiving
-description: None
+description: 'While Tennesseans look toward enjoying a more normal Thanksgiving Holiday this week with family feasts and fellowship, take a moment to remember the those who have died of COVID-19.'
 date: 2021-11-22 15:48:59 -0000
 last_modified_at: 2021-11-22 15:49:01 -0000
 publish: true
@@ -34,4 +34,3 @@ With restrictions and cautions going by the wayside and the take rate of vaccine
 That, coupled with holiday travel and festive gatherings, is fanning fears of a post-holiday surge in December or January.
 
 So on this Thanksgiving be thankful and be vaccinated.
-

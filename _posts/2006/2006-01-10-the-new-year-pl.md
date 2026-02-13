@@ -2,7 +2,7 @@
 layout: post
 permalink: /2006/01/the-new-year-pl/
 title: The New Year plunge
-description: None
+description: "I've taken the plunge. I'm trying to get a handle on my Inbox this year."
 date: 2006-01-10 17:58:05 -0000
 last_modified_at: 2006-01-10 17:58:05 -0000
 publish: true

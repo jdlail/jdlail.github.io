@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/hands-on-dobro/
 title: Hands on Dobro
-description: None
 date: 2009-05-25 08:32:01 -0000
 last_modified_at: 2009-05-25 08:32:01 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/11/kala-elizabeth/
 title: Kala Elizabeth Hawkins
-description: None
 date: 2005-11-05 07:35:27 -0000
 last_modified_at: 2005-11-05 07:35:27 -0000
 publish: true

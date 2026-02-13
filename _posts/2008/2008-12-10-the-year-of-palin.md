@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/the-year-of-palin/
 title: The Year of Palin
-description: None
 date: 2008-12-10 07:00:03 -0000
 last_modified_at: 2008-12-10 07:00:03 -0000
 publish: true

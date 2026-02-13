@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/05/we-were-honored/
 title: We were honored
-description: None
 date: 2011-05-06 15:39:33 -0000
 last_modified_at: 2011-05-06 15:39:33 -0000
 publish: true

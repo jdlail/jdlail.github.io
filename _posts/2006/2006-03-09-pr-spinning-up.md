@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/03/pr-spinning-up/
 title: 'P.R.: Spinning up trust'
-description: None
 date: 2006-03-09 19:30:08 -0000
 last_modified_at: 2006-03-09 19:30:08 -0000
 publish: true

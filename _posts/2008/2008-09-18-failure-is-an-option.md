@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/09/failure-is-an-option/
 title: Failure is an option
-description: None
 date: 2008-09-18 09:51:38 -0000
 last_modified_at: 2008-09-18 09:51:38 -0000
 publish: true

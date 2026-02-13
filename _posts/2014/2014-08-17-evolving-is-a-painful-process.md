@@ -2,7 +2,6 @@
 layout: post
 permalink: /2014/08/evolving-is-a-painful-process/
 title: Evolving is a painful process
-description: None
 date: 2014-08-17 13:20:51 -0000
 last_modified_at: 2014-08-17 13:20:51 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/pot-full-of-cash-needed/
 title: Pot full of cash needed
-description: None
 date: 2008-07-22 04:14:55 -0000
 last_modified_at: 2008-07-22 04:14:55 -0000
 publish: true

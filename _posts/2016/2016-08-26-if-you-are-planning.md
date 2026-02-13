@@ -2,7 +2,6 @@
 layout: post
 permalink: /2016/08/if-you-are-planning/
 title: Sign up for the Murfreesboro NewsTrain before prices go up
-description: None
 date: 2016-08-26 06:46:12 -0000
 last_modified_at: 2016-08-26 06:46:12 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/02/lately-ive-been/
 title: Lately, I've been listening too ...
-description: None
 date: 2006-02-07 23:03:11 -0000
 last_modified_at: 2006-02-07 23:03:11 -0000
 publish: true

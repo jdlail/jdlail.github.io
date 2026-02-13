@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/01/incentivising-is-a-very-bad-wo/
 title: Incentivising is a very bad word, but maybe a good idea
-description: None
 date: 2008-01-02 13:19:45 -0000
 last_modified_at: 2008-01-02 13:19:45 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Some more thoughts on how to compensate online content creators.  
@@ -25,5 +24,3 @@ Some more thoughts on how to compensate online content creators.
 I have some other blog postings [here](/cgi-bin/mt/mt-search.cgi?search=tag%3Dcompensation&IncludeBlogs=25&limit=20) on the pay issue, including one that has a link to the full Nick Denton new-pay-plan memo (a must read for this subject). And there is more react at this [search results link](https://blogsearch.google.com/blogsearch?hl=en&q=gawker+pay&btnG=Search+Blogs).  
   
 While people can certainly pick at Nick Denton's plan, mainstream media hoping to make their way fully into digital  need to look at whether their compensation systems reflect their old business or their new.  
-
-

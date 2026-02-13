@@ -2,8 +2,7 @@
 layout: post
 permalink: /2024/04/a-bench-for-taylor-swift-where-shes-never-sat/
 title: 'Taylor Swift''s Bench: A bench for Taylor Swift ... where she''s never sat'
-description: Taylor Swift's Bench is a fan destination, a tourist attraction and a
-  cultural icon, but she never sat there.
+description: Taylor Swift's Bench is a fan destination, a tourist attraction and a cultural icon, but she never sat there.
 date: 2024-04-06 19:12:28 -0000
 last_modified_at: 2024-04-07 16:15:32 -0000
 publish: true

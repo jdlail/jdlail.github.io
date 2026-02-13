@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/08/lets-be-trusted-twitter-friend/
 title: Let's be trusted Twitter friends
-description: None
 date: 2008-08-10 20:00:35 -0000
 last_modified_at: 2008-08-10 20:00:35 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Twitter](/assets_c/2008/05/twitterpng-thumb-150x96.webp)](/images/twitterpng.webp)Some newspapers have been experimenting with Twitter since its early days (you know, two years ago) and the number of newspaper-affiliated accounts continues to grow, according to Erica Smith's [stats](https://graphicdesignr.net/blog/2008/08/03/newspapers-that-twitter-july-numbers/).  
@@ -39,4 +38,3 @@ In short, newspapers need to become "trusted Twitter friends" of their followers
   
 [Follow me](https://twitter.com/jacklail) on Twitter.  
   
-

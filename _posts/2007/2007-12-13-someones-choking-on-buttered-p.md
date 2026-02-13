@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/12/someones-choking-on-buttered-p/
 title: Someone's choking on buttered popcorn
-description: None
 date: 2007-12-13 07:50:26 -0000
 last_modified_at: 2007-12-13 07:50:26 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Knoxville native Philip John Clapp, aka [Johnny Knoxville](https://www.mahalo.com/Johnny_Knoxville), has a new movie that is a ground breaking (and potentially game changing) experiment by a movie studio to bypass theater release and go straight to the Web.  
@@ -25,4 +24,3 @@ Terry Morrow has [the details](https://blogs.knoxnews.com/knx/telebuddy/archives
 >
 
 Wonder how this strikes that other Knoxville resident, [Regal Entertainment Group](https://www.regalcinemas.com/)?
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/10/developing-a-news-video-strate/
 title: Developing a news video strategy is like teaching cats to sing on YouTube
-description: None
 date: 2011-10-04 17:27:58 -0000
 last_modified_at: 2011-10-04 17:27:58 -0000
 publish: true

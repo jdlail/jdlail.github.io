@@ -2,13 +2,12 @@
 layout: post
 permalink: /2013/08/instapundit-at-12/
 title: Instapundit at 12
-description: None
 date: 2013-08-12 05:58:18 -0000
 last_modified_at: 2013-08-12 05:58:18 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Knoxville blogger and law professor Glenn Reynolds' Instapundit blog turned 12 just a few days ago. Here's his [first post](https://pjmedia.com/instapundit-archive/oldarchives/2001_08_05_instapundit_archive.html#4981666).
@@ -26,4 +25,3 @@ And [here's a piece I wrote](https://www.knoxnews.com/news/2011/sep/10/attacks-g
 > \-- John Podhoretz (@jpodhoretz) [August 8, 2013](https://twitter.com/jpodhoretz/statuses/365507423697514497)
 
 Mazel tov, indeed.
-

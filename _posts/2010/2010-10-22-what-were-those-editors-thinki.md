@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/10/what-were-those-editors-thinki/
 title: What were those editors thinking (Day 2)
-description: None
 date: 2010-10-22 10:10:29 -0000
 last_modified_at: 2010-10-22 10:10:29 -0000
 publish: true

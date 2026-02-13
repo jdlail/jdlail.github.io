@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/06/blink-and-youre-beat/
 title: Blink and you're beat
-description: None
 date: 2008-06-14 21:48:06 -0000
 last_modified_at: 2008-06-14 21:48:06 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Brian Cubbison who edits the "News Tracker" blog at syracuse.com greatly expanded on [my observation](/2008/06/wikipedia-breaking-news-site.html) Friday afternoon that Wikipedia beat AP to even a one line alert in the death of Tim Russert on Friday.  
@@ -26,5 +25,3 @@ Kurt Greenbaum in St. Louis wrote [Insta-obit on the site we love to hate: Wikip
 I understand checks and being accurate as well as fast, but blink and you're beat.  
   
 **Update:** Welcome [Instapundit](https://pajamasmedia.com/instapundit/archives2/020486.php) readers! Consider [subscribing](https://feeds.jacklail.com/RandomMumblings) to this site.  
-
-

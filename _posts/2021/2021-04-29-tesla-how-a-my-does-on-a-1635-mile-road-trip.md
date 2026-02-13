@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/04/tesla-how-a-my-does-on-a-1635-mile-road-trip/
 title: 'Tesla: How a MY does on a 1,635 mile road trip'
-description: None
 date: 2021-04-29 17:19:12 -0000
 last_modified_at: 2023-04-28 13:39:11 -0000
 publish: true

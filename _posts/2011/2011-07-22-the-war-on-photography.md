@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/07/the-war-on-photography/
 title: The War on Photography
-description: None
 date: 2011-07-22 19:01:07 -0000
 last_modified_at: 2011-07-22 19:01:07 -0000
 publish: true

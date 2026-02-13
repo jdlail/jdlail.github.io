@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/an-intolerable-lack-of-toleran/
 title: An intolerable lack of tolerance
-description: None
 date: 2009-04-02 06:13:24 -0000
 last_modified_at: 2009-04-02 06:13:24 -0000
 publish: true

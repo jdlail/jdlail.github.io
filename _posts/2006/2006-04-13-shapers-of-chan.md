@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/04/shapers-of-chan/
 title: Shapers of Change
-description: None
 date: 2006-04-13 22:46:35 -0000
 last_modified_at: 2006-04-13 22:46:35 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 A few weeks ago, I got a note from the good folks at UT asking if I would be on a panel. "Sure, no problem," I said. I've spoken to a number of classes at UT and it's always engaging to see what studients will ask about after I've quit babbling. I've discovered the panel is at least a small part of a big deal at the University: UT's first Journalism and Electronic Media Week.  They put it this way in a [news release](https://cci.utk.edu/news.php?id=202):

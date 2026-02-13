@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/07/hey-michael-moore-im-calling-y/
 title: Hey, Michael Moore, I'm calling you out
-description: None
 date: 2010-07-10 17:22:32 -0000
 last_modified_at: 2010-07-10 17:22:32 -0000
 publish: true

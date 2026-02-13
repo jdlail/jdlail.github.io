@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/05/good-thought/
 title: Good thought
-description: None
 date: 2006-05-02 20:59:35 -0000
 last_modified_at: 2006-05-02 20:59:35 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/09/its-all-about-storytelling/
 title: It's all about storytelling
-description: None
 date: 2008-09-09 16:30:18 -0000
 last_modified_at: 2008-09-09 16:30:18 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/sometimes-its-g/
 title: Sometimes, it's good
-description: None
 date: 2007-08-05 12:21:52 -0000
 last_modified_at: 2007-08-05 12:21:52 -0000
 publish: true

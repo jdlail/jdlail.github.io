@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/imus-makes-a-sm/
 title: Imus makes a small contribution to Media Matters
-description: None
 date: 2007-04-14 10:12:53 -0000
 last_modified_at: 2007-04-14 10:12:53 -0000
 publish: true

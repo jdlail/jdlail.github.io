@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/forfeiting-the-fourth-estate/
 title: Forfeiting the Fourth Estate
-description: None
 date: 2009-02-22 02:14:52 -0000
 last_modified_at: 2009-02-22 02:14:52 -0000
 publish: true

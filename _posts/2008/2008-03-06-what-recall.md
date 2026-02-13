@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/what-recall/
 title: What recall
-description: None
 date: 2008-03-06 20:37:35 -0000
 last_modified_at: 2008-03-06 20:37:35 -0000
 publish: true

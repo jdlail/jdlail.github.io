@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/the-very-model-of/
 title: The very model of ...
-description: None
 date: 2008-07-23 00:56:40 -0000
 last_modified_at: 2008-07-23 00:56:40 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/shes-on-the-hot/
 title: She's on the hot list
-description: None
 date: 2007-07-07 22:41:15 -0000
 last_modified_at: 2007-07-07 22:41:15 -0000
 publish: true

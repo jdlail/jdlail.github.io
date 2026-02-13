@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/a-big-newspaper-bet/
 title: A big newspaper bet
-description: None
 date: 2009-06-21 11:58:38 -0000
 last_modified_at: 2009-06-21 11:58:38 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/new-for-the-reporters-tool-bel/
 title: New for the reporter's tool belt
-description: None
 date: 2008-02-10 12:20:00 -0000
 last_modified_at: 2008-02-10 12:20:00 -0000
 publish: true

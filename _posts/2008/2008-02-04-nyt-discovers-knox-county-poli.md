@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/nyt-discovers-knox-county-poli/
 title: NYT discovers Knox County politics
-description: None
 date: 2008-02-04 09:09:24 -0000
 last_modified_at: 2008-02-04 09:09:24 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/02/tsk-tsk-disc-disk/
 title: Tsk, tsk, disc, disk
-description: None
 date: 2010-02-09 17:58:35 -0000
 last_modified_at: 2010-02-09 17:58:35 -0000
 publish: true
@@ -21,6 +20,3 @@ The AP Stylebook czars put out a notice today that included an entry on disc vs 
 >
 
 This is an updated entry in the online version of the venerable style guide. There you have it, the definitive answer in disc vs disk..  
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=56746652-f35a-46cc-867e-96f08a353dde)](https://reblog.zemanta.com/zemified/56746652-f35a-46cc-867e-96f08a353dde/ "Reblog this post \[with Zemanta\]")
-

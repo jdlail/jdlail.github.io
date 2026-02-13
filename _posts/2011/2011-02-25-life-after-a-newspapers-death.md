@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/02/life-after-a-newspapers-death/
 title: There is life after a newspaper's death; sometimes a better one
-description: None
 date: 2011-02-25 20:15:17 -0000
 last_modified_at: 2011-02-25 20:15:17 -0000
 publish: true

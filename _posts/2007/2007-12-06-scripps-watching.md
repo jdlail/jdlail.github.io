@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/scripps-watching/
 title: Scripps watching
-description: None
 date: 2007-12-06 06:05:46 -0000
 last_modified_at: 2007-12-06 06:05:46 -0000
 publish: true

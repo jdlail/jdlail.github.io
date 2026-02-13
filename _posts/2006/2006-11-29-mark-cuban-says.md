@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/mark-cuban-says/
 title: Mark Cuban says put this play in ...
-description: None
 date: 2006-11-29 05:18:11 -0000
 last_modified_at: 2006-11-29 05:18:11 -0000
 publish: true

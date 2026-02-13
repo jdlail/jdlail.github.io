@@ -2,7 +2,7 @@
 layout: post
 permalink: /2022/09/a-portrait-of-adolph-ochs/
 title: A portrait of Adolph Ochs
-description: None
+description: 'The East Tennessee Pro Chapter of the Society of Professional Journalists is holding three events in September about Adolph Ochs.'
 date: 2022-09-12 21:04:42 -0000
 last_modified_at: 2022-09-12 21:05:55 -0000
 publish: true
@@ -10,7 +10,7 @@ pin: false
 image:
   path: /assets/wp-content/uploads/2022/09/adolph-ochs-both.webp
 categories:
-- Newspapers
+- Media
 tags:
 - ETSPJ
 - Journalism

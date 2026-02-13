@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/08/bakersfield-bar/
 title: Bakersfield bargain
-description: None
 date: 2006-08-21 13:18:01 -0000
 last_modified_at: 2006-08-21 13:18:01 -0000
 publish: true

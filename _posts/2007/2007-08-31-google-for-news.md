@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/08/google-for-news/
 title: Google for news
-description: None
 date: 2007-08-31 23:19:44 -0000
 last_modified_at: 2007-08-31 23:19:44 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Lots of people chiming in on Google's use today of full-text Associated Press stories instead of linking to AP member Web sites.
@@ -38,7 +37,7 @@ But others got more excited about the alignment of the storied wire service and
 * _Updated:_ Rafat Ali: [Google News Starts Publishing Full Stories; AP, AFP, PA and Canadian Press; Still No Ads](https://www.paidcontent.org/entry/419-google-starts-publishing-full-stories-on-its-news-section-ap-afp-pa-and/) and [Google Rationale For Deal With Wires: "Duplicate Detection"](https://www.paidcontent.org/entry/419-google-rational-for-deal-with-wires-duplicate-detection/)
 * techdirt: [Google Finally Hosting News On Its Site: Will Newspapers Get Pissed Off At AP Now?](https://www.personalbee.com/261/17973833)
 * Josh Cohen/Google News Blog: [Original stories, from the source](https://googlenewsblog.blogspot.com/2007/08/original-stories-from-source.html)
-* _Updated:_ Patrick Beeson's pre-announcement [Newspaper wire services are obsolete](https://patrickbeeson.com/2007/08/26/newspaper-wire-services-are-ob/) and post-announcement [Google hosts AP, death knell for wire services](https://patrickbeeson.com/2007/09/01/google-hosts-ap-death-knell-fo/) 
+* _Updated:_ Patrick Beeson's pre-announcement [Newspaper wire services are obsolete](https://patrickbeeson.com/2007/08/26/newspaper-wire-services-are-ob/) and post-announcement [Google hosts AP, death knell for wire services](https://patrickbeeson.com/2007/09/01/google-hosts-ap-death-knell-fo/)
 * Glenn Franxman: [Death of the AP](https://hackermojo.com/mt-static/archives/2007/08/ap-death-spiral-begins.html)
 * _Updated:_ Dan Gillmor: [Google Now Officially Competing with Newspapers; So is AP](https://citmedia.org/blog/2007/09/01/google-now-officially-competing-with-newspapers-so-is-ap/)
 * _Updated:_ Jeff Jarvis: [Link v. read](https://www.buzzmachine.com/2007/09/01/link-v-read/)
@@ -55,5 +54,3 @@ But others got more excited about the alignment of the storied wire service and
 * _Updated:_ John Battalle: [Google Hosting News: This Is A Big Deal, Announced Quietly](https://battellemedia.com/archives/003923.php)
 * _Updated_ : Cory Bergman: [Time to rethink the AP model?](https://www.lostremote.com/2007/09/03/time-to-rethink-aps-model/)
 * _Updated:_ Ryan Sholin: [All I'm going to say about the Google/AP thing](https://www.ryansholin.com/2007/09/04/all-im-going-to-say-about-the-googleap-thing/)  
-
- 

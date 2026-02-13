@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/wave-a-magic-wand/
 title: Wave a Magic Wand
-description: None
 date: 2008-01-04 19:22:20 -0000
 last_modified_at: 2008-01-04 19:22:20 -0000
 publish: true

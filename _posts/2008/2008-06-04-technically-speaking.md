@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/technically-speaking/
 title: Technically speaking ...
-description: None
 date: 2008-06-04 06:37:32 -0000
 last_modified_at: 2008-06-04 06:37:32 -0000
 publish: true

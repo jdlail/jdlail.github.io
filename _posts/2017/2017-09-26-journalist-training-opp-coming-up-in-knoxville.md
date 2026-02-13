@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/09/journalist-training-opp-coming-up-in-knoxville/
 title: Journalist training opp coming up in Knoxville
-description: None
 date: 2017-09-26 11:29:42 -0000
 last_modified_at: 2017-09-26 11:29:42 -0000
 publish: true

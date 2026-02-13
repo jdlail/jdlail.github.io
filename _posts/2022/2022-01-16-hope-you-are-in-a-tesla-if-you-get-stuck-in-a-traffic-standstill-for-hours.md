@@ -2,7 +2,7 @@
 layout: post
 permalink: /2022/01/hope-you-are-in-a-tesla-if-you-get-stuck-in-a-traffic-standstill-for-hours/
 title: Hope you are in a Tesla if you get stuck in a traffic standstill for hours
-description: None
+description: 'Fact-checkers looked into claims that electric vehicles would fare worse in a traffic standstill'
 date: 2022-01-16 20:21:07 -0000
 last_modified_at: 2022-01-16 20:21:08 -0000
 publish: true
@@ -33,7 +33,7 @@ U.S. Sen. Tim Kaine, D-Va., said his normal two-hour drive to Washington took 27
 
 Washington Post editorial writer and columnist Charles Lane wrote in an opinion piece buttressed by an anecdote from a truck driver on Twitter that “If everyone had been driving electric vehicles, this mess could well have been worse.”
 
-{% include twitter.html url="https://twitter.com/PostOpinions/status/1478521919737675777" %}
+{% include twitter.html url="<https://twitter.com/PostOpinions/status/1478521919737675777>" %}
 Lane based his piece largely on [this one tweet](https://twitter.com/myworldtaw/status/1478269945368780806). He hedges that gasoline-powered [cars were stranded on the interstate](https://apnews.com/article/snow-storm-weather-195-virginia-660346cff578c655186ac517fb45f17f) as well after they ran out of fuel or their batteries died, but his point was with electric vehicles, it would have all been worse, much worse, apocalypse worse.
 
 > A lie that is half-truth is the darkest of all lies.
@@ -52,7 +52,7 @@ _"The post shows a photo of a road packed with vehicles at a standstill and says
 
 Reuters fact-checked claims along the same line in November pointing to an image that it had examples of from May and [October](https://twitter.com/havingagiraf/status/1454149519189454849).
 
-{% include twitter.html url="https://twitter.com/ItallionTony/status/1398440922036199427" %}
+{% include twitter.html url="<https://twitter.com/ItallionTony/status/1398440922036199427>" %}
 So how did electric vehicles fare in the traffic standstill on I-95 during the snowstorm?
 
 [Dan Kanninen wrote in a blog post](https://www.zeta2030.org/insights/im-grateful-that-i-was-driving-my-ev-when-i-got-stuck-on-i-95) responding to Lane’s column with his own experiences in his Tesla Model 3 Standard Range during the snow traffic standstill:
@@ -109,4 +109,3 @@ With Camp Mode, you may lose 10% to !5% of your battery over an eight-to-nine ho
 Turn the cabin temperature down to 60 degrees (or even 50 degrees if you can stand it) and turn on the seat warmers to stay toasty while using even less battery power.
 
 And, just as you would keep an ICE-gas filled up in inclement weather, keep your EV charged up during a winter trip just in case. More [cold weather tips for Tesla drivers](https://insideevs.com/features/464551/tesla-winter-cold-weather-driving-guide/). These, [too](https://evannex.com/blogs/news/cold-weather-tips-for-your-tesla-model-3-s-and-x).
-

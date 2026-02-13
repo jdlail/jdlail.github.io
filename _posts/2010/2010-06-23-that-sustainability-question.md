@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/06/that-sustainability-question/
 title: That sustainability question
-description: None
 date: 2010-06-23 10:39:59 -0000
 last_modified_at: 2010-06-23 10:39:59 -0000
 publish: true

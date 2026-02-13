@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/11/podcasting-they/
 title: 'Podcasting: They hear it differently'
-description: None
 date: 2006-11-25 21:50:14 -0000
 last_modified_at: 2006-11-25 21:50:14 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [BBC News](https://news.bbc.co.uk/1/hi/technology/6175728.stm): Podcast numbers show 'few hooked' [The (San Jose) Mercury News](https://www.mercurynews.com/mld/mercurynews/business/16082799.htm): Podcasts beginning to reach non-geeks Both were reporting on a Wednesday release from the [Pew Internet and American Life Project](https://www.pewinternet.org/). From the Mercury News article:

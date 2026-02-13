@@ -2,8 +2,7 @@
 layout: post
 permalink: /2024/10/riding-out-hurricane-helene-in-western-north-carolina/
 title: Riding out Hurricane Helene in Western North Carolina
-description: 'Hurricane Helene: Living through Helene''s onslaught on Western North
-  Carolina with 70 mph winds and up to two feet of rain.'
+description: 'Hurricane Helene: Living through Helene''s onslaught on Western North Carolina with 70 mph winds and up to two feet of rain.'
 date: 2024-10-10 21:51:26 -0000
 last_modified_at: 2024-10-11 20:23:03 -0000
 publish: true
@@ -141,4 +140,3 @@ By Sunday evening, the water system's lines serving our house went dry; the syst
 Out of water and starting to get low on food, we left again on mid-morning Monday. The N.C. Highway Patrol was allowing cars to use "Old Asheville Highway" (Highway 23) from the Wolf Laurel exit on I-26 to Erwin, crossing over I-26 as we came into town with a horrifying panoramic view of the destruction caused by historic flooding of the Nolichucky River that took out the interstate and resulted in several deaths of workers at [a plastics factory](https://www.nytimes.com/2024/10/06/us/helene-tennessee-factory-deaths.html).
 
 It will be a long rebuild for thousands in hundreds of communities. Find a way to help.
-

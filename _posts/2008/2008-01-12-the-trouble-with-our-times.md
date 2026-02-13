@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/the-trouble-with-our-times/
 title: Only the years have changed
-description: None
 date: 2008-01-12 13:23:02 -0000
 last_modified_at: 2008-01-12 13:23:02 -0000
 publish: true

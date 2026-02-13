@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/online-animals/
 title: Online animals
-description: None
 date: 2008-02-27 21:32:04 -0000
 last_modified_at: 2023-04-28 14:45:08 -0000
 publish: true

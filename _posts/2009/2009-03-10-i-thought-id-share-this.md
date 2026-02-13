@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/i-thought-id-share-this/
 title: I thought I'd share this
-description: None
 date: 2009-03-10 07:00:27 -0000
 last_modified_at: 2009-03-10 07:00:27 -0000
 publish: true

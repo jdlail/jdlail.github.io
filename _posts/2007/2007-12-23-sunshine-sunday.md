@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/sunshine-sunday/
 title: Sunshine Sunday
-description: None
 date: 2007-12-23 10:27:39 -0000
 last_modified_at: 2007-12-23 10:27:39 -0000
 publish: true

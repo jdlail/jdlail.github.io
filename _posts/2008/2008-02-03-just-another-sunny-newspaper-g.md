@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/just-another-sunny-newspaper-g/
 title: Just another sunny newspaper guy
-description: None
 date: 2008-02-03 17:48:42 -0000
 last_modified_at: 2008-02-03 17:48:42 -0000
 publish: true

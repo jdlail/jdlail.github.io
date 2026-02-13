@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/at-the-gala/
 title: At the gala ...
-description: None
 date: 2005-10-28 09:16:18 -0000
 last_modified_at: 2005-10-28 09:16:18 -0000
 publish: true

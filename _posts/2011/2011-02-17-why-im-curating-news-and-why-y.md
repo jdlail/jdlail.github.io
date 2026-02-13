@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/02/why-im-curating-news-and-why-y/
 title: Why I'm curating news and why you should too
-description: None
 date: 2011-02-17 15:40:32 -0000
 last_modified_at: 2011-02-17 15:40:32 -0000
 publish: true

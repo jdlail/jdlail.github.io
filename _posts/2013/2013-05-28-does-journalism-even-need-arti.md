@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/05/does-journalism-even-need-arti/
 title: Does journalism even need articles?
-description: None
 date: 2013-05-28 19:32:19 -0000
 last_modified_at: 2013-05-28 19:32:19 -0000
 publish: true

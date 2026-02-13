@@ -2,7 +2,7 @@
 layout: post
 permalink: /2005/03/beatitful-satur/
 title: Beautiful Saturday
-description: None
+description: Jogging (I call it jogging ... a fast walker could pass me, no doubt)
 date: 2005-03-05 13:52:04 -0000
 last_modified_at: 2005-03-05 13:52:04 -0000
 publish: true

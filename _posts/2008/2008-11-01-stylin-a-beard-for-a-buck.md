@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/stylin-a-beard-for-a-buck/
 title: Stylin' a beard for a buck
-description: None
 date: 2008-11-01 21:43:19 -0000
 last_modified_at: 2023-03-12 20:22:05 -0000
 publish: true

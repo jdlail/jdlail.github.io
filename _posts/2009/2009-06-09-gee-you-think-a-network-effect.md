@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/gee-you-think-a-network-effect/
 title: Gee, you think a network effect would work on the Internet
-description: None
 date: 2009-06-09 15:05:42 -0000
 last_modified_at: 2009-06-09 15:05:42 -0000
 publish: true

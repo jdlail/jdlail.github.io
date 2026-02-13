@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/newsrooms-need-crazy-new-job-roles/
 title: Newsrooms need crazy new job roles
-description: None
 date: 2008-11-09 12:00:00 -0000
 last_modified_at: 2008-11-09 12:00:00 -0000
 publish: true

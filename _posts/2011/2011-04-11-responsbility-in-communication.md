@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/04/responsbility-in-communication/
 title: Responsbility in communication is vital to the future of the First Amendment
-description: None
 date: 2011-04-11 15:30:14 -0000
 last_modified_at: 2011-04-11 15:30:14 -0000
 publish: true

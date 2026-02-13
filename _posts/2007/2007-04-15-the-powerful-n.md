@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/the-powerful-n/
 title: I've got the Willies with this storm
-description: None
 date: 2007-04-15 17:26:24 -0000
 last_modified_at: 2007-04-15 17:26:24 -0000
 publish: true

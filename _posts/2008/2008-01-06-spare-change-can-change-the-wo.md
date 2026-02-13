@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/spare-change-can-change-the-wo/
 title: Spare change can change the world
-description: None
 date: 2008-01-06 14:20:41 -0000
 last_modified_at: 2008-01-06 14:20:41 -0000
 publish: true

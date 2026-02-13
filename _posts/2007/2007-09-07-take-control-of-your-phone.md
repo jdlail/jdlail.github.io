@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/take-control-of-your-phone/
 title: Take control of your phone
-description: None
 date: 2007-09-07 18:08:31 -0000
 last_modified_at: 2007-09-07 18:08:31 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/hdr-at-badin-la/
 title: HDR at Badin Lake
-description: None
 date: 2007-07-04 16:53:42 -0000
 last_modified_at: 2007-07-04 16:53:42 -0000
 publish: true

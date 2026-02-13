@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/11/page-one-inside-the-new-york-t/
 title: '''Page One: Inside The New York Times'' is a must see for news junkies'
-description: None
 date: 2011-11-16 19:04:10 -0000
 last_modified_at: 2011-11-16 19:04:10 -0000
 publish: true

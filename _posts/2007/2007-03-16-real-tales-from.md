@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/real-tales-from/
 title: Real tales from Ilana Arazie
-description: None
 date: 2007-03-16 19:10:45 -0000
 last_modified_at: 2007-03-16 19:10:45 -0000
 publish: true

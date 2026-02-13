@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/12/i-live-in-a-game-perserve-of-c/
 title: '''I live in a game perserve of corruption'''
-description: None
 date: 2012-12-08 13:27:59 -0000
 last_modified_at: 2012-12-08 13:27:59 -0000
 publish: true

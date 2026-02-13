@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/leonard-pitts-j/
 title: The limelight of hate
-description: None
 date: 2007-06-20 08:05:32 -0000
 last_modified_at: 2007-06-20 08:05:32 -0000
 publish: true

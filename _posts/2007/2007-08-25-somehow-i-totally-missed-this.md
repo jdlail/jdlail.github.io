@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/08/somehow-i-totally-missed-this/
 title: This is strange enough to make Fark's top page
-description: None
 date: 2007-08-25 11:18:04 -0000
 last_modified_at: 2007-08-25 11:18:04 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 ![Darrell Phillps](/images/darrellphillips.gif)  

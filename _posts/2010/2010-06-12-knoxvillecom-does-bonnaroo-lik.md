@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/06/knoxvillecom-does-bonnaroo-lik/
 title: Knoxville.com does Bonnaroo like no one else
-description: None
 date: 2010-06-12 07:48:11 -0000
 last_modified_at: 2010-06-12 07:48:11 -0000
 publish: true

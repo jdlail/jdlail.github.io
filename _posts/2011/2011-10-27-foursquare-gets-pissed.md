@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/10/foursquare-gets-pissed/
 title: Foursquare gets pissed
-description: None
 date: 2011-10-27 06:21:52 -0000
 last_modified_at: 2011-10-27 06:21:52 -0000
 publish: true

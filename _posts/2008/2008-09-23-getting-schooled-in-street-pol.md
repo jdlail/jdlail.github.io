@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/09/getting-schooled-in-street-pol/
 title: Getting schooled in street politics
-description: None
 date: 2008-09-23 21:43:11 -0000
 last_modified_at: 2008-09-23 21:43:11 -0000
 publish: true

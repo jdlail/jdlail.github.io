@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/11/reunion-photos/
 title: Reunion photos added
-description: None
 date: 2005-11-27 12:52:41 -0000
 last_modified_at: 2005-11-27 12:52:41 -0000
 publish: true

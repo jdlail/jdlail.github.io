@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/09/text-is-just-for-context/
 title: Text is just for context
-description: None
 date: 2010-09-28 08:05:02 -0000
 last_modified_at: 2010-09-28 08:05:02 -0000
 publish: true

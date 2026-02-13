@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/06/content-rules/
 title: Content rules
-description: None
 date: 2006-06-21 06:32:42 -0000
 last_modified_at: 2006-06-21 06:32:42 -0000
 publish: true

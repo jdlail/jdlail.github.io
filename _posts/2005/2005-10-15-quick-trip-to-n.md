@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/quick-trip-to-n/
 title: Quick trip to North Carolina
-description: None
 date: 2005-10-15 10:19:49 -0000
 last_modified_at: 2005-10-15 10:19:49 -0000
 publish: true

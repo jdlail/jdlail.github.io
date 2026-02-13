@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/11/a-way-to-do-better-storytellin/
 title: Doing better storytelling with opinion polling
-description: None
 date: 2012-11-22 13:15:34 -0000
 last_modified_at: 2012-11-22 13:15:34 -0000
 publish: true

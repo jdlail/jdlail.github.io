@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/not-even-few-apples-slows-appl/
 title: Not even few apples slows Apple Festival
-description: None
 date: 2007-10-06 10:19:56 -0000
 last_modified_at: 2007-10-06 10:19:56 -0000
 publish: true

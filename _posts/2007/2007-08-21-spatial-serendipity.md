@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/08/spatial-serendipity/
 title: Spatial Serendipity
-description: None
 date: 2007-08-21 21:56:10 -0000
 last_modified_at: 2007-08-21 21:56:10 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 One idea [here](https://grasshopperfactory.com/cbc/the-power-of-local-social-media/) (and there are several) that I liked a lot is that of a local social media package that would give you the tools to be plugged into a city, scene, location.  Here' s the concept that Chris Brogan outlines in his blog post:

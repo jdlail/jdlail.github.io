@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/envious-in-the-newsroom/
 title: Envious in the newsroom
-description: None
 date: 2007-11-18 11:56:02 -0000
 last_modified_at: 2007-11-18 11:56:02 -0000
 publish: true

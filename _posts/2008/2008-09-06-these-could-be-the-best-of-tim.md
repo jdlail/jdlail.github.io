@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/09/these-could-be-the-best-of-tim/
 title: These could be the best of times for journalists
-description: None
 date: 2008-09-06 04:59:47 -0000
 last_modified_at: 2008-09-06 04:59:47 -0000
 publish: true

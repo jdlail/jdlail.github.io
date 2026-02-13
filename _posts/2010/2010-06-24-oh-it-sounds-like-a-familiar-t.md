@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/06/oh-it-sounds-like-a-familiar-t/
 title: Oh, it sounds like a familiar tune
-description: None
 date: 2010-06-24 21:56:23 -0000
 last_modified_at: 2010-06-24 21:56:23 -0000
 publish: true

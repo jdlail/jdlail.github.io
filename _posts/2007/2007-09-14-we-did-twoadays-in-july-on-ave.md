@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/09/we-did-twoadays-in-july-on-ave/
 title: We did two-a-days in July (on average)
-description: None
 date: 2007-09-14 21:47:35 -0000
 last_modified_at: 2007-09-14 21:47:35 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 The Sept. 12 [comScore release](https://www.comscore.com/press/release.asp?press=1678) on online video in July contains some remarkable numbers:

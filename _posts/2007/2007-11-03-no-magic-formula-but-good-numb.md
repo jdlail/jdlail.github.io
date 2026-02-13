@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/no-magic-formula-but-good-numb/
 title: No magic formula, but good numbers nonetheless
-description: None
 date: 2007-11-03 09:43:01 -0000
 last_modified_at: 2007-11-03 09:43:01 -0000
 publish: true

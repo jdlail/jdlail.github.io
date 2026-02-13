@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/08/ill-take-a-long/
 title: I'll take a long neck
-description: None
 date: 2007-08-01 20:28:26 -0000
 last_modified_at: 2007-08-01 20:28:26 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: [Rules]
 ---
 The "[long neck](https://www.andydickinson.net/2007/08/01/bin-your-digital-strategy/)" concept is a new one on me.

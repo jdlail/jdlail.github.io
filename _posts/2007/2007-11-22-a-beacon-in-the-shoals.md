@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/a-beacon-in-the-shoals/
 title: A beacon in the shoals
-description: None
 date: 2007-11-22 10:35:56 -0000
 last_modified_at: 2007-11-22 10:35:56 -0000
 publish: true

@@ -2,7 +2,7 @@
 layout: post
 permalink: /2005/02/jack-lail-blog/
 title: The first mumble
-description: None
+description: "The first mumble"
 date: 2005-02-18 22:33:26 -0000
 last_modified_at: 2005-02-18 22:33:26 -0000
 publish: true

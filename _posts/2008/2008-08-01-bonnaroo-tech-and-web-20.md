@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/08/bonnaroo-tech-and-web-20/
 title: Bonnaroo, tech and Web 2.0
-description: None
 date: 2008-08-01 19:35:27 -0000
 last_modified_at: 2008-08-01 19:35:27 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 ![CrowdFire](/images/logo_crowdfire-1-tm.webp)John Battelle with a good post on the Bonnaroo festival in Middle Tennesse that segues into a new site he's involved in called CrowdFire.  
@@ -27,4 +26,3 @@ Of Bonnaroo, where he had backstage access, [he says](https://battellemedia.com/
 What's [Crowdfire](https://www.crowdfire.net/)? It looks to be a site where people can share memories about music and concert by uploading most anything. Interesting site and a pretty smart take on what's happening to music.  
   
 >
-

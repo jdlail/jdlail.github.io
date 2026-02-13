@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/10/training-to-be-editor-of-the-p/
 title: Training to be Editor of the Public
-description: None
 date: 2008-10-04 13:44:29 -0000
 last_modified_at: 2008-10-04 13:44:29 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Back when I was taking journalism courses (a dimly remembered pre-Googlian time before the dawn of the modern age of technology), we were taught about writing inverted pyramid stories, AP style, the basics of libel and First Amendment law, journalism ethics and the strange hieroglyphics of copying editing on paper (talk about lost arts).  
@@ -32,4 +31,3 @@ Managing users and their content is part policy, part cheerleader, part host and
 
 I'd say this goes for anyone who manages user generated content, not just community managers. How is your organization developing people for these skills?  
   
-

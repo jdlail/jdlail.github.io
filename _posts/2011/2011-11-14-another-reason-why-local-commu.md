@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/11/another-reason-why-local-commu/
 title: Just another reason why local communities need local media
-description: None
 date: 2011-11-14 15:06:42 -0000
 last_modified_at: 2011-11-14 15:06:42 -0000
 publish: true

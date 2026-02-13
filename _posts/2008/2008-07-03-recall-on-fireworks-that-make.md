@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/recall-on-fireworks-that-make/
 title: Recall on fireworks that make 'loud bang'
-description: None
 date: 2008-07-03 15:52:30 -0000
 last_modified_at: 2008-07-03 15:52:30 -0000
 publish: true

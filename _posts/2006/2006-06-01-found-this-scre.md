@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/06/found-this-scre/
 title: Found this screensucking
-description: None
 date: 2006-06-01 15:33:12 -0000
 last_modified_at: 2006-06-01 15:33:12 -0000
 publish: true

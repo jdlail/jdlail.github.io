@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/combined-journalism-experience/
 title: Journalism experience of over 100 years is leaving the building
-description: None
 date: 2008-01-13 11:11:13 -0000
 last_modified_at: 2008-01-13 11:11:13 -0000
 publish: true

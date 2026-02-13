@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/alison-stewart-sighting/
 title: Alison Stewart sighting
-description: None
 date: 2008-11-19 05:31:01 -0000
 last_modified_at: 2008-11-19 05:31:01 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/going-down-for-the-wrong-cause/
 title: Going down for the wrong cause
-description: None
 date: 2008-01-23 07:25:14 -0000
 last_modified_at: 2008-01-23 07:25:14 -0000
 publish: true

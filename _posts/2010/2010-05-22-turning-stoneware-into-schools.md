@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/05/turning-stoneware-into-schools/
 title: Turning stoneware into schools
-description: None
 date: 2010-05-22 10:24:14 -0000
 last_modified_at: 2010-05-22 10:24:14 -0000
 publish: true
@@ -11,7 +10,9 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Seagrove Potters for Peace](/assets_c/2010/05/seagrovepottersforpeace-thumb-250x236-570.webp)](/images/seagrovepottersforpeace.webp)Here's an Interesting effort by at least 24 Seagrove, N.C., potters to raise money for help [Greg Mortenson](https://en.wikipedia.org/wiki/Greg_Mortenson "Greg Mortenson") build schools in Pakistan and Afghanistan.  
+[![Seagrove Potters for Peace](/assets_c/2010/05/seagrovepottersforpeace-thumb-250x236-570.webp)](/images/seagrovepottersforpeace.webp)
+
+Here's an Interesting effort by at least 24 Seagrove, N.C., potters to raise money for help [Greg Mortenson](https://en.wikipedia.org/wiki/Greg_Mortenson "Greg Mortenson") build schools in Pakistan and Afghanistan.  
   
 They are creating special pieces to sell on Aug. 14 to raise money for his [Central Asia Institute](https://www.ikat.org/) (at least half the sales price of each piece will go to the group). The Central Asia Institute is one of 10 charities that received part of President Obama's Nobel Peace money. Mortenson's book, [Three Cups of Tea](https://www.amazon.com/gp/product/0143038257?ie=UTF8&tag=wwwjacklailco-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0143038257)![](https://www.assoc-amazon.com/e/ir?t=wwwjacklailco-20&l=as2&o=1&a=0143038257), inspired the potters, who held a smaller event last year.  
   
@@ -27,6 +28,3 @@ Seagrove's potters are not rich. Their shops are small family businesses. Often 
 * [Stones Into Schools. Promoting peace with books, not bombs, in afghanistan and pakistan. Greg Mortensen](https://www.regnordman.com/2010/04/27/stones-into-schools-promoting-peace-with-books-not-bombs-in-afghanistan-and-pakistan-greg-mortensen/) (regnordman.com)
 * [Obama Donates $1.4M Nobel Cash to 10 Charities](https://www.newser.com/story/83051/obama-donates-14m-nobel-cash-to-10-charities.html) (newser.com)
 * [The way up is down](https://blakehuggins.com/2010/02/14/the-way-up-is-down/) (blakehuggins.com)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=f513e441-bdeb-490c-adec-471ac478fb09)](https://reblog.zemanta.com/zemified/f513e441-bdeb-490c-adec-471ac478fb09/ "Reblog this post \[with Zemanta\]")
-

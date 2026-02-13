@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/10/journalism-as-stir-fry/
 title: Journalism as stir-fry
-description: None
 date: 2010-10-17 21:16:11 -0000
 last_modified_at: 2010-10-17 21:16:11 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -25,4 +24,3 @@ Related articles
 * [A Skeptical Take on Gawker's Sale Prospects](https://dealbook.blogs.nytimes.com/2010/10/15/a-skeptical-take-on-a-gawker-sale/) (dealbook.blogs.nytimes.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=859885f1-a6d7-4cf3-b0e8-851a02bf1e2c)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

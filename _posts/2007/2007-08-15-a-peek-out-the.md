@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/a-peek-out-the/
 title: A peek out the box
-description: None
 date: 2007-08-15 22:02:55 -0000
 last_modified_at: 2007-08-15 22:02:55 -0000
 publish: true

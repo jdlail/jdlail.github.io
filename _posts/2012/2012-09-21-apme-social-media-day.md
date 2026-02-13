@@ -2,13 +2,12 @@
 layout: post
 permalink: /2012/09/apme-social-media-day/
 title: APME Social Media Day
-description: None
 date: 2012-09-21 17:15:23 -0000
 last_modified_at: 2012-09-21 17:15:23 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [APME]
 ---
   

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/be-careful-out-there/
 title: Be careful out there
-description: None
 date: 2007-11-17 07:30:33 -0000
 last_modified_at: 2007-11-17 07:30:33 -0000
 publish: true

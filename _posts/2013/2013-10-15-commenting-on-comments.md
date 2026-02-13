@@ -2,13 +2,12 @@
 layout: post
 permalink: /2013/10/commenting-on-comments/
 title: Commenting on comments
-description: None
 date: 2013-10-15 19:25:48 -0000
 last_modified_at: 2013-10-15 19:25:48 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 * [Four Ways to Improve the Culture of Commenting - NYTimes.com](https://6thfloor.blogs.nytimes.com/2013/09/23/four-ways-to-improve-the-culture-of-commenting/?_r=1)
@@ -81,5 +80,3 @@ tags: []
 * [The New York Times Loves Some Readers More Than Others - Brainstorm - The Chronicle of Higher Education](https://chronicle.com/blogs/brainstorm/the-new-york-times-makes-doesnt-trust-its-readers/41787)
 * [Gannett requiring Facebook for posting](https://www.newsandtech.com/whats_new/article_1da45160-096e-11e1-b7de-001cc4c03286.html)
 * [Comments on Your Website: The Good, the Bad, and the Ugly | The City Wire](https://www.thecitywire.com/index.php?q=node/19016)
-
-

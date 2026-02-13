@@ -2,14 +2,13 @@
 layout: post
 permalink: /2011/03/i-bet-you-first-saw-this-onlin/
 title: I bet you first saw this online
-description: None
 date: 2011-03-15 08:11:22 -0000
 last_modified_at: 2011-03-15 08:11:22 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
   
@@ -33,4 +32,3 @@ The full State of the [News Media 2011](https://stateofthemedia.org/).
 * [Report: Internet usage transforming news industry](https://www.pbpulse.com/tv/2011/03/14/report-internet-usage-transforming-news-industry/) (pbpulse.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=13b15507-54c4-4247-962e-08aa6bfe527b)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

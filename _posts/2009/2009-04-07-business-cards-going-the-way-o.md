@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/business-cards-going-the-way-o/
 title: Business cards going the way of  .... ah ... newspapers?
-description: None
 date: 2009-04-07 09:36:38 -0000
 last_modified_at: 2009-04-07 09:36:38 -0000
 publish: true

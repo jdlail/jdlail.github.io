@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/04/the-funny-thing-about-growth-c/
 title: The funny thing about growth curves
-description: None
 date: 2009-04-29 21:42:54 -0000
 last_modified_at: 2009-04-29 21:42:54 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Jay Small has [a smart take](https://smallinitiatives.com/node/1141) on the similarity of Twitter's audience retention woes and those of local news sites:  
@@ -17,5 +16,3 @@ Jay Small has [a smart take](https://smallinitiatives.com/node/1141) on the simi
 >
 > Does that mean we in local media should hope Twitter finds a great business model to capitalize on its traffic, since it so resembles ours? Hmm. Maybe. I find it easier (though not completely easy) to connect those dots than the ones between us and, say, Google, Amazon, Microsoft, Apple or eBay.  
 >
-
-

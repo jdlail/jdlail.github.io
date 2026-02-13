@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/most-famous-celeb-in-town/
 title: Most famous celeb in town
-description: None
 date: 2008-08-02 10:44:33 -0000
 last_modified_at: 2008-08-02 10:44:33 -0000
 publish: true

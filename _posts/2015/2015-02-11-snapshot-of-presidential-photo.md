@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/02/snapshot-of-presidential-photo/
 title: Snapshot of presidential photographers
-description: None
 date: 2015-02-11 13:38:16 -0000
 last_modified_at: 2015-02-11 13:38:16 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/03/over-70-snowmen-captured-in-na/
 title: Over 70 snowmen captured in Nashville weather roundup
-description: None
 date: 2008-03-11 11:57:01 -0000
 last_modified_at: 2008-03-11 11:57:01 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 In covering the snowstorm that hit everywhere in Tennessee but Knoxville on Saturday (OK, there was a little on the ground if you didn't blink), I noticed that WKRN in Nashville totally rocked with user submitted photos.  
@@ -32,4 +31,3 @@ If I understand the site correctly, media (photos or video) can be uploaded from
   
 These folks seem to have something and WKRN was smart to hook up with them  Best of luck to both.  
   
-

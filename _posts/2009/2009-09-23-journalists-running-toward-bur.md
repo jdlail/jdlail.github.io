@@ -2,17 +2,19 @@
 layout: post
 permalink: /2009/09/journalists-running-toward-bur/
 title: Journalists running toward burning buildings as fast as they can
-description: None
 date: 2009-09-23 08:24:25 -0000
 last_modified_at: 2009-09-23 08:24:25 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
-- Online Media
-tags: []
+- Media
+tags: [Newspapers]
+image: 
+    path: /images/IMG_0206.webp
+    alt: Rusty Coats at KSMA
 ---
-[![Rusty Coats at KSMA](/assets_c/2009/09/IMG_0206-thumb-250x255-512.webp)](/images/IMG_0206.webp)E.W. Scripps Vice President of Content Rusty Coats, speaking to the Knoxville Social Media Association on a humid Tuesday evening, talked about the future of journalism, social media and journalism and how Scripps is remaking itself in an reorganization announced less than a month ago.  
+
+E.W. Scripps Vice President of Content Rusty Coats, speaking to the Knoxville Social Media Association on a humid Tuesday evening, talked about the future of journalism, social media and journalism and how Scripps is remaking itself in an reorganization announced less than a month ago.  
   
 Here how the listeners Twittered his speech outside at the Crown and Goose in Knoxville's Old City.  
   
@@ -79,5 +81,3 @@ The posts are not in time order, but rather are sorted alphabetically (so I coul
 * While newsroom struggle with web-first the world has moved to mobile #knoxsocialmedia -- [webkilledtv (Sobo)](https://twitter.com/webkilledtv)
 * With social media, everyone writes the news - Rusty Coats #knoxsocialmedia -- [PRNicoleV (Nicole VanScoten)](https://twitter.com/PRNicoleV)
 * Wow! Coats: You're a multimedia editor or an unemployed editor at Scripps #knoxsocialmedia -- [webkilledtv (Sobo)](https://twitter.com/webkilledtv)
-
-

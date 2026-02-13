@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/nobody-does-it/
 title: Nobody Does It Like Jack Lail.
-description: None
 date: 2005-10-17 19:13:47 -0000
 last_modified_at: 2005-10-17 19:13:47 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/10/mturk-could-be-the-citizen-arm/
 title: mTurk could be the citizen army of journalism
-description: None
 date: 2010-10-17 15:32:11 -0000
 last_modified_at: 2010-10-17 15:32:11 -0000
 publish: true

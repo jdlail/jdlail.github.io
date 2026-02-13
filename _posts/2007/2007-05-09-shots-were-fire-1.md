@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/shots-were-fire-1/
 title: Shots were fired
-description: None
 date: 2007-05-09 00:40:56 -0000
 last_modified_at: 2007-05-09 00:40:56 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/05/with-host-aliso/
 title: With host Alison Stewart
-description: None
 date: 2006-05-08 13:08:38 -0000
 last_modified_at: 2006-05-08 13:08:38 -0000
 publish: true

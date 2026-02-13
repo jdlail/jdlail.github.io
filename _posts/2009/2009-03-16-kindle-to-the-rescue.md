@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/kindle-to-the-rescue/
 title: Kindle to the rescue
-description: None
 date: 2009-03-16 10:15:25 -0000
 last_modified_at: 2009-03-16 10:15:25 -0000
 publish: true

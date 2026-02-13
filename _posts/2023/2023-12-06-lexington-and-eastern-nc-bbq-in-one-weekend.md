@@ -2,8 +2,7 @@
 layout: post
 permalink: /2023/12/lexington-and-eastern-nc-bbq-in-one-weekend/
 title: 'North Carolina BBQ: Lexington and Eastern NC BBQ in one weekend'
-description: 'Visiting two iconic North Carolina BBQ joints in two days: Lexington
-  BBQ in the Piedmont and the Skylight Inn BBQ in Ayden in Eastern NC.'
+description: 'Visiting two iconic North Carolina BBQ joints in two days: Lexington BBQ in the Piedmont and the Skylight Inn BBQ in Ayden in Eastern NC.'
 date: 2023-12-06 16:49:41 -0000
 last_modified_at: 2024-04-07 16:11:41 -0000
 publish: true
@@ -36,4 +35,3 @@ It's still family run by Pete’s son Bruce, nephew Jeff, and grandson Sam Jones
 If you want to delve into the differences between Lexington and Eastern NC, this [Washington Post article is a quick take](https://www.washingtonpost.com/archive/lifestyle/travel/2005/05/15/east-vs-west-which-is-best/89f81c98-b406-48cc-a5a9-ce621cd763d4/).
 
 Which is better? Lemme taste both again.
-

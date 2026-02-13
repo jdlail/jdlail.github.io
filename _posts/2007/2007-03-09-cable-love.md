@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/cable-love/
 title: Cable love
-description: None
 date: 2007-03-09 13:56:02 -0000
 last_modified_at: 2007-03-09 13:56:02 -0000
 publish: true

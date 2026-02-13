@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/its-a-human-pro/
 title: It's a human problem
-description: None
 date: 2006-11-27 21:23:32 -0000
 last_modified_at: 2006-11-27 21:23:32 -0000
 publish: true

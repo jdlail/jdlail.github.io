@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/03/good-news-for-a-good-idea/
 title: Good news for a good idea
-description: None
 date: 2008-03-31 11:45:06 -0000
 last_modified_at: 2008-03-31 11:45:06 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Scott Karp's [Publish2](https://publish2.com/) has raised $2.75 million in Series A funding from [Velocity Interactive Group](https://velocityig.com/).  
@@ -33,5 +32,3 @@ This is an intriguing effort that has caught the attention smart media thinkers 
 If you're a journalist and you haven't already signed up for Publish2, head [over there](https://publish2.com/) and request an account. This is a good idea to wrap your head around.  
   
 As today's announcement shows, guys with skin in the game think so.  
-
-

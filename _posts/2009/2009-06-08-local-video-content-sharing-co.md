@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/local-video-content-sharing-co/
 title: Local video content sharing continuing to spread
-description: None
 date: 2009-06-08 05:33:05 -0000
 last_modified_at: 2009-06-08 05:33:05 -0000
 publish: true

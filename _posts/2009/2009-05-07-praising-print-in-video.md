@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/praising-print-in-video/
 title: Praising print in video
-description: None
 date: 2009-05-07 07:25:48 -0000
 last_modified_at: 2009-05-07 07:25:48 -0000
 publish: true

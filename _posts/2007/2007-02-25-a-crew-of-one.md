@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/02/a-crew-of-one/
 title: A crew of one
-description: None
 date: 2007-02-25 11:02:49 -0000
 last_modified_at: 2007-02-25 11:02:49 -0000
 publish: true

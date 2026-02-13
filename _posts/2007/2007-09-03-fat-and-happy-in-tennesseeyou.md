@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/fat-and-happy-in-tennesseeyou/
 title: Fat and happy in Tennessee
-description: None
 date: 2007-09-03 10:30:33 -0000
 last_modified_at: 2007-09-03 10:30:33 -0000
 publish: true

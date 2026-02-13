@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/01/yahoo-the-real-1/
 title: Yahoo, the real Windows desktop killer?
-description: None
 date: 2006-01-17 22:47:42 -0000
 last_modified_at: 2006-01-17 22:47:42 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Google might have mastered [simplicity](https://www.fastcompany.com/magazine/100/beauty-of-simplicity.html) and ease of use, but I actually think Yahoo has the best tools of the big search engines -- and I'm never been much of a Yahoo person.

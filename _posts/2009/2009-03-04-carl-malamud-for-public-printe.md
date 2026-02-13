@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/carl-malamud-for-public-printe/
 title: Carl Malamud for Public Printer of the U.S.
-description: None
 date: 2009-03-04 21:09:53 -0000
 last_modified_at: 2009-03-04 21:09:53 -0000
 publish: true

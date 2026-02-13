@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/10/leonard-pitts-the-facts-need-someone-to-defend-them/
 title: 'Leonard Pitts: The facts need someone to defend them'
-description: None
 date: 2017-10-19 01:02:22 -0000
 last_modified_at: 2017-10-19 01:02:22 -0000
 publish: true

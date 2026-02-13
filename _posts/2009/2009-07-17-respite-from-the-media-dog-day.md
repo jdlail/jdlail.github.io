@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/07/respite-from-the-media-dog-day/
 title: Respite from the media dog days of summer
-description: None
 date: 2009-07-17 12:02:54 -0000
 last_modified_at: 2009-07-17 12:02:54 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Just when the summer sultry heat convinces you the future of media is the bleakest of deserts along comes something or someone that says otherwise.  
@@ -21,4 +20,3 @@ On different ends of the journalism career age spectrum and in vastly different 
   
 More effort needs to be put into innovating and finding what works than in doomed media protectionist schemes. Finding the new models will do more to get us through these [dog days](https://en.wikipedia.org/wiki/Dog_Days).  
   
-

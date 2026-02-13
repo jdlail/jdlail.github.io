@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/newspaper-woes-spell-trouble-f/
 title: Newspaper woes spell trouble for Bee
-description: None
 date: 2008-01-09 13:58:30 -0000
 last_modified_at: 2008-01-09 13:58:30 -0000
 publish: true

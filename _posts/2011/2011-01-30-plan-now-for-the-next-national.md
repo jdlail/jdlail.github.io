@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/01/plan-now-for-the-next-national/
 title: Plan now for the next national breaking news story in your community
-description: None
 date: 2011-01-30 12:10:04 -0000
 last_modified_at: 2011-01-30 12:10:04 -0000
 publish: true

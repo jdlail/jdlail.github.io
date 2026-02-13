@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/10/lessons-from-the-rocky/
 title: Lessons from the Rocky
-description: None
 date: 2009-10-03 16:42:57 -0000
 last_modified_at: 2009-10-03 16:42:57 -0000
 publish: true

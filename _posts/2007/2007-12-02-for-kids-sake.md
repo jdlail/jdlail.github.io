@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/for-kids-sake/
 title: For kid's sake
-description: None
 date: 2007-12-02 14:33:31 -0000
 last_modified_at: 2007-12-02 14:33:31 -0000
 publish: true

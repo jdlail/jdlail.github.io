@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/04/post-pandemic-return-to-normal-after-covid-19-pandemic-unlikely/
 title: 'Post-Pandemic: Return to normal after COVID-19 pandemic unlikely'
-description: None
 date: 2021-04-03 14:56:01 -0000
 last_modified_at: 2021-04-03 14:56:02 -0000
 publish: true

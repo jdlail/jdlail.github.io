@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/two-girls-and-a-bunch-of-guys/
 title: Two girls and a bunch of guys
-description: None
 date: 2008-10-09 09:56:58 -0000
 last_modified_at: 2008-10-09 09:56:58 -0000
 publish: true

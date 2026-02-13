@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/shared-google-reader-links/
 title: Shared Google Reader links
-description: None
 date: 2008-03-20 21:43:59 -0000
 last_modified_at: 2008-03-20 21:43:59 -0000
 publish: true

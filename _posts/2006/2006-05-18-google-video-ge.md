@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/05/google-video-ge/
 title: Google video gets smarter
-description: None
 date: 2006-05-18 15:48:38 -0000
 last_modified_at: 2006-05-18 15:48:38 -0000
 publish: true

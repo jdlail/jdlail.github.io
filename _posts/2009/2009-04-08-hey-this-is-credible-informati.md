@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/04/hey-this-is-credible-informati/
 title: Hey, this is credible information
-description: None
 date: 2009-04-08 14:56:04 -0000
 last_modified_at: 2009-04-08 14:56:04 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Note this on your calendar:  
@@ -27,7 +26,5 @@ Note this on your calendar:
 >
 > The panel will include Jack McElroy, editor of the Knoxville News Sentinel; Bill Shory, WBIR-TV news director; Michael Grider, VolunteerTV.com interactive producer; and Glenn Reynolds, UT law professor and founder of Instapundit.com. Marianna Spicer, CNN's executive editor for news standards, will moderate the program.  
 >
-> For more information, call East Tennessee Society of Professional Journalist President Mia Rhodarmer at (423) 337-7101 or e-mail editor@advocateanddemocrat.com  
+> For more information, call East Tennessee Society of Professional Journalist President Mia Rhodarmer at (423) 337-7101 or e-mail <editor@advocateanddemocrat.com>  
 >
-
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/daughter-of-a-conjugal-visit/
 title: Daughter of a conjugal visit
-description: None
 date: 2008-04-11 21:11:27 -0000
 last_modified_at: 2008-04-11 21:11:27 -0000
 publish: true

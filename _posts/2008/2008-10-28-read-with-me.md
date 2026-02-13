@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/read-with-me/
 title: Read with me
-description: None
 date: 2008-10-28 21:17:20 -0000
 last_modified_at: 2008-10-28 21:17:20 -0000
 publish: true

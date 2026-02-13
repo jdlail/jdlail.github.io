@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/reflecting-before-the-next-gre/
 title: Reflecting before the next great adventure
-description: None
 date: 2009-04-23 13:45:37 -0000
 last_modified_at: 2009-04-23 13:45:37 -0000
 publish: true

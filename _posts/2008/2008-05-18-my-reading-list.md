@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/my-reading-list/
 title: My reading list
-description: None
 date: 2008-05-18 13:38:53 -0000
 last_modified_at: 2008-05-18 13:38:53 -0000
 publish: true

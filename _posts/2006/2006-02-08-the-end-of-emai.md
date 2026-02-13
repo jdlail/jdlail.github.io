@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/02/the-end-of-emai/
 title: The end of email?
-description: None
 date: 2006-02-08 11:35:55 -0000
 last_modified_at: 2006-02-08 11:35:55 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 _Hardly!_ There is a lot of concern -- read opposition in many corners -- to a plan by AOL and Yahoo to charge marketers who send bulk emails, be it special offers from L.L. Bean, Target or Buy.com that you might have asked for ... or all those you didn't want to get.

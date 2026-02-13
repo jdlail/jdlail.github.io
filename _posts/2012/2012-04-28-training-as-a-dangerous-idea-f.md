@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/04/training-as-a-dangerous-idea-f/
 title: Training as a dangerous idea for journalism
-description: None
 date: 2012-04-28 15:06:26 -0000
 last_modified_at: 2012-04-28 15:06:26 -0000
 publish: true

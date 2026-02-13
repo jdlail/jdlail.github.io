@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/the-attention-is-apt/
 title: The attention is apt
-description: None
 date: 2008-11-03 07:01:56 -0000
 last_modified_at: 2008-11-03 07:01:56 -0000
 publish: true

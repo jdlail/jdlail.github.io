@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/meeting-math/
 title: Meeting math
-description: None
 date: 2008-07-25 22:49:30 -0000
 last_modified_at: 2008-07-25 22:49:30 -0000
 publish: true

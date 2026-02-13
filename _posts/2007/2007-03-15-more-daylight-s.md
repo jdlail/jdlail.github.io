@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/more-daylight-s/
 title: More Daylight Savings Time is good
-description: None
 date: 2007-03-15 23:08:56 -0000
 last_modified_at: 2007-03-15 23:08:56 -0000
 publish: true

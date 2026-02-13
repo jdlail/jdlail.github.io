@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/hanlons-razor/
 title: Hanlon's Razor
-description: None
 date: 2006-11-18 06:12:23 -0000
 last_modified_at: 2006-11-18 06:12:23 -0000
 publish: true

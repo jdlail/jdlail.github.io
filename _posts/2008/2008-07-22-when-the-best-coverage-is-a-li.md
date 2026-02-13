@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/when-the-best-coverage-is-a-li/
 title: When the best "coverage" is a link
-description: None
 date: 2008-07-22 10:00:53 -0000
 last_modified_at: 2008-07-22 10:00:53 -0000
 publish: true

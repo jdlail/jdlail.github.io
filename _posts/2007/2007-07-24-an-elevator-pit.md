@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/an-elevator-pit/
 title: An elevator pitch in running shorts
-description: None
 date: 2007-07-24 18:02:09 -0000
 last_modified_at: 2007-07-24 18:02:09 -0000
 publish: true

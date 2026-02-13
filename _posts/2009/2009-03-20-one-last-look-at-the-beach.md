@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/one-last-look-at-the-beach/
 title: One last look at the beach
-description: None
 date: 2009-03-20 09:02:29 -0000
 last_modified_at: 2009-03-20 09:02:29 -0000
 publish: true

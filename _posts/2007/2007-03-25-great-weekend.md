@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/great-weekend/
 title: Great weekend
-description: None
 date: 2007-03-25 19:41:29 -0000
 last_modified_at: 2007-03-25 19:41:29 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/06/going-over-the/
 title: Going over the wall for success
-description: None
 date: 2006-06-03 21:23:12 -0000
 last_modified_at: 2006-06-03 21:23:12 -0000
 publish: true

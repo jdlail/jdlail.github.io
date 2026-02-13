@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/01/top-newspaper-stocks-in-2010/
 title: Top newspaper stocks in 2010
-description: None
 date: 2011-01-04 12:32:23 -0000
 last_modified_at: 2011-01-04 12:32:23 -0000
 publish: true

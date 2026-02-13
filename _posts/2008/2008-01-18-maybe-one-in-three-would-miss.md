@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/01/maybe-one-in-three-would-miss/
 title: Maybe one in three would miss their printed paper
-description: None
 date: 2008-01-18 13:06:02 -0000
 last_modified_at: 2008-01-18 13:06:02 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 From a [SearchEngineLand](https://searchengineland.com/080118-101338.php) take on the 2008 Digital Future survey from the Center For The Digital Future at Southern Cal:  
@@ -23,5 +22,3 @@ Another factoid of note from the highlights:
 >
 
 More at the [Center for the Digital Future](https://www.digitalcenter.org/).  
-
-

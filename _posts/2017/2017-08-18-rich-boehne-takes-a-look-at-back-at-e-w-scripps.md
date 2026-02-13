@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/08/rich-boehne-takes-a-look-at-back-at-e-w-scripps/
 title: Rich Boehne takes a look at back at E.W. Scripps
-description: None
 date: 2017-08-19 00:32:29 -0000
 last_modified_at: 2017-08-19 00:32:29 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/the-tell-in-job-openings/
 title: The "tell" in job openings
-description: None
 date: 2008-05-14 23:53:55 -0000
 last_modified_at: 2008-05-14 23:53:55 -0000
 publish: true

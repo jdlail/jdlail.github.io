@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/morning-in-madi/
 title: Morning in Madison County
-description: None
 date: 2007-07-14 16:10:46 -0000
 last_modified_at: 2007-07-14 16:10:46 -0000
 publish: true

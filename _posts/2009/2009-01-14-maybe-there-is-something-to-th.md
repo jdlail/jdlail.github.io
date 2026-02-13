@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/maybe-there-is-something-to-th/
 title: Maybe there is something to this Internet thing after all
-description: None
 date: 2009-01-14 07:01:19 -0000
 last_modified_at: 2009-01-14 07:01:19 -0000
 publish: true

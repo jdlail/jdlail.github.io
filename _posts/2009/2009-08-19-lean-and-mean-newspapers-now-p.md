@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/lean-and-mean-newspapers-now-p/
 title: Lean and mean, newspapers now positioned to rebuild
-description: None
 date: 2009-08-19 05:34:28 -0000
 last_modified_at: 2009-08-19 05:34:28 -0000
 publish: true

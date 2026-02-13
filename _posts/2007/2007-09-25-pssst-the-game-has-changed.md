@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/09/pssst-the-game-has-changed/
 title: Pssst, the game has changed
-description: None
 date: 2007-09-25 07:23:51 -0000
 last_modified_at: 2007-09-25 07:23:51 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
   
@@ -24,8 +23,6 @@ Journalism icon [Seymour Hersh](https://en.wikipedia.org/wiki/Seymour_Hersh) on 
 >     So, we have a vibrant, new way of communicating in America. We haven’t come to terms with it. I don’t think much of a lot of the stuff that is out there. But there are a lot of people doing very, very good stuff..  
 >
 
-      
 Certainly, in addition to [Drudge](https://www.drudgereport.com/), bloggers (like Knoxville's [Glenn Reynolds](https://www.instapundit.com/)) and sites like [Digg](https://www.digg.com/) have changed how news spreads. I'd go as far as to say being "America's Most Influential Journalist" doesn't have quite the cachet it might have had in the bygone era of mass media journalism.  
-   
+
 (via [Martin Stabe's excellent link roundups)](https://www.martinstabe.com/blog/2007/09/25/seymour-hersh-on-online-journalism/)  
-      

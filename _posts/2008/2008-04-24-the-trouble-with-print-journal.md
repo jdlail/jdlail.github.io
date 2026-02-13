@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/04/the-trouble-with-print-journal/
 title: The trouble with print journalists
-description: None
 date: 2008-04-24 22:33:09 -0000
 last_modified_at: 2008-04-24 22:33:09 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Paul Conley made me laugh. A commenter wrote: "I'm going to forward it to people who will get angry about it :)"  
@@ -28,4 +27,3 @@ Conley [wrote](https://paulconley.blogspot.com/2008/04/where-can-print-reporters
 Run light, run fast. Have fun! That's about it.  
   
 Mindy McAdams hopes "[remedial brown bag lunches](https://mindymcadams.com/tojou/2008/before-they-can-run-they-must-learn-how-to-walk/)" might help (but most are too busy to come)...
-

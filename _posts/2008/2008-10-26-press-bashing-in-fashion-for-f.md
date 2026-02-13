@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/press-bashing-in-fashion-for-f/
 title: Press bashing in fashion for fall
-description: None
 date: 2008-10-26 09:51:45 -0000
 last_modified_at: 2008-10-26 09:51:45 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/my-less-is-less-than-yours/
 title: My less is less than yours
-description: None
 date: 2008-04-11 10:08:37 -0000
 last_modified_at: 2008-04-11 10:08:37 -0000
 publish: true

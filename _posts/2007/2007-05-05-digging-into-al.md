@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/05/digging-into-al/
 title: Digging into all this . . .
-description: None
 date: 2007-05-05 10:19:52 -0000
 last_modified_at: 2007-05-05 10:19:52 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [Digg, Social Media]
 ---
 The [Digg Revolt](https://blogsearch.google.com/blogsearch?hl=en&ie=UTF-8&q=%22digg+surrenders%22+and+digg+revolt) is fascinating: It's [stage-setting](https://onlinemediacultist.com/2007/05/02/digg-and-the-complications-of-the-social-news-model/).

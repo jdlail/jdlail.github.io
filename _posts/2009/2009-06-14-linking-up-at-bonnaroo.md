@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/06/linking-up-at-bonnaroo/
 title: Linking up at Bonnaroo
-description: None
 date: 2009-06-14 17:38:02 -0000
 last_modified_at: 2023-03-13 13:36:36 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 While I wasn't at Bonnaroo, the mega music festival in Manchester, Tenn., I did some "link journalism" around it that I think added greatly to our coverage. See [here](https://www.knoxville.com/news/2009/jun/14/leaving-bonnaroo-2009-behind/), [here](https://www.knoxville.com/news/2009/jun/11/hype-full-volume-bonnaroo/), [here](https://www.knoxville.com/news/2009/jun/11/061109webroolinks2/), [here](https://www.knoxville.com/news/2009/jun/12/getting-hot-bonnaroo/) and [here](https://www.knoxville.com/news/2009/jun/13/bonnarro-friday-night-phish-saturday-afternoon-jim/). If you're not dong links as news content you're missing a great content resource.  
@@ -25,4 +24,3 @@ Randall Brown also kept our Twitter account [@KnoxvilleDotCom](https://twitter.c
   
 They did some great stuff!  
   
-

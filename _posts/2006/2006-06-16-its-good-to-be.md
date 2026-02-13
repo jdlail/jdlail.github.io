@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/06/its-good-to-be/
 title: It's good to be a dumb blond
-description: None
 date: 2006-06-16 21:01:25 -0000
 last_modified_at: 2006-06-16 21:01:25 -0000
 publish: true

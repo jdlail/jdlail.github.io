@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/a-christmas-message/
 title: A Christmas Message
-description: None
 date: 2007-12-24 17:53:42 -0000
 last_modified_at: 2007-12-24 17:53:42 -0000
 publish: true

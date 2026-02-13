@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/01/search-engines-most-trusted-so/
 title: Google most trusted source for news and information
-description: None
 date: 2015-01-21 06:39:30 -0000
 last_modified_at: 2015-01-21 06:39:30 -0000
 publish: true

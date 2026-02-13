@@ -2,7 +2,6 @@
 layout: post
 permalink: /2014/04/skillz-for-journalists/
 title: Skillz for journalists
-description: None
 date: 2014-04-03 17:35:32 -0000
 last_modified_at: 2014-04-03 17:35:32 -0000
 publish: true

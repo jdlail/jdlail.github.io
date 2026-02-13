@@ -2,15 +2,13 @@
 layout: post
 permalink: /2010/03/newspaper-paywalls-would-be-a/
 title: Newspaper paywalls would be a ratings hit for local TV stations
-description: None
 date: 2010-03-24 07:49:07 -0000
 last_modified_at: 2010-03-24 07:49:07 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
-- Online Media
-tags: []
+- Media
+tags: [Newspapers, Scripps]
 ---
 ![richardboehne.jpg](/images/richardboehne.webp)Nice interview with [E.W. Scripps](https://en.wikipedia.org/wiki/E._W._Scripps "E. W. Scripps") CEO Richard Boehne over at [TVNewsCheck](https://www.tvnewscheck.com/articles/2010/03/23/daily.1/?page=1), but I hate it when they call the company I work for "_venerable_." Sounds so very musty.  
   
@@ -44,6 +42,3 @@ Maybe, sort of related articles by Zemanta
 * [Forbes: The Rush To The Local Display Ad Marketplace Is On](https://adbean.net/2010/03/24/forbes-the-rush-to-the-local-display-ad-marketplace-is-on/) (adbean.net)
 * [Court lifts ban on media ownership restrictions](https://seattletimes.nwsource.com/html/businesstechnology/2011418236_apusfccmediaownershiprules.html?syndication=rss) (seattletimes.nwsource.com)
 * [Court lifts ban on media cross ownership](https://seattletimes.nwsource.com/html/nationworld/2011421183_media24.html?syndication=rss) (seattletimes.nwsource.com)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=43da5780-3a1f-4dea-8fc1-13c4fc7e6b5a)](https://reblog.zemanta.com/zemified/43da5780-3a1f-4dea-8fc1-13c4fc7e6b5a/ "Reblog this post \[with Zemanta\]")
-

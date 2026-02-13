@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/radio-silence/
 title: Radio Silence
-description: None
 date: 2008-07-13 09:13:44 -0000
 last_modified_at: 2008-07-13 09:13:44 -0000
 publish: true

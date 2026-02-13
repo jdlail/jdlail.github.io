@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/11/comment-management-draws-lots/
 title: Comment management draws lots of comments
-description: None
 date: 2009-11-06 07:58:23 -0000
 last_modified_at: 2009-11-06 07:58:23 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Howard Finberg](/assets_c/2009/11/howardfinberg110509-thumb-250x333-521.webp)](/images/howardfinberg110509.webp)I had a great time doing a Webinar at the Poynter Institute on Thursday with Howard Finberg and a big assist from Elaine Kramer, who manages the Associated Press Managing Editors' Online Credibility Roundtables. Our topic was management of online comments and [Michele McLellan has some thoughts about it](https://www.knightdigitalmediacenter.org/leadership_blog/comments/learning_to_love_comments/).  
@@ -37,4 +36,3 @@ Here is a sampling from Twitter of the react to the Webinar:
 * Me: A story should be an ongoing discussion center where the reporter stays engaged with commenters, don't just publish and run #nuwebinar -- [jeffsonderman (Jeff Sonderman)](https://twitter.com/jeffsonderman)
 * Scripps reporters have accounts flagged -- [cosleia (Heather Meadows)](https://twitter.com/cosleia)
   
-

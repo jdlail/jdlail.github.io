@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/get-in-gear-for/
 title: Get in gear for the game
-description: None
 date: 2007-03-11 10:29:11 -0000
 last_modified_at: 2007-03-11 10:29:11 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/the-twitter-on/
 title: The Twitter on Twitter
-description: None
 date: 2007-03-11 11:59:29 -0000
 last_modified_at: 2007-03-11 11:59:29 -0000
 publish: true

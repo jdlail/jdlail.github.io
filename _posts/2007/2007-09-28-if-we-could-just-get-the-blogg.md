@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/if-we-could-just-get-the-blogg/
 title: If we could just get the bloggers out of the newspaper?
-description: None
 date: 2007-09-28 18:44:42 -0000
 last_modified_at: 2007-09-28 18:44:42 -0000
 publish: true

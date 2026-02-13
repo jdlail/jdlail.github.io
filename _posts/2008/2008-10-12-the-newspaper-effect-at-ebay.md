@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/the-newspaper-effect-at-ebay/
 title: The "newspaper effect" at eBay
-description: None
 date: 2008-10-12 20:23:40 -0000
 last_modified_at: 2008-10-12 20:23:40 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/journalism-on-the-mturk/
 title: Journalism on the MTurk
-description: None
 date: 2008-10-05 09:22:34 -0000
 last_modified_at: 2008-10-05 09:22:34 -0000
 publish: true

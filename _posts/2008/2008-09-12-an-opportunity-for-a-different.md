@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/09/an-opportunity-for-a-different/
 title: An opportunity for a different point of view
-description: None
 date: 2008-09-12 06:20:40 -0000
 last_modified_at: 2008-09-12 06:20:40 -0000
 publish: true

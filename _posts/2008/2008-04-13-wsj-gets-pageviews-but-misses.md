@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/wsj-gets-pageviews-but-misses/
 title: WSJ gets pageviews, but misses a story
-description: None
 date: 2008-04-13 10:00:06 -0000
 last_modified_at: 2008-04-13 10:00:06 -0000
 publish: true

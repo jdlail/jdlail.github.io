@@ -2,13 +2,13 @@
 layout: post
 permalink: /2020/09/tcog-director-leads-session-on-access-in-a-pandemic/
 title: TCOG Director leads session on access in a pandemic
-description: None
+description: 'The pandemic is changing what “public access” is for courts, government meetings and even press conferences. Deborah Fisher, executive director of the Tennessee Coalition for Open Government, breaks it down.'
 date: 2020-09-25 15:08:22 -0000
 last_modified_at: 2020-10-16 18:08:02 -0000
 publish: true
 pin: false
 categories:
-- Access
+- Training
 tags: [ETSPJ, Open Meetings, Open Records]
 ---
 

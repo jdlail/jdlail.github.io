@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/brittney-gilber/
 title: Brittney Gilbert strikes a chord
-description: None
 date: 2007-06-07 20:12:20 -0000
 last_modified_at: 2007-06-07 20:12:20 -0000
 publish: true

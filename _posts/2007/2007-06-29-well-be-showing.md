@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/well-be-showing/
 title: We'll be showing the redesign on the radio
-description: None
 date: 2007-06-29 08:11:56 -0000
 last_modified_at: 2018-03-19 21:53:35 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/15000-reporters-are-in-denver/
 title: 15,000 reporters are in Denver because ...
-description: None
 date: 2008-08-26 21:50:43 -0000
 last_modified_at: 2008-08-26 21:50:43 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/good-advice-for-innovating-fro/
 title: Good advice for innovating from another era
-description: None
 date: 2009-09-05 10:18:45 -0000
 last_modified_at: 2009-09-05 10:18:45 -0000
 publish: true

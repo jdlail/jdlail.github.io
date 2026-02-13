@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/03/dark-spots-in-the-sunshine/
 title: Dark spots in the Sunshine
-description: None
 date: 2011-03-14 17:37:30 -0000
 last_modified_at: 2011-03-14 17:37:30 -0000
 publish: true

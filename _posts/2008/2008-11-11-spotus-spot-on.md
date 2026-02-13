@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/11/spotus-spot-on/
 title: Spot.Us spot-on
-description: None
 date: 2008-11-11 07:05:04 -0000
 last_modified_at: 2008-11-11 07:05:04 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -32,4 +31,3 @@ Cohn is an extremely bright, energetic young journalist and this is a tremendous
   
 On its launch, we wish Spot.Us great success.  
   
-

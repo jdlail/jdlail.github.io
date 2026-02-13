@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/09/how-deadline-came-to-be/
 title: How 'Deadline' came to be
-description: None
 date: 2011-09-18 15:59:55 -0000
 last_modified_at: 2011-09-18 15:59:55 -0000
 publish: true

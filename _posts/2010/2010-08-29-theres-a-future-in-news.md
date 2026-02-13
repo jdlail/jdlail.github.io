@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/08/theres-a-future-in-news/
 title: There's a future in news
-description: None
 date: 2010-08-29 14:09:10 -0000
 last_modified_at: 2010-08-29 14:09:10 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 E.W. Scripps newspaper editors and online managers collaborated on a "Future of News" project this summer that ran in some newspapers last weekend and is on knoxnews.com [today](https://www.knoxnews.com/news/2010/aug/29/media-migration-new-technologies-transform-reporti/) and Tuesday.  
@@ -54,4 +53,3 @@ jayrosen_nyu
 _(Photo provided by Dave Morgan)_
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=8caeacdb-9b12-43f4-8263-369ee660f245)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

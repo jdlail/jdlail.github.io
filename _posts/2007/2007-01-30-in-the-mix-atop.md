@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/in-the-mix-atop/
 title: In the Mix atop The Hotel
-description: None
 date: 2007-01-30 04:41:43 -0000
 last_modified_at: 2007-01-30 04:41:43 -0000
 publish: true

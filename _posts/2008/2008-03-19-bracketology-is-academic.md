@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/bracketology-is-academic/
 title: Bracketology is academic
-description: None
 date: 2008-03-19 08:05:56 -0000
 last_modified_at: 2008-03-19 08:05:56 -0000
 publish: true

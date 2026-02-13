@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/02/on-friday-the-talk-stops/
 title: On Friday, the Talk stops
-description: None
 date: 2010-02-09 08:08:05 -0000
 last_modified_at: 2010-02-09 08:08:05 -0000
 publish: true

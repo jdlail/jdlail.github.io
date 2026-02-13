@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/its-not-about-video-but-releva/
 title: It's not about video, but relevance
-description: None
 date: 2008-12-14 11:31:55 -0000
 last_modified_at: 2008-12-14 11:31:55 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/were-all-crooks-and-cheats/
 title: We're all crooks and cheats
-description: None
 date: 2007-12-29 08:29:38 -0000
 last_modified_at: 2007-12-29 08:29:38 -0000
 publish: true

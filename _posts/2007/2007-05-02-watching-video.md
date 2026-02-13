@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/watching-video/
 title: Watching video
-description: None
 date: 2007-05-02 14:07:15 -0000
 last_modified_at: 2007-05-02 14:07:15 -0000
 publish: true

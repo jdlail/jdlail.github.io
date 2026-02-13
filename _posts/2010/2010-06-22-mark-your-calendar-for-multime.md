@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/06/mark-your-calendar-for-multime/
 title: Mark your calendar for multimedia boot camp
-description: None
 date: 2010-06-22 03:30:24 -0000
 last_modified_at: 2010-06-22 03:30:24 -0000
 publish: true

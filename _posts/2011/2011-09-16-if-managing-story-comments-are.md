@@ -2,14 +2,13 @@
 layout: post
 permalink: /2011/09/if-managing-story-comments-are/
 title: If managing story comments are a pain, read this
-description: None
 date: 2011-09-16 12:25:00 -0000
 last_modified_at: 2011-09-16 12:25:00 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
   
@@ -23,4 +22,3 @@ It was a great discussion and highlighted several different directions for effec
 >
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=6f1df0ba-04fd-4e84-b3ae-43240b23243d)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

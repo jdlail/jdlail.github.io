@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/10/sometimes-seo-goes-completely/
 title: Sometimes SEO goes 'completely wrong'
-description: None
 date: 2012-10-11 06:40:58 -0000
 last_modified_at: 2012-10-11 06:40:58 -0000
 publish: true

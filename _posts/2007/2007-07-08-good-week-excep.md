@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/good-week-excep/
 title: Good week except today
-description: None
 date: 2007-07-08 15:02:54 -0000
 last_modified_at: 2007-07-08 15:02:54 -0000
 publish: true

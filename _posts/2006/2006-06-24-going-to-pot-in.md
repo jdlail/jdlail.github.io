@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/06/going-to-pot-in/
 title: Going to pot in North Carolina
-description: None
 date: 2006-06-24 10:53:26 -0000
 last_modified_at: 2006-06-24 10:53:26 -0000
 publish: true

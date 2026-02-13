@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/01/journalism-in-the-digital-age/
 title: 'Quotable: Journalism is a process, exchange, intimate'
-description: None
 date: 2012-01-06 14:02:46 -0000
 last_modified_at: 2012-01-06 14:02:46 -0000
 publish: true

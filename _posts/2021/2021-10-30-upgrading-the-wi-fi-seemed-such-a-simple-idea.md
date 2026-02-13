@@ -2,7 +2,7 @@
 layout: post
 permalink: /2021/10/upgrading-the-wi-fi-seemed-such-a-simple-idea/
 title: Upgrading the Wi-Fi seemed such a simple idea
-description: None
+description: 'A few weeks ago I decided to upgrade my aging, but rock solid Wi-Fi network. Such a change, I have learned, is not for the faint of heart.'
 date: 2021-10-30 23:41:30 -0000
 last_modified_at: 2021-10-31 04:04:01 -0000
 publish: true
@@ -11,10 +11,9 @@ image:
   path: /assets/wp-content/uploads/2021/10/asus-zenwifi-xt8-1500.webp
   alt: ASUS ZenWiFI XT8
 categories:
-- Ramblings
+- Network
 tags:
-- Google
-- networking
+- WiFi
 ---
 A few weeks ago I decided to upgrade my aging, but rock solid Wi-Fi network.
 
@@ -65,4 +64,3 @@ It’s not necessary that they be connected to operate, but it’s annoying to n
 A search shows people think changing various settings works, but they are often different settings from poster to poster and don’t work at all for others. Some have found, of course, that after making all the changes suggested by others that doing a “factory reset” of their routers and nodes, and setting the router and nodes up again solved all the issues.
 
 I am holding out on a factory reset for now, but it’s on the table.
-

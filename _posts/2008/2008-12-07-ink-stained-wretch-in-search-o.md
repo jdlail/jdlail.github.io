@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/ink-stained-wretch-in-search-o/
 title: Ink-stained wretch in search of ink-stained wretch
-description: None
 date: 2008-12-07 12:14:31 -0000
 last_modified_at: 2008-12-07 12:14:31 -0000
 publish: true

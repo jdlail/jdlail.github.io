@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/back-in-the-gym/
 title: Back in the gym
-description: None
 date: 2007-07-29 13:33:23 -0000
 last_modified_at: 2007-07-29 13:33:23 -0000
 publish: true

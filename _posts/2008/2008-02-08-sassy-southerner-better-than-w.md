@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/02/sassy-southerner-better-than-w/
 title: Sassy Southerner better than Wolf Blitzer
-description: None
 date: 2008-02-08 10:38:38 -0000
 last_modified_at: 2008-02-08 10:38:38 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Tornado Damage](/assets_c/2008/02/79585944.preview-thumb-480x320.webp)](/images/79585944.preview.webp)The tornadoes that ravaged West and Middle Tennessee left behind in the debris great gems of people telling their own stories in the tragedy.  
@@ -39,5 +38,3 @@ _**Updated:**_ Paul Chenoweth with [several examples](https://forum.belmont.edu/
 >
 
 (Some links from [J.D. Lasica](https://www.socialmedia.biz/2008/02/facebook-the-ri.html), image from Getty Images)  
-
-

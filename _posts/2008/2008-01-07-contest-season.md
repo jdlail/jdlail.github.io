@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/01/contest-season/
 title: Contest season
-description: None
 date: 2008-01-07 13:16:29 -0000
 last_modified_at: 2008-01-07 13:16:29 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Spread the word:  
@@ -29,5 +28,3 @@ Also, the deadline is approaching for Inland's [2008 New Frontier Awards](https:
 And for those in East Tnnnessee, there's The East Tennessee [SPJ Golden Press Card Awards](https://etspj.org/golden-press-card-awards-2/) (deadline Feb. 1, 2008).  
 
 >
-
-

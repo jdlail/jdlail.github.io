@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/01/top-blog-posts-in-2010/
 title: Top blog posts in 2010
-description: None
 date: 2011-01-01 10:39:34 -0000
 last_modified_at: 2011-01-01 10:39:34 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/just-watching/
 title: Just watching
-description: None
 date: 2007-11-28 07:12:47 -0000
 last_modified_at: 2007-11-28 07:12:47 -0000
 publish: true

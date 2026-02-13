@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/blogging-on-blo/
 title: Blogging on Blogging
-description: None
 date: 2007-01-17 21:06:12 -0000
 last_modified_at: 2007-01-17 21:06:12 -0000
 publish: true

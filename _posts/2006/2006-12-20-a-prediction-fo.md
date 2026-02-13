@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/a-prediction-fo/
 title: A prediction for 2007
-description: None
 date: 2006-12-20 11:25:25 -0000
 last_modified_at: 2006-12-20 11:25:25 -0000
 publish: true

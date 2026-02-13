@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/grassroots-lend/
 title: Grassroots lending Web style
-description: None
 date: 2006-12-23 22:48:03 -0000
 last_modified_at: 2006-12-23 22:48:03 -0000
 publish: true

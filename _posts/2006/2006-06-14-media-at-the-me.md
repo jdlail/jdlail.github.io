@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/06/media-at-the-me/
 title: Media at the Mega-Music Festival
-description: None
 date: 2006-06-14 13:31:21 -0000
 last_modified_at: 2006-06-14 13:31:21 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [Bonnaroo]
 ---
 The KnoxNews online team is gearing up for complete and innovative -- and even off-the-wall -- coverage of this weekend's Bonnaroo festival led by audacious Lauren Spuhler, the online producer who will be reporting from the scene.

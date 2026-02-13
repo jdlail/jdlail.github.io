@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/pumpkin-pie/
 title: Pumpkin pie
-description: None
 date: 2006-11-22 21:53:28 -0000
 last_modified_at: 2006-11-22 21:53:28 -0000
 publish: true

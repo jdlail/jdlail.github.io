@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/10/blogroll-update/
 title: Blogroll updated!
-description: None
 date: 2006-10-29 12:45:48 -0000
 last_modified_at: 2006-10-29 12:45:48 -0000
 publish: true

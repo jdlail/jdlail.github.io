@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/09/newspaper-communciations-schoo/
 title: Newspaper, communications school, federal courts partnering in news coverage
-description: None
 date: 2012-09-20 07:08:47 -0000
 last_modified_at: 2012-09-20 07:08:47 -0000
 publish: true

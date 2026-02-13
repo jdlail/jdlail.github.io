@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/01/quick-whos-a-complacent-monopo/
 title: Quick, who's a complacent monopolist?
-description: None
 date: 2012-01-25 20:34:54 -0000
 last_modified_at: 2012-01-25 20:34:54 -0000
 publish: true

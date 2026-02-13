@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/halloween-nights/
 title: Halloween nights
-description: None
 date: 2007-10-31 21:48:07 -0000
 last_modified_at: 2007-10-31 21:48:07 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/newspapers-as-blog-networks/
 title: Newspapers as blog networks
-description: None
 date: 2007-07-21 11:38:10 -0000
 last_modified_at: 2007-07-21 11:38:10 -0000
 publish: true

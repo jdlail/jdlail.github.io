@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/good-tunes/
 title: The Duhks
-description: None
 date: 2007-01-08 19:34:09 -0000
 last_modified_at: 2007-01-08 19:34:09 -0000
 publish: true

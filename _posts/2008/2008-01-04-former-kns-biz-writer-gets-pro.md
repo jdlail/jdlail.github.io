@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/former-kns-biz-writer-gets-pro/
 title: Former KNS biz writer gets promotion
-description: None
 date: 2008-01-04 13:27:45 -0000
 last_modified_at: 2008-01-04 13:27:45 -0000
 publish: true

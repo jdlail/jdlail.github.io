@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/a-feeble-attempt-at-pundintry/
 title: A feeble attempt at "pundintry"
-description: None
 date: 2008-12-31 07:21:05 -0000
 last_modified_at: 2008-12-31 07:21:05 -0000
 publish: true

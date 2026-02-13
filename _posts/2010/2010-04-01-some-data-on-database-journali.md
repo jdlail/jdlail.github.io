@@ -2,16 +2,17 @@
 layout: post
 permalink: /2010/04/some-data-on-database-journali/
 title: Some data on database journalism
-description: None
 date: 2010-04-01 08:10:12 -0000
 last_modified_at: 2010-04-01 08:10:12 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
+- Journalism
 tags: []
 ---
-![Data on tape](/images/tapelib.webp)I'm speaking to a journalism class at the University of Tennessee this morning about:  
+![Data on tape](/images/tapelib.webp
+
+I'm speaking to a journalism class at the University of Tennessee this morning about:  
   
 * Computer-Assisted Reporting
 * Computational Journalism
@@ -75,6 +76,3 @@ Deep Throat Meets Data Mining | Smart Journalism. Real Solutions. | Miller-McCun
 * [John Thornton: Attention Non-Profit Newsies: Alan Mutter Thinks We're Fantastic!!](https://www.huffingtonpost.com/john-thornton/attention-non-profit-news_b_518937.html) (huffingtonpost.com)
 * [#Tip of the day from Journalism.co.uk - tips for radio journalists](https://blogs.journalism.co.uk/editors/2010/04/01/tip-of-the-day-from-journalism-co-uk-tips-for-radio-journalists/) (blogs.journalism.co.uk)
 * [Nieman Journalism Lab: For-profit model can't support investigative journalism, says Len Downie](https://blogs.journalism.co.uk/editors/2010/03/25/nieman-journalism-lab-for-profit-model-cant-support-investigative-journalism-says-len-downie/) (blogs.journalism.co.uk)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=57fcc5c6-0f1f-4a82-baa8-ef149b2d5da5)](https://reblog.zemanta.com/zemified/57fcc5c6-0f1f-4a82-baa8-ef149b2d5da5/ "Reblog this post \[with Zemanta\]")
-

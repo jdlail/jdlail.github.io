@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/blogger-dollars/
 title: Blogger dollars
-description: None
 date: 2008-04-11 05:59:03 -0000
 last_modified_at: 2008-04-11 05:59:03 -0000
 publish: true

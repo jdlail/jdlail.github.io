@@ -2,7 +2,7 @@
 layout: post
 permalink: /2020/12/top-google-search-terms-in-knoxville-for-2020/
 title: Top 25 Google search terms in Knoxville for 2020
-description: None
+description: "The top 25 rising Google search terms for the Knoxville area in 2020 are not much of a surprise -- almost of them had to do with 'Life in the Pandemic' or the election."
 date: 2020-12-30 16:02:34 -0000
 last_modified_at: 2020-12-30 16:50:37 -0000
 publish: true
@@ -12,7 +12,7 @@ image:
   alt: Top Knoxville Google Trneds search top and search terms in 2020 via Google
     Trends.
 categories:
-- Ramblings
+- Knoxville
 tags:
 - Google Trends
 ---
@@ -51,4 +51,3 @@ The [results for the state of Tennesse](https://trends.google.com/trends/explore
 Google defines "rising" as "queries with the biggest increase in search frequency since the last time period. Results marked "Breakout" had a tremendous increase, probably because these queries are new and had few (if any) prior searches."
 
 Data from [Google Trends](https://trends.google.com/trends/explore/RELATED_QUERIES/1609345200?hl=en-US&tz=300&geo=US-KY-557&sni=3).
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/veteran-tv-exec-sees-cuts-in-n/
 title: Veteran TV exec sees cuts in newscasts and newspaper home delivery in TN
-description: None
 date: 2009-01-11 17:42:47 -0000
 last_modified_at: 2009-01-11 17:42:47 -0000
 publish: true

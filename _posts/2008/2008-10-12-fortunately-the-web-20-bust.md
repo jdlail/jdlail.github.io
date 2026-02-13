@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/fortunately-the-web-20-bust/
 title: 'Quotable: At least the widows and orphans are safe ... but wait'
-description: None
 date: 2008-10-12 23:14:08 -0000
 last_modified_at: 2008-10-12 23:14:08 -0000
 publish: true

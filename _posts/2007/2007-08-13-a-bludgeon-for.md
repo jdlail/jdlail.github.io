@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/a-bludgeon-for/
 title: A bludgeon for Blodgett
-description: None
 date: 2007-08-13 09:08:35 -0000
 last_modified_at: 2007-08-13 09:08:35 -0000
 publish: true

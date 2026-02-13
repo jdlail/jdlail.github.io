@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/free-my-office-apps/
 title: Free my office apps!
-description: None
 date: 2008-02-11 08:36:19 -0000
 last_modified_at: 2008-02-11 08:36:19 -0000
 publish: true

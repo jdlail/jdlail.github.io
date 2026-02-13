@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/murder-inthe-city/
 title: Murder In The City
-description: None
 date: 2009-09-18 15:09:55 -0000
 last_modified_at: 2009-09-18 15:09:55 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/09/a-face-for-a-jug/
 title: A face for a jug
-description: None
 date: 2008-09-19 13:04:17 -0000
 last_modified_at: 2008-09-19 13:04:17 -0000
 publish: true

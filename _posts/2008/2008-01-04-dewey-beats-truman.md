@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/01/dewey-beats-truman/
 title: Dewey beats Truman
-description: None
 date: 2008-01-04 08:50:55 -0000
 last_modified_at: 2008-01-04 08:50:55 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![DeweyTruman.jpg](/images/DeweyTruman-thumb-200x146.webp)](/images/DeweyTruman.webp)How to cover an election in 2008:  
@@ -19,4 +18,3 @@ tags: []
 
 There were some some Dewey-Truman print headlines in 2000. Probably won't matter in 2008.  
   
-

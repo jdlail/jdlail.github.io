@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/naked-ears-bud/
 title: Naked ears, bud
-description: None
 date: 2005-10-05 16:06:53 -0000
 last_modified_at: 2005-10-05 16:06:53 -0000
 publish: true

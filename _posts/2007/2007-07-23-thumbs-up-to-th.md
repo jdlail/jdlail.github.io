@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/thumbs-up-to-th/
 title: Thumbs up to the CNN/YouTube Debates
-description: None
 date: 2007-07-23 21:22:16 -0000
 last_modified_at: 2007-07-23 21:22:16 -0000
 publish: true

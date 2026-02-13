@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/12/when-everybody-says-sell-its-t/
 title: When everybody says sell, it's time to buy
-description: None
 date: 2009-12-15 07:45:30 -0000
 last_modified_at: 2009-12-15 07:45:30 -0000
 publish: true

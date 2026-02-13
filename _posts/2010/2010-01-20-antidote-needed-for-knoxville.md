@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/01/antidote-needed-for-knoxville/
 title: Hurry, antidote needed for dreaded 'Knoxville Syndrome'
-description: None
 date: 2010-01-20 20:49:05 -0000
 last_modified_at: 2010-01-20 20:49:05 -0000
 publish: true

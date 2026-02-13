@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/fireworks-at-th/
 title: Fireworks at the lake
-description: None
 date: 2007-07-05 11:23:38 -0000
 last_modified_at: 2007-07-05 11:23:38 -0000
 publish: true

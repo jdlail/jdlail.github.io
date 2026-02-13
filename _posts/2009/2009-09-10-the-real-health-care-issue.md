@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/the-real-health-care-issue/
 title: The real "health care" issue
-description: None
 date: 2009-09-10 06:33:07 -0000
 last_modified_at: 2009-09-10 06:33:07 -0000
 publish: true

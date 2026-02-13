@@ -2,15 +2,15 @@
 layout: post
 permalink: /2010/03/all-newspapers-need-to-do-is-b/
 title: All newspapers need to do is ban cell phones
-description: None
 date: 2010-03-01 20:06:44 -0000
 last_modified_at: 2010-03-01 20:06:44 -0000
 publish: true
 pin: false
 categories:
 - Adversity is a mean teacher
-tags: []
+tags: [Newspapers]
 ---
+
 > _Those who are particularly likely to read news in a printed version of their local paper on a typical day include: whites, those over age 50, and people who do not own cell phones_  
 >
 
@@ -25,6 +25,3 @@ Related articles by Zemanta
 * [Facebook and Twitter making news social](https://vator.tv/news/show/2010-03-01-facebook-and-twitter-making-news-social) (vator.tv)
 * [Survey: Cell Phones A Main Source Of News Access](https://techdailydose.nationaljournal.com/2010/03/mobile-phones-are-changing-the.php) (techdailydose.nationaljournal.com)
 * [Internet makes news shared experience, Pew says](https://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/03/01/BU7T1C7C5F.DTL&feed=rss.business) (sfgate.com)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=10e4d230-6034-4c3e-8094-6dd5c322377c)](https://reblog.zemanta.com/zemified/10e4d230-6034-4c3e-8094-6dd5c322377c/ "Reblog this post \[with Zemanta\]")
-

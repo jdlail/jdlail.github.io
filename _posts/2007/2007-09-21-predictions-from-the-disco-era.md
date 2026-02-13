@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/predictions-from-the-disco-era/
 title: Predictions from the disco era
-description: None
 date: 2007-09-21 11:52:53 -0000
 last_modified_at: 2023-03-13 13:33:43 -0000
 publish: true

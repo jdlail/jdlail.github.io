@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/three-of-four/
 title: Three of four
-description: None
 date: 2007-05-23 18:12:51 -0000
 last_modified_at: 2007-05-23 18:12:51 -0000
 publish: true

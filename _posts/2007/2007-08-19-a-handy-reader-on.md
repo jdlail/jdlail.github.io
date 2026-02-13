@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/08/a-handy-reader-on/
 title: Commenting on Google comments
-description: None
 date: 2007-08-19 12:10:43 -0000
 last_modified_at: 2007-08-19 12:10:43 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 A handy reader on the weekend [L.A. Times piece on Google comments](https://www.latimes.com/news/opinion/la-ed-google17aug17,0,5712024.column?coll=la-opinion-leftrail):  

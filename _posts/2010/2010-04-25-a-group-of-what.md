@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/04/a-group-of-what/
 title: Where journalism gets reinvented
-description: None
 date: 2010-04-25 21:10:31 -0000
 last_modified_at: 2010-04-25 21:10:31 -0000
 publish: true
@@ -44,6 +43,3 @@ In addition, the [Twitter stream](https://search.twitter.com/search?q=%23bcniphi
 It was a great reminder that innovation in media and journalism will happen at the fringes where the Edglings play. BCNI Philly is one of the outward signs that journalism and the business models that fund journalism are being refashioned in exciting and previously unthought of ways.  
   
 More photos on flickr [tagged bcniphilly](https://www.flickr.com/photos/tags/bcniphilly/)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=0cc67106-b687-4328-9d3c-9f01b45c05b9)](https://reblog.zemanta.com/zemified/0cc67106-b687-4328-9d3c-9f01b45c05b9/ "Reblog this post \[with Zemanta\]")
-

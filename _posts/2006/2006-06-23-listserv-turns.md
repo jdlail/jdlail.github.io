@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/06/listserv-turns/
 title: LISTSERV turns 20
-description: None
 date: 2006-06-23 19:46:45 -0000
 last_modified_at: 2006-06-23 19:46:45 -0000
 publish: true

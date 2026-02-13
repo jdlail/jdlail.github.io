@@ -2,7 +2,7 @@
 layout: post
 permalink: /2005/03/disintermediati/
 title: Disintermediation in the 500 channel world
-description: None
+description: A creative spark, a camera and a computer were are all it takes to put television programming before the eyes of consumers
 date: 2005-03-02 09:16:03 -0000
 last_modified_at: 2005-03-02 09:16:03 -0000
 publish: true

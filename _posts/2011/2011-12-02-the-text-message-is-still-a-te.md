@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/12/the-text-message-is-still-a-te/
 title: The text message is still a teenager
-description: None
 date: 2011-12-02 08:03:00 -0000
 last_modified_at: 2011-12-02 08:03:00 -0000
 publish: true

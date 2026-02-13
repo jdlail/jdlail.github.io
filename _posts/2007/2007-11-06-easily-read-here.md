@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/easily-read-here/
 title: Easily read here
-description: None
 date: 2007-11-06 16:10:54 -0000
 last_modified_at: 2007-11-06 16:10:54 -0000
 publish: true

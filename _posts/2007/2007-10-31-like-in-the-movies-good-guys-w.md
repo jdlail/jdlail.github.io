@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/like-in-the-movies-good-guys-w/
 title: Like in the movies, good guys win in the end
-description: None
 date: 2007-10-31 13:10:04 -0000
 last_modified_at: 2007-10-31 13:10:04 -0000
 publish: true

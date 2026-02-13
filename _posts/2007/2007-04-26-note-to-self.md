@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/note-to-self/
 title: Note to self ...
-description: None
 date: 2007-04-26 07:50:02 -0000
 last_modified_at: 2007-04-26 07:50:02 -0000
 publish: true

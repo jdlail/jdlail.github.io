@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/separating-the-audience-from-t/
 title: Separating the audience from the customer
-description: None
 date: 2007-11-30 19:59:40 -0000
 last_modified_at: 2007-11-30 19:59:40 -0000
 publish: true

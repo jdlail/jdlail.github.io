@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/pooling-resources/
 title: Pooling resources
-description: None
 date: 2009-04-02 14:50:19 -0000
 last_modified_at: 2009-04-02 14:50:19 -0000
 publish: true

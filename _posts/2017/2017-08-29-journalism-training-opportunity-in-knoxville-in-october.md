@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/08/journalism-training-opportunity-in-knoxville-in-october/
 title: Journalism training opportunity in Knoxville in October
-description: None
 date: 2017-08-30 00:46:53 -0000
 last_modified_at: 2017-08-30 00:47:05 -0000
 publish: true

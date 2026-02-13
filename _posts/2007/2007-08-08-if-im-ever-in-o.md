@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/if-im-ever-in-o/
 title: It's not a Wonderful Life, but I like it ...
-description: None
 date: 2007-08-08 22:07:01 -0000
 last_modified_at: 2007-08-08 22:07:01 -0000
 publish: true

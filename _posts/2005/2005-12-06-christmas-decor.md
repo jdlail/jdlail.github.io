@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/12/christmas-decor/
 title: Christmas decorating
-description: None
 date: 2005-12-06 10:54:05 -0000
 last_modified_at: 2005-12-06 10:54:05 -0000
 publish: true

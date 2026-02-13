@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/it-would-have-b/
 title: It would have been better two years ago
-description: None
 date: 2007-05-24 12:14:01 -0000
 last_modified_at: 2007-05-24 12:14:01 -0000
 publish: true

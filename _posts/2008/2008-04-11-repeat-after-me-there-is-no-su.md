@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/repeat-after-me-there-is-no-su/
 title: Repeat after me, there is no such thing as an Internet newspaper
-description: None
 date: 2008-04-11 07:38:18 -0000
 last_modified_at: 2008-04-11 07:38:18 -0000
 publish: true

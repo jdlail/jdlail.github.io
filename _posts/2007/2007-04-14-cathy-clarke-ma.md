@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/cathy-clarke-ma/
 title: Cathy Clarke makes a visit
-description: None
 date: 2007-04-14 17:20:57 -0000
 last_modified_at: 2007-04-14 17:20:57 -0000
 publish: true

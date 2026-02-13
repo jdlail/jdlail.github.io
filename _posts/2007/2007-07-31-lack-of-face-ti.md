@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/lack-of-face-ti/
 title: Lack of face time
-description: None
 date: 2007-07-31 09:08:10 -0000
 last_modified_at: 2007-07-31 09:08:10 -0000
 publish: true

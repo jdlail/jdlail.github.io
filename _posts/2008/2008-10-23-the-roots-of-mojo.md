@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/the-roots-of-mojo/
 title: The roots of MoJo
-description: None
 date: 2008-10-23 21:58:03 -0000
 last_modified_at: 2008-10-23 21:58:03 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/03/lets-take-a-moment-to-bloviate/
 title: Let's take a moment to bloviate on reporters
-description: None
 date: 2012-03-28 14:13:49 -0000
 last_modified_at: 2012-03-28 14:13:49 -0000
 publish: true

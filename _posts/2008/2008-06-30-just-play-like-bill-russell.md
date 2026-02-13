@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/just-play-like-bill-russell/
 title: Just play like Bill Russell
-description: None
 date: 2008-06-30 17:34:01 -0000
 last_modified_at: 2008-06-30 17:34:01 -0000
 publish: true

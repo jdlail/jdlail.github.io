@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/09/two-out-of-three-times-the-med/
 title: Two out of three times, the media gets it wrong
-description: None
 date: 2011-09-23 18:43:34 -0000
 last_modified_at: 2011-09-23 18:43:34 -0000
 publish: true

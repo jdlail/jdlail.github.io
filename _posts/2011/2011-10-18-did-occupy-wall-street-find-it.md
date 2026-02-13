@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/10/did-occupy-wall-street-find-it/
 title: Did Occupy Wall Street find its Rick Santelli?
-description: None
 date: 2011-10-18 14:31:48 -0000
 last_modified_at: 2011-10-18 14:31:48 -0000
 publish: true

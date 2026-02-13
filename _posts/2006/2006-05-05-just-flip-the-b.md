@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/05/just-flip-the-b/
 title: Just flip the business model
-description: None
 date: 2006-05-05 22:07:28 -0000
 last_modified_at: 2006-05-05 22:07:28 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 We have on the [knoxnews.com](https://www.knoxnews.com/) Web site something called Quigo ads. They are text ads much like the "Goooogle Ads" you see everywhere. I knew that story. But I didn't know much about the Quigo company story until I stumbled upon Yaron Galai's "[Web X.0](https://galai.typepad.com/blog/)" blog and his "[sixth anniversary](https://galai.typepad.com/blog/2006/04/quigos_6th_anni_1.html)" post on Quigo.  Galai says he was originally working on the idea of a 'forward button" for Web browsers. Ah, OK. He hooked up with co-founder Oded Itzhak to form the company through a friend of Galai's brother's wife. The central problem -- or need -- the Israeli techies saw and addressed was:

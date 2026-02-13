@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/paper-view-monday-comes-to-kno/
 title: Paper View Monday comes to Knoxville
-description: None
 date: 2007-12-24 08:12:23 -0000
 last_modified_at: 2007-12-24 08:12:23 -0000
 publish: true

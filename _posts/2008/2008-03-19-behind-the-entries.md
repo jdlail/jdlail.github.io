@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/behind-the-entries/
 title: Behind the entries
-description: None
 date: 2008-03-19 23:53:00 -0000
 last_modified_at: 2008-03-19 23:53:00 -0000
 publish: true

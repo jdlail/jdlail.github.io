@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/07/on-social-media/
 title: On social media
-description: None
 date: 2009-07-13 07:53:17 -0000
 last_modified_at: 2009-07-13 07:53:17 -0000
 publish: true

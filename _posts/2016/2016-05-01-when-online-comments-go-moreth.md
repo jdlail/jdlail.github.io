@@ -2,13 +2,12 @@
 layout: post
 permalink: /2016/05/when-online-comments-go-moreth/
 title: 'When online comments go #MoreThanMean'
-description: None
 date: 2016-05-01 11:20:54 -0000
 last_modified_at: 2016-05-01 11:20:54 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 The podcast "[Just Not Sports](https://justnotsports.com/)" tackles the abuse and harassment women sports writers face in online comments with a video of "regular guy" sports fans reading comments to two women sports journalists.
@@ -22,4 +21,3 @@ Here is what a post on the podcast's website [said about the video](https://just
 Posted April 26, 2016, the video went viral, being seen by 3.15 millions times by Sunday.
 
 Listen to one of the sports journalists in the video, Julie DiCaro, talking about online abuse.
-

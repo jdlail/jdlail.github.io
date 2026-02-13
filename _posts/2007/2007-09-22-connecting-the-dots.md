@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/connecting-the-dots/
 title: Connecting the dots
-description: None
 date: 2007-09-22 10:01:30 -0000
 last_modified_at: 2007-09-22 10:01:30 -0000
 publish: true

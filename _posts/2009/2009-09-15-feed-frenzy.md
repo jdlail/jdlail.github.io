@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/feed-frenzy/
 title: Feed frenzy
-description: None
 date: 2009-09-15 22:07:02 -0000
 last_modified_at: 2009-09-15 22:07:02 -0000
 publish: true

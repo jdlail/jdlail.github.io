@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/07/the-story-of-a-national-park-i/
 title: The story of a national park in video
-description: None
 date: 2010-07-19 17:14:18 -0000
 last_modified_at: 2010-07-19 17:14:18 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/from-glue-pot-to-blog-post/
 title: From glue pot to blog post
-description: None
 date: 2008-11-19 11:37:13 -0000
 last_modified_at: 2023-04-28 14:39:50 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/06/some-people-to-follow-on-the-f/
 title: Some people to follow on the 'Future of News'
-description: None
 date: 2012-06-07 05:46:51 -0000
 last_modified_at: 2012-06-07 05:46:51 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/question-of-the-day/
 title: Question of the day
-description: None
 date: 2008-08-28 20:57:32 -0000
 last_modified_at: 2008-08-28 20:57:32 -0000
 publish: true

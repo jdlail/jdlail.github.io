@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/billie-lives-in-the-small-town/
 title: Billie lives in the small town at the end of the story
-description: None
 date: 2008-04-22 11:07:52 -0000
 last_modified_at: 2023-03-13 17:57:26 -0000
 publish: true

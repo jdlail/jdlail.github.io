@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/12/what-the-world-needs-now/
 title: What the world needs now ....
-description: None
 date: 2007-12-04 20:41:59 -0000
 last_modified_at: 2007-12-04 20:41:59 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Stephen A. Smith](/images/blog/stephen-a-smith-thumb-150x168.webp)](/images/blog/stephen-a-smith.webp)Sports TV personality Stephen A. Smith on a [blogger-free world](https://deadspin.com/sports/crazy-but-ultimately-harmless/stephen-a-smith-imagines-a-utopian-society-without-bloggers-329632.php):  

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/05/an-olive-swirli/
 title: An Olive swirling in a rumor martini
-description: None
 date: 2006-05-13 12:15:43 -0000
 last_modified_at: 2006-05-13 12:15:43 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 We've been doing some work with [Olive Software](https://www.olivesoftware.com/) so found this item on John Battelle's [Searchblog](https://battellemedia.com/archives/002559.php) intriguing:

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2013/11/students-reinventing-journalis/
 title: Students reinventing journalism at MTSU
-description: None
 date: 2013-11-29 09:49:46 -0000
 last_modified_at: 2013-11-29 09:49:46 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 - Video
 tags: []
 ---
@@ -25,4 +24,3 @@ The above video above is a promo piece, but what the students have been working 
 BINN includes a website, TV pieces, print packages and radio stories. It's great seeing some interesting experiments in the future of journalism at the university level and at a school in Tennessee.
 
 _(Photo by John A. Gillis/DNJ)_
-

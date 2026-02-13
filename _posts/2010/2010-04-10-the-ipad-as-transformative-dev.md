@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/04/the-ipad-as-transformative-dev/
 title: The iPad as "transformative device"
-description: None
 date: 2010-04-10 08:06:21 -0000
 last_modified_at: 2010-04-10 08:06:21 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Training
+tags: [ONA]
 ---
   
 Bill Tallent, CEO of [Mercury Intermedia](https://www.mercuryintermedia.com/), talks about how Apple's iPad will transform culture. His company is a maker of applications for iPhone, iTouch, iPad and Android devices. The iPad application it built for USA Today has been getting rave reviews.  
@@ -43,6 +42,3 @@ Related articles by Zemanta
 * [No Big Surprises in Apple's IPhone 0S 4](https://adage.com/digitalnext/post.php?article_id=143188) (adage.com)
 * [The Apple iPad: what is it for and who will use it. All is revealed...](https://www.garybembridge.com/2010/04/apple-ipad-what-is-it-for-and-who-will.html) (garybembridge.com)
 * [Apple's iPhone OS 4.0 Might Deliver a Multitasking Solution](https://www.atomiurl.com/apples-iphone-os-4-0-might-deliver-a-multitasking-solution-2) (atomiurl.com)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=9096a84f-cdc0-4892-9fae-55348b9d7ebd)](https://reblog.zemanta.com/zemified/9096a84f-cdc0-4892-9fae-55348b9d7ebd/ "Reblog this post \[with Zemanta\]")
-

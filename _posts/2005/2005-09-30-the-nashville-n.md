@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/09/the-nashville-n/
 title: The Nashville Nobody Knows
-description: None
 date: 2005-09-30 16:48:57 -0000
 last_modified_at: 2005-09-30 16:48:57 -0000
 publish: true

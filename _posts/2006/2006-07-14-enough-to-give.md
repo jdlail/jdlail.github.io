@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/07/enough-to-give/
 title: Enough to give poltiical parties a heart attack, Dr. Frist
-description: None
 date: 2006-07-14 21:59:07 -0000
 last_modified_at: 2006-07-14 21:59:07 -0000
 publish: true

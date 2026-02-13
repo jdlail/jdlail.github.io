@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/multimedia-boot-camp-for-journ/
 title: Multimedia boot camp for journos planned in Nashville
-description: None
 date: 2009-06-23 17:33:49 -0000
 last_modified_at: 2009-06-23 17:33:49 -0000
 publish: true

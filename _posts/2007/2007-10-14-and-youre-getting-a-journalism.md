@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/and-youre-getting-a-journalism/
 title: And you're getting a journalism degree?
-description: None
 date: 2007-10-14 10:25:16 -0000
 last_modified_at: 2007-10-14 10:25:16 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/the-y-in-the-road-is-here/
 title: The 'Y' in the road is here
-description: None
 date: 2007-10-11 12:02:55 -0000
 last_modified_at: 2007-10-11 12:02:55 -0000
 publish: true

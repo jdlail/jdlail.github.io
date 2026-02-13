@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/fastforwarding/
 title: Fast-forwarding through the numbers
-description: None
 date: 2007-06-20 09:07:59 -0000
 last_modified_at: 2007-06-20 09:07:59 -0000
 publish: true

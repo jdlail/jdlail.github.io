@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/al-gore-inc/
 title: Al Gore Inc.
-description: None
 date: 2007-07-11 09:23:18 -0000
 last_modified_at: 2007-07-11 09:23:18 -0000
 publish: true

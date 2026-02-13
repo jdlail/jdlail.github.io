@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/just-another-victim-of-a-shift/
 title: Just another victim of a shifting, churning landscape
-description: None
 date: 2009-05-06 12:30:09 -0000
 last_modified_at: 2009-05-06 12:30:09 -0000
 publish: true

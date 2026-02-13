@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/an-expert-quote/
 title: An expert quote
-description: None
 date: 2007-01-10 20:47:52 -0000
 last_modified_at: 2007-01-10 20:47:52 -0000
 publish: true

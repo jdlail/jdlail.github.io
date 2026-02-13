@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/just-part-of-th/
 title: Just part of the E-Mail Generation
-description: None
 date: 2006-12-08 18:58:23 -0000
 last_modified_at: 2006-12-08 18:58:23 -0000
 publish: true

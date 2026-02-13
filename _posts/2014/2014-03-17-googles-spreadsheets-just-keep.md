@@ -2,7 +2,6 @@
 layout: post
 permalink: /2014/03/googles-spreadsheets-just-keep/
 title: Google's spreadsheets just keep getting better
-description: None
 date: 2014-03-17 06:26:36 -0000
 last_modified_at: 2014-03-17 06:26:36 -0000
 publish: true

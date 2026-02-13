@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/i-found-it-on-youtube/
 title: I found it on YouTube
-description: None
 date: 2008-11-20 11:05:16 -0000
 last_modified_at: 2008-11-20 11:05:16 -0000
 publish: true

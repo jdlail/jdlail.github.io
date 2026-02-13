@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/02/not-drinking-th/
 title: Not drinking the Kool-Aid
-description: None
 date: 2007-02-13 16:46:32 -0000
 last_modified_at: 2007-02-13 16:46:32 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Just beneath the surface of convergence and newsroom transformation, lies a darker, more cynical view of changes within newsrooms. And, unfortunately, that darkness could drag newspapers efforts to adapt into the abyss. Consider this from a recent survey of sportswriters about blogging. One longtime sportswriter said:
@@ -24,4 +23,4 @@ One of the conclusions in the survey analysis was:
 
 > Perhaps even more importantly, most journalists did not perceive a value in blogging, in terms of increasing audiences, contributing to their media outlet or in their own professional development. It might be more correct to say that even when journalists saw value in blogging, they believed that value was offset by additional problems.
 
-We just think we've come a long way. Tags: [blogging](https://technorati.com/tag/blogging) | [sports](https://technorati.com/tag/sports) | [culture change](https://technorati.com/tag/culture change) | [sports blogging](https://technorati.com/tag/sports blogging)
+We just think we've come a long way. Tags: [blogging](https://technorati.com/tag/blogging) | [sports](https://technorati.com/tag/sports) | [culture change](<https://technorati.com/tag/culture> change) | [sports blogging](<https://technorati.com/tag/sports> blogging)

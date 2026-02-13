@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/08/a-lot-of-the-mashups/
 title: Find sex offenders around your neighborhood
-description: None
 date: 2007-08-26 09:14:20 -0000
 last_modified_at: 2007-08-26 09:14:20 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 - Ramblings
 tags: []
 ---

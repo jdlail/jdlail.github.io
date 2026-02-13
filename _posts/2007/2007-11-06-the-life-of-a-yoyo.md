@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/the-life-of-a-yoyo/
 title: The life of a yo-yo
-description: None
 date: 2007-11-06 07:06:47 -0000
 last_modified_at: 2007-11-06 07:06:47 -0000
 publish: true

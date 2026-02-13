@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/sunshine-poll/
 title: Sunshine poll
-description: None
 date: 2009-03-14 10:58:08 -0000
 last_modified_at: 2009-03-14 10:58:08 -0000
 publish: true

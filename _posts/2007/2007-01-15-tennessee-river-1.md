@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/tennessee-river-1/
 title: Tennessee River from Lakeshore Greenway
-description: None
 date: 2007-01-15 12:37:39 -0000
 last_modified_at: 2007-01-15 12:37:39 -0000
 publish: true

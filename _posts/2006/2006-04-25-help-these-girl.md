@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/04/help-these-girl/
 title: Help these girls out
-description: None
 date: 2006-04-25 22:10:46 -0000
 last_modified_at: 2006-04-25 22:10:46 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 The Randoms want you to be their friend on [their MySpace](https://www.myspace.com/randomthis) site. So add them to your friends ... or they're going to be mighty tough to work with. Just a random excerpt from one Random:

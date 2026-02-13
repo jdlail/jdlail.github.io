@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/life-at-mabry-mill/
 title: Life at Mabry Mill
-description: None
 date: 2007-12-05 13:03:42 -0000
 last_modified_at: 2007-12-05 13:03:42 -0000
 publish: true

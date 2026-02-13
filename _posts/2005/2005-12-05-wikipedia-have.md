@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/12/wikipedia-have/
 title: Wikipedia, have you met John Seigenthaler?
-description: None
 date: 2005-12-05 21:37:15 -0000
 last_modified_at: 2005-12-05 21:37:15 -0000
 publish: true

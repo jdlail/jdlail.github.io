@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/policetube/
 title: PoliceTube
-description: None
 date: 2008-02-01 21:51:45 -0000
 last_modified_at: 2008-02-01 21:51:45 -0000
 publish: true

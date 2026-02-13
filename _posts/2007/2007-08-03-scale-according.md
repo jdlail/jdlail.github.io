@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/08/scale-according/
 title: Scale accordingly
-description: None
 date: 2007-08-03 19:25:29 -0000
 last_modified_at: 2007-08-03 19:25:29 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Here's a math equation traditional media folks are going to get some schoolin' in.
@@ -23,4 +22,4 @@ He notes Malik works out of his home and uses standard off-the-shelf blogging an
 
 > The most successful online publications - whether old or new media, whether video or text - all have a lean, mean operation that employs the best people, gives them creative freedom to shape their publication, and frees them from the constraints of the traditional publishing environment and of what has gone before.
 
-Back to the blackboard: Lean operation + good sales + good content = Internet money Tags: [transformation](https://technorati.com/tag/transformation) | [mainstream media](https://technorati.com/tag/mainstream media) | [business model](https://technorati.com/tag/business model)
+Back to the blackboard: Lean operation + good sales + good content = Internet money Tags: [transformation](https://technorati.com/tag/transformation) | [mainstream media](<https://technorati.com/tag/mainstream> media) | [business model](<https://technorati.com/tag/business> model)

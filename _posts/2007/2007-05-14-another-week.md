@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/another-week/
 title: Another week
-description: None
 date: 2007-05-14 08:26:43 -0000
 last_modified_at: 2007-05-14 08:26:43 -0000
 publish: true

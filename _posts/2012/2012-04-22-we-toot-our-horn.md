@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/04/we-toot-our-horn/
 title: We toot our horn
-description: None
 date: 2012-04-22 12:26:49 -0000
 last_modified_at: 2012-04-22 12:26:49 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/07/lets-replay-that/
 title: Let's replay that
-description: None
 date: 2015-07-23 19:47:36 -0000
 last_modified_at: 2015-07-23 19:47:36 -0000
 publish: true

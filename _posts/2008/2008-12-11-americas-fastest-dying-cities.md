@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/americas-fastest-dying-cities/
 title: America's fastest dying cities
-description: None
 date: 2008-12-11 18:16:12 -0000
 last_modified_at: 2008-12-11 18:16:12 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/07/the-political-liver/
 title: The political liver
-description: None
 date: 2009-07-13 14:33:58 -0000
 last_modified_at: 2009-07-13 14:33:58 -0000
 publish: true

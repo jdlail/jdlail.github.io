@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/quotable-losing-hold-by-holdin-1/
 title: 'Quotable: Losing hold by holding on'
-description: None
 date: 2008-08-08 09:41:15 -0000
 last_modified_at: 2008-08-08 09:41:15 -0000
 publish: true

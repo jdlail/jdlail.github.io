@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/and-the-underwear-just-disappe/
 title: And the underwear just disappeared
-description: None
 date: 2008-06-11 18:22:39 -0000
 last_modified_at: 2008-06-11 18:22:39 -0000
 publish: true

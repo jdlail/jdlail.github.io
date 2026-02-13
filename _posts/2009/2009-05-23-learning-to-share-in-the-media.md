@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/learning-to-share-in-the-media/
 title: Learning to share in the media sandbox
-description: None
 date: 2009-05-23 09:09:09 -0000
 last_modified_at: 2009-05-23 09:09:09 -0000
 publish: true

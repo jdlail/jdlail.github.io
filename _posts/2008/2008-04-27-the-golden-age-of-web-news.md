@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/the-golden-age-of-web-news/
 title: The 'Golden Age' of Web news
-description: None
 date: 2008-04-27 12:04:41 -0000
 last_modified_at: 2008-04-27 12:04:41 -0000
 publish: true
@@ -10,7 +9,7 @@ pin: false
 categories:
 - Carnival
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 _(Welcome[Instapundit](https://www.instapundit.com/) readers. Consider [subscribing](https://feeds.feedburner.com/RandomMumblings) to this site.)_  
@@ -78,4 +77,3 @@ Links powered by [Publish2](https://publish2.com/)
   
 This post is part of this month's [Carnival of Journalism](https://www.carnivalofjournalism.com/), hosted at [www.yonigreenbaum.com](https://www.yonigreenbaum.com/).  
   
-

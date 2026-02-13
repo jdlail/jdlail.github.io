@@ -2,7 +2,6 @@
 layout: post
 permalink: /2018/10/chromebooks-just-got-a-lot-more-interesting/
 title: Chromebooks just got a lot more interesting
-description: None
 date: 2018-10-16 22:55:42 -0000
 last_modified_at: 2018-10-17 12:34:14 -0000
 publish: true

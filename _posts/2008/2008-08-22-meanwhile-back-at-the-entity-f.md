@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/meanwhile-back-at-the-entity-f/
 title: Meanwhile, back at the entity formerly known as a print newspaper
-description: None
 date: 2008-08-22 08:06:28 -0000
 last_modified_at: 2008-08-22 08:06:28 -0000
 publish: true

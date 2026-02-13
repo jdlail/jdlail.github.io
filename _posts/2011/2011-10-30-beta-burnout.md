@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/10/beta-burnout/
 title: Beta burnout
-description: None
 date: 2011-10-30 16:05:24 -0000
 last_modified_at: 2011-10-30 16:05:24 -0000
 publish: true

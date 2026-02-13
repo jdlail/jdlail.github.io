@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/03/tips-on-comment-management/
 title: Tips on comment management
-description: None
 date: 2013-03-26 15:06:26 -0000
 last_modified_at: 2013-03-26 15:06:26 -0000
 publish: true

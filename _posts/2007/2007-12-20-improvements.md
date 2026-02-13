@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/improvements/
 title: Improvements
-description: None
 date: 2007-12-20 11:23:53 -0000
 last_modified_at: 2007-12-20 11:23:53 -0000
 publish: true

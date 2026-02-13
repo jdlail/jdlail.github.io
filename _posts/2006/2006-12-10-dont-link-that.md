@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/dont-link-that/
 title: Don't link that link
-description: None
 date: 2006-12-10 21:13:13 -0000
 last_modified_at: 2006-12-10 21:13:13 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/12/in-search-of-the-formula-for-g/
 title: In search of the formula for gut instinct
-description: None
 date: 2013-12-08 22:00:40 -0000
 last_modified_at: 2013-12-08 22:00:40 -0000
 publish: true

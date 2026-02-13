@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/always-read-the-footnotes/
 title: Always read the footnotes
-description: None
 date: 2008-10-08 08:07:41 -0000
 last_modified_at: 2008-10-08 08:07:41 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/03/what-ive-been-doing-with-stori/
 title: What I've been doing with Storify revealed
-description: None
 date: 2011-03-08 06:59:52 -0000
 last_modified_at: 2011-03-08 06:59:52 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/02/others-saw-red-flags-but-brad/
 title: Others saw red flags, but Brad Keselowski saw a smartphone opportunity
-description: None
 date: 2012-02-29 08:30:44 -0000
 last_modified_at: 2012-02-29 08:30:44 -0000
 publish: true

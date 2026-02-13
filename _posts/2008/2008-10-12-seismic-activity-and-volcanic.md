@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/seismic-activity-and-volcanic/
 title: Seismic activity and volcanic eruptions
-description: None
 date: 2008-10-12 11:01:57 -0000
 last_modified_at: 2008-10-12 11:01:57 -0000
 publish: true

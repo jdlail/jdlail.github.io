@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/rock-star-treat/
 title: Rock Star Treatment
-description: None
 date: 2007-03-30 22:47:02 -0000
 last_modified_at: 2007-03-30 22:47:02 -0000
 publish: true

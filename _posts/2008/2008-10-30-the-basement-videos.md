@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/the-basement-videos/
 title: The basement videos
-description: None
 date: 2008-10-30 18:28:55 -0000
 last_modified_at: 2008-10-30 18:28:55 -0000
 publish: true

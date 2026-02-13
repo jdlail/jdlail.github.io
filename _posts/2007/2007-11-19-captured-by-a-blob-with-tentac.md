@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/captured-by-a-blob-with-tentac/
 title: Captured by a  blob with tentacles
-description: None
 date: 2007-11-19 14:07:12 -0000
 last_modified_at: 2007-11-19 14:07:12 -0000
 publish: true

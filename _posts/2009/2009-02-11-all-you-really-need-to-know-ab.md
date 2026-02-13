@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/all-you-really-need-to-know-ab/
 title: All you really need to know about why newspapers are in trouble
-description: None
 date: 2009-02-11 14:30:23 -0000
 last_modified_at: 2009-02-11 14:30:23 -0000
 publish: true

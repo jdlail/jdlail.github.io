@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/10/spelling-bee-cee-pee-em/
 title: 'Spelling Bee: Cee Pee Em'
-description: None
 date: 2010-10-05 09:07:37 -0000
 last_modified_at: 2010-10-05 09:07:37 -0000
 publish: true

@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/09/knoxville-blog-network/
 title: Knoxville blog network
-description: None
 date: 2007-09-11 11:39:24 -0000
 last_modified_at: 2007-09-11 11:39:24 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Noticed the Knoxville blog network we've launched is getting some attention.

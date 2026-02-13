@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/a-novel-idea-just-throw-red-li/
 title: 'A novel idea: Just throw red light tickets in the trash'
-description: None
 date: 2008-04-29 07:49:27 -0000
 last_modified_at: 2008-04-29 07:49:27 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/the-hidden-link/
 title: The hidden link between Rosslyn Chapel and Innovation
-description: None
 date: 2007-06-04 07:19:03 -0000
 last_modified_at: 2007-06-04 07:19:03 -0000
 publish: true

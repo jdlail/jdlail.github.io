@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/sounds-tops-to-me/
 title: Sounds tops to me
-description: None
 date: 2008-04-06 15:26:00 -0000
 last_modified_at: 2008-04-06 15:26:00 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/11/online-legal-issues-links/
 title: Online legal issues links
-description: None
 date: 2009-11-24 15:30:49 -0000
 last_modified_at: 2009-11-24 15:30:49 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 I'm doing a Webinar today on online legal issues, another in a series E.W. Scripps is doing with journalism professors at Hampton University using [Skype](https://www.skype.com/) and [DimDim](https://www.dimdim.com/). These are some interesting conversations.  
@@ -63,4 +62,3 @@ I've put together a set of links for them and I thought others might find the li
 * [Can the law keep up with technology? - CNN.com](https://www.cnn.com/2009/TECH/11/17/law.technology/index.html)
   
 QNH6BRUZ4Y8K
-

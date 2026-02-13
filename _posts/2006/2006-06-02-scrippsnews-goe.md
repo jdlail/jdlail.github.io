@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/06/scrippsnews-goe/
 title: Scrippsnews goes into live beta
-description: None
 date: 2006-06-02 07:35:32 -0000
 last_modified_at: 2006-06-02 07:35:32 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 **Tags:** [Blogosphere](https://technorati.com/tag/blogosphere) | [News](https://technorati.com/tag/news) | [Media](https://technorati.com/tag/media) | [Tagging](https://technorati.com/tag/tagging) Scripps Howard News Service is giving it's new "for the public" [Web site](https://www.scrippsnews.com/) a higher profile. According to the site, Scrippsnews.com has moved into the "live beta" stage. We added a link to it at the bottom of [knoxnews.com](https://www.knoxnews.com/) yesterday, but the Web site quietly went up in February ... so quietly I hadn't seen it until yesterday.  They are calling it:

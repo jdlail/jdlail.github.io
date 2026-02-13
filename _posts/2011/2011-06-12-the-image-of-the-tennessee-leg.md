@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/06/the-image-of-the-tennessee-leg/
 title: The image of the Tennessee Legislature is growing more frightening and distressing
-description: None
 date: 2011-06-12 09:01:38 -0000
 last_modified_at: 2011-06-12 09:01:38 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Did the TN legislature become the first living brain donors? <https://t.co/F4ae3qb> | cc [@jacklail](https://twitter.com/jacklail) [@jeffjarvis](https://twitter.com/jeffjarvis) [#photog](https://search.twitter.com/search?q=%23photog)[Sat Jun 11 18:23:36](https://twitter.com/gizmotastic/status/79614777378344960 "Sat Jun 11 18:23:36 ") via web[![](https://a2.twimg.com/profile_images/1123219962/jeffmanes_normal.jpg)](https://twitter.com/gizmotastic)**[Jeff Manes](https://twitter.com/gizmotastic)**  
@@ -26,7 +25,4 @@ This is the same Legislature that made sharing [Netflix passwords illegal](https
   
 .  
   
-   
-
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=0d2653fe-b43f-4a79-abf8-b2213517461f)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

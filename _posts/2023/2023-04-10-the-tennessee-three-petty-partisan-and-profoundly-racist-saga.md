@@ -2,7 +2,7 @@
 layout: post
 permalink: /2023/04/the-tennessee-three-petty-partisan-and-profoundly-racist-saga/
 title: 'The Tennessee Three: Petty, partisan and profoundly racist saga'
-description: None
+description: 'When did it sound like a good idea to bring expulsion resolutions against two young black Democratic lawmakers, Justin Jones and Justin Pearson and one of the few women in the Legislature, Democrat Gloria Johnson?'
 date: 2023-04-10 19:52:18 -0000
 last_modified_at: 2023-04-26 05:08:08 -0000
 publish: true
@@ -15,7 +15,7 @@ categories:
 tags:
 - Tennessee Legislature
 ---
-The question I have is was it after the fourth or fifth round at the Good Ole' Boys Bar did it begin to sound like a good idea to bring expulsion resolutions against two young black Democratic lawmakers, Justin Jones and Justin Pearson and one of the few women in the Legislature, Democrat Gloria Johnson.
+The question I have is was it after the fourth or fifth round at the Good Ole' Boys Bar did it begin to sound like a good idea to bring expulsion resolutions against two young black Democratic lawmakers, Justin Jones and Justin Pearson and one of the few women in the Legislature, Democrat Gloria Johnson?
 
 Because being drunk -- either on Jack or power or both -- is the only explanation that even begins to make sense.
 
@@ -45,7 +45,7 @@ Vice President Kamala Harris speech at Fisk University in Nashville the day afte
 > CNN’s Kaitlan Collins as reported by [Mediaite](https://www.mediaite.com/politics/tennessee-republican-walks-off-during-live-interview-on-cnn-chairman-faison-has-left-us/).  
 >
 
-{% include twitter.html url="https://twitter.com/BarackObama/status/1644163253868609538" %}
+{% include twitter.html url="<https://twitter.com/BarackObama/status/1644163253868609538>" %}
 > "I'm hopeful because I saw thousands of people — and in fact people across this nation, I would say, millions — who are paying attention to what happened and are challenging it, saying that it was wrong," Jones told MSNBC's "Morning Joe" on Friday.
 >
 > Expelled Rep. Justin Jones from [Axios.](https://www.axios.com/2023/04/07/who-are-tennessee-three-democrats-republican-expulsion)

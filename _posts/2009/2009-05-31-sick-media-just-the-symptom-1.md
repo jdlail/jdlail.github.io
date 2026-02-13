@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/sick-media-just-the-symptom-1/
 title: Sick media just the symptom
-description: None
 date: 2009-05-31 17:35:19 -0000
 last_modified_at: 2009-05-31 17:35:19 -0000
 publish: true

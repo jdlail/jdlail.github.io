@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/the-techdirt-on-newspapers/
 title: The Techdirt on newspapers
-description: None
 date: 2007-12-14 06:55:50 -0000
 last_modified_at: 2007-12-14 06:55:50 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/06/more-on-drone-journalism/
 title: More on drone journalism
-description: None
 date: 2013-06-24 06:59:41 -0000
 last_modified_at: 2013-06-24 06:59:41 -0000
 publish: true

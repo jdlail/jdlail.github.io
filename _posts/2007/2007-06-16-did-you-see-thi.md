@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/did-you-see-thi/
 title: Did you see this fax?
-description: None
 date: 2007-06-16 12:15:59 -0000
 last_modified_at: 2007-06-16 12:15:59 -0000
 publish: true

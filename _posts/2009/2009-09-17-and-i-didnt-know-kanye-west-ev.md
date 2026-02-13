@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/and-i-didnt-know-kanye-west-ev/
 title: And I didn't know Kanye West even read my blog
-description: None
 date: 2009-09-17 08:36:30 -0000
 last_modified_at: 2009-09-17 08:36:30 -0000
 publish: true

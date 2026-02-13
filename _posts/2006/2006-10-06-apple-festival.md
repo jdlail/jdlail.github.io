@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/10/apple-festival/
 title: Apple Festival
-description: None
 date: 2006-10-06 16:45:10 -0000
 last_modified_at: 2006-10-06 16:45:10 -0000
 publish: true

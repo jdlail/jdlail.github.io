@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/03/golden-press-card-awards-open-for-entries/
 title: Golden Press Card Awards open for entries
-description: None
 date: 2021-03-29 14:30:07 -0000
 last_modified_at: 2021-03-29 14:30:09 -0000
 publish: true

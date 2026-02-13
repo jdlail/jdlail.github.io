@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/when-the-team-goes-to-the-pits/
 title: When the team goes to the pits
-description: None
 date: 2007-10-25 13:13:55 -0000
 last_modified_at: 2023-03-13 13:22:41 -0000
 publish: true

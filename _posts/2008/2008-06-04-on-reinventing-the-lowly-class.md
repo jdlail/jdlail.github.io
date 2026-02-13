@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/on-reinventing-the-lowly-class/
 title: On reinventing the lowly classified ad
-description: None
 date: 2008-06-04 12:01:48 -0000
 last_modified_at: 2008-06-04 12:01:48 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/ocracoke-island/
 title: Ocracoke Island beaches, undoubtedly the best!
-description: None
 date: 2007-06-09 17:55:33 -0000
 last_modified_at: 2007-06-09 17:55:33 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/a-little-planni/
 title: A little planning would help
-description: None
 date: 2007-07-22 10:32:55 -0000
 last_modified_at: 2007-07-22 10:32:55 -0000
 publish: true

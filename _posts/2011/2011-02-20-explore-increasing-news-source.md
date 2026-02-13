@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/02/explore-increasing-news-source/
 title: 'Explore increasing news sources #JCarn'
-description: None
 date: 2011-02-20 14:21:45 -0000
 last_modified_at: 2011-02-20 14:21:45 -0000
 publish: true

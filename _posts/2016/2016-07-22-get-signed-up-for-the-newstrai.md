@@ -2,7 +2,6 @@
 layout: post
 permalink: /2016/07/get-signed-up-for-the-newstrai/
 title: Get signed up for the NewsTrain stop in Tennessee
-description: None
 date: 2016-07-22 17:29:25 -0000
 last_modified_at: 2016-07-22 17:29:25 -0000
 publish: true

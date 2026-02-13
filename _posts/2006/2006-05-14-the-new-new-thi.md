@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/05/the-new-new-thi/
 title: The "new, new thing" revisited
-description: None
 date: 2006-05-14 12:00:30 -0000
 last_modified_at: 2006-05-14 12:00:30 -0000
 publish: true

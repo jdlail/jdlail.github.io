@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/05/first-amendemnt-found-damaged/
 title: First Amendment found damaged in storm cleanup
-description: None
 date: 2011-05-06 10:25:54 -0000
 last_modified_at: 2011-05-06 10:25:54 -0000
 publish: true

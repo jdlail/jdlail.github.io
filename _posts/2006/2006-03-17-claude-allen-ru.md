@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/03/claude-allen-ru/
 title: Claude Allen runs out of family values
-description: None
 date: 2006-03-17 13:20:12 -0000
 last_modified_at: 2006-03-17 13:20:12 -0000
 publish: true

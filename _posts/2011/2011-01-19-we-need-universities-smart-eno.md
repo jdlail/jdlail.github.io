@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/01/we-need-universities-smart-eno/
 title: We need universities smart enough to fix the potholes
-description: None
 date: 2011-01-19 22:22:35 -0000
 last_modified_at: 2011-01-19 22:22:35 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/stand-it-on-its/
 title: Stand it on its head
-description: None
 date: 2007-07-15 13:47:05 -0000
 last_modified_at: 2007-07-15 13:47:05 -0000
 publish: true

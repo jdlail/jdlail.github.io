@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/on-polar-bears/
 title: On polar bears
-description: None
 date: 2007-08-03 07:07:07 -0000
 last_modified_at: 2007-08-03 07:07:07 -0000
 publish: true

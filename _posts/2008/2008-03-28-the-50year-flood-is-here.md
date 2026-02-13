@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/the-50year-flood-is-here/
 title: The 50-year flood is here
-description: None
 date: 2008-03-28 18:51:02 -0000
 last_modified_at: 2008-03-28 18:51:02 -0000
 publish: true

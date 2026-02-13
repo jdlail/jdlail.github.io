@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/collectors-seem-to-be-obsessed/
 title: The collectors
-description: None
 date: 2009-04-12 14:43:19 -0000
 last_modified_at: 2009-04-12 14:43:19 -0000
 publish: true

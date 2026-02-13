@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/05/in-the-cd-playe/
 title: In the CD player this morning
-description: None
 date: 2006-05-11 10:10:32 -0000
 last_modified_at: 2006-05-11 10:10:32 -0000
 publish: true

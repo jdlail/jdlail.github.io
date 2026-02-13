@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/11/i-saw-it-on-twitter-first/
 title: Let's see there's AP, Reuters, CNN and Twitter
-description: None
 date: 2010-11-24 23:17:13 -0000
 last_modified_at: 2010-11-24 23:17:13 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 >  ...there is something interesting in what ([Twitter](https://twitter.com/ "Twitter") founder [Biz](https://twitter.com/biz "Biz Stone")) Stone seemed to be describing: using the massive stream of 100 million tweets a day that flows through Twitter as the basis of a kind of digital-age Associated Press or Reuters newswire, which news organizations could share and use as a tool for distributed eye-witness reporting from around the world.  
@@ -30,4 +29,3 @@ Related articles
 * [Is a Twitter News Service What Consumers Need? | WebProNews](https://www.webpronews.com/topnews/2010/11/23/is-a-twitter-news-service-what-consumers-need) (webpronews.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=84add9a8-de40-4fd8-ba6a-0cf8d501bf1b)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

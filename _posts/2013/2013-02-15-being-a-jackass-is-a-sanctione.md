@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/02/being-a-jackass-is-a-sanctione/
 title: Being a jackass is a NCAA sanctioned event
-description: None
 date: 2013-02-15 12:48:39 -0000
 last_modified_at: 2013-02-15 12:48:39 -0000
 publish: true

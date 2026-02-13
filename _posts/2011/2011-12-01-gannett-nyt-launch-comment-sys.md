@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/12/gannett-nyt-launch-comment-sys/
 title: Gannett, NYT launch comment system changes
-description: None
 date: 2011-12-01 08:39:44 -0000
 last_modified_at: 2011-12-01 08:39:44 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/tennessee-women/
 title: Tennessee women bloggers
-description: None
 date: 2007-05-13 09:43:42 -0000
 last_modified_at: 2007-05-13 09:43:42 -0000
 publish: true

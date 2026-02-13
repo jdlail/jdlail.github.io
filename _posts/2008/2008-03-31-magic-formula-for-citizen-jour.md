@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/03/magic-formula-for-citizen-jour/
 title: Magic formula for citizen journalism remains elusive
-description: None
 date: 2008-03-31 13:09:31 -0000
 last_modified_at: 2008-03-31 13:09:31 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 John Ndege [blogs the demise](https://johnndege.com/2008/03/31/the-problem-with-citizen-journalism/) of his London-based ScribbleSheet citizen journalism site, which launched last September, in a post titled "The Problem with Citizen Journalism.".  
@@ -22,4 +21,3 @@ ScribbleSheet is another in a long stream of examples of the how very tough it i
 One of Ndege's hard learnings: _Simple display advertising won't cut it._  
   
 That calls into question the business models of a large number of sites.
-

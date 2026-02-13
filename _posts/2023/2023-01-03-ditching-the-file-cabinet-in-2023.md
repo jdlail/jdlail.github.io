@@ -2,19 +2,20 @@
 layout: post
 permalink: /2023/01/ditching-the-file-cabinet-in-2023/
 title: Ditching the file cabinet in 2023
-description: None
 date: 2023-01-04 02:55:58 -0000
 last_modified_at: 2023-04-28 03:47:57 -0000
 publish: true
 pin: false
 image:
   path: /assets/wp-content/uploads/2023/01/PIXNIO-197507-1500x1000-1.webp
-  alt: ' '
+  alt: Paperless-ngx organizes digital documents so you can ditch the file cabinet
 categories:
-- Ramblings
+- Digital Life
 tags:
 - PDF
 - Tools
+- Productivity
+- Pandoc
 ---
 I'm going paperless with all those pieces of paper in file folders.
 
@@ -64,4 +65,3 @@ An added benefit is I was storing a lot of paper I just didn't need. This has fo
 There are certainly other ways to accomplish the goal of the paperless home office, but I hope this post sparks some ideas.
 
 (File folder image via [Pixnio.com](https://pixnio.com/objects/document-file-folders-carton-paper#). Workflow drawing created at [diagrams.net](https://www.diagrams.net/).)
-

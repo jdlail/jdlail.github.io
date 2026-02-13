@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/12/a-few-ideas-for-ipad-apps/
 title: Coming down from the mountain with a few ideas for iPad apps
-description: None
 date: 2010-12-19 18:48:11 -0000
 last_modified_at: 2010-12-19 18:48:11 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -41,4 +40,3 @@ Moroney had former Belo Interactive vice president/technology and digital journa
 * [The gift of iPad: It's not a sweater, but...](https://news.cnet.com/8301-13924_3-20026119-64.html?part=rss&subj=news) (news.cnet.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=8e3149a2-8e66-4cc5-94ad-99400589afa9)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

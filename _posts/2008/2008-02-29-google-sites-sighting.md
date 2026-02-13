@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/google-sites-sighting/
 title: Google Sites sighting
-description: None
 date: 2008-02-29 06:21:49 -0000
 last_modified_at: 2008-02-29 06:21:49 -0000
 publish: true

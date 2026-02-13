@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/04/how-blacksburg/
 title: How Blacksburg got covered
-description: None
 date: 2007-04-17 07:51:50 -0000
 last_modified_at: 2007-04-17 07:51:50 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Here's a roundup of interesting coverage -- and interesting trends in coverage -- of the shootings on the campus of Virginia Tech:
@@ -25,4 +24,4 @@ Here's a roundup of interesting coverage -- and interesting trends in coverage -
 * No Silence Here coverage: [Bloggers reacting to today's massacre](https://blogs.knoxnews.com/knx/silence/archives/2007/04/bloggers_reacti_1.shtml), [Statement from University of Tennessee chancellor](https://blogs.knoxnews.com/knx/silence/archives/2007/04/statement_from.shtml) and [Questions arising out of tragic shootings](https://blogs.knoxnews.com/knx/silence/archives/2007/04/questions_arisi.shtml)
 * [Lots more here](https://blogsearch.google.com/blogsearch?hl=en&q=virginia+tech+coverage&btnG=Search+Blogs)
 
-A shoutout to [Roanoke.com](https://www.roanoke.com/) for just doing it. Pultizer caliber for next year? And how many people found out their friends were safe from Facebook? Horrible event; fascinating story. Leave me on comments on links to great coverage you find. Tags: [Virginia Tech](https://technorati.com/tag/Virginia Tech) | [blogosphere](https://technorati.com/tag/blogosphere) | [online media](https://technorati.com/tag/online media) | [newspapers](https://technorati.com/tag/newspapers)
+A shoutout to [Roanoke.com](https://www.roanoke.com/) for just doing it. Pultizer caliber for next year? And how many people found out their friends were safe from Facebook? Horrible event; fascinating story. Leave me on comments on links to great coverage you find. Tags: [Virginia Tech](<https://technorati.com/tag/Virginia> Tech) | [blogosphere](https://technorati.com/tag/blogosphere) | [online media](<https://technorati.com/tag/online> media) | [newspapers](https://technorati.com/tag/newspapers)

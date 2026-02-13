@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/kneading-public-opinion/
 title: Kneading public opinion
-description: None
 date: 2008-08-03 09:47:46 -0000
 last_modified_at: 2008-08-03 09:47:46 -0000
 publish: true

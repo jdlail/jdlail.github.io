@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/09/that-desk-phone-is-oh-so-quain/
 title: That desk phone is oh so quaint
-description: None
 date: 2008-09-18 07:11:44 -0000
 last_modified_at: 2008-09-18 07:11:44 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/find-out-how-journalists-think/
 title: Find out how journalists think!
-description: None
 date: 2008-05-01 20:11:44 -0000
 last_modified_at: 2008-05-01 20:11:44 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/see-you-in-nashville/
 title: See you in Nashville
-description: None
 date: 2008-12-23 21:14:10 -0000
 last_modified_at: 2008-12-23 21:14:10 -0000
 publish: true

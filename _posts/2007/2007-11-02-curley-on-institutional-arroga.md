@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/curley-on-institutional-arroga/
 title: Curley on institutional arrogance
-description: None
 date: 2007-11-02 17:12:37 -0000
 last_modified_at: 2007-11-02 17:12:37 -0000
 publish: true

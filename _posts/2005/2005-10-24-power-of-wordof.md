@@ -2,13 +2,12 @@
 layout: post
 permalink: /2005/10/power-of-wordof/
 title: Power of Word-of-Mouth
-description: None
 date: 2005-10-24 21:57:42 -0000
 last_modified_at: 2005-10-24 21:57:42 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Two of the most common Internet applications -- Google search and AOL instant messager -- were essentially built on word-of-mouth advertising.

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/seriously-im-busy/
 title: Seriously, I'm busy
-description: None
 date: 2008-06-12 22:43:58 -0000
 last_modified_at: 2008-06-12 22:43:58 -0000
 publish: true

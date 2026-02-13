@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/read-to-riches/
 title: Read to riches
-description: None
 date: 2007-10-21 10:37:43 -0000
 last_modified_at: 2007-10-21 10:37:43 -0000
 publish: true

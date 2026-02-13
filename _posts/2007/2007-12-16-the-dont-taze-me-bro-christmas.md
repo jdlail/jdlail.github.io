@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/the-dont-taze-me-bro-christmas/
 title: "The \u201CDon\u2019t Taze Me, Bro\u201D Christmas Meme"
-description: None
 date: 2007-12-16 12:26:47 -0000
 last_modified_at: 2007-12-16 12:26:47 -0000
 publish: true

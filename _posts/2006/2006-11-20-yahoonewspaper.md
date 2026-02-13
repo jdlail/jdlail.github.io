@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/yahoonewspaper/
 title: Yahoo/newspaper deal
-description: None
 date: 2006-11-20 06:06:17 -0000
 last_modified_at: 2006-11-20 06:06:17 -0000
 publish: true

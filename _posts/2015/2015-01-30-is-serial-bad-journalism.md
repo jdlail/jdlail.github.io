@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/01/is-serial-bad-journalism/
 title: Is 'Serial' bad journalism?
-description: None
 date: 2015-01-30 08:18:46 -0000
 last_modified_at: 2015-01-30 08:18:46 -0000
 publish: true

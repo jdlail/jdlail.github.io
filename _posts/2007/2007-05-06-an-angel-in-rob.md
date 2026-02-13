@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/an-angel-in-rob/
 title: An angel in Robert Langford
-description: None
 date: 2007-05-06 10:24:05 -0000
 last_modified_at: 2007-05-06 10:24:05 -0000
 publish: true

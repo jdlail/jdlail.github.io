@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/06/rural-tennessee-tangled-in-turn-of-the-century-internet-speeds/
 title: Rural Tennessee tangled in turn-of-the-century internet speeds
-description: None
 date: 2021-06-17 14:47:17 -0000
 last_modified_at: 2021-06-17 14:47:18 -0000
 publish: true

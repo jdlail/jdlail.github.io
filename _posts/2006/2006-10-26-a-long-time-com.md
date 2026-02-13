@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/10/a-long-time-com/
 title: A long time comin'
-description: None
 date: 2006-10-26 15:09:43 -0000
 last_modified_at: 2006-10-26 15:09:43 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Merrill Lynch analyst Lauren Rich Fine, whose prescience about the newspaper business is hard to argue, makes a prediction:

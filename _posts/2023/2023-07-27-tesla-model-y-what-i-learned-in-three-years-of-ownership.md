@@ -2,7 +2,6 @@
 layout: post
 permalink: /2023/07/tesla-model-y-what-i-learned-in-three-years-of-ownership/
 title: 'Tesla Model Y: What I learned in three years of ownership'
-description: None
 date: 2023-07-27 22:04:41 -0000
 last_modified_at: 2023-07-30 22:31:45 -0000
 publish: true
@@ -259,4 +258,3 @@ Others that might be useful:
 ## Referral Link
 
 If you are reading as part of your buying research and found this useful, please consider using [my referral link](https://ts.la/jack65708) to make your purchase.
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/stiff-nerd-at-ballpark/
 title: Stiff nerd at ballpark
-description: None
 date: 2008-07-10 23:29:37 -0000
 last_modified_at: 2008-07-10 23:29:37 -0000
 publish: true

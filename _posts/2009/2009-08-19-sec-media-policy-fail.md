@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/sec-media-policy-fail/
 title: 'SEC Media Policy = #FAIL'
-description: None
 date: 2009-08-19 16:32:29 -0000
 last_modified_at: 2009-08-19 16:32:29 -0000
 publish: true

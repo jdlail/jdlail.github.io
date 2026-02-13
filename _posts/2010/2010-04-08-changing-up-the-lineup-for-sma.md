@@ -2,16 +2,17 @@
 layout: post
 permalink: /2010/04/changing-up-the-lineup-for-sma/
 title: Changing up the lineup for "Smart Phones for Smart Journalists"
-description: None
 date: 2010-04-08 11:15:11 -0000
 last_modified_at: 2010-04-08 11:15:11 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Training
+tags: [Nashville]
 ---
-[![Patrick Stiegman](/assets_c/2010/04/pas25-thumb-150x176-566.webp)](/images/pas25.webp)We've made one lineup change in our speakers for Friday's "Smart Phones for Smart Journalists" workshop in Nashville at the [Freedom Forum's John Seigenthaler Center](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1207+18th+Ave+S,+Nashville,+TN+37212&sll=37.0625,-95.677068&sspn=32.059939,56.513672&ie=UTF8&hq=&hnear=1207+18th+Ave+S,+Nashville,+Davidson,+Tennessee+37212&z=16).  
+[![Patrick Stiegman](/assets_c/2010/04/pas25-thumb-150x176-566.webp)](/images/pas25.webp)
+
+We've made one lineup change in our speakers for Friday's "Smart Phones for Smart Journalists" workshop in Nashville at the [Freedom Forum's John Seigenthaler Center](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1207+18th+Ave+S,+Nashville,+TN+37212&sll=37.0625,-95.677068&sspn=32.059939,56.513672&ie=UTF8&hq=&hnear=1207+18th+Ave+S,+Nashville,+Davidson,+Tennessee+37212&z=16).  
   
 Due to an unforeseen obligation, Rob King of [ESPN](https://espn.go.com/tvlistings/networks/espnnow.html "ESPN") is unable to attend, but Patrick Steigman has graciously agreed to speak in his place.  
   
@@ -35,8 +36,3 @@ The workshop is sponsored by ONA and the [Freedom Forum](https://www.freedomforu
 In addition to myself, the committee planning this training opportunity includes [Patrick Beeson](https://www.patrickbeeson.com/) of the Scripps Interactive Newspaper Group in Knoxville, [Cory Haik](https://www.facebook.com/search/?q=sherry+salko&init=quick#%21/coryhaik?ref=ts) of the Online News Association and The Seattle Times, [Val Hoeppner](https://www.facebook.com/search/?q=sherry+salko&init=quick#%21/val.hoeppner?ref=ts) of the Freedom Forum, [Jack Marsh](https://www.facebook.com/profile.php?id=540135458 "Jack Marsh") of the Freedom Forum, [Jane McDonnell](https://www.facebook.com/profile.php?id=1366564958 "Jane McDonnell") of the Online News Association, [Ken Sands](https://www.facebook.com/ken.sands "Ken Sands") of the Online News Association and Bloomberg, [Sherry Salko](https://www.facebook.com/search/?q=sherry+salko&init=quick#%21/sskalko?ref=search&sid=539056144.2625976010..1) of the Online News Association, [Knight Stivender](https://www.facebook.com/knight.stivender "Knight Stivender") of The Tennessean, and [Tracey Trumbull](https://www.facebook.com/search/?q=sherry+salko&init=quick#%21/tracey.trumbull?ref=ts) of the [Chattanooga Times Free Press](https://timesfreepress.com/ "Chattanooga Times Free Press").  
 _  
 Note to attendees; Parking is available in the surface lot across the street from the Seigenthaler Center. Note: Do not park in the two-story deck. Also, if you Twitter the sessions, try to use the hashtag[#onanash](https://search.twitter.com/search?q=%23onanash) so everyone can keep track of the conversations.  
-  
-_
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=cd80f230-55cb-4bee-87d0-b636598ae6e9)](https://reblog.zemanta.com/zemified/cd80f230-55cb-4bee-87d0-b636598ae6e9/ "Reblog this post \[with Zemanta\]")
-

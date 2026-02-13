@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/jogging-to-yelp/
 title: Jogging to Yelp
-description: None
 date: 2007-07-22 15:17:20 -0000
 last_modified_at: 2007-07-22 15:17:20 -0000
 publish: true

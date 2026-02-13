@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/01/marc-andreessen-the-game-is/
 title: A random top 10 list for 2009
-description: None
 date: 2010-01-01 10:24:09 -0000
 last_modified_at: 2010-01-01 10:24:09 -0000
 publish: true

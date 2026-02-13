@@ -2,7 +2,7 @@
 layout: post
 permalink: /2006/01/top-cities-for/
 title: Top cities for "travel value"
-description: None
+description: "Knoxville is in the Top 10 as a 'value travel' destination, according to a Hotwire index."
 date: 2006-01-19 15:31:19 -0000
 last_modified_at: 2006-01-19 15:31:19 -0000
 publish: true

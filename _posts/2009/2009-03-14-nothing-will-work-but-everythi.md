@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/nothing-will-work-but-everythi/
 title: Nothing will work, but everything might
-description: None
 date: 2009-03-14 12:29:05 -0000
 last_modified_at: 2009-03-14 12:29:05 -0000
 publish: true

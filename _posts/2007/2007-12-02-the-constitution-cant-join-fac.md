@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/12/the-constitution-cant-join-fac/
 title: The Constitution can't join Facebook
-description: None
 date: 2007-12-02 11:09:08 -0000
 last_modified_at: 2007-12-02 11:09:08 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 First Amendment 1; Facebook 0  

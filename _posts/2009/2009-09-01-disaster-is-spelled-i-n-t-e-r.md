@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/disaster-is-spelled-i-n-t-e-r/
 title: Disaster is spelled I-N-T-E-R-N-E-T
-description: None
 date: 2009-09-01 17:25:30 -0000
 last_modified_at: 2009-09-01 17:25:30 -0000
 publish: true

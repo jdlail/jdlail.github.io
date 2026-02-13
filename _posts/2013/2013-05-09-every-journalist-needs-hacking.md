@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/05/every-journalist-needs-hacking/
 title: Every journalist needs hacking tips from the NSA
-description: None
 date: 2013-05-09 21:15:57 -0000
 last_modified_at: 2013-05-09 21:15:57 -0000
 publish: true

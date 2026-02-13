@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/03/jeff-cole-director-of-uscs/
 title: While other media shrink, video grows, particularly on the small screen
-description: None
 date: 2010-03-16 12:01:26 -0000
 last_modified_at: 2010-03-16 12:01:26 -0000
 publish: true

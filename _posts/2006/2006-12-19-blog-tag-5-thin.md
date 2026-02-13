@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/blog-tag-5-thin/
 title: 'Blog Tag: 5 things you don''t know about me'
-description: None
 date: 2006-12-19 14:10:47 -0000
 last_modified_at: 2006-12-19 14:10:47 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/no-photo-of-government-transpa/
 title: No photo of government transparency available
-description: None
 date: 2009-09-01 11:06:36 -0000
 last_modified_at: 2009-09-01 11:06:36 -0000
 publish: true

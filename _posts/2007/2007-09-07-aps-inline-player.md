@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/aps-inline-player/
 title: AP's inline player
-description: None
 date: 2007-09-07 07:41:01 -0000
 last_modified_at: 2007-09-07 07:41:01 -0000
 publish: true

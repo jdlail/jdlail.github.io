@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/granted-its-journalism/
 title: Granted, it's journalism
-description: None
 date: 2009-02-22 11:35:51 -0000
 last_modified_at: 2009-02-22 11:35:51 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/the-void-will-be-filled/
 title: The void will be filled
-description: None
 date: 2008-12-09 07:34:27 -0000
 last_modified_at: 2008-12-09 07:34:27 -0000
 publish: true

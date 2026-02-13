@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/strange-bird-si/
 title: Strange bird sighting
-description: None
 date: 2007-07-15 23:04:12 -0000
 last_modified_at: 2007-07-15 23:04:12 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/sec-media-policy-doesnt-get-be/
 title: SEC Media Policy doesn't get better with study
-description: None
 date: 2009-08-17 10:32:41 -0000
 last_modified_at: 2009-08-17 10:32:41 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/reinvention-takes-investment/
 title: Reinvention takes investment
-description: None
 date: 2008-06-19 06:42:05 -0000
 last_modified_at: 2008-06-19 06:42:05 -0000
 publish: true

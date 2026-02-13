@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/visit-here-and-youll-be-smarte/
 title: Visit here and you'll be smarter and richer
-description: None
 date: 2008-07-26 09:10:33 -0000
 last_modified_at: 2008-07-26 09:10:33 -0000
 publish: true

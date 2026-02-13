@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/high-profile-tennessee-politic/
 title: High profile Tennessee political blog shuttered in budget cutting move
-description: None
 date: 2008-03-14 22:47:20 -0000
 last_modified_at: 2008-03-14 22:47:20 -0000
 publish: true

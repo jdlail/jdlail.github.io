@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/fast-reliable-and-cheap-is-alw/
 title: Fast, reliable and cheap is always in fashion
-description: None
 date: 2008-04-25 22:12:42 -0000
 last_modified_at: 2008-04-25 22:12:42 -0000
 publish: true

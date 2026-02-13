@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/who-needs-business-cards/
 title: Who needs business cards?
-description: None
 date: 2008-08-01 23:20:33 -0000
 last_modified_at: 2008-08-01 23:20:33 -0000
 publish: true

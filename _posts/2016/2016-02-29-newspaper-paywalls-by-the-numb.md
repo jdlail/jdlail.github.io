@@ -2,7 +2,6 @@
 layout: post
 permalink: /2016/02/newspaper-paywalls-by-the-numb/
 title: Newspaper paywalls by the numbers
-description: None
 date: 2016-02-29 10:03:00 -0000
 last_modified_at: 2016-02-29 10:03:00 -0000
 publish: true

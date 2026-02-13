@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/eyes-on-the-prize/
 title: Eyes on the prize
-description: None
 date: 2008-01-20 19:14:14 -0000
 last_modified_at: 2008-01-20 19:14:14 -0000
 publish: true

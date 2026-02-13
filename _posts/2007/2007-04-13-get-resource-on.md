@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/get-resource-on/
 title: Great resource on workplace issues
-description: None
 date: 2007-04-13 21:54:25 -0000
 last_modified_at: 2007-04-13 21:54:25 -0000
 publish: true

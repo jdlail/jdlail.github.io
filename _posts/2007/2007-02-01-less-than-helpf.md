@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/02/less-than-helpf/
 title: Less than helpful
-description: None
 date: 2007-02-01 20:29:01 -0000
 last_modified_at: 2007-02-01 20:29:01 -0000
 publish: true

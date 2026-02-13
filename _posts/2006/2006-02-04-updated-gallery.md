@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/02/updated-gallery/
 title: Updated Gallery software
-description: None
 date: 2006-02-04 22:08:22 -0000
 last_modified_at: 2006-02-04 22:08:22 -0000
 publish: true

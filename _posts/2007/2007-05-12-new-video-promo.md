@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/new-video-promo/
 title: New video promo tool
-description: None
 date: 2007-05-12 10:53:32 -0000
 last_modified_at: 2007-05-12 10:53:32 -0000
 publish: true

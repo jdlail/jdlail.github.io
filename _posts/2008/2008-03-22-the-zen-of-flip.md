@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/the-zen-of-flip/
 title: The Zen of Flip
-description: None
 date: 2008-03-22 11:07:39 -0000
 last_modified_at: 2008-03-22 11:07:39 -0000
 publish: true

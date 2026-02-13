@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/tis-the-season/
 title: Tis the season
-description: None
 date: 2008-12-15 21:22:58 -0000
 last_modified_at: 2008-12-15 21:22:58 -0000
 publish: true

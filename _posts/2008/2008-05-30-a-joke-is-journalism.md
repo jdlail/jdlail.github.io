@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/05/a-joke-is-journalism/
 title: A joke is journalism
-description: None
 date: 2008-05-30 06:18:24 -0000
 last_modified_at: 2008-05-30 06:18:24 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -33,4 +32,3 @@ Would a mainstream media outlet be this innovative? The New York Times sock pupp
   
 Is dull a prerequisite for serious news?  
   
-

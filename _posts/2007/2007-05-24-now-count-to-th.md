@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/now-count-to-th/
 title: Now count to three
-description: None
 date: 2007-05-24 23:43:00 -0000
 last_modified_at: 2007-05-24 23:43:00 -0000
 publish: true

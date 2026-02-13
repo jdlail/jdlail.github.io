@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/03/paper-profits/
 title: Paper Profits
-description: None
 date: 2005-03-26 11:23:39 -0000
 last_modified_at: 2005-03-26 11:23:39 -0000
 publish: true

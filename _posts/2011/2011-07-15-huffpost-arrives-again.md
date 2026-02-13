@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/07/huffpost-arrives-again/
 title: HuffPost arrives (again)
-description: None
 date: 2011-07-15 14:06:20 -0000
 last_modified_at: 2011-07-15 14:06:20 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![WEST HOLLYWOOD, CA - FEBRUARY 23:  Co-Founder/...](https://cache.daylife.com/imageserve/0a0m2V57lheN0/120x150.jpg)](https://www.daylife.com/image/0a0m2V57lheN0?utm_source=zemanta&utm_medium=p&utm_content=0a0m2V57lheN0&utm_campaign=z1)
@@ -32,4 +31,3 @@ Huffington Post gets its own AP Stylebook entry:
 * [AOL launches Huffington Post in the UK](https://www.digitaltrends.com/international/aol-launches-huffington-post-in-the-uk/) (digitaltrends.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=3ed4092e-8003-4b7c-8c86-fc9c49a9b9e9)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

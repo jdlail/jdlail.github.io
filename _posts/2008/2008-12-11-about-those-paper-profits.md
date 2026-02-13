@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/about-those-paper-profits/
 title: About those paper profits
-description: None
 date: 2008-12-11 12:35:40 -0000
 last_modified_at: 2008-12-11 12:35:40 -0000
 publish: true

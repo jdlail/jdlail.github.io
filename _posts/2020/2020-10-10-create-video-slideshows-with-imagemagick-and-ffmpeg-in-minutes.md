@@ -2,7 +2,7 @@
 layout: post
 permalink: /2020/10/create-video-slideshows-with-imagemagick-and-ffmpeg-in-minutes/
 title: Create video slideshows with ImageMagick and FFmpeg in minutes
-description: None
+description: How to create video slideshows with ImageMagick and FFmpeg in minutes
 date: 2020-10-10 15:44:47 -0000
 last_modified_at: 2022-09-21 16:23:12 -0000
 publish: true
@@ -46,7 +46,7 @@ Also, it's Linux, case matters for JPG vs jpg.
 
 Then I deleted the 4:3 aspect ratio versions, leaving only the new 16:9 aspect ratio ones.
 
-The above works well with landscape photos, but with people, it's possible to chop their heads off. I've found the following code will put the entire image in a 16x9 canvas with letterboxing .
+The above works well with landscape photos, but with people, it's possible to chop their heads off. I've found the following code will put the entire image in a 16x9 canvas with letterboxing.
   
     for i in *jpg;do convert "$i" \
     -resize 1920x1080 -background black \
@@ -80,6 +80,7 @@ I downloaded some royalty-free music from YouTube and ran another FFmpeg command
 Here is the result:
 
 {% include youtube.html id="ukRphfbb8zs" %}
+
 If you have vertical photos, they might come in sideways. I was able to fix that with ImageMagick using this command:
   
     mogrify -auto-orient image-name.JPG
@@ -103,4 +104,3 @@ If your slideshows are pretty standardized, this is a very fast way to create th
 Suggestions or comments? Hit me up on Twitter at [@jacklail](https://twitter.com/jacklail)
 
 _Note: If you copy any of the code snippets above, remove any returns._
-

@@ -3,16 +3,14 @@ layout: post
 permalink: /2021/12/elon-musk-is-times-latest-person-of-the-year-but-dolly-parton-has-never-won-it/
 title: Elon Musk is TIME's latest Person of the year, but Dolly Parton has never won
   it?
-description: None
+description: 'TIME magazine on Monday named entrepreneur Elon Musk its "Person of the Year," seemingly more based on his influence rahter than his outsized accomplishments of which there many.'
 date: 2021-12-13 16:07:49 -0000
 last_modified_at: 2021-12-13 16:07:50 -0000
 publish: true
 pin: false
 image:
   path: /assets/wp-content/uploads/2021/12/8514592946_d37cef114f_k.webp
-  alt: 'Elon Musk, serial entrepreneur, at TED2013: The Young, The Wise, The Undiscovered.
-    Wednesday, February 27, 2013, Long Beach, CA. Photo: James Duncan Davidson (via
-    Flickr used with Creative Commons License)'
+  alt: 'Elon Musk, serial entrepreneur, at TED2013: The Young, The Wise, The Undiscovered.Wednesday, February 27, 2013, Long Beach, CA. Photo: James Duncan Davidson (via Flickr used with Creative Commons License)'
 categories:
 - Ramblings
 tags:
@@ -20,13 +18,16 @@ tags:
 - Elon Musk
 - Google Trends
 ---
-TIME magazine on Monday named entrepreneur [Elon Musk](https://time.com/person-of-the-year-2021-elon-musk/) its "Person of the Year," seemingly more based on his influence than his outsized accomplishments of which there many.
+TIME magazine on Monday named entrepreneur [Elon Musk](https://time.com/person-of-the-year-2021-elon-musk/) its "Person of the Year," seemingly more based on his influence rather than his outsized accomplishments of which there many.
 
-{% include twitter.html url="https://twitter.com/TIME/status/1470375450056839169" %}
+{% include twitter.html url="<https://twitter.com/TIME/status/1470375450056839169>" %}
+
 It's a controversial pick of someone who loves to spark controversy.
 
-{% include twitter.html url="https://twitter.com/RoArquette/status/1470415951900278787" %}
-{% include twitter.html url="https://twitter.com/SenWarren/status/1470415896053227522" %}
+{% include twitter.html url="<https://twitter.com/RoArquette/status/1470415951900278787>" %}
+
+{% include twitter.html url="<https://twitter.com/SenWarren/status/1470415896053227522>" %}
+
 Yes, there's more. but TIME's pick is not a popularity contest or "best hero" of the year. Among the news organization's "[Person of the Year](https://en.wikipedia.org/wiki/Time_Person_of_the_Year)" picks are: Adolf Hitler i1938, Joseph Stalin in1939 and 1942, Nikita Khrushchev in 1957 and Ayatollah Khomeini in1979.
 
 Just for fun, let's compare the pick in another way.
@@ -54,5 +55,3 @@ That's how it looks from East Tennessee to me.
 ![](/assets/wp-content/uploads/2021/12/6186946822_73811c5e2b_k.webp)Dolly Parton at the Grand Ole Opry, Nashville on Sept. 24, 2011. Photo by [Timothy Wildey](https://www.flickr.com/photos/timothywildey/) via Flickr (Creative Commons license).
 
 * _Photo of Elon Musk Elon Musk by James Duncan Davidson (via Flickr used with Creative Commons License)._
-
-

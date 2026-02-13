@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/03/ive-been-using-a-project/
 title: Collaborating with Pablo
-description: None
 date: 2010-03-05 17:14:10 -0000
 last_modified_at: 2010-03-05 17:14:10 -0000
 publish: true
@@ -11,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[!['teambox-200�120'](https://s3.amazonaws.com/site_production/assets/5/teambox-200x120_original.webp)](https://www.teambox.com/)I've been using a project collaboration Web service called [Teambox](https://www.teambox.com/ "Teambox") for several weeks. I was drawn to it, frankly, because it was free and seemed to meet my needs for a Web site relaunch project involving a committee of several people all in different cities.  
+[!['teambox-200x120'](https://s3.amazonaws.com/site_production/assets/5/teambox-200x120_original.webp)](https://www.teambox.com/)I've been using a project collaboration Web service called [Teambox](https://www.teambox.com/ "Teambox") for several weeks. I was drawn to it, frankly, because it was free and seemed to meet my needs for a Web site relaunch project involving a committee of several people all in different cities.  
   
 The Twitter-like design is intuitive for me.  
   
@@ -64,6 +63,3 @@ Teambox is taking all my time now.
 Related articles by Zemanta
 
 * [Twitter for Teams: Teambox Launches Web-Based Collaboration Tool](https://www.readwriteweb.com/archives/twitter_for_teams_teambox_launches_radical_collabo.php) (readwriteweb.com)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=52ea84ea-2d14-40f8-8f44-6c15ec8fc5d7)](https://reblog.zemanta.com/zemified/52ea84ea-2d14-40f8-8f44-6c15ec8fc5d7/ "Reblog this post \[with Zemanta\]")
-

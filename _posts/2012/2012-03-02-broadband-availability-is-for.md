@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/03/broadband-availability-is-for/
 title: Broadband availability is for city slickers
-description: None
 date: 2012-03-02 12:38:10 -0000
 last_modified_at: 2012-03-02 12:38:10 -0000
 publish: true

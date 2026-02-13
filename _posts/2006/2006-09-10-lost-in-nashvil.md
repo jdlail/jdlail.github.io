@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/09/lost-in-nashvil/
 title: Lost in Nashville
-description: None
 date: 2006-09-10 12:57:46 -0000
 last_modified_at: 2006-09-10 12:57:46 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Steve Safran of [Lost Remote](https://www.lostremote.com/) is bogging from the [WKRN](https://www.wkrn.com/) blogger meetup in Nashville. See his coverage:

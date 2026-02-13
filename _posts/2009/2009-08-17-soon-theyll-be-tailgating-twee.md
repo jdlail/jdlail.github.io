@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/soon-theyll-be-tailgating-twee/
 title: Soon they'll be tailgating Tweet Parties
-description: None
 date: 2009-08-17 15:16:06 -0000
 last_modified_at: 2009-08-17 15:16:06 -0000
 publish: true

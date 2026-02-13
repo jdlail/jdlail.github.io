@@ -2,14 +2,13 @@
 layout: post
 permalink: /2009/04/judge-declines-to-restrict-ano/
 title: Judge declines to restrict anonymous comments on Knoxville Web sites
-description: None
 date: 2009-04-14 19:23:32 -0000
 last_modified_at: 2009-04-14 19:23:32 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 This is [welcome news](https://www.knoxnews.com/news/2009/apr/14/judge-wont-seek-limit-online-comments-carjack-case/):  
@@ -26,4 +25,3 @@ Defense attorneys in the racially charged carjacking, torture and murder case of
   
 Previously [we had written](/2009/04/an-intolerable-lack-of-toleran.html).  
   
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/what-would-mark-andressen-do/
 title: What would Mark Andreessen do?
-description: None
 date: 2008-10-30 21:32:09 -0000
 last_modified_at: 2008-10-30 21:32:09 -0000
 publish: true

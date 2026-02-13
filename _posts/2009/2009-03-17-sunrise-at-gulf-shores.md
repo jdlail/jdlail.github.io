@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/sunrise-at-gulf-shores/
 title: Sunrise at Gulf Shores
-description: None
 date: 2009-03-17 09:55:07 -0000
 last_modified_at: 2009-03-17 09:55:07 -0000
 publish: true

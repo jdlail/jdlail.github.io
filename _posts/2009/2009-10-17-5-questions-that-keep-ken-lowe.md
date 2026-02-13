@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/10/5-questions-that-keep-ken-lowe/
 title: 5 questions that keep Ken Lowe up at night
-description: None
 date: 2009-10-17 11:05:55 -0000
 last_modified_at: 2009-10-17 11:05:55 -0000
 publish: true

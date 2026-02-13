@@ -2,13 +2,12 @@
 layout: post
 permalink: /2014/09/social-media-drives-traffic-bu/
 title: Social media drives traffic, but the prize is direct users
-description: None
 date: 2014-09-25 11:58:45 -0000
 last_modified_at: 2014-09-25 11:58:45 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Referral traffic to news sites](/assets_c/2014/09/1-PJ_14.01.09_ReferralTraffic-thumb-580xauto-2508.webp)](/images/1-PJ_14.01.09_ReferralTraffic.webp)
@@ -20,4 +19,3 @@ Great piece by the Pew Research Center on "[How social media is reshaping news](
 _(Image from Pew Research Center)_
 
 __
-

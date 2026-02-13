@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/01/paying-starving-journalists-wi/
 title: Paying starving journalists will be the death of good journalism
-description: None
 date: 2008-01-07 22:00:26 -0000
 last_modified_at: 2008-01-07 22:00:26 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 I may have to create a whole new category for compensation of online journalists.  
@@ -50,5 +49,3 @@ Updated:** Welcome [Instapundit](https://www.instapundit.com/) readers! Feel fre
 * [The Constant Observer: Is it Blogging--or Chasing Popularity--that's Hazardous to Your Health?](https://spap-oop.blogspot.com/2008/01/is-it-blogging-or-chasing-popularity.html)
 * [Jean Yves Chainon: When journalism is a consumer product](https://www.editorsweblog.org/news/2008/01/when_journalism_is_a_consumer_product.php#more)
 * And OMG, [there's more](https://blogsearch.google.com/blogsearch?hl=en&q=%22edward+wasserman%22&btnG=Search+Blogs)
-
-

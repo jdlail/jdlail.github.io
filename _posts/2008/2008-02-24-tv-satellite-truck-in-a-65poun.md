@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/tv-satellite-truck-in-a-65poun/
 title: TV Satellite truck in a 65-pound backpack
-description: None
 date: 2008-02-24 10:55:30 -0000
 last_modified_at: 2008-02-24 10:55:30 -0000
 publish: true

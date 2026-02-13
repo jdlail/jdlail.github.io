@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/the-future-of-journalism-is-in/
 title: The future of journalism is in safe hands
-description: None
 date: 2009-06-29 09:14:16 -0000
 last_modified_at: 2009-06-29 09:14:16 -0000
 publish: true

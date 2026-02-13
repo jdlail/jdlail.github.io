@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/concert-tweets/
 title: Concert tweets
-description: None
 date: 2007-08-29 12:37:36 -0000
 last_modified_at: 2007-08-29 12:37:36 -0000
 publish: true

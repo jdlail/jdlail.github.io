@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/the-ap-isnt-your-old-newspaper/
 title: The AP isn't your old newspaper's wire service any more
-description: None
 date: 2008-08-17 10:54:39 -0000
 last_modified_at: 2008-08-17 10:54:39 -0000
 publish: true

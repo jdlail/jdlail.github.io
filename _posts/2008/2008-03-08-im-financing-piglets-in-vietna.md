@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/im-financing-piglets-in-vietna/
 title: I'm financing piglets in Vietnam
-description: None
 date: 2008-03-08 09:01:06 -0000
 last_modified_at: 2008-03-08 09:01:06 -0000
 publish: true

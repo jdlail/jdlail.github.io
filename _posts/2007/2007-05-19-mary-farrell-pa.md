@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/mary-farrell-pa/
 title: Mary Farrell paints her pots
-description: None
 date: 2007-05-19 21:23:25 -0000
 last_modified_at: 2007-05-19 21:23:25 -0000
 publish: true

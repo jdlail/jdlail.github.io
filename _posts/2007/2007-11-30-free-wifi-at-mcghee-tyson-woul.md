@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/free-wifi-at-mcghee-tyson-woul/
 title: Free WiFi at McGhee Tyson would be a leading-edge idea
-description: None
 date: 2007-11-30 13:19:18 -0000
 last_modified_at: 2007-11-30 13:19:18 -0000
 publish: true

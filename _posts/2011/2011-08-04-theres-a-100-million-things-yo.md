@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/08/theres-a-100-million-things-yo/
 title: There's a 100 million things you could say about this
-description: None
 date: 2011-08-04 22:20:44 -0000
 last_modified_at: 2011-08-04 22:20:44 -0000
 publish: true

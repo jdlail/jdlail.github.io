@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/jetset-embed/
 title: JetSet Embed
-description: None
 date: 2007-05-09 21:47:19 -0000
 last_modified_at: 2007-05-09 21:47:19 -0000
 publish: true

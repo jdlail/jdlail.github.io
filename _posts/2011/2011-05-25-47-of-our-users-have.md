@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/05/47-of-our-users-have/
 title: Damn, somebody cussed on my wall again
-description: None
 date: 2011-05-25 07:29:07 -0000
 last_modified_at: 2011-05-25 07:29:07 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 * 47% of our users have profanity on their Facebook Wall.
@@ -33,4 +32,3 @@ Maybe not.
 * [Profanity in the age of transparency](https://strategicallycommunicating.wordpress.com/2011/05/24/profanity-in-the-age-of-transparency/) (strategicallycommunicating.wordpress.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=d08fbbbb-7461-445e-a0b5-f78f883f132a)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

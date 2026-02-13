@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/11/henry-king-one-rare-journalist/
 title: Henry King, one rare journalist
-description: None
 date: 2010-11-03 20:46:08 -0000
 last_modified_at: 2010-11-03 20:46:08 -0000
 publish: true

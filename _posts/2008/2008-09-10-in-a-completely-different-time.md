@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/09/in-a-completely-different-time/
 title: In a completely different time zone
-description: None
 date: 2008-09-10 09:51:56 -0000
 last_modified_at: 2008-09-10 09:51:56 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![Clocks](/assets_c/2008/09/20080909_181003-thumb-485x182.webp)](/images/20080909_181003.webp)  
@@ -23,4 +22,3 @@ There were several clocks on the wall in true world news fashion of distant citi
   
 Watch for a lot of exciting developments to come out of there -- soon.  
   
-

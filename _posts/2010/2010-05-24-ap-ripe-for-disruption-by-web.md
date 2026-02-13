@@ -2,15 +2,13 @@
 layout: post
 permalink: /2010/05/ap-ripe-for-disruption-by-web/
 title: AP ripe for disruption by Web platform
-description: None
 date: 2010-05-24 21:15:44 -0000
 last_modified_at: 2023-03-13 13:16:19 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
-- Online Media
-tags: []
+- Media
+tags: [Newspapers]
 ---
 Watch [live streaming video](https://www.livestream.com/?utm_source=lsplayer&utm_medium=embed&utm_campaign=footerlinks "live streaming video") from [disrupt](https://www.livestream.com/disrupt?utm_source=lsplayer&utm_medium=embed&utm_campaign=footerlinks "Watch disrupt at livestream.com") at livestream.com
 
@@ -25,6 +23,3 @@ More from TechCrunch Disrupt via Zemanta
 * [TechCrunch DISRUPT](https://www.mentalblock.gr/index.php/2010/05/24/techcrunch-disrupt/) (mentalblock.gr)
 * [MySpace Co-Presidents Talk About The Future And Each Other](https://techcrunch.com/2010/05/24/myspace-co-presidents-talk-about-the-future-and-each-other/) (techcrunch.com)
 * [The Third Disruptive Wave #tcdisrupt](https://techcrunch.com/2010/05/23/the-third-disruptive-wave-tcdisrupt/) (techcrunch.com)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=fec2575c-8af4-477d-9948-e55dc13ebc80)](https://reblog.zemanta.com/zemified/fec2575c-8af4-477d-9948-e55dc13ebc80/ "Reblog this post \[with Zemanta\]")
-

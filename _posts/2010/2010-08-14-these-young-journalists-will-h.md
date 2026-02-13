@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/08/these-young-journalists-will-h/
 title: These young journalists will have them dancin' in the streets
-description: None
 date: 2010-08-14 18:46:23 -0000
 last_modified_at: 2010-08-14 18:46:23 -0000
 publish: true

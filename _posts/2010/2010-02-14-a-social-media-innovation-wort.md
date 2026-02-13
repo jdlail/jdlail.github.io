@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/02/a-social-media-innovation-wort/
 title: A Social Media innovation worth Google Buzz
-description: None
 date: 2010-02-14 22:01:23 -0000
 last_modified_at: 2010-02-14 22:01:23 -0000
 publish: true
@@ -26,7 +25,7 @@ Surprised?
   
 (via venture capitalist [Fred Wilson](https://www.avc.com/a_vc/2010/02/some-interesting-facts-about-chatroulette.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AVc+%28A+VC%29&utm_content=Google+Reader), who said: "I think we'll reach out to Andrey and offer him a visit to NYC. I'm still not sure if this is something we should invest it, but I'd sure like to meet this guy.")  
   
-Related articles found by Zemanta
+Related articles:
 
 * [Is ChatRoulette the Future of the Internet or Its Distant Past?](https://www.3quarksdaily.com/3quarksdaily/2010/02/is-chatroulette-the-future-of-the-internet-or-its-distant-past-.html) (3quarksdaily.com)
 * [Chat Roulette](https://www.fimoculous.com/archive/post-6685.cfm) (fimoculous.com)

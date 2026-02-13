@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/banned-from-panera/
 title: Banned from Panera
-description: None
 date: 2007-09-01 10:55:14 -0000
 last_modified_at: 2007-09-01 10:55:14 -0000
 publish: true

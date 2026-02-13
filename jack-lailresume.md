@@ -2,77 +2,74 @@
 layout: page
 permalink: /jack-lail-resume/
 title: Jack Lail - Resume
-description: None
+description: Resume of Jack D. Lail, Knoxville, Tennessee.
 date: 2017-08-05 17:54:48 -0000
 last_modified_at: 2025-12-01 19:38:18 -0000
 publish: true
 pin: false
-categories: []
-tags: []
+categories: [About]
+tags: [Resume, Work History]
 ---
-**CONTACT INFORMATION**
+
+## CONTACT INFORMATION
 
 1801 Northshore Hills Blvd.  
 Knoxville, TN 37922
 
-Phone: (865) 686-6033
+Phone: (865) 686-6033  
 Email: <contact@goldenleaf.addy.io>
 
-**OBJECTIVE**
+## OBJECTIVE
 
 To have a challenging management role with growth potential in the Digital Content  area.
 
-**EXPERIENCE**
+## EXPERIENCE
 
-02/19 - 9/2020 WATE-TV, Knoxville, TN
+### 02/19 - 9/2020 WATE-TV, Knoxville, TN
 
-Digital Manager
+Digital Manager  
+Supervised the station's digital staff and was responsible for implementing digital content strategies for WATE.com as well as the staton's other digital platforms.
 
-10/16 - 1/19 The Knoxville News Sentinel, Knoxville, TN
+### 10/16 - 1/19 The Knoxville News Sentinel, Knoxville, TN
 
-Consumer Experience Director
+Consumer Experience Director  
+Responsible for digital strategy and content. Managed a team of web preducers and journalists.
 
-Responsible for digital strategy and content
+### 3/12 - 10/16, The Knoxville News Sentinel, Knoxville, TN
 
-3/12 - 10/16, The Knoxville News Sentinel, Knoxville, TN
+Director of Digital  
+Responsible for digital strategy and content and leading digital staff.
 
-Director of Digital
+### 2/10 -- 3/12, The Knoxville News Sentinel, Knoxville, TN
 
-Responsible for digital strategy and content.
+MultiMedia Editor  
+Responsible for online, photo, entertainment and digital staffs and responsible for day-to-day digital operations and strategy.
 
-2/10 -- 3/12, The Knoxville News Sentinel, Knoxville, TN
+### 7/08 -- 2/10 The Knoxville News-Sentinel, Knoxville, TN
 
-MultiMedia Editor
-
-Responsible for online, photo, entertainment and digital staffs.
-
-Responsible for day-to-day digital operations and strategy.
-
-7/08 -- 2/10 The Knoxville News-Sentinel, Knoxville, TN
-
-Director of News Innovation
-
+Director of News Innovation  
 Responsible for online editorial content, development of multimedia strategies, development and implementation of new products and features.
 
-6/02 -- 7/08 The Knoxville News-Sentinel Knoxville, TN
+### 6/02 -- 7/08 The Knoxville News-Sentinel, Knoxville, TN
 
-Managing Editor/MultiMedia
-
+Managing Editor/MultiMedia  
 Responsible for online editorial content, development of multimedia strategies, development and implementation of new products and features.
 
-6/98 -- 6/02 The Knoxville News-Sentinel Knoxville, TN
+### 6/98 -- 6/02 The Knoxville News-Sentinel, Knoxville, TN
 
-Director/Online Media
+Director/Online Media  
+Led a digital group that was responsible for newspaper's digital strategy and footprint.
 
 Launched an auto inventory site, knoxcars.com, and a careers site, knoxcareers.com, in the spring and summer of 2000.
 
 Launched a real estate listings site in January 1999. Site won a Digital Edge award ("Edgie") from the Newspaper Association of America in 2000 for Best Classified Use of New Media, Circulation 75,000 to 250,000
 
-Lead a group of 6 involved in New Media publishing of award-winning family of Web sites. Reorganized in the summer of 1998 as a full division of the company and renamed Online Media from Online Publishing, reflecting its growing importance strategically for the newspaper. Named a director of the company.
+Lead a group of six involved in New Media publishing of award-winning family of Web sites. Reorganized in the summer of 1998 as a full division of the company and renamed Online Media from Online Publishing, reflecting its growing importance strategically for the newspaper. Named a director of the company.
 
-9/95 -- 6/98 The Knoxville News-Sentinel Knoxville, TN
+### 9/95 -- 6/98 The Knoxville News-Sentinel, Knoxville, TN
 
 Manager/Online Publishing
+Lead a pioneering team that developed digital content for the newspaper and experimented with emerging web technologies.
 
 Put up an online store for the newspaper in March 1998 that sells University of Tennessee licensed merchandise, newspaper published books and print subscriptions. Sold over $10,000 worth of merchandise in first six weeks.
 
@@ -86,57 +83,51 @@ Launched a dial-up bulletin board system for the Knoxville News-Sentinel called 
 
 Created a web site for the Knoxville News-Sentinel 1994 and piloted centralized hosting at the corporate headquarters with content management at the property level. The Knoxville News-Sentinel was one of the first two Scripps papers to go online and the first to be centrally hosted at the corporate headquarters.
 
-7/93 - 9/95 The Knoxville News-Sentinel Knoxville, TN
+### 7/93 - 9/95 The Knoxville News-Sentinel, Knoxville, TN
 
-Assistant Managing Editor/Technology
+Assistant Managing Editor/Technology  
+Championed and implemented technlogy tools for the newsroom and led a team that develop a strategic plan to develop a digital presence for the newspaper.
 
 Planned and developed a newspaper computer Bulletin Board system called KnoxLink. The project included everything from the development of a business plan to configuring hardware and software.
 
 Assisted and taught reporters how to use Computer Assisted Reporting tools such as databases, spreadsheets, online services.
 
-7/90 - 7/93 The Knoxville News-Sentinel Knoxville, TN
+### 7/90 - 7/93 The Knoxville News-Sentinel, Knoxville, TN
 
-Metro Editor
-
+Metro Editor  
 Directed staff of 25 reporters and three assistant metro editors.
 
-2/89 -- 7/90 The Knoxville News-Sentinel Knoxville, TN
+### 2/89 -- 7/90 The Knoxville News-Sentinel, Knoxville, TN
 
-Assistant Metro Editor
-
+Assistant Metro Editor  
 Helped direct Metro Desk reporting staff
 
-10/87 - 2/89 The Knoxville News-Sentinel Knoxville, TN
+### 10/87 - 2/89 The Knoxville News-Sentinel, Knoxville, TN
 
 Business Editor
-
 Directed a Business reporting staff of three in daily coverage.
 
-1/84 - 10/87 The Knoxville News-Sentinel. Knoxville, TN
+### 1/84 - 10/87 The Knoxville News-Sentinel, Knoxville, TN
 
-Reporter
-
+Reporter  
 General Assignments, Tennessee Valley Authority Beat, Business Writer.
 
-11/78 - 1/84 The Courier-Tribune. Asheboro, NC
+### 11/78 - 1/84 The Courier-Tribune, Asheboro, NC
 
-Reporter
-
+Reporter  
 Covered city government, county government, politics for excellent small town paper.
 
-9/77- 11/78 The Times Thomasville, NC
+### 9/77- 11/78 The Times, Thomasville, NC
 
-Reporter
-
+Reporter  
 General assignment reporter and part time layout
 
-**EDUCATION**
+## EDUCATION
 
-1973-1977 East Carolina University Greenville NC
-
+1973-1977 East Carolina University Greenville NC  
 B.A., English with minor in Journalism
 
-**PROFESSIONAL**
+## PROFESSIONAL
 
 Elected to the board of the East Tennessee Society of Professional Journalists chapter in 2017 and went off board in September 2025.
 
@@ -153,6 +144,6 @@ Served as national chair of the Society of Professional Journalists New Informat
 
 Have written freelance articles for The Quill, American Journalism Review, and The New York Times.
 
-**PERSONAL**
+## PERSONAL
 
-Computers, gardening, cooking, outdoors.
+Computers, genaealogy, gardening, cooking, outdoors.

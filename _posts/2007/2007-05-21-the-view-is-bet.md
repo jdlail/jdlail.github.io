@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/the-view-is-bet/
 title: The view is better from here
-description: None
 date: 2007-05-21 22:36:44 -0000
 last_modified_at: 2007-05-21 22:36:44 -0000
 publish: true

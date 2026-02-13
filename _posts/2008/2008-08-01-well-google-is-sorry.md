@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/08/well-google-is-sorry/
 title: Well, Google is sorry
-description: None
 date: 2008-08-01 22:44:15 -0000
 last_modified_at: 2008-08-01 22:44:15 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 A lot of Tennessee bloggers -- well, and bloggers everywhere -- have been locked out of their blogger.com blogs after flagged as possible spam blogs. But there's good news, Google says they are on it:  
@@ -17,5 +16,3 @@ A lot of Tennessee bloggers -- well, and bloggers everywhere -- have been locked
 >
 
 From the [Blogger Buzz blog](https://buzz.blogger.com/2008/08/spam-fridays.html).  
-
-

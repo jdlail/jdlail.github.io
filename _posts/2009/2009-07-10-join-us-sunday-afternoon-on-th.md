@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/07/join-us-sunday-afternoon-on-th/
 title: Join us Sunday afternoon on the radio
-description: None
 date: 2009-07-10 19:10:17 -0000
 last_modified_at: 2009-07-10 19:10:17 -0000
 publish: true

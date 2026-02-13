@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/reading-is-fundamental/
 title: Reading is fundamental
-description: None
 date: 2009-03-01 21:20:54 -0000
 last_modified_at: 2009-03-01 21:20:54 -0000
 publish: true

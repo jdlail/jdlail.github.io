@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/04/banking-on-good-ideas-with-15/
 title: Banking on good ideas with $1.5 million
-description: None
 date: 2008-04-15 22:37:48 -0000
 last_modified_at: 2008-04-15 22:37:48 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Noticed Eleanor Cippel, Knoxville-based director of innovation for E.W. Scripps, got some pub in an [AP story](https://www.knoxnews.com/news/2008/apr/15/papers-tailor-online-content-increase-audience-ad-/) today at the Newspaper Association of America's trade show in Washington.  
@@ -22,4 +21,3 @@ Noticed Eleanor Cippel, Knoxville-based director of innovation for E.W. Scripps,
 
 [KnoxMoms](https://www.knoxmoms.com/) is another creation of the fund. [RootClip](https://www.rootclip.com/), have you seen that one.? Still figuring it out? I like to think of it as "Lost" on a park bench, but that's just me.  
   
-

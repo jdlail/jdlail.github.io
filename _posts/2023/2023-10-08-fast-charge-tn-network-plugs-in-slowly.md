@@ -2,7 +2,7 @@
 layout: post
 permalink: /2023/10/fast-charge-tn-network-plugs-in-slowly/
 title: Fast Charge TN Network plugs in slowly
-description: None
+description: "Tennessee and TVA's plan to fund a network of electric vehicle fast charging stations along every 50 miles of the state's interstates and major highways is moving at a trickle charge pace."
 date: 2023-10-08 17:53:14 -0000
 last_modified_at: 2023-10-09 14:05:39 -0000
 publish: true

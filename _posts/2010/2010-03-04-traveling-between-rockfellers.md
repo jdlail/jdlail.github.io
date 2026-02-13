@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/03/traveling-between-rockfellers/
 title: Traveling between Rockefellers and rural North Carolina byways
-description: None
 date: 2010-03-04 09:00:36 -0000
 last_modified_at: 2010-03-04 09:00:36 -0000
 publish: true

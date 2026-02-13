@@ -2,15 +2,15 @@
 layout: post
 permalink: /2010/05/toast-of-the-trade/
 title: Toast of the journalism trade
-description: None
 date: 2010-05-19 15:41:14 -0000
 last_modified_at: 2010-05-19 15:41:14 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
-tags: []
+- Media
+tags: [Newspapers]
 ---
+
 [![Celebrating Pulitzer Prize](/assets_c/2010/05/bristolheraldwin-thumb-150x130-568.webp)](/images/bristolheraldwin.webp)In an industry hard hit by declining fortunes, layoffs, furloughs, pay cuts and dizzying org-chart  reorganizations, there's been something that has brought smiles and way-to-go comments from many a journalist.  
   
 It's the story, as Bristol Herald Courier Editor J. Todd Foster [has put it](https://www2.tricities.com/tri/news/opinion/columnists/article/j._todd_foster_column_this_is_the_little_paper_that_could_..._and_did/45097/), of the "little engine that could."  
@@ -42,6 +42,3 @@ When the announcement came, they toasted with $4.99 bottles of champagne that Fo
 For journalists outside of the big metro newspapers, $4.99 champagne never tasted so good.  
   
 _In the photo above, Bristol Herald Courier Publisher Carl Esposito (center) and Managing Editor J. Todd Foster (right) yesterday toasted the Pulitzer Prize for public service won by the newspaper. The eight-day series was written by Daniel Gilbert (left). David Crigger / Media General News Service_  
-  
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=f6eb7822-b730-4469-b58d-e5dbdc1ca6df)](https://reblog.zemanta.com/zemified/f6eb7822-b730-4469-b58d-e5dbdc1ca6df/ "Reblog this post \[with Zemanta\]")
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/baseball-saturday-night/
 title: Baseball Saturday night
-description: None
 date: 2008-06-26 13:21:08 -0000
 last_modified_at: 2008-06-26 13:21:08 -0000
 publish: true

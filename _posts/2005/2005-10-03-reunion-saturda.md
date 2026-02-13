@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/reunion-saturda/
 title: Reunion Saturday
-description: None
 date: 2005-10-03 17:23:22 -0000
 last_modified_at: 2005-10-03 17:23:22 -0000
 publish: true

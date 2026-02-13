@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/11/media-groups-protest-lack-of-p/
 title: Media groups protest lack of photo and video access to Obama
-description: None
 date: 2013-11-21 19:20:23 -0000
 last_modified_at: 2013-11-21 19:20:23 -0000
 publish: true

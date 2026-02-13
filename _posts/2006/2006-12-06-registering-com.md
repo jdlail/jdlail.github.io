@@ -2,14 +2,13 @@
 layout: post
 permalink: /2006/12/registering-com/
 title: Registering complaints
-description: None
 date: 2006-12-06 22:48:11 -0000
 last_modified_at: 2006-12-06 22:48:11 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: [newspapers, online media, site registration]
 ---
 It seems most everybody is saying newspapers should drop registration on their Web sites.

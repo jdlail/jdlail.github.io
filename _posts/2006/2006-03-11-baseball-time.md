@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/03/baseball-time/
 title: Baseball time
-description: None
 date: 2006-03-11 22:13:42 -0000
 last_modified_at: 2006-03-11 22:13:42 -0000
 publish: true

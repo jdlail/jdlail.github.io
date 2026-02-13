@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/02/observations-on-the-watching-w/
 title: Observations on the Watching Web
-description: None
 date: 2008-02-07 22:15:22 -0000
 last_modified_at: 2008-02-07 22:15:22 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 The coming "watching web."  
@@ -20,4 +19,3 @@ Writing about a new TV Web site called [livenewscameras.com](https://www.livenew
 
 The livenewscameras site is also pretty interesting.  
   
-

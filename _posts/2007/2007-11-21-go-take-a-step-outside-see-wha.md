@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/go-take-a-step-outside-see-wha/
 title: Go take a step outside, see what's shakin' in the real world
-description: None
 date: 2007-11-21 16:16:30 -0000
 last_modified_at: 2007-11-21 16:16:30 -0000
 publish: true

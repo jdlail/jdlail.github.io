@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/02/the-slant-on-media-bias/
 title: The slant on media bias
-description: None
 date: 2012-02-18 09:01:41 -0000
 last_modified_at: 2012-02-18 09:01:41 -0000
 publish: true

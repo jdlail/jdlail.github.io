@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/07/a-tool-for-creating-clear-unde/
 title: A tool for creating clear understanding and agreement
-description: None
 date: 2009-07-28 18:22:22 -0000
 last_modified_at: 2009-07-28 18:22:22 -0000
 publish: true

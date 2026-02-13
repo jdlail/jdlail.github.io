@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/06/journalists-theres-not-a-less/
 title: 'Journalists: There''s not a less risk-taking crowd'
-description: None
 date: 2013-06-18 14:32:27 -0000
 last_modified_at: 2013-06-18 14:32:27 -0000
 publish: true

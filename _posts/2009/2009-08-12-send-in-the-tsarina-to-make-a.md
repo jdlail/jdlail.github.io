@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/send-in-the-tsarina-to-make-a/
 title: Send in the tsarina to make a play
-description: None
 date: 2009-08-12 08:17:27 -0000
 last_modified_at: 2009-08-12 08:17:27 -0000
 publish: true

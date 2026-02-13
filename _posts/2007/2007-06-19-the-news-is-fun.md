@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/the-news-is-fun/
 title: The news is funnier than the comedy
-description: None
 date: 2007-06-19 06:49:26 -0000
 last_modified_at: 2007-06-19 06:49:26 -0000
 publish: true

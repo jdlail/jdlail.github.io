@@ -2,14 +2,14 @@
 layout: post
 permalink: /2020/11/ffmpeg-tips-quickly-cut-video-clips-or-extract-audio/
 title: 'FFmpeg tips: Quickly cut video clips or extract audio'
-description: None
+description: You can make quick work of trimming videos or capturing just the audio with FFmpeg and a Chromebook.
 date: 2020-11-30 20:05:18 -0000
 last_modified_at: 2022-09-21 16:25:26 -0000
 publish: true
 pin: false
 image:
   path: /assets/wp-content/uploads/2020/11/Screenshot-2020-11-30-at-3.01.18-PM.webp
-  alt: FFmpeg
+  alt: FFmpeg code example
 categories:
 - Video
 tags:
@@ -21,7 +21,7 @@ tags:
 
 You can make quick work of trimming videos or capturing just the audio with FFmpeg and a Chromebook.
 
-(This is another post on using a Chromebook as a video tool for journalists. Previously, we have shown how to [Create video slideshows with ImageMagick and FFmpeg in minutes](/2020/10/create-video-slideshows-with-imagemagick-and-ffmpeg-in-minutes/) and how to use [FFmpeg with Google Earth](/2018/12/a-flyover-of-gay-street/). And we have shown how to [get a video from the internet with youtube-dl](/2020/11/how-to-use-youtube-dl-to-grab-an-online-video/). )
+(This is another post on using a Chromebook as a video tool for journalists. Previously, we have shown how to [Create video slideshows with ImageMagick and FFmpeg in minutes](/2020/10/create-video-slideshows-with-imagemagick-and-ffmpeg-in-minutes/) and how to use [FFmpeg with Google Earth](/2018/12/a-flyover-of-gay-street/). And we have shown how to [get a video from the internet with yt-dlp](/2020/11/how-to-use-youtube-dl-to-grab-an-online-video/). )
 
 We're using the terminal window of [Linux on the Chromebook](https://support.google.com/chromebook/answer/9145439?hl=en). There is a Windows version of [FFmpeg](https://ffmpeg.org/) and you could install Linux on [your Windows 10 computer](https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview).
 
@@ -93,4 +93,3 @@ More resources:
 <https://cassidy.codes/blog/2017/04/25/ffmpeg-frames-to-gif-optimization/>
 
 [FFmpeg Cookbook for Archivists](https://avpres.net/FFmpeg/)
-

@@ -2,15 +2,13 @@
 layout: post
 permalink: /2010/03/make-it-a-talker/
 title: Make it a talker
-description: None
 date: 2010-03-10 04:55:38 -0000
 last_modified_at: 2010-03-10 04:55:38 -0000
 publish: true
 pin: false
 categories:
 - Adversity is a mean teacher
-- Newspapers
-tags: []
+tags: [Newspapers]
 ---
 > I want to give you more, not less. I don't think McDonalds will assume that as long as you keep it in a yellow box, people will buy a smaller, drier Big Mac. Yet our industry seems to think people are so obligated to buy it, we can make something smaller and drier and people will still buy it. It's crazy. You have to create something that, whatever's in it, people in town are all going to be talking about. That's the edge that we've lost.
 >
@@ -28,6 +26,3 @@ Related articles by Zemanta
 * [E.W. Scripps climbs to 4Q profit from loss](https://seattletimes.nwsource.com/html/businesstechnology/2011162644_apusearnsewscripps.html?syndication=rss) (seattletimes.nwsource.com)
 * [Advertising As Content: Newspaper Raising Newsstand Prices For Thanksgiving Papers With Black Friday Ads](https://techdirt.com/articles/20091125/0221307081.shtml) (techdirt.com)
 * [Scientific proof that newspapers are better than McDonald's, Google or Nike](https://mumbrella.com.au/scientific-proof-that-newspapers-are-better-than-mcdonads-google-or-nike-19584) (mumbrella.com.au)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=5ea0d571-cd94-4016-9839-6fef9eaa628e)](https://reblog.zemanta.com/zemified/5ea0d571-cd94-4016-9839-6fef9eaa628e/ "Reblog this post \[with Zemanta\]")
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/twitter-is-a-ba/
 title: Twitter is a bad, bad thing
-description: None
 date: 2007-04-06 06:41:59 -0000
 last_modified_at: 2007-04-06 06:41:59 -0000
 publish: true

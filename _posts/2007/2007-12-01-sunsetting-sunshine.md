@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/sunsetting-sunshine/
 title: Sunsetting Sunshine
-description: None
 date: 2007-12-01 15:34:33 -0000
 last_modified_at: 2007-12-01 15:34:33 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/10/jukebox-debut/
 title: Jukebox debut
-description: None
 date: 2006-10-27 21:10:35 -0000
 last_modified_at: 2006-10-27 21:10:35 -0000
 publish: true

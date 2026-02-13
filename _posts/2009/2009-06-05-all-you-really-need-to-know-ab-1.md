@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/all-you-really-need-to-know-ab-1/
 title: All you really need to know about Scripps Networks in one graph
-description: None
 date: 2009-06-05 14:29:51 -0000
 last_modified_at: 2009-06-05 14:29:51 -0000
 publish: true

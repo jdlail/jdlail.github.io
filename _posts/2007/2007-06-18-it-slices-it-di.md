@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/it-slices-it-di/
 title: It slices, it dices in bankruptcy court
-description: None
 date: 2007-06-18 08:31:09 -0000
 last_modified_at: 2007-06-18 08:31:09 -0000
 publish: true

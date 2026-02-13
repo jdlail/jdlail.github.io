@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/06/if-it-werent-for-refrigerators/
 title: If it weren't for refrigerators ...
-description: None
 date: 2008-06-13 08:01:15 -0000
 last_modified_at: 2008-06-13 08:01:15 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 ... community news would have died years ago. As it is, we're in need of a good digital refrigerator.  
@@ -26,4 +25,3 @@ My take: "Community news" in terms of geography is a print construct that has pr
   
 (I do, however, like photos of my own children holding trophies and run those big so I can paste them on my refrigerator.)  
   
-

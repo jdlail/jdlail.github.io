@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/09/indigestion-at-little-caesars-arena/
 title: Indigestion at Little Caesars Arena
-description: None
 date: 2017-09-14 00:35:27 -0000
 last_modified_at: 2017-09-14 00:35:27 -0000
 publish: true

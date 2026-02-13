@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/07/fans-at-the-col/
 title: Fans at The Colbert Report?
-description: None
 date: 2006-07-19 19:32:39 -0000
 last_modified_at: 2006-07-19 19:32:39 -0000
 publish: true

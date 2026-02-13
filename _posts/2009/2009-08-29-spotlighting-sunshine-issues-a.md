@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/spotlighting-sunshine-issues-a/
 title: Spotlighting "Sunshine issues" also spurs open government opponents
-description: None
 date: 2009-08-29 09:43:46 -0000
 last_modified_at: 2009-08-29 09:43:46 -0000
 publish: true

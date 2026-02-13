@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/02/yeah-youll-chec/
 title: Yeah, you'll check
-description: None
 date: 2007-02-25 21:32:44 -0000
 last_modified_at: 2007-02-25 21:32:44 -0000
 publish: true

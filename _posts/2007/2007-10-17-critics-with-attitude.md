@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/critics-with-attitude/
 title: Critics "with attitude"
-description: None
 date: 2007-10-17 09:40:44 -0000
 last_modified_at: 2007-10-17 09:40:44 -0000
 publish: true

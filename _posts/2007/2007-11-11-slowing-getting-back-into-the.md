@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/slowing-getting-back-into-the/
 title: Slowly getting back into the routine
-description: None
 date: 2007-11-11 10:31:34 -0000
 last_modified_at: 2007-11-11 10:31:34 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/06/does-the-audience-ever-need-jo/
 title: Does the audience even need journalists ... or photojournalists?
-description: None
 date: 2013-06-02 17:14:19 -0000
 last_modified_at: 2013-06-02 17:14:19 -0000
 publish: true

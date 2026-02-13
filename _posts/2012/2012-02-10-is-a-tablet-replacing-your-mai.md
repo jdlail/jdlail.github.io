@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/02/is-a-tablet-replacing-your-mai/
 title: Has a tablet replaced your 'main' computer for reading news?
-description: None
 date: 2012-02-10 12:30:08 -0000
 last_modified_at: 2012-02-10 12:30:08 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/wed-like-to-thank/
 title: We'd like to thank ...
-description: None
 date: 2008-10-21 17:40:08 -0000
 last_modified_at: 2008-10-21 17:40:08 -0000
 publish: true

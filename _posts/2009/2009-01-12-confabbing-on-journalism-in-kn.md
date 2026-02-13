@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/01/confabbing-on-journalism-in-kn/
 title: Confabbing on journalism in Knoxville
-description: None
 date: 2009-01-12 14:53:33 -0000
 last_modified_at: 2009-01-12 14:53:33 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![ICONN](/assets_c/2009/01/iconn-logo-5-thumb-250x118-421.webp)](/images/iconn-logo-5.webp)I'm on the program of the founding conference of ICONN or the [Intercollegiate Online News Network](https://www.facebook.com/group.php?gid=48807420867&ref=mf).  
@@ -29,4 +28,3 @@ I'm on a panel Thursday:
 
 [Sounds like fun](https://www.jprof.com/onlinejn/webjn-iconnschedule.html)! Be there.  
   
-

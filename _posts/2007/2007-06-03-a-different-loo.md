@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/a-different-loo/
 title: A different look
-description: None
 date: 2007-06-03 21:15:51 -0000
 last_modified_at: 2023-04-28 14:47:21 -0000
 publish: true

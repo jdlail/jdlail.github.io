@@ -2,7 +2,6 @@
 layout: post
 permalink: /2018/04/spj-executive-director-alison-bethel-mckenzie-to-speak-in-knoxville/
 title: SPJ Executive Director Alison Bethel McKenzie to speak in Knoxville
-description: None
 date: 2018-04-23 10:47:12 -0000
 last_modified_at: 2023-01-08 23:29:10 -0000
 publish: true

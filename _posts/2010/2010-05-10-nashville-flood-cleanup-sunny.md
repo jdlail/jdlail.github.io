@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/05/nashville-flood-cleanup-sunny/
 title: 'Nashville flood cleanup: Sunny days but still a wet disaster'
-description: None
 date: 2010-05-10 14:44:27 -0000
 last_modified_at: 2010-05-10 14:44:27 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- Weather
+tags: [Nashville]
 ---
   
 [![Second Avenue, Nashville, Tenn.](https://farm4.static.flickr.com/3323/4592961661_d9b2b13b77.jpg)](https://www.flickr.com/photos/jackdlail/4592961661/ "Second Avenue, Nashville, Tenn.")  
@@ -17,10 +16,8 @@ tags: []
 Photo taken Sunday morning on Second Avenue between Church Street and Broadway in downtown Nashville, Tennessee. Lots of workers were on the job just a bit down the street as the cleanup from the May 1-2 floods in Nashville and Middle Tennessee continues. Some [more photos](https://www.flickr.com/photos/jackdlail/tags/nashvilleflood/) on Flickr.  
   
 Help out by donating to [the Community Foundation](https://www.cfmt.org/floodrelief/) for Middle Tennessee flood relief  
-  
-Some related headlines from Zemanta:  
-  
-###### Related articles by Zemanta
+
+## Related articles by Zemanta
 
 * [Al Gore: Tennessee Flood Victims Need Your Help](https://www.huffingtonpost.com/al-gore/tennessee-flood-victims-n_b_567547.html) (huffingtonpost.com)
 * [CMA Announces 2010 CMA Music Fest to Benefit Flood Victims and Schools](https://www.roughstock.com/blog/cma-announces-2010-cma-music-fest-to-benefit-flood-victims-and-schools/) (roughstock.com)
@@ -32,6 +29,3 @@ Some related headlines from Zemanta:
 * [Because it is Nashville, a new song starts tomorrow](https://www.rexblog.com/2010/05/03/20789) (RexBlog.com)
 * [Nashville](https://www.smartbitchestrashybooks.com/index.php/site/nashville/) (smartbitchestrashybooks.com)
 * [Twitter in a time of emergency - a few observations, suggestions and thanks](https://www.rexblog.com/2010/05/03/20787) (RexBlog.com)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=081576f0-bda3-4d40-ab04-ec3c98bdc17a)](https://reblog.zemanta.com/zemified/081576f0-bda3-4d40-ab04-ec3c98bdc17a/ "Reblog this post \[with Zemanta\]")
-

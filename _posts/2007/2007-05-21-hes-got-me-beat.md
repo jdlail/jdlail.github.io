@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/hes-got-me-beat/
 title: He's got me beat by a notebook
-description: None
 date: 2007-05-21 14:29:41 -0000
 last_modified_at: 2007-05-21 14:29:41 -0000
 publish: true

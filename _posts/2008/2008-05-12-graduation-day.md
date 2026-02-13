@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/graduation-day/
 title: Graduation day
-description: None
 date: 2008-05-12 07:37:28 -0000
 last_modified_at: 2008-05-12 07:37:28 -0000
 publish: true

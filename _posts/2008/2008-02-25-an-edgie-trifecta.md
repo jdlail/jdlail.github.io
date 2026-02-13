@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/an-edgie-trifecta/
 title: An Edgie Trifecta
-description: None
 date: 2008-02-25 21:58:10 -0000
 last_modified_at: 2008-02-25 21:58:10 -0000
 publish: true

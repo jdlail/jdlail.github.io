@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/01/jay-rosen-posed-this-question/
 title: Newspapers thought it would always be so
-description: None
 date: 2012-01-02 17:55:40 -0000
 last_modified_at: 2012-01-02 17:55:40 -0000
 publish: true

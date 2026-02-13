@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/rosslyn-chapel/
 title: Rosslyn Chapel
-description: None
 date: 2007-06-06 19:49:24 -0000
 last_modified_at: 2007-06-06 19:49:24 -0000
 publish: true

@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/03/heard-among-the/
 title: Heard among the din
-description: None
 date: 2007-03-28 08:06:44 -0000
 last_modified_at: 2007-03-28 08:06:44 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 - Quotable
 tags: []
 ---
@@ -33,4 +32,4 @@ Some quotes to think about in the din on the death of newspapering:
 
 > If only it were that easy. You don’t just flick a switch and turn this stuff on. It requires learning, training and a shift in culture. It requires planning, investment and, most of all, time.
 
-\-- [Shane Ricmond, online for the Telegraph](https://blogs.telegraph.co.uk/technology/shanerichmond/mar07/stopme.htm), talking about how to build a successful newspaper online product. (via [Matthrew Ingram](https://www.mathewingram.com/work/2007/03/26/independent-just-another-word-for-wrong/)) The latest round of death of newpapers, sparked by Tim O'Reilly's post last weekend, has been [well covered](https://blogsearch.google.com/blogsearch?hl=en&q=tim+o%27reilly+newspapers) by some very thoughful people. These were just of the recent ones that struck a chord with me. Tags: [death of newspapers](https://technorati.com/tag/death of newspapers)
+\-- [Shane Ricmond, online for the Telegraph](https://blogs.telegraph.co.uk/technology/shanerichmond/mar07/stopme.htm), talking about how to build a successful newspaper online product. (via [Matthrew Ingram](https://www.mathewingram.com/work/2007/03/26/independent-just-another-word-for-wrong/)) The latest round of death of newpapers, sparked by Tim O'Reilly's post last weekend, has been [well covered](https://blogsearch.google.com/blogsearch?hl=en&q=tim+o%27reilly+newspapers) by some very thoughful people. These were just of the recent ones that struck a chord with me. Tags: [death of newspapers](<https://technorati.com/tag/death> of newspapers)

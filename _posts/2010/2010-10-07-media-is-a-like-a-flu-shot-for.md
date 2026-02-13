@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/10/media-is-a-like-a-flu-shot-for/
 title: Media is like a flu shot for democracy
-description: None
 date: 2010-10-07 10:15:55 -0000
 last_modified_at: 2010-10-07 10:15:55 -0000
 publish: true

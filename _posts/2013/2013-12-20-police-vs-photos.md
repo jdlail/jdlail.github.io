@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/12/police-vs-photos/
 title: Police vs photos
-description: None
 date: 2013-12-20 11:31:23 -0000
 last_modified_at: 2013-12-20 11:31:23 -0000
 publish: true

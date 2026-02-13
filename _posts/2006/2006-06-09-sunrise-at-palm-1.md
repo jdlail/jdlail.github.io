@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/06/sunrise-at-palm-1/
 title: Sunrise at Palm Beach Shores
-description: None
 date: 2006-06-09 13:08:22 -0000
 last_modified_at: 2006-06-09 13:08:22 -0000
 publish: true

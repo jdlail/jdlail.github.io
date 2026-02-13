@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/designing-the-newsroom-of-the/
 title: Designing the newsroom of the future isn't fun
-description: None
 date: 2008-11-06 09:53:00 -0000
 last_modified_at: 2008-11-06 09:53:00 -0000
 publish: true

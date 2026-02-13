@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/the-darlings-of-none/
 title: The darlings of none
-description: None
 date: 2008-01-01 01:31:22 -0000
 last_modified_at: 2008-01-01 01:31:22 -0000
 publish: true

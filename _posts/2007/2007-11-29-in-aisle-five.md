@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/in-aisle-five/
 title: In aisle five
-description: None
 date: 2007-11-29 06:11:14 -0000
 last_modified_at: 2007-11-29 06:11:14 -0000
 publish: true

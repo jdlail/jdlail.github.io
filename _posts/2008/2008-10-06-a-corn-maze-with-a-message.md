@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/a-corn-maze-with-a-message/
 title: A corn maze with a message
-description: None
 date: 2008-10-06 14:07:30 -0000
 last_modified_at: 2008-10-06 14:07:30 -0000
 publish: true

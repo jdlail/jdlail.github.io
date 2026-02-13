@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/a-robert-earl-keen-kind-of-chr/
 title: A Robert Earl Keen kind of Christmas
-description: None
 date: 2007-12-23 09:57:42 -0000
 last_modified_at: 2007-12-23 09:57:42 -0000
 publish: true

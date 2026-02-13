@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/bluegrass-stars-on-the-plane/
 title: Bluegrass stars on the plane
-description: None
 date: 2009-02-02 22:59:10 -0000
 last_modified_at: 2009-02-02 22:59:10 -0000
 publish: true

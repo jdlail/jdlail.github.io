@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/the-age-of-geek-empowerment/
 title: The age of geek empowerment
-description: None
 date: 2008-05-23 09:48:44 -0000
 last_modified_at: 2008-05-23 09:48:44 -0000
 publish: true

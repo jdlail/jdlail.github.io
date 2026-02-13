@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/08/a-distrusted-news-source/
 title: A distrusted news source
-description: None
 date: 2010-08-14 23:23:29 -0000
 last_modified_at: 2010-08-14 23:23:29 -0000
 publish: true

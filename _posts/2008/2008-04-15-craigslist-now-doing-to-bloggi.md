@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/craigslist-now-doing-to-bloggi/
 title: Craigslist now doing to blogging what it did to classifieds
-description: None
 date: 2008-04-15 22:58:59 -0000
 last_modified_at: 2008-04-15 22:58:59 -0000
 publish: true

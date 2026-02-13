@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/the-suncatchers/
 title: Sunshine Sausage tasters
-description: None
 date: 2007-12-06 06:20:15 -0000
 last_modified_at: 2007-12-06 06:20:15 -0000
 publish: true

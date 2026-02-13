@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/a-date-with-demise/
 title: A date with demise
-description: None
 date: 2009-04-21 08:09:48 -0000
 last_modified_at: 2009-04-21 08:09:48 -0000
 publish: true

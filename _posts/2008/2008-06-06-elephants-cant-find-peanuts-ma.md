@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/elephants-cant-find-peanuts-ma/
 title: Elephants can't find peanuts; may go hungry
-description: None
 date: 2008-06-06 21:57:01 -0000
 last_modified_at: 2008-06-06 21:57:01 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/quotable-glenn-reynolds-in-the/
 title: 'Quotable: Glenn Reynolds in the act of blogging'
-description: None
 date: 2007-11-13 12:18:01 -0000
 last_modified_at: 2007-11-13 12:18:01 -0000
 publish: true

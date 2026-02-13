@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/things-are-slower-in-the-south/
 title: Things are slower in the South -- even on the Internet
-description: None
 date: 2008-12-02 14:29:23 -0000
 last_modified_at: 2008-12-02 14:29:23 -0000
 publish: true

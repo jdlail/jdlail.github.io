@@ -2,14 +2,13 @@
 layout: post
 permalink: /2012/08/youre-likely-to-first-find-out-1/
 title: You're likely to first find out about this on Twitter or Facebook
-description: None
 date: 2012-08-27 15:43:02 -0000
 last_modified_at: 2024-12-19 16:14:44 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: [APME]
 ---
 I'm getting excited about a great panel I'm moderating at the [Associated Press Media Editors](https://apme.com/) Conference in Nashville on Friday, Sept. 21, 2012. You remember rock super-groups? I think I've got a digital super-group for the panel.

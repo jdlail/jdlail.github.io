@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/03/court-puts-silencer-on-gun-arg/
 title: Court puts silencer on gun arguments
-description: None
 date: 2010-03-03 13:33:30 -0000
 last_modified_at: 2010-03-03 13:33:30 -0000
 publish: true
@@ -33,6 +32,3 @@ Related articles by Zemanta
 * [Dennis A. Henigan: The Most Dangerous Right](https://www.huffingtonpost.com/dennis-a-henigan/the-most-dangerous-right_b_481393.html) (huffingtonpost.com)
 * [McNuggets](https://www.saysuncle.com/2010/03/03/mcnuggets/) (SaysUncle)
 * ["Reasonable regulation" and McDonald](https://volokh.com/2010/03/02/reasonable-regulation-and-mcdonald/) (The Volokh Conspiracy via [Instapundit](https://pajamasmedia.com/instapundit/94914/))  
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=b54e60d6-98a4-44f8-947a-2a54184a6f22)](https://reblog.zemanta.com/zemified/b54e60d6-98a4-44f8-947a-2a54184a6f22/ "Reblog this post \[with Zemanta\]")
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/11/training-and-focusing-on-conte/
 title: Training and focusing on content quality even in tight times
-description: None
 date: 2009-11-17 06:30:37 -0000
 last_modified_at: 2009-11-17 06:30:37 -0000
 publish: true

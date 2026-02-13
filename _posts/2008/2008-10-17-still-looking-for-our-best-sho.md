@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/still-looking-for-our-best-sho/
 title: Still looking for our best shots
-description: None
 date: 2008-10-17 06:26:24 -0000
 last_modified_at: 2008-10-17 06:26:24 -0000
 publish: true

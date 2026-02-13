@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/09/covering-boomsday/
 title: Covering Boomsday
-description: None
 date: 2007-09-05 22:31:49 -0000
 last_modified_at: 2007-09-05 22:31:49 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [Boomsday](https://www.knoxnews.com/news/2007/sep/03/summer-goes-out-with-boom/) to those that don't live here is one of the biggest events in Knoxville. People love it. It's always Labor Day weekend. This year it was Sunday night.  
@@ -42,20 +41,20 @@ And since Google seems to index Twitter, I even found a few people that had cove
   
 **rlb865**  
   
-> Home from Boomsday. Worn out and going to bed since I have to work tomorrow. It was lots of fun though! 11:38 PM September 02, 2007 from web     
+> Home from Boomsday. Worn out and going to bed since I have to work tomorrow. It was lots of fun though! 11:38 PM September 02, 2007 from web
 >
-> Still at Boomsday. No fireworks yet.... 08:15 PM September 02, 2007 from txt     
+> Still at Boomsday. No fireworks yet.... 08:15 PM September 02, 2007 from txt
 >
-> Sitting at Boomsday with Michael and his family. 06:13 PM September 02, 2007 from txt     
+> Sitting at Boomsday with Michael and his family. 06:13 PM September 02, 2007 from txt
 >
 
 **bobmissy07**  
   
 > and we have a table at calhouns afterward... 20 bucks to friggin park ISYN! 3 days ago from web  
 >
-> With Others Previous DAMN THIS IS A HUGE CROWD 07:32 PM September 02, 2007 from web     
+> With Others Previous DAMN THIS IS A HUGE CROWD 07:32 PM September 02, 2007 from web
 >
-> SITTING ON THE MOST VALUABLE REAL ESTATE IN KTOWN WAITING ON BOOMSDAY TO START. 07:32 PM September 02, 2007 from web     
+> SITTING ON THE MOST VALUABLE REAL ESTATE IN KTOWN WAITING ON BOOMSDAY TO START. 07:32 PM September 02, 2007 from web
 >
 
 **bobinmotion**  

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/10/on-the-hook-at/
 title: On the hook at UT
-description: None
 date: 2006-10-13 13:54:11 -0000
 last_modified_at: 2006-10-13 13:54:11 -0000
 publish: true

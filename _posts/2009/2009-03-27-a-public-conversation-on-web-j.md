@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/03/a-public-conversation-on-web-j/
 title: A public conversation on Web journalism
-description: None
 date: 2009-03-27 10:00:36 -0000
 last_modified_at: 2023-04-28 14:38:47 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 A fascinating group of media folks _(well, excluding yours truly, who is decidedly non-fascinating to put it charitably),_ are participating next Wednesday in a "Public Conversation on Web Journalism"  at the [Howard H. Baker Center](https://bakercenter.utk.edu/main/) (Toyota Auditorium) from 11 a.m. to 2 p.m.
@@ -74,4 +73,3 @@ Jake Jost oversees content for [wbir.com](https://www.wbir.com/). When time allo
 Chuck Warnock, creator, [Krayo.com](https://www.krayo.com/). Chuck is a columnist for Outreach magazine; pastor of Chatham Baptist Church in Chatham, Va; and blogger at ChuckWarnock.com.  He edits [SmallChurchPROF.com](https://www.smallchurchprof.com/) and [NewChurchReport.com](https://www.newchurchreport.com/) \-- church news and information sites using link journalism.
 
 Cyn Mobley, editor and owner, [Bushido Press](https://www.bushidopress.com/). Mobley is a former naval officer and criminal defense defense attorney and currently a best-selling mystery and techno-thriller author. She is also an expert in the martial arts and dog rescue effort
-

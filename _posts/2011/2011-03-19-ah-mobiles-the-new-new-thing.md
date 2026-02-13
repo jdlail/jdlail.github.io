@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/03/ah-mobiles-the-new-new-thing/
 title: Ah, mobile's the new, new thing
-description: None
 date: 2011-03-19 14:36:18 -0000
 last_modified_at: 2011-03-19 14:36:18 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 On successive weeks, you can attend workshops focused on mobile and journalism in Nashville.  
@@ -21,7 +20,7 @@ This two-day hands-on course will focus on mobile usability, techniques and tool
   
 **Dave Stanton** (@[**gotoplan)**](https://twitter.com/gotoplanb) is a web developer, teacher, researcher and manager. He taught web frontend development at the University of Florida for 7 years. He has collaborated with The Poynter Institute to conduct user research since 2006. Currently he is the managing developer for a web development and marketing firm.  
   
-**Jeremy Gilbert** (**@[jeremygilbert](https://twitter.com/jeremygilbert)) **is an assistant professor at Medill, teaching media product design. He has directed award-winning, student-based digital projects, helped revamp the interactive curriculum and is researching the future of mobile journalism. Before coming to Medill, he led The Poynter Institute's website redesign and worked as a design director.  
+**Jeremy Gilbert** (**@[jeremygilbert](https://twitter.com/jeremygilbert))**is an assistant professor at Medill, teaching media product design. He has directed award-winning, student-based digital projects, helped revamp the interactive curriculum and is researching the future of mobile journalism. Before coming to Medill, he led The Poynter Institute's website redesign and worked as a design director.  
   
 Free for SND members (a $300 value) and you can get a discount if you're not currently an SND member (join for only $110 for professional or $60 for students at <https://www.snd.org/join/>)!  
   
@@ -54,4 +53,3 @@ Using a push-broadcasting system for community reporting and engagement from the
 Join it's Nashville!  
   
 [View Larger Map](https://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=freedom+forum+nashville,+tn&aq=&sll=37.0625,-95.677068&sspn=35.631106,52.646484&ie=UTF8&hq=freedom+forum&hnear=Nashville,+Davidson,+Tennessee&ll=36.159221,-86.793194&spn=0.055438,0.083256&z=13&iwloc=A)
-

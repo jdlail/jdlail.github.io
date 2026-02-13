@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/quotable-it-wont-be-benign-in/
 title: 'Quotable: It won''t be benign in 2009'
-description: None
 date: 2008-12-15 13:08:12 -0000
 last_modified_at: 2008-12-15 13:08:12 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/adversity-is-a-mean-teacher-bu/
 title: Adversity is a mean teacher, but damned effective
-description: None
 date: 2008-07-17 07:23:06 -0000
 last_modified_at: 2008-07-17 07:23:06 -0000
 publish: true

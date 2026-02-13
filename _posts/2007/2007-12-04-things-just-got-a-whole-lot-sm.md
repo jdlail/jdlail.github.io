@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/12/things-just-got-a-whole-lot-sm/
 title: Things just got a whole lot smarter
-description: None
 date: 2007-12-04 20:20:49 -0000
 last_modified_at: 2007-12-04 20:20:49 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Hey, you gotta try this; it's powerful.  

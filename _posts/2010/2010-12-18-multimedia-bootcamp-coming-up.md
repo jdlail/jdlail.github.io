@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/12/multimedia-bootcamp-coming-up/
 title: Multimedia bootcamp coming up in February
-description: None
 date: 2010-12-18 08:51:20 -0000
 last_modified_at: 2010-12-18 08:51:20 -0000
 publish: true

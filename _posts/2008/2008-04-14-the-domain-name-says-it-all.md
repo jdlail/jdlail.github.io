@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/the-domain-name-says-it-all/
 title: The domain name says it all
-description: None
 date: 2008-04-14 05:38:50 -0000
 last_modified_at: 2008-04-14 05:38:50 -0000
 publish: true

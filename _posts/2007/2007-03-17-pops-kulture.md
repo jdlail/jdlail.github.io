@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/pops-kulture/
 title: Pop's Kulture
-description: None
 date: 2007-03-17 22:01:34 -0000
 last_modified_at: 2007-03-17 22:01:34 -0000
 publish: true

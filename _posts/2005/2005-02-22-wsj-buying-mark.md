@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /2005/02/wsj-buying-mark/
-title: Bubble II bubbles
-description: None
+title: "Bubble II bubbles"
+description: "Bubble II bubbles"
 date: 2005-02-22 05:49:07 -0000
 last_modified_at: 2005-02-22 05:49:07 -0000
 publish: true

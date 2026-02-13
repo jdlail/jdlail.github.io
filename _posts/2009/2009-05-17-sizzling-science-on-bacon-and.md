@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/sizzling-science-on-bacon-and/
 title: Sizzling science on bacon and social media
-description: None
 date: 2009-05-17 19:58:54 -0000
 last_modified_at: 2009-05-17 19:58:54 -0000
 publish: true

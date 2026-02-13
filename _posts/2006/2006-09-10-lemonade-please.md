@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/09/lemonade-please/
 title: Lemonade, please
-description: None
 date: 2006-09-10 22:17:35 -0000
 last_modified_at: 2006-09-10 22:17:35 -0000
 publish: true

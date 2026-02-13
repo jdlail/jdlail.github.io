@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/louder-than-neyland/
 title: Louder than Neyland?
-description: None
 date: 2007-10-06 08:29:52 -0000
 last_modified_at: 2007-10-06 08:29:52 -0000
 publish: true

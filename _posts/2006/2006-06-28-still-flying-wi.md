@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/06/still-flying-wi/
 title: Still flying with baggage
-description: None
 date: 2006-06-28 13:36:44 -0000
 last_modified_at: 2006-06-28 13:36:44 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Seems fashionable to dish "old" newspapers as an ongoing enterprise. One of the latest came just last week when New Yorker columnist [Malcolm Gladwell](https://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1002727338), on a panel as part of the celebration of Slate's 10th anniversary bash, said newspapers were a lot like airlines:

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/why-does-the-local-newspaper-h/
 title: Why does the local newspaper have to be saved
-description: None
 date: 2007-10-22 19:43:29 -0000
 last_modified_at: 2007-10-22 19:43:29 -0000
 publish: true

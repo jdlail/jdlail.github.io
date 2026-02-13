@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/06/when-our-paths/
 title: When our paths cross
-description: None
 date: 2006-06-17 10:01:55 -0000
 last_modified_at: 2006-06-17 10:01:55 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [Newspapers, Media, Advertising]
 ---
 [Peter Krasilovksy](https://localonliner.com/?p=126), [Jay Small](https://smallinitiatives.com/2006/06/16/newspapercoms-outsell-newspapers-in-say-11-years/), and [Steve Yelvington](https://www.yelvington.com/20060616/print_online_revenue_and_the_inflection_point) had some thoughtful comments late this week about when online ad revenues will intersect with print ad revenues.

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/can-i-go-back-to-asleep-now/
 title: Can I go back to asleep now?
-description: None
 date: 2007-10-07 21:38:36 -0000
 last_modified_at: 2007-10-07 21:38:36 -0000
 publish: true

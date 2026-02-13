@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/04/first-mumble-unearthed/
 title: First mumble unearthed
-description: None
 date: 2010-04-01 05:25:58 -0000
 last_modified_at: 2010-04-01 05:25:58 -0000
 publish: true

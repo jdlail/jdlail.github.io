@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/06/if-youre-first-youre-fired/
 title: If you're first, you're fired
-description: None
 date: 2008-06-23 07:16:34 -0000
 last_modified_at: 2008-06-23 07:16:34 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 What a message in the breaking news age. The person who posted the death of Tim Russert on Wikipedia has apparently been fired, least that's what NBC sources say they've been told.  
@@ -30,5 +29,3 @@ Most of those who posted comments on an [earlier post I did](/2008/06/blink-and-
 It was fine for NBC to hold the information until the family was notified, but it's ludicrous to be flabbergasted by being beaten on news you were holding. And it's plain dumb to fire someone for getting it first and right.  
   
 (via [J.D. Lasica](https://www.socialmedia.biz/2008/06/delaying-news-i.html))  
-
-

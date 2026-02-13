@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/seven-ways-to-get-lucky-with-i/
 title: Seven ways to get lucky with innovation
-description: None
 date: 2008-10-17 22:25:41 -0000
 last_modified_at: 2008-10-17 22:25:41 -0000
 publish: true

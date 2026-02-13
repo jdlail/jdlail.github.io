@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/05/ap-news-alert-d/
 title: 'AP News Alert: Disintermediation is here'
-description: None
 date: 2005-05-03 06:54:27 -0000
 last_modified_at: 2023-04-28 14:24:31 -0000
 publish: true

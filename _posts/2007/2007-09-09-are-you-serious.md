@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/are-you-serious/
 title: Are you serious?
-description: None
 date: 2007-09-09 13:41:52 -0000
 last_modified_at: 2007-09-09 13:41:52 -0000
 publish: true

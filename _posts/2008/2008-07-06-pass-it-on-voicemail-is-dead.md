@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/pass-it-on-voicemail-is-dead/
 title: 'Pass it on: Voicemail is dead'
-description: None
 date: 2008-07-06 16:10:13 -0000
 last_modified_at: 2008-07-06 16:10:13 -0000
 publish: true

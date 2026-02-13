@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/09/saving-time/
 title: Saving time ...
-description: None
 date: 2006-09-11 22:01:21 -0000
 last_modified_at: 2006-09-11 22:01:21 -0000
 publish: true

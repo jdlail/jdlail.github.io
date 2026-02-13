@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/10/south-florida-students-bloggin/
 title: South Florida students blogging APME
-description: None
 date: 2010-10-22 06:25:33 -0000
 last_modified_at: 2010-10-22 06:25:33 -0000
 publish: true

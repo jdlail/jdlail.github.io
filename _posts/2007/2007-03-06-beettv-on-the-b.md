@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/beettv-on-the-b/
 title: Beet.TV on the Beta
-description: None
 date: 2007-03-06 19:48:04 -0000
 last_modified_at: 2007-03-06 19:48:04 -0000
 publish: true

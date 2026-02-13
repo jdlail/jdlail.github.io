@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/why-thanks-ma/
 title: Why thanks, Ma
-description: None
 date: 2008-10-30 20:54:41 -0000
 last_modified_at: 2008-10-30 20:54:41 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/the-sopranos-ha/
 title: The Sopranos have a "Whack it" problem
-description: None
 date: 2007-04-26 13:40:08 -0000
 last_modified_at: 2007-04-26 13:40:08 -0000
 publish: true

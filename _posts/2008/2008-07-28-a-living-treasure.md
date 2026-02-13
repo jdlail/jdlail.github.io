@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/a-living-treasure/
 title: A living treasure
-description: None
 date: 2008-07-28 22:28:59 -0000
 last_modified_at: 2008-07-28 22:28:59 -0000
 publish: true

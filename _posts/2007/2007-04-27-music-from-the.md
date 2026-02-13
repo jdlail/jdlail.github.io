@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/music-from-the/
 title: Music from the 865
-description: None
 date: 2007-04-27 07:27:39 -0000
 last_modified_at: 2007-04-27 07:27:39 -0000
 publish: true

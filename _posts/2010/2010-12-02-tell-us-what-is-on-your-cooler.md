@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/12/tell-us-what-is-on-your-cooler/
 title: Tell us what is on your "Cooler than a Visit to ESPN Headquarters" list
-description: None
 date: 2010-12-02 20:41:27 -0000
 last_modified_at: 2010-12-02 20:41:27 -0000
 publish: true

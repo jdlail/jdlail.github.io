@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/ancient-longleaf-pine-found/
 title: Ancient longleaf pine found
-description: None
 date: 2007-12-09 09:41:50 -0000
 last_modified_at: 2007-12-09 09:41:50 -0000
 publish: true

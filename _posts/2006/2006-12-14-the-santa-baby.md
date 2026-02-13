@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/the-santa-baby/
 title: The Santa Baby Girls
-description: None
 date: 2006-12-14 16:40:48 -0000
 last_modified_at: 2006-12-14 16:40:48 -0000
 publish: true

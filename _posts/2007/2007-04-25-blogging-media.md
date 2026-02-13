@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/blogging-media/
 title: Blogging media -- or bloging about Media
-description: None
 date: 2007-04-25 11:17:39 -0000
 last_modified_at: 2007-04-25 11:17:39 -0000
 publish: true

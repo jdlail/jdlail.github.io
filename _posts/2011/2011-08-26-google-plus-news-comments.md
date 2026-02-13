@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/08/google-plus-news-comments/
 title: A Google+ discussion about news comments
-description: None
 date: 2011-08-26 12:22:31 -0000
 last_modified_at: 2011-08-26 12:22:31 -0000
 publish: true

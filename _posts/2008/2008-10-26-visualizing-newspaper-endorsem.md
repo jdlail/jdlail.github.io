@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/visualizing-newspaper-endorsem/
 title: Visualizing newspaper endorsements
-description: None
 date: 2008-10-26 12:27:30 -0000
 last_modified_at: 2008-10-26 12:27:30 -0000
 publish: true

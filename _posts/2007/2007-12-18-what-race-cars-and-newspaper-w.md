@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/what-race-cars-and-newspaper-w/
 title: What race cars and newspaper Web sites have in common
-description: None
 date: 2007-12-18 07:06:49 -0000
 last_modified_at: 2007-12-18 07:06:49 -0000
 publish: true

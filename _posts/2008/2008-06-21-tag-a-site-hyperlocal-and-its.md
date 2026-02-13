@@ -2,14 +2,14 @@
 layout: post
 permalink: /2008/06/tag-a-site-hyperlocal-and-its/
 title: Tag a site hyperlocal and it's doomed
-description: None
+description: Calling a site hyperlocal dooms it to be irrelevant, ignored and abhorred
 date: 2008-06-21 11:46:04 -0000
 last_modified_at: 2008-06-21 11:46:04 -0000
 publish: true
 pin: false
 categories:
 - Carnival
-tags: []
+tags: [Hyerlocal, Community, Journalism]
 ---
 The problem with creating a hyperlocal site is once you call it that, it's doomed. Doomed to be irrelevant. Doomed to be ignored? Doomed to be abhorred by advertisers.  
   
@@ -45,6 +45,4 @@ Short of answers, I do have suggestions on what is needed to create a site focus
 
 That's my thought-starter list. Do you have others to add?  Add them in the comments or start a conversation elsewhere.  
   
-This posting is part of the June [Carnival of Journalism](https://www.carnivalofjournalism.com/). This month's carnival is hosted [here](https://www.andydickinson.net/2008/06/20/june-carnival-of-journalism/). Read them all.  
-  
-
+This posting is part of the June [Carnival of Journalism](https://www.carnivalofjournalism.com/). This month's carnival is hosted by [Andy Dickinson](https://www.andydickinson.net/2008/06/20/june-carnival-of-journalism/). Read them all.  

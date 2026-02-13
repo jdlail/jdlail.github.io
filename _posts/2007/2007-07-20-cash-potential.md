@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/cash-potential/
 title: Cash potential
-description: None
 date: 2007-07-20 08:03:09 -0000
 last_modified_at: 2007-07-20 08:03:09 -0000
 publish: true

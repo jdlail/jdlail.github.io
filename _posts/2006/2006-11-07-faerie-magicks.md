@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/faerie-magicks/
 title: Faerie Magicks
-description: None
 date: 2006-11-07 17:25:15 -0000
 last_modified_at: 2006-11-07 17:25:15 -0000
 publish: true

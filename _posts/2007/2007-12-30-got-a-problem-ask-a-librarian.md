@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/got-a-problem-ask-a-librarian/
 title: Got a problem, ask a librarian
-description: None
 date: 2007-12-30 20:38:09 -0000
 last_modified_at: 2007-12-30 20:38:09 -0000
 publish: true

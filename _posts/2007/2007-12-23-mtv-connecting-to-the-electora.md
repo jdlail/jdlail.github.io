@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/12/mtv-connecting-to-the-electora/
 title: MTV connecting to the electorate
-description: None
 date: 2007-12-23 14:04:12 -0000
 last_modified_at: 2007-12-23 14:04:12 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 A Knoxville native is the Tennessee citizen journalist on MTV's Street Team '08, which was announced last week.  

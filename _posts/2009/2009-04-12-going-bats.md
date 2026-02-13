@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/going-bats/
 title: Going bats
-description: None
 date: 2009-04-12 12:33:19 -0000
 last_modified_at: 2009-04-12 12:33:19 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/03/i-want-to-grow/
 title: I want to grow up to be a "Rocket Surgeon"
-description: None
 date: 2006-03-08 15:56:05 -0000
 last_modified_at: 2006-03-08 15:56:05 -0000
 publish: true

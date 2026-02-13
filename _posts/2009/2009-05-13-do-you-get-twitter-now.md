@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/do-you-get-twitter-now/
 title: Do you get Twitter now?
-description: None
 date: 2009-05-13 13:07:15 -0000
 last_modified_at: 2009-05-13 13:07:15 -0000
 publish: true

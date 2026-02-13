@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/life-hackers-1/
 title: Life Hackers
-description: None
 date: 2005-10-16 18:27:12 -0000
 last_modified_at: 2005-10-16 18:27:12 -0000
 publish: true

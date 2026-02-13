@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/a-mocktech-cele/
 title: A MockTech Celeb!!
-description: None
 date: 2007-01-25 10:57:01 -0000
 last_modified_at: 2007-01-25 10:57:01 -0000
 publish: true

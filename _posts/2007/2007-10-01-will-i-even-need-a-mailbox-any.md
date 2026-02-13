@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/will-i-even-need-a-mailbox-any/
 title: Will I even need a mailbox anymore?
-description: None
 date: 2007-10-01 19:27:24 -0000
 last_modified_at: 2007-10-01 19:27:24 -0000
 publish: true

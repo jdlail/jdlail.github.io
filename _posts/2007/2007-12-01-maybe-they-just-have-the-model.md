@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/12/maybe-they-just-have-the-model/
 title: Maybe they just have the model backwards
-description: None
 date: 2007-12-01 14:18:06 -0000
 last_modified_at: 2007-12-01 14:18:06 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Is Citizen Journalism and **U** ser **G** enerated **C** ontent simply an [overrated](https://www.sfnblog.com/index.php/2007/11/30/940-citizen-journalism-on-its-way-out) fad?  

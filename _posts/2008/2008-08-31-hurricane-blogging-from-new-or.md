@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/hurricane-blogging-from-new-or/
 title: Hurricane blogging from New Orleans
-description: None
 date: 2008-08-31 10:34:09 -0000
 last_modified_at: 2008-08-31 10:34:09 -0000
 publish: true

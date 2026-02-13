@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/03/in-twitter-the/
 title: In Twitter, the lead better be short -- and forget the rest
-description: None
 date: 2007-03-22 21:52:46 -0000
 last_modified_at: 2007-03-22 21:52:46 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 A news executive at another newspaper chain asked me the other day what I thought the journalistic application of Twitter is. In my email reply, I gave him the most insightful "I dunno" I could muster. Eric Berlin [muses](https://dumpsterbust.blogspot.com/2007/03/twitters-of-day-starbucks-han-solo-and.html) much better than I on that very issue after the question below was posed by "Bloggers Blog" on Twitter (where else?).

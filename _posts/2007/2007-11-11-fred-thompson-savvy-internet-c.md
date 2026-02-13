@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/fred-thompson-savvy-internet-c/
 title: Fred Thompson savvy Internet campaigner
-description: None
 date: 2007-11-11 11:16:46 -0000
 last_modified_at: 2007-11-11 11:16:46 -0000
 publish: true

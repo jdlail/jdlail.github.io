@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/07/hydrangeas/
 title: Hydrangeas
-description: None
 date: 2009-07-12 08:25:52 -0000
 last_modified_at: 2009-07-12 08:25:52 -0000
 publish: true

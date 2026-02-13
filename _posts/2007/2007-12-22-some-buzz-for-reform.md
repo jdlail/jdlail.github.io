@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/some-buzz-for-reform/
 title: Some buzz for reform
-description: None
 date: 2007-12-22 08:53:22 -0000
 last_modified_at: 2007-12-22 08:53:22 -0000
 publish: true

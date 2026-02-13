@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/yeah-hes-rich/
 title: Yeah, he's rich
-description: None
 date: 2008-06-18 13:19:28 -0000
 last_modified_at: 2008-06-18 13:19:28 -0000
 publish: true

@@ -2,7 +2,7 @@
 layout: post
 permalink: /2022/10/essential-photo-video-productivity-tools/
 title: Essential photo, video, productivity tools
-description: None
+description: 'Useful programs for a Google Chromebook.'
 date: 2022-10-19 15:36:48 -0000
 last_modified_at: 2022-10-19 15:43:14 -0000
 publish: true
@@ -167,5 +167,3 @@ ChromeOS defaults to using Debian for the Linux container.
   * In Gmail
 * Trello
   * (<https://trello.com/>)
-
-

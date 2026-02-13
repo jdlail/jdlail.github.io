@@ -2,13 +2,12 @@
 layout: post
 permalink: /2019/02/reports-from-the-front-lines-on-the-war-journalists/
 title: Reports from the front lines on the war journalists
-description: None
 date: 2019-02-27 16:21:15 -0000
 last_modified_at: 2020-05-03 14:53:54 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 I participated in a panel Tuesday called “I’m right, you’re wrong–you stupid jerk” or incivility towards journalists on social media. The panel was part of [UT's Social Media Week](https://ccismw.utk.edu/). Others on the panel discussion were Knoxville sports radio personality Heather Herrington, UT professor Dr. Mark D. Harmon and East Tennessee Society of Professional Journalists President Annie Culver as moderator. Check out the Twitter coverage of [#UTSMW19](https://twitter.com/search?q=%23UTSMW19&src=typd).  
@@ -38,5 +37,4 @@ There is a bit of a “[code of silence](https://www.iwmf.org/2018/09/attacks-ag
 
 There are some excellent guides on how to deal with online harassment and attacks, including covering online security. [Committee to Protect Journalists Safety Tips](https://cpj.org/2018/11/digital-safety-protecting-against-online-harassmen.php) and [PEN's Field Guide](https://onlineharassmentfieldmanual.pen.org/).
 
-{% include twitter.html url="https://twitter.com/UTCCI/status/1100460230629044229" %}
-
+{% include twitter.html url="<https://twitter.com/UTCCI/status/1100460230629044229>" %}

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/03/vidieo-games-1/
 title: Video games
-description: None
 date: 2006-03-22 17:33:30 -0000
 last_modified_at: 2006-03-22 17:33:30 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Browser chart for KnoxNews](/images/browsers-thumb.webp)](/images/browsers.webp)  

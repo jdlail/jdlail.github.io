@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/03/mashup-fun/
 title: Mashup fun
-description: None
 date: 2008-03-09 22:19:15 -0000
 last_modified_at: 2008-03-09 22:19:15 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Crime map](/images/crimemap-thumb-150x105.webp)](/images/crimemap.webp)Enjoyed learning a bit about transforming XML documents with XSLT in doing some homicide mashup maps for a series of stories reporter Matt Lakin is doing.  
@@ -26,4 +25,3 @@ The results:
 [Knoxville homicides](https://web.knoxnews.com/map/crimemap/knoxville.shtml)  
   
 [Knox County homicides](https://web.knoxnews.com/map/crimemap/knoxcounty.shtml)
-

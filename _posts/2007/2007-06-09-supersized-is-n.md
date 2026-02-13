@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/supersized-is-n/
 title: Supersized is not better
-description: None
 date: 2007-06-09 13:55:50 -0000
 last_modified_at: 2007-06-09 13:55:50 -0000
 publish: true

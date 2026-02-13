@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/06/now-be-sensible/
 title: Now, be sensible
-description: None
 date: 2008-06-16 15:44:57 -0000
 last_modified_at: 2008-06-16 15:44:57 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 With the decision to mothball [OJR.org](https://www.ojr.org/), long-time "online guy" and former Scripps colleague Robert Niles has launched a new site: [sensibletalk.com](https://www.sensibletalk.com/)  
@@ -19,4 +18,3 @@ With the decision to mothball [OJR.org](https://www.ojr.org/), long-time "online
 >
 
 There's [more](https://www.sensibletalk.com/).
-

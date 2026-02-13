@@ -2,13 +2,12 @@
 layout: post
 permalink: /2013/01/are-comments-just-so-2009/
 title: Are comments just so 2009?
-description: None
 date: 2013-01-15 20:30:00 -0000
 last_modified_at: 2013-01-15 20:30:00 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Some recent links about comments on websites.
@@ -29,4 +28,3 @@ Some recent links about comments on websites.
 * [New York Legislation Would Ban Anonymous Online Speech | Threat Level | Wired.com](https://www.wired.com/threatlevel/2012/05/anonymous-online-speech-ban/)
 
 More links at [Pinboard.in](https://pinboard.in/u:jacklail/t:comments/).
-

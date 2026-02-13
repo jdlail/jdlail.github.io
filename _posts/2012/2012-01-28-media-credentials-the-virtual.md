@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/01/media-credentials-the-virtual/
 title: Media Credentials, the virtual debate version
-description: None
 date: 2012-01-28 12:31:17 -0000
 last_modified_at: 2012-01-28 12:31:17 -0000
 publish: true

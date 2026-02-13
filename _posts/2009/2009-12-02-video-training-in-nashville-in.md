@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/12/video-training-in-nashville-in/
 title: Video training in Nashville in early January
-description: None
 date: 2009-12-02 14:23:33 -0000
 last_modified_at: 2009-12-02 14:23:33 -0000
 publish: true

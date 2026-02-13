@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/10/psst-mahalo-has-been-getting-i/
 title: Psst ... Mahalo has been getting interesting
-description: None
 date: 2008-10-11 14:56:39 -0000
 last_modified_at: 2008-10-11 14:56:39 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Mahalo screen shot](/assets_c/2008/10/mahalo-screen-shot-thumb-275x145.webp)](/images/mahalo-screen-shot.webp)[Mahalo](https://www.mahalo.com/), which launched as a beta site at the first of the year, was derided as no match for Google's algorithms with its "human search engine."  
@@ -34,11 +33,9 @@ And [Duncan Riley](https://www.inquisitr.com/5009/mahalo-now-officially-a-blog/)
   
 > Jason Calacanis has relaunched "human search engine" Mahalo as a gigantic blog targeting news that drives traffic in any vertical.  
 >
-> The new Mahalo adopts the magazine style layout currently popular in the blogosophere, aggregating news stories in a layout that is part Google News. There's even a "live blog" right of screen, which is updated with links to breaking news outside of Mahalo by members of the Mahalo team.      
+> The new Mahalo adopts the magazine style layout currently popular in the blogosophere, aggregating news stories in a layout that is part Google News. There's even a "live blog" right of screen, which is updated with links to breaking news outside of Mahalo by members of the Mahalo team.
 >
 
 The brash Jascon Calacanis always bears watching. Not much of what Mahalo is doing is new, but it's put together in a compelling package. Innovations are often incremental and the fresh ideas often seem to come not from the well-established players.  
   
 [Mahalo!](https://en.wikipedia.org/wiki/Mahalo)
-
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/06/times-were-harsh/
 title: Times were harsh
-description: None
 date: 2010-06-21 14:09:20 -0000
 last_modified_at: 2010-06-21 14:09:20 -0000
 publish: true

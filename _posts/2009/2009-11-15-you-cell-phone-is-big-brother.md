@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/11/you-cell-phone-is-big-brother/
 title: Your cell phone is Big Brother (but which one?)
-description: None
 date: 2009-11-15 14:05:12 -0000
 last_modified_at: 2009-11-15 14:05:12 -0000
 publish: true

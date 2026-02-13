@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/twitter-newspapers/
 title: Twitter newspapers
-description: None
 date: 2008-04-06 06:19:28 -0000
 last_modified_at: 2008-04-06 06:19:28 -0000
 publish: true

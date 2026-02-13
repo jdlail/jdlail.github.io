@@ -2,15 +2,13 @@
 layout: post
 permalink: /2010/03/burn-the-boats/
 title: Burn the boats?
-description: None
 date: 2010-03-08 09:55:14 -0000
 last_modified_at: 2010-03-08 09:55:14 -0000
 publish: true
 pin: false
 categories:
 - Adversity is a mean teacher
-- Newspapers
-tags: []
+tags: [Newspapers]
 ---
 [![Marc Andreessen](/assets_c/2010/03/2961278058_0eb2405f23_m-thumb-240x161-559.webp)](/images/2961278058_0eb2405f23_m.webp)Here are some excerpts from an Eric Schonfeld [post on TechCrunch](https://techcrunch.com/2010/03/06/andreessen-media-burn-boats/) about an interview with Marc Andreessen.  
   
@@ -41,6 +39,3 @@ Related articles by Zemanta:
 * ["[Schonfeld:] Does [Andreessen] think the iPad will change anything? Andreessen asked me if..."](https://rafer.tumblr.com/post/430881494/schonfeld-does-andreessen-think-the-ipad-will) (rafer.tumblr.com)
 
 _(Photo is of Marc Andreessen at the Web 2.0 Expo in San Francisco, Calif. in October 2008. Photo is from[Jochen Siegle / TechShowNetwork](https://www.techshownetwork.com/) and is used under a Creative Commons license.)_  
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=c72bde4c-e607-4844-96ed-c7e030406707)](https://reblog.zemanta.com/zemified/c72bde4c-e607-4844-96ed-c7e030406707/ "Reblog this post \[with Zemanta\]")
-

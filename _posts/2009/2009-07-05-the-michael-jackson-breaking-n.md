@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/07/the-michael-jackson-breaking-n/
 title: The Michael Jackson breaking news moment
-description: None
 date: 2009-07-05 10:01:53 -0000
 last_modified_at: 2009-07-05 10:01:53 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Famous by John Campbell](/assets_c/2009/07/famous-thumb-585x477-485.webp)](/images/famous.webp)  
@@ -30,4 +29,3 @@ We have to have accuracy and publish facts not rumors, but it remains clear: tho
   
 Take my poll below.  
   
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/dsicovered-on-a/
 title: Discovered on a byway of the campaign trail
-description: None
 date: 2007-08-07 21:44:57 -0000
 last_modified_at: 2007-08-07 21:44:57 -0000
 publish: true

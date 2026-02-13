@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/03/freeze-frame-of-the-race-for-c/
 title: Freeze-frame of the race for change
-description: None
 date: 2010-03-04 05:29:29 -0000
 last_modified_at: 2010-03-04 05:29:29 -0000
 publish: true
@@ -28,6 +27,3 @@ But one of the collective understandings gained from the process begun more than
 And easier said than accomplished.  
 
 _(The photo above by phhotographer   J. Miles Cary is of the Knoxville News Sentinel newsroom Visual Communication Center, or VCC, where metrics are posted every day. Our increase in the use of metrics in the newsroom and their impact is highlighted in the piece.)_
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=c20d50f8-0523-4901-a900-ca210521350f)](https://reblog.zemanta.com/zemified/c20d50f8-0523-4901-a900-ca210521350f/ "Reblog this post \[with Zemanta\]")
-

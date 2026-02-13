@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/id-give-you-a-good-cussing-if/
 title: I'd give you a good cussing if it'd do any good
-description: None
 date: 2007-10-21 11:40:50 -0000
 last_modified_at: 2007-10-21 11:40:50 -0000
 publish: true

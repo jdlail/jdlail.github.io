@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/12/a-resolution-for-2013-critical/
 title: 'A resolution for 2013: Critically rethink news beats'
-description: None
 date: 2012-12-31 08:13:57 -0000
 last_modified_at: 2012-12-31 08:13:57 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/bloggers-as-a-niche-market/
 title: Bloggers as a niche market?
-description: None
 date: 2007-09-26 07:01:10 -0000
 last_modified_at: 2007-09-26 07:01:10 -0000
 publish: true

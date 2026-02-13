@@ -2,7 +2,6 @@
 layout: post
 permalink: /2014/04/toledo-blade-files-suit-after/
 title: Toledo Blade files suit after Army security detains journalists
-description: None
 date: 2014-04-05 18:03:20 -0000
 last_modified_at: 2014-04-05 18:03:20 -0000
 publish: true

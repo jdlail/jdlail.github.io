@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/05/jeff-herr-get-your-mojo-on/
 title: 'Jeff Herr: Get Your Mojo On!'
-description: None
 date: 2010-05-30 13:50:41 -0000
 last_modified_at: 2010-05-30 13:50:41 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -19,4 +18,3 @@ His is another presentation from the "Smart Phones for Smart Journalists" wroksh
 More from the [workshop](/cgi-bin/mt/mt-search.cgi?search=tag%3DONA&IncludeBlogs=25&limit=20).  
   
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=91f575b7-f7ae-4c8f-aef3-1dae3de69a46)](https://www.zemanta.com/?px "Enhanced by Zemanta")
-

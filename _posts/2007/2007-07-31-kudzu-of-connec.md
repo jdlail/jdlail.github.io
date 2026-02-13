@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/kudzu-of-connec/
 title: Kudzu of Connections
-description: None
 date: 2007-07-31 05:48:54 -0000
 last_modified_at: 2007-07-31 05:48:54 -0000
 publish: true

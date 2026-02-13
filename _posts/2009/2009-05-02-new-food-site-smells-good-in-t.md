@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/05/new-food-site-smells-good-in-t/
 title: New food site smells good in the kitchen
-description: None
 date: 2009-05-02 07:14:19 -0000
 last_modified_at: 2009-05-02 07:14:19 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Food.com](/assets_c/2009/05/foodcom1-thumb-200x111-451.webp)](/images/foodcom1.webp)Influential tech site [TechCrunch](https://www.techcrunch.com/2009/05/01/online-recipe-search-engine-foodcom-is-the-kayakcom-for-recipes/) takes a look at Knoxville-based [Scripps Networks](https://www.google.com/finance?q=sni)' soft-launched [Food.com](https://www.food.com/), a beta search engine recipe site that TechCrunch heralds as the [Kayak.com](https://www.kayak.com/) for recipes.  
@@ -32,4 +31,3 @@ Scripps Networks seems to be cooking up a lot of innovations in the food space. 
   
 It'll be interesting to see what else is baking away out of sight.  
   
-

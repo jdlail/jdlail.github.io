@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/03/it-seemed-so-si/
 title: It seemed so simple
-description: None
 date: 2006-03-21 13:03:48 -0000
 last_modified_at: 2006-03-21 13:03:48 -0000
 publish: true

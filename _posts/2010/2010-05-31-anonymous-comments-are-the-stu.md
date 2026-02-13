@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/05/anonymous-comments-are-the-stu/
 title: Anonymous comments are the stuff sane people wouldn't write
-description: None
 date: 2010-05-31 10:40:33 -0000
 last_modified_at: 2010-05-31 10:40:33 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![Image of Steve Outing from Twitter](https://a1.twimg.com/profile_images/57177568/SteveO_x100_normal.jpg)](https://twitter.com/steveouting)
@@ -38,4 +37,3 @@ Related articles by Zemanta
 * [Should anonymous comments be allowed in an online community?](https://www.socialmediatoday.com/SMC/179835) (socialmediatoday.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=e0388cdd-7772-41d0-b1da-097c945b8f79)](https://www.zemanta.com/?px "Enhanced by Zemanta")
-

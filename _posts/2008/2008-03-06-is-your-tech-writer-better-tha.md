@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/is-your-tech-writer-better-tha/
 title: Is your tech writer better than Arrington?
-description: None
 date: 2008-03-06 20:31:04 -0000
 last_modified_at: 2008-03-06 20:31:04 -0000
 publish: true

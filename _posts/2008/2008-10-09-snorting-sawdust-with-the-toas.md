@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/snorting-sawdust-with-the-toas/
 title: Snorting sawdust with the toaster on high
-description: None
 date: 2008-10-09 05:31:17 -0000
 last_modified_at: 2008-10-09 05:31:17 -0000
 publish: true

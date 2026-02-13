@@ -2,7 +2,7 @@
 layout: post
 permalink: /2005/02/stopping-the-pr/
 title: Stopping the Presses
-description: None
+description: "Anyone can be a publisher, and, it seems, these days, most anyone is."
 date: 2005-02-23 19:13:24 -0000
 last_modified_at: 2005-02-23 19:13:24 -0000
 publish: true

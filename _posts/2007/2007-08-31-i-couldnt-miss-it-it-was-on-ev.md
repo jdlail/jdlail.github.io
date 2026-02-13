@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/i-couldnt-miss-it-it-was-on-ev/
 title: I couldn't miss it; it was on every channel
-description: None
 date: 2007-08-31 21:54:37 -0000
 last_modified_at: 2007-08-31 21:54:37 -0000
 publish: true

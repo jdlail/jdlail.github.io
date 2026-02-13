@@ -2,22 +2,24 @@
 layout: post
 permalink: /2008/11/five-ws-from-the-barack-obama/
 title: Five Ws from the Barack Obama campaign
-description: None
+description: Five Web 2.0 strategies the campaign of Obama executed or exploited better than the news media 
 date: 2008-11-16 13:30:45 -0000
 last_modified_at: 2023-03-13 13:17:37 -0000
 publish: true
 pin: false
 categories:
 - Carnival
-tags: []
+tags: [Journalism, Media Strategy]
 ---
-[![Obama text](/assets_c/2008/11/3006992794_86303154c6_m-thumb-150x150.webp)](/images/3006992794_86303154c6_m.webp)There's been a lot written about the lessons of President-elect Barack Obama's "Triple O" Internet campaign for marketers, but little on lessons for media and journalists.  
+[![Obama text](/assets_c/2008/11/3006992794_86303154c6_m-thumb-150x150.webp)](/images/3006992794_86303154c6_m.webp)
+
+There's been a lot written about the lessons of President-elect Barack Obama's "Triple O" Internet campaign for marketers, but little on lessons for media and journalists.  
   
 But that's about to change because the [Carnival of Journalism](https://www.carnivalofjournalism.com/) is rolling into November with that topic in its big tent. All of this month's carnival posts are linked from sideshow barker [Adam Timworth's blog](https://www.onemanandhisblog.com/archives/2008/11/what_can_the_news_media_learn.html).  
   
 Did Obama win because he had an iPhone app as the Geek Cowboy facetiously asked? No, but the combination of strategies used by his Internet team, dubbed "Triple O," is as likely to change national politics as fireside chats during World War II and television debates in the 1960s, some say.  
   
-I noticed five Web 2.0 strategies (we can still use that term, right) that the campaign of  Obama executed or exploited better than most news media do -- and none of are new discoveries from the wilds of the Web. "They've taken all our stupid ideas and made them smart," Zephyr Teachout, who ran Howard Dean's online organizing in 2004, told Salon.  
+I noticed five Web 2.0 strategies (we can still use that term, right) that the campaign of Obama executed or exploited better than most news media do -- and none of are new discoveries from the wilds of the Web. "They've taken all our stupid ideas and made them smart," Zephyr Teachout, who ran Howard Dean's online organizing in 2004, told Salon.  
   
 Here's my [five Ws](https://en.wikipedia.org/wiki/5_Ws) for Web 2.0 or social media journalism from the Obama campaign:  
   
@@ -57,5 +59,3 @@ Some links that I found interesting while researching this post:
 * [6 B2B Marketing Tips Courtesy of McCain & Obama | B2B B2G MarCom Minute Blog](https://www.marcomink.com/blog/2008/11/04/6-b2b-marketing-tips-courtesy-of-mccain-obama/)
 
 Links collected with [Publish2](https://publish2.com/) Photo by [Cazimiro](https://flickr.com/photos/cazimiro/3006992794/), used under [Creative Commons terms](https://creativecommons.org/licenses/by/2.0/deed.en).  
-  
-

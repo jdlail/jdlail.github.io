@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/memorized-by-creepy-girl/
 title: Mesmerized  by creepy girl
-description: None
 date: 2008-04-05 15:10:28 -0000
 last_modified_at: 2008-04-05 15:10:28 -0000
 publish: true

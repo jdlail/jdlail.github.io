@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/no-reports-of-plates-thrown-in/
 title: No reports of plates thrown in pottery festival duel
-description: None
 date: 2008-11-21 10:42:20 -0000
 last_modified_at: 2008-11-21 10:42:20 -0000
 publish: true

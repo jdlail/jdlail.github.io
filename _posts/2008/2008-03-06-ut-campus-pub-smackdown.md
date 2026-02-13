@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/03/ut-campus-pub-smackdown/
 title: UT campus pub smackdown
-description: None
 date: 2008-03-06 21:03:43 -0000
 last_modified_at: 2008-03-06 21:03:43 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Thought for the day: Lose your institutional memory in order to remember what you're doing  
@@ -19,5 +18,3 @@ Pat Thornton, a Web content editor at Stars and Stripes, compares two University
 >
 
 We hope with passing grades.  
-
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/two-views-of-waves-of-the-futu/
 title: Two views of waves of the future
-description: None
 date: 2009-01-29 07:42:20 -0000
 last_modified_at: 2009-01-29 07:42:20 -0000
 publish: true

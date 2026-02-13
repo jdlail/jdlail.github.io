@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/a-growth-tweet/
 title: A growth Tweet
-description: None
 date: 2007-04-06 11:51:04 -0000
 last_modified_at: 2007-04-06 11:51:04 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/seriously-its-real/
 title: Seriously, it's real
-description: None
 date: 2008-02-22 21:25:33 -0000
 last_modified_at: 2008-02-22 21:25:33 -0000
 publish: true

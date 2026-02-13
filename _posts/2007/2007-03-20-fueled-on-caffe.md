@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/fueled-on-caffe/
 title: Fueled on caffeine
-description: None
 date: 2007-03-20 20:14:11 -0000
 last_modified_at: 2007-03-20 20:14:11 -0000
 publish: true

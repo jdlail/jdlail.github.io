@@ -2,7 +2,7 @@
 layout: post
 permalink: /2005/03/newsroom-manage/
 title: Newsroom managers
-description: None
+description: This photo of newsroom managers was taken by photographer Saul Young for associate editor Georgiana Vines, who retired last week.
 date: 2005-03-02 21:45:54 -0000
 last_modified_at: 2005-03-02 21:45:54 -0000
 publish: true

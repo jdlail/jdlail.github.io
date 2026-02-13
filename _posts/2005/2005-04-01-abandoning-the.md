@@ -2,7 +2,7 @@
 layout: post
 permalink: /2005/04/abandoning-the/
 title: Abandoning the News
-description: None
+description: The future of the American newspaper will be defined online from both a future readership point of view and perhaps in terms of future revenue streams as well.
 date: 2005-04-01 07:26:26 -0000
 last_modified_at: 2005-04-01 07:26:26 -0000
 publish: true

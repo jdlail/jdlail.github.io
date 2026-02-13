@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/merry-christmas-peeps/
 title: Merry Christmas peeps
-description: None
 date: 2008-12-24 08:41:38 -0000
 last_modified_at: 2008-12-24 08:41:38 -0000
 publish: true

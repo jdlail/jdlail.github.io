@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/facebook-facts/
 title: Facebook facts
-description: None
 date: 2007-08-19 11:43:34 -0000
 last_modified_at: 2024-12-19 16:37:06 -0000
 publish: true

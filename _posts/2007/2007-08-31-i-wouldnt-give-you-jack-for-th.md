@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/i-wouldnt-give-you-jack-for-th/
 title: I wouldn't give you Jack for that
-description: None
 date: 2007-08-31 13:31:50 -0000
 last_modified_at: 2007-08-31 13:31:50 -0000
 publish: true

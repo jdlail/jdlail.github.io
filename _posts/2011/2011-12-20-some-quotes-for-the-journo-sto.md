@@ -2,14 +2,13 @@
 layout: post
 permalink: /2011/12/some-quotes-for-the-journo-sto/
 title: Some quotes for the journo stocking
-description: None
 date: 2011-12-20 10:12:27 -0000
 last_modified_at: 2011-12-20 10:12:27 -0000
 publish: true
 pin: false
 categories:
 - Quotable
-tags: []
+tags: [journalists]
 ---
 Two quotes worth the stocking for journalists to consider.
 
@@ -29,11 +28,8 @@ Two quotes worth the stocking for journalists to consider.
 > Image via [CrunchBase](https://www.crunchbase.com/)
 >
 > We don't need paid professionals to do retweeting for us. They're slicing up the attention pie thinner and thinner, giving us retreaded rehashes of warmed over news, all hoping for a bit of attention because the issue is trending. We can leave that to the unpaid, I think.
-
+>
 > The hard part of professional journalism going forward is writing about what hasn't been written about, directing attention where it hasn't been, and saying something new.  
 >
 
-\-- [Seth Godin](https://sethgodin.typepad.com/seths_blog/2011/12/lazy-journalism.html), entrepreneur, marketer, author and public speaker. (via Danny McCall)  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=0d0a3635-9ca5-411a-9bc7-e7f098dd1493)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
+\-- [Seth Godin](https://sethgodin.typepad.com/seths_blog/2011/12/lazy-journalism.html), entrepreneur, marketer, author and public speaker. (via Danny McCall)

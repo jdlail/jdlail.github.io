@@ -2,7 +2,6 @@
 layout: post
 permalink: /2018/12/a-flyover-of-gay-street/
 title: A flyover of Gay Street
-description: None
 date: 2018-12-11 18:05:11 -0000
 last_modified_at: 2022-09-21 16:40:16 -0000
 publish: true

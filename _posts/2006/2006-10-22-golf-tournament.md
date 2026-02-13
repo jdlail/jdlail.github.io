@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/10/golf-tournament/
 title: Golf Tournament
-description: None
 date: 2006-10-22 16:48:15 -0000
 last_modified_at: 2006-10-22 16:48:15 -0000
 publish: true

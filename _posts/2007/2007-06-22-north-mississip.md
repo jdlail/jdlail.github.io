@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/north-mississip/
 title: North Mississippi musings
-description: None
 date: 2007-06-22 19:30:01 -0000
 last_modified_at: 2007-06-22 19:30:01 -0000
 publish: true

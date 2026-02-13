@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/scotland-vacati-1/
 title: Scotland vacation cliips
-description: None
 date: 2007-06-05 23:58:19 -0000
 last_modified_at: 2007-06-05 23:58:19 -0000
 publish: true

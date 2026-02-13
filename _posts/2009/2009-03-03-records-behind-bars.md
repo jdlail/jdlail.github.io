@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/records-behind-bars/
 title: Records behind bars
-description: None
 date: 2009-03-03 06:37:13 -0000
 last_modified_at: 2009-03-03 06:37:13 -0000
 publish: true

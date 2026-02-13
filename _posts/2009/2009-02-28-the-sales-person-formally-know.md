@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/the-sales-person-formally-know/
 title: The sales person formally known as a "print ad rep"
-description: None
 date: 2009-02-28 08:48:23 -0000
 last_modified_at: 2009-02-28 08:48:23 -0000
 publish: true

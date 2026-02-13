@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/vitamins-for-your-twitter-feed/
 title: Vitamins for your Twitter feed
-description: None
 date: 2007-11-02 13:34:56 -0000
 last_modified_at: 2007-11-02 13:34:56 -0000
 publish: true

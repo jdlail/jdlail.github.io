@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/why-is-aged-news-better-than-r/
 title: Why is aged news better than real news
-description: None
 date: 2009-06-11 15:56:46 -0000
 last_modified_at: 2009-06-11 15:56:46 -0000
 publish: true

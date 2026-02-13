@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/05/tn-journalist-duren-cheek-dies/
 title: TN journalist Duren Cheek dies
-description: None
 date: 2011-05-04 15:14:30 -0000
 last_modified_at: 2011-05-04 15:14:30 -0000
 publish: true

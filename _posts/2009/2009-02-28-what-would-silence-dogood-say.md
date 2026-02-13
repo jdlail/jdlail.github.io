@@ -2,14 +2,13 @@
 layout: post
 permalink: /2009/02/what-would-silence-dogood-say/
 title: What would Silence Dogood say?
-description: None
 date: 2009-02-28 11:56:50 -0000
 last_modified_at: 2009-02-28 11:56:50 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Some of the react to the effort to have a judge order news media Web sites to remove comments or force commenters to use their real names. **Updated: March 1, 8:33 a.m.**  
@@ -34,4 +33,3 @@ Some of the react to the effort to have a judge order news media Web sites to re
 * [Judge questions media intent on Web commentary : Knoxville News Sentinel](https://www.knoxnews.com/news/2009/feb/28/judge-questions-media-intent-web-commentary/)
 
 Powered by [Publish2](https://publish2.com/)
-

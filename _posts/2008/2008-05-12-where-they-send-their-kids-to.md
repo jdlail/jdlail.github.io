@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/where-they-send-their-kids-to/
 title: Where they send their kids to school on Star Trek
-description: None
 date: 2008-05-12 10:08:10 -0000
 last_modified_at: 2008-05-12 10:08:10 -0000
 publish: true

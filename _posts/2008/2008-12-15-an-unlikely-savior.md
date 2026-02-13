@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/an-unlikely-savior/
 title: An unlikely savior
-description: None
 date: 2008-12-15 10:43:02 -0000
 last_modified_at: 2008-12-15 10:43:02 -0000
 publish: true

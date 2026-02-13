@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/that-new-coke-moment/
 title: That New Coke moment
-description: None
 date: 2008-03-29 16:49:32 -0000
 last_modified_at: 2023-03-13 13:18:28 -0000
 publish: true

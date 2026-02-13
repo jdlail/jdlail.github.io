@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/06/anonymous-commenters-could-fac/
 title: Anonymous commenters could face their own Ice Age
-description: None
 date: 2010-06-19 17:05:43 -0000
 last_modified_at: 2010-06-19 17:05:43 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Media
+tags: [Comments]
 ---
 The debate about comments on news sites continues to generate, ... er, comment and momentum is building to somehow put personal reputation back behind the words.  
   
@@ -56,4 +55,3 @@ Here is a collection of recent pieces on story comments from a [delicious list I
 * [If you can't manage comments well, don't offer comments at all](https://www.ojr.org/ojr/people/robert/201003/1836/)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=560ff7c3-393f-4c25-9d70-933829b7a057)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

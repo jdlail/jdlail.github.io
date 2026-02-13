@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/05/10-keys-to-newsroom-transforma/
 title: 10 keys to newsroom transformation
-description: None
 date: 2015-05-11 12:03:00 -0000
 last_modified_at: 2015-05-11 12:03:00 -0000
 publish: true

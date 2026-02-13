@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/social-idiocy-the-video-i-thou/
 title: Social idiocy, the video (I thought the text version was more inane)
-description: None
 date: 2008-04-22 21:20:14 -0000
 last_modified_at: 2008-04-22 21:20:14 -0000
 publish: true

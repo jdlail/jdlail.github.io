@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/01/espn-looks-to-the-future-of-sp/
 title: ESPN looks to the future of sports coverage
-description: None
 date: 2015-01-30 22:54:54 -0000
 last_modified_at: 2015-01-30 22:54:54 -0000
 publish: true

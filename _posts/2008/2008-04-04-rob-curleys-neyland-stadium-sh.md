@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/04/rob-curleys-neyland-stadium-sh/
 title: Rob Curley's Neyland Stadium show
-description: None
 date: 2008-04-04 14:24:35 -0000
 last_modified_at: 2023-04-28 14:44:11 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![Rob Curley](/images/robcurleycalif-thumb-150x116.webp)](/images/robcurleycalif.webp)Yes, it was that big. No other venue could contain him. It had to be moved from Thompson-Boling Arena.
@@ -25,4 +24,3 @@ Do you really think he could pass for [Barry Manilow](https://www.flickr.com/pho
 Posts containing "[Curley](https://blognetwork.knoxnews.com/search.php?rss_query=curley&image.x=15&image.y=13)" on the Knoxville Blog Network.
 
 Rob Curley photo by [Steve  Rhodes](https://www.flickr.com/photos/ari/835150330/) at the California Newspaper Publishers meeting.
-

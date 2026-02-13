@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/11/jugtown-vase/
 title: Jugtown vase
-description: None
 date: 2009-11-21 10:33:51 -0000
 last_modified_at: 2009-11-21 10:33:51 -0000
 publish: true

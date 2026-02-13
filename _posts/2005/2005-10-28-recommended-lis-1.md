@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/recommended-lis-1/
 title: Recommended listening ....
-description: None
 date: 2005-10-28 21:27:43 -0000
 last_modified_at: 2005-10-28 21:27:43 -0000
 publish: true

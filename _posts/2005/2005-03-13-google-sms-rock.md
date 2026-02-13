@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/03/google-sms-rock/
 title: Google SMS rocks
-description: None
 date: 2005-03-13 07:46:23 -0000
 last_modified_at: 2005-03-13 07:46:23 -0000
 publish: true

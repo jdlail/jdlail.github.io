@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/a-fire-a-whynot/
 title: A fire at Whynot
-description: None
 date: 2008-08-05 19:26:36 -0000
 last_modified_at: 2008-08-05 19:26:36 -0000
 publish: true

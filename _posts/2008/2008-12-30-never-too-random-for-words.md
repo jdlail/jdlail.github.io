@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/never-too-random-for-words/
 title: Never too random for words
-description: None
 date: 2008-12-30 19:50:02 -0000
 last_modified_at: 2008-12-30 19:50:02 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/11/frayed-about-the-throne/
 title: Frayed about the throne
-description: None
 date: 2007-11-22 10:11:24 -0000
 last_modified_at: 2007-11-22 10:11:24 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Terry Heaton on why "content is not king:"  

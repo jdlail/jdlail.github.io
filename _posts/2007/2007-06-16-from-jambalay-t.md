@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/from-jambalay-t/
 title: From jambalaya to icicles in my meatloaf
-description: None
 date: 2007-06-16 17:24:30 -0000
 last_modified_at: 2007-06-16 17:24:30 -0000
 publish: true

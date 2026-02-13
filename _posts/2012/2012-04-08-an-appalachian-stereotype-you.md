@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/04/an-appalachian-stereotype-you/
 title: An Appalachian stereotype you may have missed
-description: None
 date: 2012-04-08 23:06:17 -0000
 last_modified_at: 2012-04-08 23:06:17 -0000
 publish: true

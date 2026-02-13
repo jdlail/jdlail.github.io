@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/02/i-have-a-augmented-reality-vie/
 title: I have an augmented reality view of the next big thing in journalism
-description: None
 date: 2012-02-23 15:37:57 -0000
 last_modified_at: 2012-02-23 15:37:57 -0000
 publish: true

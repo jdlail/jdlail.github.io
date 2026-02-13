@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/12/are-you-getting-return-on-infl/
 title: Are you getting 'Return On Influence!?'
-description: None
 date: 2011-12-22 08:15:47 -0000
 last_modified_at: 2011-12-22 08:15:47 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/03/journalism-educators-can-get-a/
 title: Journalism educators can get a break on training
-description: None
 date: 2010-03-24 11:17:26 -0000
 last_modified_at: 2010-03-24 11:17:26 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
+- Training
 tags: []
 ---
 From Val Hoeppner at the Freedom Forum Diversity Institute:  
@@ -25,6 +24,3 @@ From Val Hoeppner at the Freedom Forum Diversity Institute:
 >
 > For help or more information, contact Elaine Kramer, NewsTrain project manager at: [apmenewstrain@gmail.com](mailto:apmenewstrain@gmail.com).  
 >
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=26eed39f-9681-41f3-9542-315e72ce5c0d)](https://reblog.zemanta.com/zemified/26eed39f-9681-41f3-9542-315e72ce5c0d/ "Reblog this post \[with Zemanta\]")
-

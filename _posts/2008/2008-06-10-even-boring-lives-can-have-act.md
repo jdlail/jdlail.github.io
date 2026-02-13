@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/even-boring-lives-can-have-act/
 title: Even boring lives can have action streams
-description: None
 date: 2008-06-10 10:10:34 -0000
 last_modified_at: 2008-06-10 10:10:34 -0000
 publish: true

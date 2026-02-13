@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/03/a-pirate-should-take-home-osca/
 title: A Pirate should take home Oscar booty
-description: None
 date: 2010-03-05 12:07:39 -0000
 last_modified_at: 2010-03-05 12:07:39 -0000
 publish: true
@@ -14,7 +13,7 @@ tags: []
   
 I don't do Hollywood as a blog topic, but here's an exception. I do want Sandra Bullock to win an [Oscar](https://www.oscars.org/ "Academy Award") on Sunday. I really do.  
   
-> [![Sandra Bullock � tra noi e non lo ce lo dice](https://farm1.static.flickr.com/222/463870093_e0d85aac27_m.jpg)](https://www.flickr.com/photos/11292446@N00/463870093)
+> [![Sandra Bullock](https://farm1.static.flickr.com/222/463870093_e0d85aac27_m.jpg)](https://www.flickr.com/photos/11292446@N00/463870093)
 >
 > Image by [fabbriciuse](https://www.flickr.com/photos/11292446@N00/463870093) via Flickr
 >
@@ -42,6 +41,3 @@ Related articles by Zemanta
 * [A Meryl Streep weekend](https://seattletimes.nwsource.com/html/popcornprejudiceamovieblog/2011196031_a_meryl_streep_weekend.html?syndication=rss) (seattletimes.nwsource.com)
 * [Meryl Streep can be this year's Oscars upset](https://douglasgreen.wordpress.com/2010/03/05/meryl-streep-can-be-the-oscar-upset/) (douglasgreen.wordpress.com)
 * [Millward Brown's Research Reveals Avatar is Public's Favorite to Win Best Picture at the Academy Awards](https://eon.businesswire.com/news/eon/20100305005109/en) (eon.businesswire.com)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=779ee214-c407-42a9-a573-2aefb37ecdda)](https://reblog.zemanta.com/zemified/779ee214-c407-42a9-a573-2aefb37ecdda/ "Reblog this post \[with Zemanta\]")
-

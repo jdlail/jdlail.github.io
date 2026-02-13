@@ -2,7 +2,7 @@
 layout: post
 permalink: /2019/05/sugar-daddy-google/
 title: Sugar Daddy Google
-description: None
+description: 'Google is funding news projects with up to $300,000 per grant.'
 date: 2019-05-30 00:33:18 -0000
 last_modified_at: 2020-05-03 14:52:20 -0000
 publish: true

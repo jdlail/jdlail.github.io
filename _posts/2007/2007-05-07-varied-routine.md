@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/varied-routine/
 title: Varied routine
-description: None
 date: 2007-05-07 02:07:08 -0000
 last_modified_at: 2007-05-07 02:07:08 -0000
 publish: true

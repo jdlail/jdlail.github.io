@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/04/fighting-prejudice-and-hate-on/
 title: Fighting prejudice, hate one text at a time
-description: None
 date: 2011-04-09 09:21:36 -0000
 last_modified_at: 2011-04-09 09:21:36 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/my-googleganger-did-it/
 title: My Googleganger did it
-description: None
 date: 2008-11-18 06:35:45 -0000
 last_modified_at: 2008-11-18 06:35:45 -0000
 publish: true

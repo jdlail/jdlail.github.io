@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/01/the-storming-of-the-capitol-is-archived/
 title: The storming of the Capitol is archived
-description: None
 date: 2021-01-10 21:22:30 -0000
 last_modified_at: 2021-01-11 16:30:16 -0000
 publish: true
@@ -12,7 +11,7 @@ image:
   alt: Photo of people during the riot at the Capitol on Wednesday, Jan. 6, 2020.
     (Photo by Reddit user TapTheForwardAssist, used via Creative Commons license.)
 categories:
-- Online Media
+- Media
 - Video
 tags:
 - crowdsourced
@@ -33,15 +32,17 @@ Another group, [Bellingcat.com](https://www.bellingcat.com), which describes its
 
 European search engine and archive company Intelligence X has a [large collection of video and photo links from the Capitol riot](https://intelx.io/?did=814b39fe-ad98-45a1-9f44-0346bc9f9b94). (click the "tree view" tab).
 
-{% include twitter.html url="https://twitter.com/_IntelligenceX/status/1347010806672732163" %}
-{% include twitter.html url="https://twitter.com/_IntelligenceX/status/1347779339518169088" %}
-There are doubtless other efforts. These is amazing crowd-sourcing going on. Glad there are tools like [Youtube-DL](/2020/11/how-to-use-youtube-dl-to-grab-an-online-video/) available.
+{% include twitter.html url="<https://twitter.com/_IntelligenceX/status/1347010806672732163>" %}
+
+{% include twitter.html url="<https://twitter.com/_IntelligenceX/status/1347779339518169088>" %}
+
+There are doubtless other efforts. These is amazing crowd-sourcing going on. Glad there are tools like [yt-dlp](/2020/11/how-to-use-youtube-dl-to-grab-an-online-video/) available.
 
 And if you think the descriptions of Jan. 6 a the Capitol are exaggerated, just spend some time perusing these archives.
 
 Photo credit: By[TapTheForwardAssist](https://www.reddit.com/user/TapTheForwardAssist/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:Contributions/TapTheForwardAssist).
 
-![](/assets/wp-content/uploads/2021/01/fbi-poster.webp)FBI wanted posted.
+![](/assets/wp-content/uploads/2021/01/fbi-poster.webp)
+FBI wanted posted.
 
 (Here is how to contact the [FBI regarding violence](https://www.fbi.gov/wanted/capitol-violence) at the Capitol.)
-

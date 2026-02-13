@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/twittering-up-a-storm/
 title: Twittering up a storm
-description: None
 date: 2008-07-21 21:30:50 -0000
 last_modified_at: 2008-07-21 21:30:50 -0000
 publish: true

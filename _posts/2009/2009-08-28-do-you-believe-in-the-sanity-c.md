@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/do-you-believe-in-the-sanity-c/
 title: Do you believe in the "sanity clause?"
-description: None
 date: 2009-08-28 08:19:01 -0000
 last_modified_at: 2009-08-28 08:19:01 -0000
 publish: true

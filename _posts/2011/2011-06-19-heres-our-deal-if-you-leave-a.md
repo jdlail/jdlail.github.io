@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/06/heres-our-deal-if-you-leave-a/
 title: 'Here''s our deal: If you leave a civil comment, we''ll pay attention to it'
-description: None
 date: 2011-06-19 12:00:19 -0000
 last_modified_at: 2011-06-19 12:00:19 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -57,4 +56,3 @@ Here's a roundup of recent articles and discussion on comments.
 Here's my [complete list of nearly 150 bookmarks about online comments](https://www.delicious.com/jacklail/comments).  
   
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=b730f1e8-a2fc-4a57-ada4-8f1f31c48194)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/11/why-newsrooms-suck-at-digital/
 title: Why newsrooms suck at digital first
-description: None
 date: 2011-11-26 07:38:21 -0000
 last_modified_at: 2011-11-26 07:38:21 -0000
 publish: true

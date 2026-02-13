@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/stats-after-three-quarters-thr/
 title: 'Stats after three quarters: Three of the 10 top keywords include sex'
-description: None
 date: 2008-10-04 09:16:10 -0000
 last_modified_at: 2008-10-04 09:16:10 -0000
 publish: true

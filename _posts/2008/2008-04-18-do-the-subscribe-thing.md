@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/do-the-subscribe-thing/
 title: Do the subscribe thing
-description: None
 date: 2008-04-18 16:06:05 -0000
 last_modified_at: 2008-04-18 16:06:05 -0000
 publish: true

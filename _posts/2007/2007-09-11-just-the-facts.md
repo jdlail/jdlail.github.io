@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/just-the-facts/
 title: Just the facts
-description: None
 date: 2007-09-11 07:26:51 -0000
 last_modified_at: 2007-09-11 07:26:51 -0000
 publish: true

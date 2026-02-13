@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/sonicwall-update/
 title: SonicWALL update
-description: None
 date: 2007-09-03 09:36:36 -0000
 last_modified_at: 2007-09-03 09:36:36 -0000
 publish: true

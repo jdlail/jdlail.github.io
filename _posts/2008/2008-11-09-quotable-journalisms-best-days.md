@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/quotable-journalisms-best-days/
 title: 'Quotable: Journalism''s best days'
-description: None
 date: 2008-11-09 11:05:23 -0000
 last_modified_at: 2008-11-09 11:05:23 -0000
 publish: true

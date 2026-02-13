@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/travel-light-tr/
 title: Travel light; travel fast
-description: None
 date: 2007-08-06 11:42:20 -0000
 last_modified_at: 2007-08-06 11:42:20 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/oh-no-you-did-not-shoot-that-g/
 title: Oh, no. You did NOT shoot that green shit at me!
-description: None
 date: 2008-07-04 06:01:49 -0000
 last_modified_at: 2008-07-04 06:01:49 -0000
 publish: true

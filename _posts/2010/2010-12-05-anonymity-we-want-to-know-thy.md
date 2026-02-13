@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/12/anonymity-we-want-to-know-thy/
 title: Anonymity, we want to know thy name
-description: None
 date: 2010-12-05 12:54:08 -0000
 last_modified_at: 2010-12-05 12:54:08 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Media
+tags: [Comments]
 ---
 [![Julie Zhuo](/assets_c/2010/12/jz-thumb-250x377-611.webp)](/images/jz.webp)The debate over anonymous commenters on the Internet got amped Nov. 29 when[Julie Zhuo](https://www.linkedin.com/pub/julie-zhuo/22/113/35b), product design manager at Facebook, threw her hat into the ring with [an Op-Ed piece](https://www.nytimes.com/2010/11/30/opinion/30zhuo.html?_r=2) in the New York Times challenging content providers to discourage or ban anonymous posters.  
   
@@ -64,4 +63,3 @@ More recent links added:
 * [In Response: Banning unsigned online comments undermines the media's role as a forum for debate  | American Journalism Review](https://www.ajr.org/Article.asp?id=4916)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=19284d5f-8d82-42a4-97aa-f3782d2efad9)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

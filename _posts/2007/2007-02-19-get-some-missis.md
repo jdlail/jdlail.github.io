@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/02/get-some-missis/
 title: Get some Mississippi Soul
-description: None
 date: 2007-02-19 20:36:04 -0000
 last_modified_at: 2007-02-19 20:36:04 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/07/how-jerry-falwell-helped-us-pr/
 title: How Jerry Falwell helped us protect fake news
-description: None
 date: 2008-07-24 07:39:55 -0000
 last_modified_at: 2008-07-24 07:39:55 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -18,4 +17,3 @@ Just remember, it was [the Rev. Jerry Falwell](https://en.wikipedia.org/wiki/Jer
   
 I wonder if they have heard about this in [Oklahoma](https://www.techdirt.com/articles/20080717/2000201718.shtml)?  
   
-

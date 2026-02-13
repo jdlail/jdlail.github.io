@@ -2,3 +2,11 @@
 /feed         /feed.xml    301
 /rss/         /feed.xml    301
 /atom/        /feed.xml    301
+/blog/mt-search.cgi    /search/    301
+/page/*       /            301
+/blog/archives/* /:splat   301
+/cgi-bin/mt/mt-comments.cgi/  /  301
+/wp-admin/    /            301
+/wp-login.php /            301
+/wp-comments-post.php /    301
+/.env /           /        301

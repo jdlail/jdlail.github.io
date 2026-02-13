@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/02/arazie-asks-how/
 title: Arazie asks 'how long should you wait?'
-description: None
 date: 2007-02-09 08:45:35 -0000
 last_modified_at: 2007-02-09 08:45:35 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 - Video
 tags: []
 ---

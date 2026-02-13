@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/05/costs-of-freedo/
 title: Costs of Free-dom
-description: None
 date: 2006-05-29 09:19:14 -0000
 last_modified_at: 2006-05-29 09:19:14 -0000
 publish: true

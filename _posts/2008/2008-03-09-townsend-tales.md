@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/townsend-tales/
 title: Townsend tales
-description: None
 date: 2008-03-09 12:05:20 -0000
 last_modified_at: 2008-03-09 12:05:20 -0000
 publish: true

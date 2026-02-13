@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/03/press-passes-for-bloggers/
 title: '"Press Passes" for bloggers'
-description: None
 date: 2010-03-03 08:12:49 -0000
 last_modified_at: 2010-03-03 08:12:49 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Now that's innovative. The test in New York of being a journalist will depend on what you do rather than who you work for.  
@@ -23,6 +22,3 @@ And it's a trend that is spreading.
 \-- Lucy Dalglish, executive director of the [Reporters Committee for Freedom of the Press](https://en.wikipedia.org/wiki/Reporters_Committee_for_Freedom_of_the_Press "Reporters Committee for Freedom of the Press").  
   
 More at [Online Media Daily](https://www.mediapost.com/publications/?fa=Articles.showArticle&art_aid=123531&nid=111735)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=3976e184-b3e0-471d-ab59-a61e2ab5d536)](https://reblog.zemanta.com/zemified/3976e184-b3e0-471d-ab59-a61e2ab5d536/ "Reblog this post \[with Zemanta\]")
-

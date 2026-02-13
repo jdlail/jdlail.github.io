@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/11/ernie-pyles-legacy-lives-on/
 title: Journalist Ernie Pyle's last column reads much like poetry
-description: None
 date: 2013-11-01 14:47:09 -0000
 last_modified_at: 2013-11-01 14:47:09 -0000
 publish: true

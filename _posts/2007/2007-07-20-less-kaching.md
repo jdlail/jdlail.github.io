@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/less-kaching/
 title: Less ka-ching
-description: None
 date: 2007-07-20 18:06:17 -0000
 last_modified_at: 2007-07-20 18:06:17 -0000
 publish: true

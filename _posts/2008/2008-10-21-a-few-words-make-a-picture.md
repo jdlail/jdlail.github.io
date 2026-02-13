@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/a-few-words-make-a-picture/
 title: A few words make a picture
-description: None
 date: 2008-10-21 20:16:45 -0000
 last_modified_at: 2008-10-21 20:16:45 -0000
 publish: true

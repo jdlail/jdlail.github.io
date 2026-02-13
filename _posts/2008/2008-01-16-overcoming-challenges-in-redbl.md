@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/01/overcoming-challenges-in-redbl/
 title: Overcoming challenges in RedBlueAmerica
-description: None
 date: 2008-01-16 22:55:33 -0000
 last_modified_at: 2008-01-16 22:55:33 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 There's been a bit of buzz in the [news](https://news.google.com/news?hl=en&ned=us&q=redblueamerica&btnG=Search) (and in [blogs](https://blogsearch.google.com/blogsearch?hl=en&q=redblueamerica&btnG=Search+Blogs)) today about E.W. Scripps' launch today of the [RedBlueAmerica](https://redblueamerica.com/) project, but the best post I've read is a sort of behind the scenes glimpse from Laura Scott at PingVision who [said](https://pingv.com/blog/laura/200801/scripps-goes-drupal-redblueamerica-com):  
@@ -19,5 +18,3 @@ There's been a bit of buzz in the [news](https://news.google.com/news?hl=en&ned=
 >
 
 There's more. Best of luck to all involved in the project!  
-
-

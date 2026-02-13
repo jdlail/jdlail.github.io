@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/12/a-newspaper-company-invented-t/
 title: A newspaper company invented the iPad
-description: None
 date: 2011-12-01 18:03:38 -0000
 last_modified_at: 2011-12-01 18:03:38 -0000
 publish: true

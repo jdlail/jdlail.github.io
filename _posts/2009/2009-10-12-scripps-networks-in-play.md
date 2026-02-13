@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/10/scripps-networks-in-play/
 title: Scripps Networks in play?
-description: None
 date: 2009-10-12 07:52:30 -0000
 last_modified_at: 2009-10-12 07:52:30 -0000
 publish: true

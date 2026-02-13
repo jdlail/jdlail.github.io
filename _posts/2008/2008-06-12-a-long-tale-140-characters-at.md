@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/06/a-long-tale-140-characters-at/
 title: A long tale, 140 characters at a time
-description: None
 date: 2008-06-12 22:02:47 -0000
 last_modified_at: 2008-06-12 22:02:47 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 On what Ron Sylvester learned from [Twittering a trial](https://www.spj.org/blog/blogs/tech/archive/2008/06/12/20693.aspx).  

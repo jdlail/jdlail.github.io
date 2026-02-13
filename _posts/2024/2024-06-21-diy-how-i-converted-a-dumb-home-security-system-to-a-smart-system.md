@@ -2,8 +2,7 @@
 layout: post
 permalink: /2024/06/diy-how-i-converted-a-dumb-home-security-system-to-a-smart-system/
 title: 'DIY: How I converted a dumb home security system to a smart system'
-description: How I converted a more than 30-year-old dumb home security system to
-  smart system controlled by a phone app and tablets.
+description: 'How I converted a more than 30-year-old dumb home security system to a smart system controlled by a phone app and tablets.'
 date: 2024-06-21 19:45:55 -0000
 last_modified_at: 2024-06-26 04:36:21 -0000
 publish: true
@@ -114,4 +113,3 @@ In addition, support from Konnected was fantastic, prompt with helpful advice.
 ## **What could go wrong?**
 
 There are risks going this route. While no monthly subscription or contract is required, this system relies on the very small Konnected staying in business and behemoth Samsung staying committed to Smartthings. And all the cloud components from both companies continuing to work and hopefully remaining free.
-

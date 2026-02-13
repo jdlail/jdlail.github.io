@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/newspaper-video-two-years-late/
 title: Newspaper video two years later
-description: None
 date: 2008-06-26 11:14:37 -0000
 last_modified_at: 2008-06-26 11:14:37 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/asateague-island-pony/
 title: Assateague Island pony
-description: None
 date: 2009-06-30 09:09:05 -0000
 last_modified_at: 2009-06-30 09:09:05 -0000
 publish: true

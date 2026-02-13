@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/lock-me-in-the/
 title: Lock me in the open platform
-description: None
 date: 2007-06-26 07:04:32 -0000
 last_modified_at: 2007-06-26 07:04:32 -0000
 publish: true

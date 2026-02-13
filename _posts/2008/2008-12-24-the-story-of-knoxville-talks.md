@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/12/the-story-of-knoxville-talks/
 title: The story of Knoxville Talks
-description: None
 date: 2008-12-24 12:11:55 -0000
 last_modified_at: 2008-12-24 12:11:55 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Katie Allison Granju on [newsroom blogging](https://www.nieman.harvard.edu/reportsitem.aspx?id=100712) and how she came to create Knoxville Talks.  
@@ -17,5 +16,3 @@ Katie Allison Granju on [newsroom blogging](https://www.nieman.harvard.edu/repor
 >
 
 That's part of a Nieman Reports article on how an innovation came about in one newsroom. Good reading.  
-
-

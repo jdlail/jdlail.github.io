@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/11/dons-birthday-a/
 title: Don's birthday and Lail reunion
-description: None
 date: 2005-11-27 11:05:30 -0000
 last_modified_at: 2005-11-27 11:05:30 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2012/09/whats-a-facebook-like-really-w/
 title: What's a Facebook like really worth?
-description: None
 date: 2012-09-06 12:28:07 -0000
 last_modified_at: 2012-09-06 12:28:07 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [APME]
 ---
 The Social Media Day at the Associated Press Media Editors Conference in Nashville has one panel that will attempt to provide some answers to that question. It's a star-studded lineup of newspaper and TV digital pioneers, who have been innovators and ground-breakers as traditional media expanded into digital.  

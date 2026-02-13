@@ -2,7 +2,7 @@
 layout: post
 permalink: /2021/12/nascar-driver-bubba-wallaces-life-was-shaped-by-an-event-in-knoxville/
 title: NASCAR driver Bubba Wallace's life was shaped by an event in Knoxville
-description: None
+description: 'ESPN’s E60 documentary “Fistful of Steel – The Rise of Bubba Wallace,” which debuted Tuesday night, highlights how an event in Knoxville changed the NASCAR driver’s life and the life of his family --- forever.'
 date: 2021-12-15 17:02:05 -0000
 last_modified_at: 2021-12-15 17:02:07 -0000
 publish: true
@@ -11,7 +11,7 @@ image:
   path: /assets/wp-content/uploads/2021/12/bubba-wallace-16x9-1.webp
   alt: Bubba Wallace (Photo by Zach Catanzareti, Creative Common license)
 categories:
-- Ramblings
+- Knoxville
 tags:
 - NASCAR
 ---
@@ -22,9 +22,9 @@ ESPN’s E60 documentary “[Fistful of Steel – The Rise of Bubba Wallace,”]
 
 Wallace, the only Black driver, in the top level Cup Series of NASCAR, is only the second Black driver to ever win a[](https://twitter.com/BubbaWallace/status/928382162063249408)race on NASCAR's top-level circuit.
 
-{% include twitter.html url="https://twitter.com/BubbaWallace/status/928382162063249408" %}
+{% include twitter.html url="<https://twitter.com/BubbaWallace/status/928382162063249408>" %}
 
-{% include twitter.html url="https://twitter.com/PabloTorre/status/1470756524683407372" %}
+{% include twitter.html url="<https://twitter.com/PabloTorre/status/1470756524683407372>" %}
 
 Wallace, his mother Desiree, and his sister Brittany talk in the ESPN documentary about the impact of the death of his cousin, Sean Gillispie.
 
@@ -59,4 +59,3 @@ The family sees the moments before Gillispie's death much differently and views 
 "Whenever a Black person is murdered by a white officer, it hits home, we know what the families are going through," [Desiree Wallace](https://podcasts.apple.com/us/podcast/espn-daily/id1482680261?i=1000544915432) says in the documentary.
 
 Bubba Wallace says in the documentary he will never forget the name of Jason Keck, the Knoxville Police officer who shot his cousin.
-

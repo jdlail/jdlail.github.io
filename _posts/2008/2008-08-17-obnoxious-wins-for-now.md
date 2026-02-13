@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/obnoxious-wins-for-now/
 title: Obnoxious wins for now
-description: None
 date: 2008-08-17 08:27:18 -0000
 last_modified_at: 2008-08-17 08:27:18 -0000
 publish: true

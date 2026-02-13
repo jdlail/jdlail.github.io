@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/03/if-fairy-tales-were/
 title: The Three Little Pigs meet modern media
-description: None
 date: 2012-03-03 11:15:10 -0000
 last_modified_at: 2012-03-03 11:15:10 -0000
 publish: true

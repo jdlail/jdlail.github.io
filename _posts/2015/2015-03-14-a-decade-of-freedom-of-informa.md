@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/03/a-decade-of-freedom-of-informa/
 title: A decade of freedom of information challenges
-description: None
 date: 2015-03-14 12:52:39 -0000
 last_modified_at: 2015-03-14 12:52:39 -0000
 publish: true

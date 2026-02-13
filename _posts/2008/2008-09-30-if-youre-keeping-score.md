@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/09/if-youre-keeping-score/
 title: If you're keeping score ...
-description: None
 date: 2008-09-30 06:34:05 -0000
 last_modified_at: 2008-09-30 06:34:05 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2014/03/everybody-needs-a-little-foia/
 title: Everybody needs a little FOIA machine
-description: None
 date: 2014-03-19 08:52:41 -0000
 last_modified_at: 2014-03-19 08:52:41 -0000
 publish: true

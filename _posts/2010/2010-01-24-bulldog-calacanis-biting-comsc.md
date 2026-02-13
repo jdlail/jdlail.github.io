@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/01/bulldog-calacanis-biting-comsc/
 title: Bulldog Calacanis bites comScore's leg
-description: None
 date: 2010-01-24 11:35:06 -0000
 last_modified_at: 2010-01-24 11:35:06 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Jascon Calacanis gets his rant on comScore, calling them "[the technology industry's biggest bully](https://calacanis.com/2010/01/23/why-we-should-boycott-comscore-and-perhaps-why-traders-should-short-their-stock/)."  
@@ -21,6 +20,3 @@ He called comScore a "protection racket" and says:
 >
 
 Calacanis tends toward hyperbole; his critics call him a blowhard. He's definitely taken the gloves off on his long-running criticisms of one of the biggest online metrics houses. Bully for him!  
-  
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=e08d6ff1-424f-4fe9-a93d-d65e5b909bc8)](https://reblog.zemanta.com/zemified/e08d6ff1-424f-4fe9-a93d-d65e5b909bc8/ "Reblog this post \[with Zemanta\]")
-

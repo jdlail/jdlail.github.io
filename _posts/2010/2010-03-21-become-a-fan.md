@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/03/become-a-fan/
 title: Become a fan
-description: None
 date: 2010-03-21 07:17:44 -0000
 last_modified_at: 2010-03-21 07:17:44 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- Social
+tags: [Facebook]
 ---
 ![Facebook](https://www.facebook.com/images/fb_logo_small.webp)![](https://badge.facebook.com/badge/18884137648.539056144.483161001.webp)
 
@@ -22,6 +21,3 @@ tags: []
 [Create your Fan Badge](https://www.facebook.com/facebook-widgets/fanbadges.php "Create your Fan Badge")
 
 Surprised, huh?
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=6b827bf8-5600-44a3-8258-f10b56f217f5)](https://reblog.zemanta.com/zemified/6b827bf8-5600-44a3-8258-f10b56f217f5/ "Reblog this post \[with Zemanta\]")
-

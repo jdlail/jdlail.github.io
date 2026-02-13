@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/the-newscast-be/
 title: The newscast belongs on the telly
-description: None
 date: 2007-06-17 10:38:09 -0000
 last_modified_at: 2007-06-17 10:38:09 -0000
 publish: true

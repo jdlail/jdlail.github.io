@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/12/newspaper-will-flourish-while/
 title: Newspapers will flourish while they flounder in 2010
-description: None
 date: 2009-12-30 15:52:43 -0000
 last_modified_at: 2023-03-13 13:32:09 -0000
 publish: true

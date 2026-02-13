@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/angry-journalist-as-career-yod/
 title: Angry Journalist as career Yoda
-description: None
 date: 2008-03-28 05:44:19 -0000
 last_modified_at: 2008-03-28 05:44:19 -0000
 publish: true

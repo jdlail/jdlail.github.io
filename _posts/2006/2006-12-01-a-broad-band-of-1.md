@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/a-broad-band-of-1/
 title: A broad band of change
-description: None
 date: 2006-12-01 11:16:46 -0000
 last_modified_at: 2006-12-01 11:16:46 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/just-another-pr-1/
 title: Just Another Pretty Farce
-description: None
 date: 2007-04-13 08:01:24 -0000
 last_modified_at: 2007-04-13 08:01:24 -0000
 publish: true

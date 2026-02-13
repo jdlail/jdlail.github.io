@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/10/news-can-be-a-fun-game/
 title: News can be a fun game
-description: None
 date: 2011-10-28 14:15:19 -0000
 last_modified_at: 2023-03-13 14:01:30 -0000
 publish: true

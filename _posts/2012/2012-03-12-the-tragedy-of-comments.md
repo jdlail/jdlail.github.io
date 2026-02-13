@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/03/the-tragedy-of-comments/
 title: The 'tragedy of comments'
-description: None
 date: 2012-03-12 15:46:35 -0000
 last_modified_at: 2012-03-12 15:46:35 -0000
 publish: true

@@ -3,7 +3,6 @@ layout: post
 permalink: /2011/04/upon-discovering-the-dallas-mo/
 title: Upon discovering the Dallas Morning News had no viable digital business model
   ...
-description: None
 date: 2011-04-10 10:06:19 -0000
 last_modified_at: 2011-04-10 10:06:19 -0000
 publish: true

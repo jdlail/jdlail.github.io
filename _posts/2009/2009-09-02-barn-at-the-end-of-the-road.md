@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/barn-at-the-end-of-the-road/
 title: Barn at the end of the road
-description: None
 date: 2009-09-02 12:01:06 -0000
 last_modified_at: 2009-09-02 12:01:06 -0000
 publish: true

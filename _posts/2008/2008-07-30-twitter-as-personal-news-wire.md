@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/07/twitter-as-personal-news-wire/
 title: Twitter as personal news-wire
-description: None
 date: 2008-07-30 06:10:46 -0000
 last_modified_at: 2008-07-30 06:10:46 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 ![Twitter chart](/images/twitterasnewswire.webp)This chart, posted on the [Twitter blog](https://blog.twitter.com/2008/07/twitter-as-news-wire.html), shows trending of the use of the word "earthquake " following the earthquake in Southern California on Tuesday. The two headlines are from a San Diego TV station and, nine minutes after the quake, the AP.  
@@ -21,5 +20,3 @@ From the Twitter blog:
   
 > Many news agencies get their feed from a news wire service such as the Associated Press. "Strong quake shakes Southern California" was pushed out by AP about 9 minutes after people began Twittering primary accounts from their homes, businesses, doctor's appointments, or wherever they were when the quake struck. Whether it's updates from best friends, internet pals, companies, brands, or breaking world events, the real-time aspect of sending and receiving Twitter updates continues to motivate our work.  
 >
-
-

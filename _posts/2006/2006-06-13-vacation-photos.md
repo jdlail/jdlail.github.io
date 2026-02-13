@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/06/vacation-photos/
 title: Vacation photos from Palm Beach
-description: None
 date: 2006-06-13 12:26:23 -0000
 last_modified_at: 2006-06-13 12:26:23 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/10/b-movies-be-free/
 title: B movies be free
-description: None
 date: 2007-10-21 22:26:20 -0000
 last_modified_at: 2007-10-21 22:26:20 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 - Ramblings
 tags: []
 ---

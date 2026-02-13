@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/02/where-will-vide/
 title: Where will video ads come from?
-description: None
 date: 2007-02-21 13:01:59 -0000
 last_modified_at: 2007-02-21 13:01:59 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/just-for-a-litt/
 title: Just for "A Little Good News"
-description: None
 date: 2007-04-21 02:18:48 -0000
 last_modified_at: 2007-04-21 02:18:48 -0000
 publish: true

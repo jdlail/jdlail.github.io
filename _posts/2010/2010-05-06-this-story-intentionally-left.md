@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/05/this-story-intentionally-left/
 title: This story intentionally left blank
-description: None
 date: 2010-05-06 14:41:09 -0000
 last_modified_at: 2010-05-06 14:41:09 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- Media
+tags: [Nashville]
 ---
 I am really surprised to see how the mainstream media is pretty much ignoring the massive flooding in Nashville...[Thu May 06 14:14:31](https://twitter.com/McCainBlogette/status/13489602455 "Thu May 06 14:14:31 ") via web[![](https://a3.twimg.com/profile_images/539323739/img-author-photo---meghan-mccain-_201210377527_normal.jpg)](https://twitter.com/McCainBlogette)**[Meghan McCain](https://twitter.com/McCainBlogette)**  
 McCainBlogette
@@ -25,6 +24,3 @@ Andrew Romano at Newsweek tries to [explain](https://blog.newsweek.com/blogs/the
 In all three cases, national media attention appeared to come more as a response to the drumbeat of criticism.  
   
 Is the hitherland that isolated from America's media nerve centers?  
-  
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=eba7d8f9-e485-4ffb-a215-6f7b2ae9c961)](https://reblog.zemanta.com/zemified/eba7d8f9-e485-4ffb-a215-6f7b2ae9c961/ "Reblog this post \[with Zemanta\]")
-

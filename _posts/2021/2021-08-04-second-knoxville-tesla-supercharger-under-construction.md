@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/08/second-knoxville-tesla-supercharger-under-construction/
 title: Second Knoxville Tesla Supercharger under construction
-description: None
 date: 2021-08-04 14:31:05 -0000
 last_modified_at: 2021-09-26 15:56:52 -0000
 publish: true

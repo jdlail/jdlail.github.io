@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/the-unwritten-r/
 title: The unwritten rules are the toughest to read
-description: None
 date: 2006-12-18 20:21:22 -0000
 last_modified_at: 2006-12-18 20:21:22 -0000
 publish: true

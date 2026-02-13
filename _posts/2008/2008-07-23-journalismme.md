@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/07/journalismme/
 title: Journalism.me
-description: None
 date: 2008-07-23 09:34:19 -0000
 last_modified_at: 2008-07-23 09:34:19 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Kiyoshi Martinez has created a [new entrant](https://kiyoshimartinez.com/nerdlusus/2008/07/23/introducing-journalismme/) in journalism blog aggregators, [Journalism.me](https://journalism.me/), _the journalism blogosphere_. The site is an aggregation of journalists who blog mostly about journalism from their personal sites.  
@@ -26,5 +25,4 @@ Since February, [Martinze](https://kiyoshimartinez.com/nerdlusus/about/) has bee
   
 Good luck with your project!  
   
-(via [Jay Rosen](https://twitter.com/jayrosen_nyu/statuses/866028147)). 
-
+(via [Jay Rosen](https://twitter.com/jayrosen_nyu/statuses/866028147)).

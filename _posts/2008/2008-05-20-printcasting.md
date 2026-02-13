@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/printcasting/
 title: Printcasting
-description: None
 date: 2008-05-20 20:48:55 -0000
 last_modified_at: 2008-05-20 20:48:55 -0000
 publish: true

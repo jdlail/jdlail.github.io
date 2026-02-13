@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/your-morning-newspaper-is-a-co/
 title: Your morning newspaper is a collector's item
-description: None
 date: 2008-08-27 07:11:08 -0000
 last_modified_at: 2008-08-27 07:11:08 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2012/07/new-scripps-digital-division-s/
 title: New Scripps Digital Division starting to make noise
-description: None
 date: 2012-07-17 08:16:13 -0000
 last_modified_at: 2012-07-17 08:16:13 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [E.W. Scripps]
 ---
 This has been a bit under the radar, but a lot of work has been going on with the [E.W. Scripps](https://www.scripps.com/) Digital Division, in which I now work, since early last fall. You'll be hearing more as a lot of projects and initiatives are in the pipeline. Stay tuned, there are some exciting things in the works.  

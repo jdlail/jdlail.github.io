@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/feel-more-productive-by-the-ti/
 title: Feel more productive by the time you finish this post
-description: None
 date: 2008-12-31 15:38:05 -0000
 last_modified_at: 2008-12-31 15:38:05 -0000
 publish: true

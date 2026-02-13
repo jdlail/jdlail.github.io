@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/the-onion-covers-knoxville-sla/
 title: The Onion covers Knoxville slackers
-description: None
 date: 2009-01-17 10:27:06 -0000
 last_modified_at: 2009-01-17 10:27:06 -0000
 publish: true

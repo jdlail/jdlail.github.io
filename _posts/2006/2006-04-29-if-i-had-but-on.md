@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/04/if-i-had-but-on/
 title: If I had but one match
-description: None
 date: 2006-04-29 21:57:59 -0000
 last_modified_at: 2006-04-29 21:57:59 -0000
 publish: true

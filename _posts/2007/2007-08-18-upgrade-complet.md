@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/upgrade-complet/
 title: Upgrade complete (mostly)
-description: None
 date: 2007-08-18 19:11:01 -0000
 last_modified_at: 2007-08-18 19:11:01 -0000
 publish: true

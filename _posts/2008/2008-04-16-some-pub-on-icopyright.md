@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/some-pub-on-icopyright/
 title: Some pub on iCopyright
-description: None
 date: 2008-04-16 14:10:23 -0000
 last_modified_at: 2008-04-16 14:10:23 -0000
 publish: true

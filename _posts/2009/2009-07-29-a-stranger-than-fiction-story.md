@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/07/a-stranger-than-fiction-story/
 title: A stranger than fiction story line that's true
-description: None
 date: 2009-07-29 08:41:08 -0000
 last_modified_at: 2009-07-29 08:41:08 -0000
 publish: true

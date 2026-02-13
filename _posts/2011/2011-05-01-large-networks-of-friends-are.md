@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/05/large-networks-of-friends-are/
 title: Large networks of "friends" are out; intimate circles are in
-description: None
 date: 2011-05-01 10:09:14 -0000
 last_modified_at: 2011-05-01 10:09:14 -0000
 publish: true

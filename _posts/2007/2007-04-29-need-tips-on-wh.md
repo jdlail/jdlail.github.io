@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/need-tips-on-wh/
 title: Need tips on 'while I'm in Scotland ...'
-description: None
 date: 2007-04-29 18:25:40 -0000
 last_modified_at: 2007-04-29 18:25:40 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2014/07/good-reads-on-the-large-life-o/
 title: Good reads on the large life of John Seigenthaler
-description: None
 date: 2014-07-12 20:56:15 -0000
 last_modified_at: 2014-07-12 20:56:15 -0000
 publish: true

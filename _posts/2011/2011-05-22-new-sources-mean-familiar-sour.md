@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/05/new-sources-mean-familiar-sour/
 title: New sources mean familiar sources
-description: None
 date: 2011-05-22 21:16:43 -0000
 last_modified_at: 2011-05-22 21:16:43 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 ![sourcing stories](/images/oriella.webp)  
@@ -32,4 +31,3 @@ New survey out on how journalists use Twitter, Facebook and social networks.
 * [Social media - the ultimate contacts book](https://measuresconsulting.wordpress.com/2011/03/21/social-media-the-ultimate-contacts-book/) (measuresconsulting.wordpress.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=6b67f70d-74ba-45bc-abd7-de2eb4de7c6f)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

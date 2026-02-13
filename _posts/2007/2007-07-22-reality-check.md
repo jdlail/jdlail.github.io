@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/reality-check/
 title: Reality check
-description: None
 date: 2007-07-22 14:48:52 -0000
 last_modified_at: 2018-03-19 21:52:41 -0000
 publish: true

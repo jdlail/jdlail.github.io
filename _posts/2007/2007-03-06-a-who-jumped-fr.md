@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/a-who-jumped-fr/
 title: A Who jumped from Where and What was driving When
-description: None
 date: 2007-03-06 20:22:24 -0000
 last_modified_at: 2007-03-06 20:22:24 -0000
 publish: true

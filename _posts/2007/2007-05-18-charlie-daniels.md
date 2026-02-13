@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/charlie-daniels/
 title: Charlie Daniels should be ashamed
-description: None
 date: 2007-05-18 09:21:34 -0000
 last_modified_at: 2007-05-18 09:21:34 -0000
 publish: true

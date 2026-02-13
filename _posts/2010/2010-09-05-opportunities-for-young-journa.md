@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/09/opportunities-for-young-journa/
 title: Opportunities for young journalists to get a paying internship
-description: None
 date: 2010-09-05 11:11:52 -0000
 last_modified_at: 2010-09-05 11:11:52 -0000
 publish: true

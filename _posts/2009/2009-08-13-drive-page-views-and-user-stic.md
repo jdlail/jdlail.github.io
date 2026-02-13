@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/drive-page-views-and-user-stic/
 title: Drive page views and user stickiness with outbound links
-description: None
 date: 2009-08-13 21:35:06 -0000
 last_modified_at: 2009-08-13 21:35:06 -0000
 publish: true

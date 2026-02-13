@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/bloggers-are-to-starving-journ/
 title: Bloggers are too starving journalists
-description: None
 date: 2008-01-04 15:40:36 -0000
 last_modified_at: 2008-01-04 15:40:36 -0000
 publish: true

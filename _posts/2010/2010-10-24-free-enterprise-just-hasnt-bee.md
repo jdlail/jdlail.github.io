@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/10/free-enterprise-just-hasnt-bee/
 title: Free enterprise just hasn't been good for journalism
-description: None
 date: 2010-10-25 01:25:53 -0000
 last_modified_at: 2023-03-13 14:04:34 -0000
 publish: true

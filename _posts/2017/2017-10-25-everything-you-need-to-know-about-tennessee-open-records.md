@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/10/everything-you-need-to-know-about-tennessee-open-records/
 title: Everything you need to know about Tennessee open records
-description: None
 date: 2017-10-25 11:12:02 -0000
 last_modified_at: 2017-10-25 11:12:02 -0000
 publish: true

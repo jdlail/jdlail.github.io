@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/10/first-rough-draft-of-history-i/
 title: First rough draft of history is raw video
-description: None
 date: 2011-10-23 10:27:12 -0000
 last_modified_at: 2011-10-23 10:27:12 -0000
 publish: true

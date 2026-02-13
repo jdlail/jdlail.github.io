@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/01/if-not-local-se/
 title: If not local search, then what
-description: None
 date: 2007-01-17 22:50:21 -0000
 last_modified_at: 2007-01-17 22:50:21 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 If local newspapers can't win local search, what's there for them to own? We in newspapers better figure this one out. The whole advertising/audience economy of online newspapers depends on it. One of the solutions in Pramit Sigh's post (and he has several excellent ones) is to give reporters blogs (and we're back to this evening's earlier [post)](/2007/01/blogging_on_blo.html).
@@ -20,4 +19,4 @@ If local newspapers can't win local search, what's there for them to own? We in 
 * Pramit Singh [News 2.0 = Newspapers + local + SEO](https://mediavidea.blogspot.com/2007/01/news-20-newspapers-local-seo.html)
 * Mathew Ingram: [Newspapers and local - who owns who](https://mathewingram.com/media/2007/01/15/newspapers-and-local-who-owns-who/)
 
-(via [Mindy McAdams](https://tojou.blogspot.com/2007/01/local-search-and-local-newspaper.html)) Tags: [SEO](https://technorati.com/tags/SEO) | [local search](https://technorati.com/tag/local search) | [newspapers](https://technorati.com/tag/newspapers) | [online newspapers](https://technorati.com/tag/online newspapers)
+(via [Mindy McAdams](https://tojou.blogspot.com/2007/01/local-search-and-local-newspaper.html)) Tags: [SEO](https://technorati.com/tags/SEO) | [local search](<https://technorati.com/tag/local> search) | [newspapers](https://technorati.com/tag/newspapers) | [online newspapers](<https://technorati.com/tag/online> newspapers)

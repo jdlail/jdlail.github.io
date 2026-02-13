@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/a-perscription-for-stellar-ran/
 title: A perscription for stellar rankings
-description: None
 date: 2008-07-09 05:52:58 -0000
 last_modified_at: 2008-07-09 05:52:58 -0000
 publish: true

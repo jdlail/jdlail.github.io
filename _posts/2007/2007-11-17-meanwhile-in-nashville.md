@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/meanwhile-in-nashville/
 title: Meanwhile in Nashville ...
-description: None
 date: 2007-11-17 03:01:03 -0000
 last_modified_at: 2007-11-17 03:01:03 -0000
 publish: true

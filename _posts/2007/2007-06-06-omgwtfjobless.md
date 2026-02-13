@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/omgwtfjobless/
 title: OMGWTFJOBLESS
-description: None
 date: 2007-06-06 20:25:50 -0000
 last_modified_at: 2007-06-06 20:25:50 -0000
 publish: true

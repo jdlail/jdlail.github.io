@@ -2,8 +2,7 @@
 layout: post
 permalink: /2024/12/tennessee-schools-have-a-book-ban-cheat-sheet-of-nearly-400-titles/
 title: Tennessee schools have a book ban cheat sheet of nearly 400 titles
-description: A list of 390 books banned earlier this school year in one Tennessee
-  county is being used as a "cheat sheet" by other school districts.
+description: 'A list of 390 books banned earlier this school year in one Tennessee county is being used as a "cheat sheet" by other school districts.'
 date: 2024-12-31 01:59:45 -0000
 last_modified_at: 2024-12-31 01:59:46 -0000
 publish: true
@@ -101,4 +100,3 @@ The effort, however, to remove supposedly obscene and pornographic books from sc
 What happens to books banned by school systems in Tennessee? “[I don’t have a clue, but I would burn ’em](https://tennesseelookout.com/2022/04/27/representative-says-he-would-burn-books-deemed-inappropriate-by-state/#:~:text=State%20Rep.,to%20the%20commission%2C%20state%20Rep.)," one rural East Tennessee legislator said in 2022.
 
 _(Image created by Google Gemini.)_
-

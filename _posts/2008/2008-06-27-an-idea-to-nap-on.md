@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/an-idea-to-nap-on/
 title: An idea to nap on
-description: None
 date: 2008-06-27 20:39:56 -0000
 last_modified_at: 2008-06-27 20:39:56 -0000
 publish: true

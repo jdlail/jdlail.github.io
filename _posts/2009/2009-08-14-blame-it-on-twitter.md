@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/08/blame-it-on-twitter/
 title: Blame it on Twitter
-description: None
 date: 2009-08-14 16:53:19 -0000
 last_modified_at: 2009-08-14 16:53:19 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 This was a great idea and I hope it proves successful in Knoxville:  
@@ -55,5 +54,3 @@ This was a great idea and I hope it proves successful in Knoxville:
 > Alex Lavidge at [a.lavidge@gmail.com](mailto:a.lavidge@gmail.com)
 >
 >  
-
-

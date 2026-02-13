@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/02/did-you-inhale/
 title: Did you inhale?
-description: None
 date: 2007-02-12 22:57:20 -0000
 last_modified_at: 2007-02-12 22:57:20 -0000
 publish: true

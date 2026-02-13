@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/a-web-20-guide-for-work/
 title: A Web 2.0 guide for work
-description: None
 date: 2008-06-03 15:36:26 -0000
 last_modified_at: 2008-06-03 15:36:26 -0000
 publish: true

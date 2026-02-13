@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/10/a-better-job-would-be/
 title: A better job would be ...
-description: None
 date: 2009-10-18 17:26:09 -0000
 last_modified_at: 2009-10-18 17:26:09 -0000
 publish: true

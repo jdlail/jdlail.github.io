@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/05/a-twitter-trial/
 title: A Twitter trial
-description: None
 date: 2008-05-18 10:07:21 -0000
 last_modified_at: 2008-05-18 10:07:21 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Reporter [Ron Sylvester](https://www.spj.org/blog/blogs/tech/archive/2008/05/10/20529.aspx) at the Wichita Eagle Beacon is live [Twittering a trial](https://twitter.com/rsylvester).  
@@ -30,4 +29,3 @@ More from [Howard Weaver](https://editor.blogspot.com/2008/05/twittering-in-wich
   
 I think there's a lot more potential for efforts like Sylvester's.  
   
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/making-the-a-li/
 title: Making the A list
-description: None
 date: 2006-11-10 11:24:16 -0000
 last_modified_at: 2006-11-10 11:24:16 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/i-googled-you-and-found/
 title: I googled you and found ...
-description: None
 date: 2007-12-16 20:21:18 -0000
 last_modified_at: 2023-05-21 14:08:31 -0000
 publish: true

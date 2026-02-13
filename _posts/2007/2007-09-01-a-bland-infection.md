@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/a-bland-infection/
 title: A bland infection
-description: None
 date: 2007-09-01 09:14:56 -0000
 last_modified_at: 2007-09-01 09:14:56 -0000
 publish: true

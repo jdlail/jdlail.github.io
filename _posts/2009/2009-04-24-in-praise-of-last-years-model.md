@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/in-praise-of-last-years-model/
 title: In praise of last year's model
-description: None
 date: 2009-04-24 12:59:20 -0000
 last_modified_at: 2009-04-24 12:59:20 -0000
 publish: true

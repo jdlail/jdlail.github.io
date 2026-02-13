@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/a-place-to-hang/
 title: A place to hang
-description: None
 date: 2009-02-19 08:00:25 -0000
 last_modified_at: 2009-02-19 08:00:25 -0000
 publish: true

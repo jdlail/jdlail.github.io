@@ -2,14 +2,13 @@
 layout: post
 permalink: /2009/03/a-totally-intriguing-what-if/
 title: A totally intriguing "What if"
-description: None
 date: 2009-03-09 07:53:44 -0000
 last_modified_at: 2009-03-09 07:53:44 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 The news about a [content sharing agreement](/2009/03/newspapers-sharing-content-in.html) between Tennessee's four largest newspapers brought some fascinating Twitter comments from [Jay Rosen](https://twitter.com/jayrosen_nyu), the influential New York University journalism professor, and [Kent Flanagan](https://twitter.com/kentflanagan), now at Middle Tennessee State University, but formerly the Associated Press' bureau chief in Nashville.  
@@ -33,4 +32,3 @@ Rosen had some more thoughts in a podcast interview Sunday with Dave Winer. List
 
 The whole [podcast](https://www.scripting.com/stories/2009/03/08/interviewWithJayRosen.html) is great, give it a listen.  
   
-

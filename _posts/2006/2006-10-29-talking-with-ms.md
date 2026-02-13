@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/10/talking-with-ms/
 title: Talking with Ms. Dewey
-description: None
 date: 2006-10-29 14:53:36 -0000
 last_modified_at: 2006-10-29 14:53:36 -0000
 publish: true

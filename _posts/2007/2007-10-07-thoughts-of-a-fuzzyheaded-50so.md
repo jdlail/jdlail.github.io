@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/thoughts-of-a-fuzzyheaded-50so/
 title: Thoughts of a fuzzy-headed fifty-something
-description: None
 date: 2007-10-07 11:47:55 -0000
 last_modified_at: 2007-10-07 11:47:55 -0000
 publish: true

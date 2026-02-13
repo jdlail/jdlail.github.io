@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/the-model-of-unfinished-news/
 title: The model of unfinished news
-description: None
 date: 2007-09-17 06:44:42 -0000
 last_modified_at: 2007-09-17 06:44:42 -0000
 publish: true

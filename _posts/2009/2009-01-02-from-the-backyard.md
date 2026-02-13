@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/from-the-backyard/
 title: From the backyard
-description: None
 date: 2009-01-02 18:48:52 -0000
 last_modified_at: 2009-01-02 18:48:52 -0000
 publish: true

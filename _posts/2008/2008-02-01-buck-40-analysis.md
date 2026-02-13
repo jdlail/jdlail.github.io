@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/02/buck-40-analysis/
 title: Buck 40 analysis
-description: None
 date: 2008-02-01 17:14:12 -0000
 last_modified_at: 2008-02-01 17:14:12 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 I had been thinking about Mathew Ingram's "[Twitter as news delivery platform](https://www.mathewingram.com/work/2008/01/30/twitter-as-news-delivery-syste)" for a couple of days and today [he demonstrated](https://www.mathewingram.com/work/2008/02/01/msft-yhoo-the-twitterverse-edition/) what he meant with a Twitter stream "analysis" of the Microsoft-Yahoo deal.  
@@ -37,4 +36,3 @@ Maybe Ruffini is right. Twitter is this year's Facebook and maybe we have a news
   
 (Remember, we plan on doing some special election Twittering on Tuesday at [twitter.com/knoxnews](https://twitter.com/knoxnews). Follow us.)  
   
-

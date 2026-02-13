@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/09/old-codger-opines-about-young/
 title: Old codger opines about young whippersnappers (harrump!) and civic engagement
-description: None
 date: 2008-09-17 13:27:46 -0000
 last_modified_at: 2008-09-17 13:27:46 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 These are links I'm sharing during a visit to a class on "Civic Engagement" at the University of Tennessee this afternoon. I'm supposed to talk intelligently (always a challenge) about the changing ways young people get information, the connection between staying informed about current events and being an engaged citizen, and the role of media outlets in shaping civic engagement patterns.  
@@ -21,5 +20,3 @@ If you have some thoughts post a comment and extend the conversation. Hopefully,
 * [News Media Management Center at Northwestern](https://mediamanagementcenter.org/)
 * [AP Study: A New Model for News](https://www.ap.org/newmodel.pdf)
 * [Engaging Millennials in Election News on the Web](https://www.mediamanagementcenter.org/research/youthelection.pdf)
-
-

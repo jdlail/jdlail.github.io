@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/stowed-with-goo/
 title: Stowed with Google
-description: None
 date: 2007-08-10 08:05:14 -0000
 last_modified_at: 2007-08-10 08:05:14 -0000
 publish: true

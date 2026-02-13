@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/05/mapping-hot-videos/
 title: Mapping hot videos
-description: None
 date: 2013-05-08 06:46:18 -0000
 last_modified_at: 2013-05-08 06:46:18 -0000
 publish: true

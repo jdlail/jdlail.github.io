@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/you-gotta-hear/
 title: You gotta hear this ...
-description: None
 date: 2006-12-07 14:06:14 -0000
 last_modified_at: 2006-12-07 14:06:14 -0000
 publish: true

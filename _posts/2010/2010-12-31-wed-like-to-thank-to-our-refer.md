@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/12/wed-like-to-thank-to-our-refer/
 title: We'd like to thank to our referers
-description: None
 date: 2010-12-31 13:50:15 -0000
 last_modified_at: 2010-12-31 13:50:15 -0000
 publish: true

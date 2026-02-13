@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/is-this-you-or-me/
 title: Is this you ... or me?
-description: None
 date: 2008-01-01 09:59:37 -0000
 last_modified_at: 2008-01-01 09:59:37 -0000
 publish: true

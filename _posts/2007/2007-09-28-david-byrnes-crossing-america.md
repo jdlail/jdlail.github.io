@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/david-byrnes-crossing-america/
 title: David Byrne's crossing America
-description: None
 date: 2007-09-28 19:36:44 -0000
 last_modified_at: 2007-09-28 19:36:44 -0000
 publish: true

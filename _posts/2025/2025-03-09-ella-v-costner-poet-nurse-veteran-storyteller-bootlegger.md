@@ -2,8 +2,7 @@
 layout: post
 permalink: /2025/03/ella-v-costner-poet-nurse-veteran-storyteller-bootlegger/
 title: 'Ella V. Costner: Poet, nurse, veteran, storyteller, bootlegger'
-description: Ella V. Costner, "Poet Laureate of the Smokes," was an East Tennessee
-  writer, bootlegger, nurse in the Pacific during World War II and more.
+description: 'Ella V. Costner, "Poet Laureate of the Smokes," was an East Tennessee writer, bootlegger, nurse in the Pacific during World War II and more.'
 date: 2025-03-09 19:19:45 -0000
 last_modified_at: 2025-03-09 20:10:00 -0000
 publish: true

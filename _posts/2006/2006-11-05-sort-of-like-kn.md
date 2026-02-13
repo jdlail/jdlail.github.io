@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/sort-of-like-kn/
 title: Sort of like Knoxville feels this morning
-description: None
 date: 2006-11-05 08:59:35 -0000
 last_modified_at: 2006-11-05 08:59:35 -0000
 publish: true

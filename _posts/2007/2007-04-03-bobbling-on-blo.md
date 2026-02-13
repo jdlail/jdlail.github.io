@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/bobbling-on-blo/
 title: Bobbling on blogging
-description: None
 date: 2007-04-03 07:26:17 -0000
 last_modified_at: 2007-04-03 07:26:17 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/some-handy-list/
 title: Some handy lists from Mashable
-description: None
 date: 2007-07-03 05:39:41 -0000
 last_modified_at: 2007-07-03 05:39:41 -0000
 publish: true

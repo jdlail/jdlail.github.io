@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/seagrove-videos/
 title: Seagrove videos
-description: None
 date: 2007-10-05 18:32:11 -0000
 last_modified_at: 2007-10-05 18:32:11 -0000
 publish: true

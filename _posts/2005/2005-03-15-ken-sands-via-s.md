@@ -2,14 +2,14 @@
 layout: post
 permalink: /2005/03/ken-sands-via-s/
 title: Ken Sands via Susan Mernit
-description: None
+description: If you think about it, posting a newspaper online is giving people a snapshot of yesterday's news.
 date: 2005-03-15 18:40:28 -0000
 last_modified_at: 2005-03-15 18:40:28 -0000
 publish: true
 pin: false
 categories:
 - Media
-tags: []
+tags: [Newspapers]
 ---
 Online Publisher Ken Sands in Spokane has good good points in this [Online News](https://talk.poynter.org/online-news/) post that the indefatigable Susan Mernit posted to her [blog](https://susanmernit.blogspot.com/2005/03/ken-sands-doing-online-news-another.html).
 

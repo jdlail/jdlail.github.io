@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/a-birthday-visitor/
 title: A birthday visitor
-description: None
 date: 2009-01-27 17:45:56 -0000
 last_modified_at: 2009-01-27 17:45:56 -0000
 publish: true

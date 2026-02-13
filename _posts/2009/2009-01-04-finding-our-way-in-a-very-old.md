@@ -2,14 +2,13 @@
 layout: post
 permalink: /2009/01/finding-our-way-in-a-very-old/
 title: Finding our way in a very old saying
-description: None
 date: 2009-01-04 09:03:16 -0000
 last_modified_at: 2009-01-04 09:03:16 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![Kodak Brownie](/assets_c/2009/01/brownie-thumb-150x160-418.webp)](/images/brownie.webp)Glenn Reynolds of Instapundit [argues in a post last night](https://pajamasmedia.com/instapundit/65187/) that the relationship between blogs and Mainstream Media ought to be viewed as symbiotic rather than competitive or confrontational.  
@@ -47,4 +46,3 @@ _(Photo is of a Kodak Brownie from around 1910, via[Smithsonian Press](https://w
 **Update: Welcome[Instapundit](https://pajamasmedia.com/instapundit/65283/) readers!  
   
 **
-

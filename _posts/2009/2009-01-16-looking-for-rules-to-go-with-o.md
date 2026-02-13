@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/looking-for-rules-to-go-with-o/
 title: Looking for rules to go with our thumbs
-description: None
 date: 2009-01-16 10:32:36 -0000
 last_modified_at: 2009-01-16 10:32:36 -0000
 publish: true

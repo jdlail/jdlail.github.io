@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/nicer-weather-for-jogging/
 title: Nicer weather for jogging
-description: None
 date: 2007-09-19 10:14:43 -0000
 last_modified_at: 2007-09-19 10:14:43 -0000
 publish: true

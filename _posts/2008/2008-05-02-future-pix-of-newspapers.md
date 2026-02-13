@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/future-pix-of-newspapers/
 title: Future pix of newspapers
-description: None
 date: 2008-05-02 06:56:10 -0000
 last_modified_at: 2008-05-02 06:56:10 -0000
 publish: true

@@ -2,14 +2,14 @@
 layout: post
 permalink: /2008/03/the-curse-of-barbara-bains-dog/
 title: The curse of Barbara Bain's dog
-description: None
+description: The story of the newspaper that killed Barbara Bain's dog
 date: 2008-03-25 23:11:44 -0000
 last_modified_at: 2008-03-25 23:11:44 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
-tags: []
+- Media
+tags: [Newspapers]
 ---
 Jimmy Guterman, editorial director of O'Reilly's Radar group and the editor of O'Reilly's Release 2.0, is [parting company](https://radar.oreilly.com/archives/2008/03/goodbye-new-york-times.html) with the printed edition of the _New York Times_.  
   
@@ -49,4 +49,3 @@ I hadn't heard that one either. And from riester rente
 >
 
 Read them all, thoughtful.
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/07/heres-the-scoop/
 title: Here's the Scoop ...
-description: None
 date: 2006-07-31 07:56:06 -0000
 last_modified_at: 2006-07-31 07:56:06 -0000
 publish: true

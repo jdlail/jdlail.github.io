@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/its-in-the-way-that-we-use-it/
 title: It's in the way that we use it
-description: None
 date: 2009-02-19 11:07:56 -0000
 last_modified_at: 2009-02-19 11:07:56 -0000
 publish: true

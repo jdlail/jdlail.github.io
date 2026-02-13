@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/the-pictures-real-but-it-swirl/
 title: The picture's real, but it swirls in misinformation
-description: None
 date: 2008-06-16 22:15:57 -0000
 last_modified_at: 2008-06-16 22:15:57 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/04/i-saw-on-facebo/
 title: I saw on Facebook (Va. Tech murders)
-description: None
 date: 2007-04-17 21:20:31 -0000
 last_modified_at: 2007-04-17 21:20:31 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Following up on this morning [post](/2007/04/how-blacksburg.html), more great coverage on the coverage of the Va. Tech shooting.
@@ -24,4 +23,4 @@ Following up on this morning [post](/2007/04/how-blacksburg.html), more great co
 * [Freedom of the Prez: The massacre and the media](https://www.spj.org/blog/blogs/president/archive/2007/04/17/6928.aspx)
 * [NewTeeVee: Cell Cam Video at front of Va. Tech Coverage](https://newteevee.com/2007/04/16/cell-cam-virginia-tech-shootings/)
 
-Was this the first news national news event "covered" in Facebook? Tags: [Virginia Tech](https://technorati.com/tag/Virginia Tech) | [blogosphere](https://technorati.com/tag/blogosphere) | [online media](https://technorati.com/tag/online media) | [newspapers](https://technorati.com/tag/newspapers)
+Was this the first news national news event "covered" in Facebook? Tags: [Virginia Tech](<https://technorati.com/tag/Virginia> Tech) | [blogosphere](https://technorati.com/tag/blogosphere) | [online media](<https://technorati.com/tag/online> media) | [newspapers](https://technorati.com/tag/newspapers)

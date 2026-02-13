@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/03/aols-seed-and-bionic-journalis/
 title: AOL's Seed and "bionic journalism" explained
-description: None
 date: 2010-03-15 05:33:05 -0000
 last_modified_at: 2010-03-15 05:33:05 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -29,6 +28,3 @@ Related articles by Zemanta
 * [AOL Snags Saul Hansell From The New York Times](https://www.techcrunch.com/2009/12/08/aol-snags-saul-hansell-from-the-new-york-times/) (techcrunch.com)
 * [Can You Crowdsource Journalism? Seed is Trying](https://gigaom.com/2010/01/28/can-you-crowdsource-journalism-seed-is-trying/) (gigaom.com)
 * [The New AOL: Local Reporters Covering Your Neighborhood](https://www.readwriteweb.com/archives/the_new_aol_local_reporters_covering_your_neighbor.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+readwriteweb+%2528ReadWriteWeb%2529) (readwriteweb.com)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=7e52aec0-2f9f-41f2-93aa-f3991ee69aa5)](https://reblog.zemanta.com/zemified/7e52aec0-2f9f-41f2-93aa-f3991ee69aa5/ "Reblog this post \[with Zemanta\]")
-

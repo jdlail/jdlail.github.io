@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/12/delicious/
 title: Delicious
-description: None
 date: 2009-12-28 12:16:42 -0000
 last_modified_at: 2009-12-28 12:16:42 -0000
 publish: true

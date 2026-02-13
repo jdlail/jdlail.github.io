@@ -2,7 +2,6 @@
 layout: post
 permalink: /2014/04/digital-paywalls-are-the-newsp/
 title: Digital paywalls are the newspaper model now
-description: None
 date: 2014-04-03 08:10:24 -0000
 last_modified_at: 2014-04-03 08:10:24 -0000
 publish: true

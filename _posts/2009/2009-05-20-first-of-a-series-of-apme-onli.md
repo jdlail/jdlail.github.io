@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/05/first-of-a-series-of-apme-onli/
 title: First of a series of APME online credibility roundtables held
-description: None
 date: 2009-05-20 19:52:25 -0000
 last_modified_at: 2009-05-20 19:52:25 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Credibility Roundtable](/assets_c/2009/05/05192009028-thumb-485x363-458.webp)](/images/05192009028.webp)
@@ -25,4 +24,3 @@ We'll be doing more on this session in the coming days. Meanwhile, here are [a f
   
 _(In the photo above, online producer Lauren Spuhler records attorney Tom McAdams as he makes some observations about the media's responsibilities regarding comments, calling them, "the enabler." Listening from left are Elaine Kramer, Bill Shory, Brittany Fulmer and William Rukeyser.)_  
   
-

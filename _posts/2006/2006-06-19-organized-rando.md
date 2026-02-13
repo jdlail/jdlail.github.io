@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/06/organized-rando/
 title: Organized randomness
-description: None
 date: 2006-06-19 08:36:30 -0000
 last_modified_at: 2006-06-19 08:36:30 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [Netscape, Media, News]
 ---
 I think the new Netscape ([beta.netscape.com](https://beta.netscape.com) for now) is a good move for the portal site owned by [AOL](https://www.aol.com).

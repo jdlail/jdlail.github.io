@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/art-in-numbers/
 title: Art in numbers
-description: None
 date: 2008-06-23 22:11:48 -0000
 last_modified_at: 2008-06-23 22:11:48 -0000
 publish: true

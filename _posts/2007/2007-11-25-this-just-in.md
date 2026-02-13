@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/11/this-just-in/
 title: This just in
-description: None
 date: 2007-11-25 09:54:13 -0000
 last_modified_at: 2007-11-25 09:54:13 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Some thoughts on breaking news.  
@@ -22,49 +21,49 @@ Outing [suggests](https://www.poynter.org/column.asp?id=31&aid=133274) Twitter c
   
 I thought how a Knoxville computer programmer and [Twitter](https://twitter.com/djuggler) Doug McCaughan covered a high school football game Friday night was innovative:  
   
-> Game over. Field stormed. Final score bearden 28. Farragut 14. Well played by both teams! 09:14 PM November 23, 2007 from txt    
+> Game over. Field stormed. Final score bearden 28. Farragut 14. Well played by both teams! 09:14 PM November 23, 2007 from txt
 >
-> Bearden runs half the field for a touchdown! Bearden 28. Farragut 14. Field about to be stormed by the students. 09:08 PM November 23, 2007 from txt    
+> Bearden runs half the field for a touchdown! Bearden 28. Farragut 14. Field about to be stormed by the students. 09:08 PM November 23, 2007 from txt
 >
-> Farragut punts. Bearden has possession at farragut 35 with 2:41 left in the 4th. 09:05 PM November 23, 2007 from txt    
+> Farragut punts. Bearden has possession at farragut 35 with 2:41 left in the 4th. 09:05 PM November 23, 2007 from txt
 >
-> Farragut qb number 10 okay to walk off field 09:03 PM November 23, 2007 from txt    
+> Farragut qb number 10 okay to walk off field 09:03 PM November 23, 2007 from txt
 >
-> Farragut making wild passes. Farragut quarter back injured. 09:01 PM November 23, 2007 from txt    
+> Farragut making wild passes. Farragut quarter back injured. 09:01 PM November 23, 2007 from txt
 >
-> Score bearden 21. Farragut 14. 08:59 PM November 23, 2007 from txt    
+> Score bearden 21. Farragut 14. 08:59 PM November 23, 2007 from txt
 >
-> Bearden leads 21 to 14 08:57 PM November 23, 2007 from txt    
+> Bearden leads 21 to 14 08:57 PM November 23, 2007 from txt
 >
-> Bearden on the 7 yard line with 4 minutes left in the 4th. Touchdown! 08:57 PM November 23, 2007 from txt    
+> Bearden on the 7 yard line with 4 minutes left in the 4th. Touchdown! 08:57 PM November 23, 2007 from txt
 >
-> Bearden making short runs to bring the clock down. In field goal range. 08:54 PM November 23, 2007 from txt    
+> Bearden making short runs to bring the clock down. In field goal range. 08:54 PM November 23, 2007 from txt
 >
-> Bearden defense giving farragut running game a hard way to go. Farragut passing game strong. Bearden now has possession at farragut 26. 08:47 PM November 23, 2007 from txt    
+> Bearden defense giving farragut running game a hard way to go. Farragut passing game strong. Bearden now has possession at farragut 26. 08:47 PM November 23, 2007 from txt
 >
-> Bearden punts to farragut 34. 1 minute left in the 3rd quarter. 08:41 PM November 23, 2007 from txt    
+> Bearden punts to farragut 34. 1 minute left in the 3rd quarter. 08:41 PM November 23, 2007 from txt
 >
 > Farragut attempts a field goal and misses 08:35 PM November 23, 2007 from txt  
 >
-> Farragut intercepts. Has ball on bearden 24. Its cold out here! 08:32 PM November 23, 2007 from txt    
+> Farragut intercepts. Has ball on bearden 24. Its cold out here! 08:32 PM November 23, 2007 from txt
 >
-> Farragut touchdown 08:26 PM November 23, 2007 from txt    
+> Farragut touchdown 08:26 PM November 23, 2007 from txt
 >
-> Bearden leading 14 to 7 with 10 minutes left in the 3rd quarter. Another on side kick leaves farragut with possession at the bearden 43. 08:25 PM November 23, 2007 from txt    
+> Bearden leading 14 to 7 with 10 minutes left in the 3rd quarter. Another on side kick leaves farragut with possession at the bearden 43. 08:25 PM November 23, 2007 from txt
 >
-> Bearden touchdown! 08:22 PM November 23, 2007 from txt    
+> Bearden touchdown! 08:22 PM November 23, 2007 from txt
 >
-> Bearden accidentally did an on side kick while kicking off in the beginning of the 3rd quarter. 08:19 PM November 23, 2007 from txt    
+> Bearden accidentally did an on side kick while kicking off in the beginning of the 3rd quarter. 08:19 PM November 23, 2007 from txt
 >
-> 4th and 2 field goal attempt by bearden blocked by farragut 07:51 PM November 23, 2007 from txt    
+> 4th and 2 field goal attempt by bearden blocked by farragut 07:51 PM November 23, 2007 from txt
 >
-> Beautiful full moon. Air crisp. Very clear sky. 07:39 PM November 23, 2007 from txt    
+> Beautiful full moon. Air crisp. Very clear sky. 07:39 PM November 23, 2007 from txt
 >
-> Bearden vs Farragut tie game in 2nd quarter 7 to 7 07:37 PM November 23, 2007 from txt    
+> Bearden vs Farragut tie game in 2nd quarter 7 to 7 07:37 PM November 23, 2007 from txt
 >
-> For high school football on the day after thanksgiving i have to park a mile from the stadium! 06:41 PM November 23, 2007 from txt    
+> For high school football on the day after thanksgiving i have to park a mile from the stadium! 06:41 PM November 23, 2007 from txt
 >
-> Heading to bhs to watch bearden beat farragut. And freeze. 06:29 PM November 23, 2007 from txt    
+> Heading to bhs to watch bearden beat farragut. And freeze. 06:29 PM November 23, 2007 from txt
 >
 
 McCaughan wasn't a journalist covering the game and his report would have never made [Drudge](https://www.drudgereport.com/). The story from the newspaper journalist covering the game, which appeared online later in the evening online and in the paper the next morning, was a better read.  

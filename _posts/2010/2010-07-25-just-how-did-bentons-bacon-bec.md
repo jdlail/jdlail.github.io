@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/07/just-how-did-bentons-bacon-bec/
 title: Just how did Benton's Bacon become a craze?
-description: None
 date: 2010-07-25 09:57:01 -0000
 last_modified_at: 2010-07-25 09:57:01 -0000
 publish: true

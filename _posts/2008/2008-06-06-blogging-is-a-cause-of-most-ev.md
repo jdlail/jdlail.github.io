@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/blogging-is-a-cause-of-most-ev/
 title: Blogging is a cause of most everything
-description: None
 date: 2008-06-06 08:06:09 -0000
 last_modified_at: 2008-06-06 08:06:09 -0000
 publish: true

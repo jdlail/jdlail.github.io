@@ -2,7 +2,7 @@
 layout: post
 permalink: /2005/02/will-sudduth-22/
 title: Will Sudduth (2/27/1925-2/23/2005)
-description: None
+description: "Will Sudduth (2/27/1925-2/23/2005)"
 date: 2005-02-27 09:04:48 -0000
 last_modified_at: 2023-04-28 13:55:23 -0000
 publish: true

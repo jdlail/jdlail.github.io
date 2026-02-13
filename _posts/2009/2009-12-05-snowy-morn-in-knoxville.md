@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/12/snowy-morn-in-knoxville/
 title: Snowy morn in Knoxville
-description: None
 date: 2009-12-05 08:43:45 -0000
 last_modified_at: 2009-12-05 08:43:45 -0000
 publish: true

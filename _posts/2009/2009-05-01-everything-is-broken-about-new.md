@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/everything-is-broken-about-new/
 title: Everything is broken about newspapers
-description: None
 date: 2009-05-01 17:04:33 -0000
 last_modified_at: 2009-05-01 17:04:33 -0000
 publish: true

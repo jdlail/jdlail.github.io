@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/sign-of-the-tim/
 title: Sign of the times
-description: None
 date: 2007-06-27 07:54:53 -0000
 last_modified_at: 2007-06-27 07:54:53 -0000
 publish: true

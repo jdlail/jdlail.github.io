@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/bubblegum-music/
 title: Bubblegum music
-description: None
 date: 2007-12-04 21:17:38 -0000
 last_modified_at: 2007-12-04 21:17:38 -0000
 publish: true

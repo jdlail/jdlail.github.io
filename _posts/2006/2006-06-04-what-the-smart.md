@@ -2,16 +2,17 @@
 layout: post
 permalink: /2006/06/what-the-smart/
 title: What the smart people are reading ...
-description: None
 date: 2006-06-04 05:43:45 -0000
 last_modified_at: 2006-06-04 05:43:45 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Media
+tags: [Newspapers]
 ---
-Tags: [New Media](https://technorati.com/tag/new media) | [Online Advertising](https://technorati.com/tag/online advertising) | [Newspapers](https://technorati.com/tag/newspapers) | [Marketing](https://technorati.com/tag/marketing) The results of a study done on 10 newspaper sites late last year, including the [KnoxNews.com](https://www.knoxnews.com/) site I work on, are beginning to come out. The study was done for the Newspaper Association of America by MORI Research. I haven't seen the local site data and analysis, but the national overview is interesting (a Powerpoint presentation is [here](https://www.naa.org/edge/Power_Users_2006.ppt)). Here's some takeaways on newspaper site heavy users the NAA's Melinda Gipson noted in a Presstime magazine [piece](https://www.naa.org/Home/PressTime/2006/May/PRESSTIMEcontent/Site-Power-Users-Just-Plain-Better.aspx):
+The results of a study done on 10 newspaper sites late last year, including the [KnoxNews.com](https://www.knoxnews.com/) site I work on, are beginning to come out. The study was done for the Newspaper Association of America by MORI Research.
+
+I haven't seen the local site data and analysis, but the national overview is interesting (a [Powerpoint presentation](https://www.naa.org/edge/Power_Users_2006.ppt)). Here's some takeaways on newspaper site heavy users the NAA's Melinda Gipson noted in a Presstime magazine [piece](https://www.naa.org/Home/PressTime/2006/May/PRESSTIMEcontent/Site-Power-Users-Just-Plain-Better.aspx):
 
 * 91 percent recently shopped online
 * 89 percent recently bought online

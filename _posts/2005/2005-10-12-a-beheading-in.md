@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/a-beheading-in/
 title: A beheading in Pirate land
-description: None
 date: 2005-10-12 18:41:34 -0000
 last_modified_at: 2005-10-12 18:41:34 -0000
 publish: true

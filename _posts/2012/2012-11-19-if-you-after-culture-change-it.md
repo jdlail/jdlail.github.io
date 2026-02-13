@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/11/if-you-after-culture-change-it/
 title: If you're after culture change, it helps to be an emotional psycho
-description: None
 date: 2012-11-19 21:53:39 -0000
 last_modified_at: 2012-11-19 21:53:39 -0000
 publish: true

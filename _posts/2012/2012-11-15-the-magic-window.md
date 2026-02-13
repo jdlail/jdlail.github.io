@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/11/the-magic-window/
 title: The Magic Window
-description: None
 date: 2012-11-15 06:50:06 -0000
 last_modified_at: 2012-11-15 06:50:06 -0000
 publish: true

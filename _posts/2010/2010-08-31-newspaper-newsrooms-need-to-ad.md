@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/08/newspaper-newsrooms-need-to-ad/
 title: Newspaper newsrooms need to adjust the metabolism
-description: None
 date: 2010-08-31 07:40:05 -0000
 last_modified_at: 2010-08-31 07:40:05 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 The Knoxville News Sentinel ran Part 2 of the Scripps Howard News Service package on the "[Future of News](https://www.knoxnews.com/news/2010/aug/31/digital-dilemma/)" today. The first installment ran Sunday. (Other E.W. Scripps newspapers ran the series or parts of the series earlier. Several, like the News Sentinel, also did [local pieces](https://www.knoxnews.com/news/2010/aug/29/home-tweet-home-couple-find-social-media-fun-conve/) to go along with it.  
@@ -46,4 +45,3 @@ But can newsrooms change their _metabolism_?
 _(Photo provided by Elizabeth Spiers)_  
   
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=761cdf23-b2eb-40b4-bff0-feaf037cf2df)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

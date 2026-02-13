@@ -2,14 +2,13 @@
 layout: post
 permalink: /2012/09/heres-another-time-suck-post/
 title: Here's another 'time-suck' post
-description: None
 date: 2012-09-24 16:52:53 -0000
 last_modified_at: 2012-09-24 16:52:53 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![Steve Buttry, director of community engagement](https://farm2.static.flickr.com/1384/5163460403_02585d89c7_m.jpg)](https://www.flickr.com/photos/16483298@N00/5163460403)

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/greasing-foulups-with-humor/
 title: Greasing foul-ups with humor
-description: None
 date: 2007-11-05 06:36:13 -0000
 last_modified_at: 2007-11-05 06:36:13 -0000
 publish: true

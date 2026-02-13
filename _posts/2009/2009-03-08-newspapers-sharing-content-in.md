@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/newspapers-sharing-content-in/
 title: Newspapers sharing content in Tennessee
-description: None
 date: 2009-03-08 09:11:07 -0000
 last_modified_at: 2009-03-08 09:11:07 -0000
 publish: true

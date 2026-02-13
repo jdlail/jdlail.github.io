@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/07/a-broadcast-imb/
 title: A broadcast imbroglio
-description: None
 date: 2007-07-09 22:29:13 -0000
 last_modified_at: 2007-07-09 22:29:13 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 The NashvilleisTalking/WKRN imbroglio has caught my attention again. [Lost Remote](https://www.lostremote.com/2007/07/08/wkrns-struggle-to-meld-new-old-media/) points to a Cable & Broadcasting [piece](https://www.broadcastingcable.com/article/CA6458123.html) that says the upheaval at WKRN may be a symptom of a rift between old and new media that has led to the departures of Interactive Media heavyweights Wes Jackson at Belo, Ric Harris at NBC Universal and Eric Grilly at MediaNews Group. I don't have the inside skinny on any of those, but Gordon Borrell, the respected Internet/Media consultant, is quoted:
@@ -25,4 +24,4 @@ Well, maybe. We'll see. Management's sparse public pronouncements would indicate
 
 Usurping local broadcast news. Usurping local broadcast news. Now Mike, that's an idea. A YouTube video of Sechrist from back in his WKRN day:
 
-Tags: [broadcasting](https://technorati.com/tag/broadcasting) | [television](https://technorati.com/tag/television) | [interactive media](https://technorati.com/tag/interactive media) | [WKRN](https://technorati.com/tag/WRKN) | [NashvilleisTalking](https://technorati.com/tag/NashvilleisTalking)
+Tags: [broadcasting](https://technorati.com/tag/broadcasting) | [television](https://technorati.com/tag/television) | [interactive media](<https://technorati.com/tag/interactive> media) | [WKRN](https://technorati.com/tag/WRKN) | [NashvilleisTalking](https://technorati.com/tag/NashvilleisTalking)

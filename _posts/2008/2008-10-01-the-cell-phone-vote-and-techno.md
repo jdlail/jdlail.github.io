@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/the-cell-phone-vote-and-techno/
 title: The cell phone vote and technology use shifts
-description: None
 date: 2008-10-01 07:37:00 -0000
 last_modified_at: 2008-10-01 07:37:00 -0000
 publish: true

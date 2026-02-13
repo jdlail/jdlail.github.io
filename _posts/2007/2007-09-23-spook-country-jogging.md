@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/spook-country-jogging/
 title: Spook Country jogging
-description: None
 date: 2007-09-23 19:24:50 -0000
 last_modified_at: 2007-09-23 19:24:50 -0000
 publish: true

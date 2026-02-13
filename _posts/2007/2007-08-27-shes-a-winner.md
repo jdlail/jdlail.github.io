@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/shes-a-winner/
 title: She's a winner
-description: None
 date: 2007-08-27 12:05:48 -0000
 last_modified_at: 2007-08-27 12:05:48 -0000
 publish: true

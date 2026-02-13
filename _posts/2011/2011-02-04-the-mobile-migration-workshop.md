@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/02/the-mobile-migration-workshop/
 title: The Mobile Migration workshop will be April 1 in Nashville
-description: None
 date: 2011-02-04 14:42:46 -0000
 last_modified_at: 2011-02-04 14:42:46 -0000
 publish: true

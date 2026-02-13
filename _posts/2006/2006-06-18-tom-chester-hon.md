@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/06/tom-chester-hon/
 title: Tom Chester honored
-description: None
 date: 2006-06-18 08:31:43 -0000
 last_modified_at: 2006-06-18 08:31:43 -0000
 publish: true

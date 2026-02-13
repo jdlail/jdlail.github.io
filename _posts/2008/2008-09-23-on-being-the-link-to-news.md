@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/09/on-being-the-link-to-news/
 title: On being the link to news
-description: None
 date: 2008-09-23 17:32:02 -0000
 last_modified_at: 2008-09-23 17:32:02 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Scott Karp, founder of [Publish2](https://publish2.com/), explains the power of "link journalism" using a roundup of Vol coverage we did Monday.  
@@ -22,4 +21,3 @@ And the people being linked to [seem to like it](https://volball.wordpress.com/2
   
 As Karp asks: _And you're not doing it... why?_  
   
-

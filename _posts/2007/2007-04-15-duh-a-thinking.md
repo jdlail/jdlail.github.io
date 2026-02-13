@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/duh-a-thinking/
 title: Duh, a thinking blog?
-description: None
 date: 2007-04-15 12:54:42 -0000
 last_modified_at: 2007-04-15 12:54:42 -0000
 publish: true

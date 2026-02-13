@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/primetime-for-v/
 title: Primetime for video
-description: None
 date: 2007-03-17 10:02:40 -0000
 last_modified_at: 2007-03-17 10:02:40 -0000
 publish: true

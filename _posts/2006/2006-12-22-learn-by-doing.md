@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/learn-by-doing/
 title: Learn by doing
-description: None
 date: 2006-12-22 20:42:58 -0000
 last_modified_at: 2006-12-22 20:42:58 -0000
 publish: true

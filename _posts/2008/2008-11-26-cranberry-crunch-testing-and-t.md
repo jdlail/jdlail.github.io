@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/cranberry-crunch-testing-and-t/
 title: Cranberry crunch testing and tasting
-description: None
 date: 2008-11-26 11:24:47 -0000
 last_modified_at: 2008-11-26 11:24:47 -0000
 publish: true

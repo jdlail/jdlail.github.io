@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/03/waxing-gibbous-1/
 title: Waxing Gibbous over Lenior City
-description: None
 date: 2006-03-11 22:38:07 -0000
 last_modified_at: 2006-03-11 22:38:07 -0000
 publish: true

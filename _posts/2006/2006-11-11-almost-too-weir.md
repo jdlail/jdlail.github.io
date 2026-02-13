@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/almost-too-weir/
 title: Almost too weird
-description: None
 date: 2006-11-11 18:17:52 -0000
 last_modified_at: 2006-11-11 18:17:52 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/a-short-movie-trailer-on-journ/
 title: A short movie trailer on journalism
-description: None
 date: 2009-06-09 17:49:29 -0000
 last_modified_at: 2009-06-09 17:49:29 -0000
 publish: true

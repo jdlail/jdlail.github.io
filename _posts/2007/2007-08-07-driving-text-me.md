@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/driving-text-me/
 title: Driving text messaging
-description: None
 date: 2007-08-07 21:13:33 -0000
 last_modified_at: 2007-08-07 21:13:33 -0000
 publish: true

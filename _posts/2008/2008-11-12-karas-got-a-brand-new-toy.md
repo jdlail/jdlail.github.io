@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/karas-got-a-brand-new-toy/
 title: Kara's got a brand new toy
-description: None
 date: 2008-11-12 06:52:29 -0000
 last_modified_at: 2008-11-12 06:52:29 -0000
 publish: true

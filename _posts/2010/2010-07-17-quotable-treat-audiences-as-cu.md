@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/07/quotable-treat-audiences-as-cu/
 title: 'Quotable: Treat audiences as customers would be novel'
-description: None
 date: 2010-07-17 18:04:24 -0000
 last_modified_at: 2010-07-17 18:04:24 -0000
 publish: true

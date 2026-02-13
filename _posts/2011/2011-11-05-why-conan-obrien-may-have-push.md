@@ -3,7 +3,6 @@ layout: post
 permalink: /2011/11/why-conan-obrien-may-have-push/
 title: Why 'Conan O'Brien may be about to push the envelope' should be banned from
   TV news -- forever
-description: None
 date: 2011-11-05 19:56:41 -0000
 last_modified_at: 2011-11-05 19:56:41 -0000
 publish: true

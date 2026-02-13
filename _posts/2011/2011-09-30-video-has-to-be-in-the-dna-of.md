@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/09/video-has-to-be-in-the-dna-of/
 title: Video has to be in the DNA of newspaper newsrooms
-description: None
 date: 2011-09-30 20:19:19 -0000
 last_modified_at: 2011-09-30 20:19:19 -0000
 publish: true

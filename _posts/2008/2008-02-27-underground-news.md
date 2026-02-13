@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/underground-news/
 title: Underground news
-description: None
 date: 2008-02-27 20:48:44 -0000
 last_modified_at: 2008-02-27 20:48:44 -0000
 publish: true

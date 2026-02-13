@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/not-your-local-tv-stations-new/
 title: Not your local TV station's news show
-description: None
 date: 2009-06-17 14:01:00 -0000
 last_modified_at: 2009-06-17 14:01:00 -0000
 publish: true

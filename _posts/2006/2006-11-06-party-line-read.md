@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/11/party-line-read/
 title: Party line reading
-description: None
 date: 2006-11-06 10:36:17 -0000
 last_modified_at: 2006-11-06 10:36:17 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Some election eve frivolous fun. If she's reading the New York Times, she's probably a Democrat. If he's reading the Wall Street Journal, he's probably a Republican. That's the upshot of a [Neilsen//Netratings](https://www.nielsen-netratings.com/pr/pr_061101.pdf) report on site traffic by party affiliation via the [Center for Media Research](https://www.centerformediaresearch.com/cfmr_brief.cfm?fnl=061106). Top five favs for Republicans:

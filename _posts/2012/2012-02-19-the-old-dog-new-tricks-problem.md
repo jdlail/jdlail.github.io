@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/02/the-old-dog-new-tricks-problem/
 title: The old dog, new tricks problem
-description: None
 date: 2012-02-19 17:44:47 -0000
 last_modified_at: 2012-02-19 17:44:47 -0000
 publish: true

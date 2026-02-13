@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/02/who-started-science-fairs-migh/
 title: Who started science fairs might surprise you
-description: None
 date: 2011-02-12 16:48:33 -0000
 last_modified_at: 2011-02-12 16:48:33 -0000
 publish: true

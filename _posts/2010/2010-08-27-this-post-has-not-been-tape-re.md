@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/08/this-post-has-not-been-tape-re/
 title: This post has not been tape recorded
-description: None
 date: 2010-08-27 16:30:41 -0000
 last_modified_at: 2010-08-27 16:30:41 -0000
 publish: true

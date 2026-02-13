@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/03/some-other-disclosures-tenness/
 title: Some other disclosures Tennessee Gov. Bill Haslam might not like
-description: None
 date: 2011-03-18 16:53:24 -0000
 last_modified_at: 2011-03-18 16:53:24 -0000
 publish: true

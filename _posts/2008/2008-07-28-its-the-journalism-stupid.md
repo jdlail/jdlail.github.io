@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/its-the-journalism-stupid/
 title: It's the journalism, stupid
-description: None
 date: 2008-07-28 15:08:25 -0000
 last_modified_at: 2008-07-28 15:08:25 -0000
 publish: true

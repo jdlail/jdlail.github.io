@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/sec-finds-xs-and-os-of-social/
 title: SEC finds X's and O's of Social Media not as easy to learn as in football
-description: None
 date: 2009-08-18 07:39:40 -0000
 last_modified_at: 2009-08-18 07:39:40 -0000
 publish: true

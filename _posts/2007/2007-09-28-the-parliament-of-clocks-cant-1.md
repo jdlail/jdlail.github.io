@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/09/the-parliament-of-clocks-cant-1/
 title: The Parliament of Clocks can't keep time
-description: None
 date: 2007-09-28 08:15:11 -0000
 last_modified_at: 2007-09-28 08:15:11 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 A piece of by [Edward B. Driscoll Jr.](https://eddriscoll.com/weblog.php) about how bloggers [expanded the news agenda](https://www.atlassociety.org/ct-1966-Atlas_mugged.aspx) is getting a good bit of attention in, well, naturally, the blogosphere.  
@@ -32,7 +31,7 @@ A prediction from Knoxville's [Glenn Reynolds](https://www.instapundit.com/):
 > “As I keep saying over and over again, the ‘killer app’ for Big Media is hard news, accurately reported. That seems like something that they resist. It’s almost like their position is that they didn't go into the news business to report facts accurately,” he chuckles; “that’s _boring!_ ”  
 >
 
-Driscoll, correctly I think, sees the further development of blogs as larger media entities, either as powerful "A list" bloggers or magazine-like sites of groups of bloggers that become more rather than less like traditional media. Isn't that the pattern in any emergent industry, the best separate from the pack?  And that happens against a backdrop of mushrooming growth in the number of people doing blogs or writing similar to blogs on social media sites.     
+Driscoll, correctly I think, sees the further development of blogs as larger media entities, either as powerful "A list" bloggers or magazine-like sites of groups of bloggers that become more rather than less like traditional media. Isn't that the pattern in any emergent industry, the best separate from the pack?  And that happens against a backdrop of mushrooming growth in the number of people doing blogs or writing similar to blogs on social media sites.
   
 Give it a read, Cornwallis.  
   

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/10/copy-editor-massacre-fears-unf/
 title: Copy editor massacre fears unfounded; it was just another dummy problem
-description: None
 date: 2010-10-29 05:20:25 -0000
 last_modified_at: 2010-10-29 05:20:25 -0000
 publish: true

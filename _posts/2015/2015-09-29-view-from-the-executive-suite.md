@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/09/view-from-the-executive-suite/
 title: 'View from the executive suite: 20-somethings will turn to newspapers'
-description: None
 date: 2015-09-29 10:27:51 -0000
 last_modified_at: 2015-09-29 10:27:51 -0000
 publish: true

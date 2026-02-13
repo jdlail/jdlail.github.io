@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/the-paperless-office-is-at-hom/
 title: The paperless office is at home
-description: None
 date: 2008-02-10 13:08:44 -0000
 last_modified_at: 2008-02-10 13:08:44 -0000
 publish: true

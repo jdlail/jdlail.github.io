@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/quotable-good-advice/
 title: 'Quotable: Good advice'
-description: None
 date: 2008-12-09 15:06:29 -0000
 last_modified_at: 2008-12-09 15:06:29 -0000
 publish: true

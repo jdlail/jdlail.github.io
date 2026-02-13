@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/old-media-still-has-it-mojo-wo/
 title: Old Media still has its mojo working
-description: None
 date: 2008-05-26 07:45:47 -0000
 last_modified_at: 2008-05-26 07:45:47 -0000
 publish: true

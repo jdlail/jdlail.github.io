@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/06/did-you-catch-owle-dipity-and/
 title: Did you catch Owle, Dipity and Elph at Bonnaroo?
-description: None
 date: 2011-06-18 09:43:45 -0000
 last_modified_at: 2011-06-18 09:43:45 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Bonnaroo 2011](/assets_c/2011/06/bonnaroo_pano-thumb-485x168-646.webp)](/images/bonnaroo_pano.webp)
@@ -29,4 +28,3 @@ Photo by Jigsha Desai.
 * [2011 Bonnaroo Downloads and Streams](https://www.largeheartedboy.com/blog/archive/2011/06/2011_bonnaroo_d.html) (largeheartedboy.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=62beda38-3a53-4734-b0c3-0a13c3a06918)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

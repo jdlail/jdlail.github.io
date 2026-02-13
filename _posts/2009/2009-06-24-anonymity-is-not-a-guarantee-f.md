@@ -2,14 +2,13 @@
 layout: post
 permalink: /2009/06/anonymity-is-not-a-guarantee-f/
 title: Anonymity is not a guarantee for online commenters
-description: None
 date: 2009-06-24 13:47:10 -0000
 last_modified_at: 2009-06-24 13:47:10 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
   
@@ -26,5 +25,3 @@ The newspaper fought a far-reaching information request, but is not fighting a r
   
 The ACLU, who contends its clients feel threatened by the government subpoenas received by the newspaper, is also trying to get the judge [thrown off the case](https://www.lvrj.com/news/48846167.html).  
   
- 
-

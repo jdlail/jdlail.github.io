@@ -2,7 +2,7 @@
 layout: post
 permalink: /2005/02/more-on-newspap/
 title: More on newspapers buying Web companies
-description: None
+description: "More on newspapers buying Web companies"
 date: 2005-02-22 11:35:14 -0000
 last_modified_at: 2005-02-22 11:35:14 -0000
 publish: true

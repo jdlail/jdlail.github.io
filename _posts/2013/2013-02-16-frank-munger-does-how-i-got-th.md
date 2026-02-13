@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/02/frank-munger-does-how-i-got-th/
 title: Frank Munger does 'How I Got That Story'
-description: None
 date: 2013-02-16 19:59:00 -0000
 last_modified_at: 2013-02-16 19:59:00 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/07/east-tennessee-tesla-owners-line-up-for-photo-shoot/
 title: East Tennessee Tesla owners line up for photo shoot
-description: None
 date: 2021-07-31 16:02:53 -0000
 last_modified_at: 2021-07-31 16:02:54 -0000
 publish: true

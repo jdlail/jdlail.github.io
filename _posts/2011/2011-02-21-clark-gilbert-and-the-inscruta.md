@@ -2,14 +2,13 @@
 layout: post
 permalink: /2011/02/clark-gilbert-and-the-inscruta/
 title: Clark Gilbert and the 'Inscrutable Dilemma'
-description: None
 date: 2011-02-21 20:16:00 -0000
 last_modified_at: 2011-02-21 20:16:00 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![Clark Gilbert](/images/clarkgilbert.webp)](/images/clarkgilbert.webp)Clark Gilbert, speaking to newspaper industry executives earlier today at the [Multimedia Key Executives Conference](https://www.newsandtech.com/dateline/article_ce26ecd6-3dfa-11e0-831d-001cc4c002e0.html) said:  

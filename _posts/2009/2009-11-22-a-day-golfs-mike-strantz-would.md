@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/11/a-day-golfs-mike-strantz-would/
 title: A day golf's Mike Strantz would have enjoyed
-description: None
 date: 2009-11-22 08:42:35 -0000
 last_modified_at: 2009-11-22 08:42:35 -0000
 publish: true

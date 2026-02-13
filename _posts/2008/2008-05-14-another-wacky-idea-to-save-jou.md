@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/another-wacky-idea-to-save-jou/
 title: Another wacky idea to save journalism
-description: None
 date: 2008-05-14 06:44:35 -0000
 last_modified_at: 2008-05-14 06:44:35 -0000
 publish: true

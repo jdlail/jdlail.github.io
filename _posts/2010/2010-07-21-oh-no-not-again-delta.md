@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/07/oh-no-not-again-delta/
 title: Oh, no, not again Delta
-description: None
 date: 2010-07-21 11:19:19 -0000
 last_modified_at: 2010-07-21 11:19:19 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/02/the-inventor-of-the-camera-pho/
 title: The inventor of the camera phone may surprise you
-description: None
 date: 2012-02-04 12:10:28 -0000
 last_modified_at: 2012-02-04 12:10:28 -0000
 publish: true

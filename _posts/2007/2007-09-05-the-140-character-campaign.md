@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/the-140-character-campaign/
 title: The 140 character campaign
-description: None
 date: 2007-09-05 21:51:56 -0000
 last_modified_at: 2007-09-05 21:51:56 -0000
 publish: true

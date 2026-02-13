@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/the-deadly-seven/
 title: The deadly seven ...
-description: None
 date: 2008-04-28 21:26:25 -0000
 last_modified_at: 2008-04-28 21:26:25 -0000
 publish: true

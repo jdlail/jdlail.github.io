@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/10/if-you-cant-measure-audience-m/
 title: If you can't measure audience, measure results
-description: None
 date: 2007-10-22 06:43:53 -0000
 last_modified_at: 2007-10-22 06:43:53 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 On the widely varying results of Web audience measurement:  

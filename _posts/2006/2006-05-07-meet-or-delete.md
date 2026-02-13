@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/05/meet-or-delete/
 title: Meet or delete ... my hard drive
-description: None
 date: 2006-05-07 11:39:12 -0000
 last_modified_at: 2006-05-07 11:39:12 -0000
 publish: true

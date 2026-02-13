@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/and-i-didnt-eve/
 title: And I didn't even study
-description: None
 date: 2007-05-06 20:22:23 -0000
 last_modified_at: 2007-05-06 20:22:23 -0000
 publish: true

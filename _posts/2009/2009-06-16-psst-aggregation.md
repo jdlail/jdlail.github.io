@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/06/psst-aggregation/
 title: Psst! .... Aggregation
-description: None
 date: 2009-06-16 16:23:27 -0000
 last_modified_at: 2009-06-16 16:23:27 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 It's great to see the Miami Herald launch a local blog aggregator, [South Florida Blogs](https://blognetnews.com/MiamiHerald/), with journalist-turned-entrepreneur Dave Mastio. There's some explanation of what they're up on the [Knight Digital Media Center Web site](https://www.knightdigitalmediacenter.org/leadership_blog/comments/miami_herald_new_blog_channel_brings_order_fosters_connections_in_the_local/).  
@@ -34,4 +33,3 @@ And what I really think is neat is an advanced feature, [Feed Central](https://b
 Again, isn't it time to bring in the other voices? If you interested, drop Mastio a line at editor @ blognetnews.com. Tell him, Jack sent you.  
   
 **[Get this widget!](https://www.springwidgets.com/widgetize/23/?param=http%3A%2F%2Fblognetwork.knoxnews.com%2Fsearch.php%3Fmedia%3Drss%26rss_query%3Djournalism%26rss_query_match%3Dand%26rss_order%3Ddate%26widget%3Dspringwidget&param_style_borderColor=000000&param_style_brandUrl=https://www.blognetnews.com/static/springwidget_kx.gif&width=250&height=300&wiid=0&partner_id=0)**
-

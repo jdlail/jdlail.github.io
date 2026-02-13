@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/images-of-controversy/
 title: Images of controversy
-description: None
 date: 2008-07-26 11:24:19 -0000
 last_modified_at: 2008-07-26 11:24:19 -0000
 publish: true

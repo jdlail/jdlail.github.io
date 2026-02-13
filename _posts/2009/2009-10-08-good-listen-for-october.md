@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/10/good-listen-for-october/
 title: Good listen for October
-description: None
 date: 2009-10-08 10:12:40 -0000
 last_modified_at: 2009-10-08 10:12:40 -0000
 publish: true

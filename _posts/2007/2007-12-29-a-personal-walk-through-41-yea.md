@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/a-personal-walk-through-41-yea/
 title: A personal walk through 41 years of newspapering
-description: None
 date: 2007-12-29 16:05:58 -0000
 last_modified_at: 2007-12-29 16:05:58 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/09/biggest-news-stories-in-each-o/
 title: Biggest news stories in each of the last eight years
-description: None
 date: 2010-09-27 07:53:21 -0000
 last_modified_at: 2010-09-27 07:53:21 -0000
 publish: true

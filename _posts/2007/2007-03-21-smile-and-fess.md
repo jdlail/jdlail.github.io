@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/smile-and-fess/
 title: Smile and fess up
-description: None
 date: 2007-03-21 18:07:45 -0000
 last_modified_at: 2007-03-21 18:07:45 -0000
 publish: true

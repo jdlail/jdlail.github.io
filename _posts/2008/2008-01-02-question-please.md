@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/question-please/
 title: Question, please
-description: None
 date: 2008-01-02 15:17:10 -0000
 last_modified_at: 2008-01-02 15:17:10 -0000
 publish: true

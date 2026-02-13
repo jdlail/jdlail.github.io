@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/conversation-worth-noting/
 title: Conversation worth noting
-description: None
 date: 2008-02-18 21:04:01 -0000
 last_modified_at: 2008-02-18 21:04:01 -0000
 publish: true

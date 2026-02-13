@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/brand-me-update/
 title: Brand Me update
-description: None
 date: 2007-05-09 22:29:08 -0000
 last_modified_at: 2007-05-09 22:29:08 -0000
 publish: true

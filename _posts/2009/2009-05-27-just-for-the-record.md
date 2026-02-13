@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/just-for-the-record/
 title: Just for the record
-description: None
 date: 2009-05-27 21:24:57 -0000
 last_modified_at: 2024-12-19 14:44:21 -0000
 publish: true

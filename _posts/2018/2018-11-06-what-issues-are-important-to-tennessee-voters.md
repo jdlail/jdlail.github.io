@@ -2,7 +2,6 @@
 layout: post
 permalink: /2018/11/what-issues-are-important-to-tennessee-voters/
 title: What issues are important to Tennessee voters
-description: None
 date: 2018-11-06 21:41:39 -0000
 last_modified_at: 2019-01-13 16:53:42 -0000
 publish: true

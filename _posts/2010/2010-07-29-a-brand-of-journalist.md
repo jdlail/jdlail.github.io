@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/07/a-brand-of-journalist/
 title: A brand of journalist
-description: None
 date: 2010-07-29 08:19:37 -0000
 last_modified_at: 2010-07-29 08:19:37 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Below are a few links I pulled together for a pizza lunch (and I wonder why so many accepted the calendar invite) at the News Sentinel today on "Brand Me" for journalists.  
@@ -54,4 +53,3 @@ _Where do you weigh in on "Brand Me" for journalists? Are there additional links
 [Octavia Nasr Resigns from CNN Following Controversial Tweet](https://mashable.com/2010/07/08/octavia-nasr-cnn/)  
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=2aef8745-9dcc-4906-b70f-1f2f4f1138cc)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

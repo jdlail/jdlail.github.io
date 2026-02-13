@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/12/facebookgate-unraveled-by-a-co/
 title: '''Facebookgate'' unraveled by a couple college recruiters'
-description: None
 date: 2008-12-22 06:26:26 -0000
 last_modified_at: 2008-12-22 06:26:26 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Facebook's incredible growth is proving irresistible for some unsavory marketing.  
@@ -36,5 +35,3 @@ Smith also posted some updated mind-boggling stats from Facebook:
 * 15 million pieces of content (web links, news stories, blog posts, notes, photos, etc.) are shared each month
 * 2 million events created each month
 * 19 million active groups exist on the site
-
-

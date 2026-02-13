@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/this-is-a-major-step/
 title: Knox County campaign contributions are to get a lot clearer
-description: None
 date: 2009-09-17 15:08:29 -0000
 last_modified_at: 2009-09-17 15:08:29 -0000
 publish: true

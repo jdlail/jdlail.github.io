@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/08/instapundit/
 title: 10 Years of Instapundit
-description: None
 date: 2011-08-11 20:24:01 -0000
 last_modified_at: 2011-08-11 20:24:01 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -33,4 +32,3 @@ Congratulations on passing a milestone worth noting and what will he be saying o
 * [OKAY, I HAD AN INSTAPUNDIT INTERN ONCE - it was Kevin Deenihan of the late, lamented CalStuff blog ...](https://pajamasmedia.com/instapundit/123201/) (pajamasmedia.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=0f5b9457-8d83-4568-b2cb-b1ad7ff921c1)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

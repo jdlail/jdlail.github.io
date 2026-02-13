@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/ru4real-is-the-question/
 title: RU4Real is the question
-description: None
 date: 2008-04-14 04:53:52 -0000
 last_modified_at: 2008-04-14 04:53:52 -0000
 publish: true

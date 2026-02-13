@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/04/tesla-supercharger-slated-for-pigeon-forge/
 title: Tesla Supercharger opens in Pigeon Forge
-description: None
 date: 2021-04-26 00:45:47 -0000
 last_modified_at: 2021-07-31 16:04:32 -0000
 publish: true

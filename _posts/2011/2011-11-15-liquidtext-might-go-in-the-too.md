@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/11/liquidtext-might-go-in-the-too/
 title: LiquidText might go in the toolbox
-description: None
 date: 2011-11-15 22:36:00 -0000
 last_modified_at: 2011-11-15 22:36:00 -0000
 publish: true

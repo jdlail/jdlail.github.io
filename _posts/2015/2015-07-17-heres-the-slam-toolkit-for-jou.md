@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/07/heres-the-slam-toolkit-for-jou/
 title: Here's the SLAM ToolKit for journalists
-description: None
 date: 2015-07-17 14:00:00 -0000
 last_modified_at: 2015-07-17 14:00:00 -0000
 publish: true

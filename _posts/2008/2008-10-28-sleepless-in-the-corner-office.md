@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/sleepless-in-the-corner-office/
 title: Sleepless in the corner office
-description: None
 date: 2008-10-28 10:45:58 -0000
 last_modified_at: 2008-10-28 10:45:58 -0000
 publish: true

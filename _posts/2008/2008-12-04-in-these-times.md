@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/in-these-times/
 title: In these times
-description: None
 date: 2008-12-04 06:25:20 -0000
 last_modified_at: 2008-12-04 06:25:20 -0000
 publish: true

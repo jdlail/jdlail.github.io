@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/05/todays-to-do-save-the-world/
 title: 'Today''s to do: Save the World'
-description: None
 date: 2008-05-13 06:57:59 -0000
 last_modified_at: 2008-05-13 06:57:59 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 My [Carnival of Journalism](https://www.carnivalofjournalism.com/) pal [Charlie Beckett](https://www.charliebeckett.org/) has a new book, "SuperMedia: Saving Journalism So It Can Save The World" (published by Blackwell books on May 20th). I haven't read it, but it hones in on a powerful idea for journalism, what Beckett is calling "network journalism."  
@@ -26,4 +25,3 @@ You can read hefty chunks from SuperMedia [here](https://cyber.law.harvard.edu/n
   
 More info is [here](https://www.blackwellpublishing.com/book.asp?ref=978140517923).  
   
-

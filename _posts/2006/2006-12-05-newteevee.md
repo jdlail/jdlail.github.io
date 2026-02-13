@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/newteevee/
 title: NewTeeVee
-description: None
 date: 2006-12-05 21:18:26 -0000
 last_modified_at: 2006-12-05 21:18:26 -0000
 publish: true

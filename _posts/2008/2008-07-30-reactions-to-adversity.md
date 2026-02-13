@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/reactions-to-adversity/
 title: Reactions to adversity
-description: None
 date: 2008-07-30 10:27:33 -0000
 last_modified_at: 2008-07-30 10:27:33 -0000
 publish: true

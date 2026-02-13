@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/08/get-deal-on-apmes-social-media/
 title: Get a great deal on APME's Social Media Day
-description: None
 date: 2012-08-31 00:40:38 -0000
 last_modified_at: 2012-08-31 00:40:38 -0000
 publish: true

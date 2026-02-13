@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/twitter-for-journalists/
 title: Twitter for journalists
-description: None
 date: 2008-01-18 06:18:17 -0000
 last_modified_at: 2008-01-18 06:18:17 -0000
 publish: true

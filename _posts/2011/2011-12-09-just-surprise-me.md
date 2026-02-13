@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/12/just-surprise-me/
 title: Just surprise me
-description: None
 date: 2011-12-09 11:50:59 -0000
 last_modified_at: 2011-12-09 11:50:59 -0000
 publish: true

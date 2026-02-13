@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/05/innovating-without-even-knowin/
 title: Innovating without even knowing it
-description: None
 date: 2010-05-13 16:55:19 -0000
 last_modified_at: 2010-05-13 16:55:19 -0000
 publish: true

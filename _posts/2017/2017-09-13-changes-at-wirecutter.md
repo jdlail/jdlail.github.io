@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/09/changes-at-wirecutter/
 title: Changes at Wirecutter
-description: None
 date: 2017-09-13 23:35:11 -0000
 last_modified_at: 2017-09-13 23:35:11 -0000
 publish: true

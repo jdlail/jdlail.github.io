@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/newspaper-twitter-stats-for-ap/
 title: Newspaper Twitter stats for April
-description: None
 date: 2008-05-03 07:29:11 -0000
 last_modified_at: 2008-05-03 07:29:11 -0000
 publish: true

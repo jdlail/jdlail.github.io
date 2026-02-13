@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/12/is-convergence-dead/
 title: Is convergence dead?
-description: None
 date: 2007-12-07 07:38:46 -0000
 last_modified_at: 2007-12-07 07:38:46 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Convergence, as in media convergence,  is one of those buzzwords that's actually hung around longer as a working concept than many in the media industry. Remember [synergy](https://en.wikipedia.org/wiki/Synergy). Rarely spoken as a business buzzword these days even if it still sound good in theory..  

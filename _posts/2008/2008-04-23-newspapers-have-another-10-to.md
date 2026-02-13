@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/04/newspapers-have-another-10-to/
 title: Newspapers have another 10 to 20, new Lail poll says
-description: None
 date: 2008-04-23 21:34:25 -0000
 last_modified_at: 2008-04-23 21:34:25 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![Pie Chart](/images/newspapersprint-thumb-170x154.webp)](/images/newspapersprint.webp)Nearly half the 75 people who took the Lail poll asking "Newspapers will print on paper for ..." (years) said it is most likely newspapers will be printing on paper for another 10-to-20 years.  
@@ -34,7 +33,7 @@ I think newspapers will be printing for as long as there is a market for the pro
   
 Newspapers that allow users to define/customize the items/sections they want to read and deliver electronic and/or print versions will survive. Those who stick to the one-size-fits all, historical model will die from the waste of resources and lack of ingenuity.  
   
-It really depends on what you mean by "newspaper." Will the daily newspaper product we see now print for this long? No. It will become more and more of a niche product over time, with lower and lower circulation to a more dedicated, discriminating clientele. Meanwhile, I think we will see and are already seeing a net increase in other niche publications, some of which are created by newspapers and many of which are not. The actual number of copies will not be as important as the number of readers/subscribers, and the number of niches served. Basically, the stratification we've seen in the blogosphere and with user generated content in general will move into print, mobile devices and -- who knows -- chips in our brains? Distribution still matters, and print is a great vehicle for it. It just needs to be more unique to the individual. - Dan Pacheco, www.futureforecast.com  
+It really depends on what you mean by "newspaper." Will the daily newspaper product we see now print for this long? No. It will become more and more of a niche product over time, with lower and lower circulation to a more dedicated, discriminating clientele. Meanwhile, I think we will see and are already seeing a net increase in other niche publications, some of which are created by newspapers and many of which are not. The actual number of copies will not be as important as the number of readers/subscribers, and the number of niches served. Basically, the stratification we've seen in the blogosphere and with user generated content in general will move into print, mobile devices and -- who knows -- chips in our brains? Distribution still matters, and print is a great vehicle for it. It just needs to be more unique to the individual. - Dan Pacheco, <www.futureforecast.com>  
   
 It depends upon when the ink, paper and delivery cost more than it is worth. Printing and delivering to a small no. of subscribers would be a huge expense. The question becomes: When will the subscriber base shrink to that level?  
   
@@ -86,5 +85,3 @@ mb
   
 They just won't look like what we are used to reading today.  
 _  
-
-

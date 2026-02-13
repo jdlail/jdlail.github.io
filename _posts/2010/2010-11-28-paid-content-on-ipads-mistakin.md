@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/11/paid-content-on-ipads-mistakin/
 title: 'Paid content on iPads: Mistaking a rerun for a ''do over'''
-description: None
 date: 2010-11-28 11:10:24 -0000
 last_modified_at: 2010-11-28 11:10:24 -0000
 publish: true

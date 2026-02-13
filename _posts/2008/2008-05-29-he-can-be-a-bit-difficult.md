@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/he-can-be-a-bit-difficult/
 title: He can be a bit difficult
-description: None
 date: 2008-05-29 00:30:40 -0000
 last_modified_at: 2008-05-29 00:30:40 -0000
 publish: true

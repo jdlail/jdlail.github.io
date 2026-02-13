@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/who-sucks-worst-newspapers-or/
 title: 'Who sucks worse: Newspapers or TV Stations?'
-description: None
 date: 2008-02-12 22:05:41 -0000
 last_modified_at: 2008-02-12 22:05:41 -0000
 publish: true

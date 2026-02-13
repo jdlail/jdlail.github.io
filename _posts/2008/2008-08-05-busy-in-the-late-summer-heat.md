@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/busy-in-the-late-summer-heat/
 title: Busy in the late summer heat
-description: None
 date: 2008-08-05 06:45:44 -0000
 last_modified_at: 2008-08-05 06:45:44 -0000
 publish: true

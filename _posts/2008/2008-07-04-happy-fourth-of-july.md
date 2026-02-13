@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/happy-fourth-of-july/
 title: Happy Fourth of July!
-description: None
 date: 2008-07-04 10:56:27 -0000
 last_modified_at: 2008-07-04 10:56:27 -0000
 publish: true

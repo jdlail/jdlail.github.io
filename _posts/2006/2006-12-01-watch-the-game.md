@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/watch-the-game/
 title: Watch the game film and learn ....
-description: None
 date: 2006-12-01 20:26:51 -0000
 last_modified_at: 2006-12-01 20:26:51 -0000
 publish: true

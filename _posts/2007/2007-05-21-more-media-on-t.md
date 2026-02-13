@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/more-media-on-t/
 title: More media on the Channon Christian-Chris Newsom murders
-description: None
 date: 2007-05-21 23:18:41 -0000
 last_modified_at: 2007-05-21 23:18:41 -0000
 publish: true

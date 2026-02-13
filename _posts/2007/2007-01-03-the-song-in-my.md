@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/the-song-in-my/
 title: The Song in My Head Today
-description: None
 date: 2007-01-03 08:39:00 -0000
 last_modified_at: 2007-01-03 08:39:00 -0000
 publish: true

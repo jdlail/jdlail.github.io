@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/just-like-the-a/
 title: Just like the Astronaut Farmer
-description: None
 date: 2007-07-28 12:11:49 -0000
 last_modified_at: 2007-07-28 12:11:49 -0000
 publish: true

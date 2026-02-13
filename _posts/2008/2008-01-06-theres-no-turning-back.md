@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/theres-no-turning-back/
 title: There's no turning back
-description: None
 date: 2008-01-06 15:58:14 -0000
 last_modified_at: 2008-01-06 15:58:14 -0000
 publish: true

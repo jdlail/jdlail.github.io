@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/03/in-washington-a-half-effort-on/
 title: In Washington, a half-effort on open government will get you an award
-description: None
 date: 2011-03-17 17:23:33 -0000
 last_modified_at: 2011-03-17 17:23:33 -0000
 publish: true

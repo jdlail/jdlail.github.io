@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/08/just-do-it-bett/
 title: Just do it better
-description: None
 date: 2006-08-12 10:23:29 -0000
 last_modified_at: 2006-08-12 10:23:29 -0000
 publish: true

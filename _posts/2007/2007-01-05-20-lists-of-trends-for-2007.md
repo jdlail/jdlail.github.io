@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/20-lists-of-trends-for-2007/
 title: 20 lists of trends for 2007
-description: None
 date: 2007-01-05 00:25:57 -0000
 last_modified_at: 2007-01-05 00:25:57 -0000
 publish: true

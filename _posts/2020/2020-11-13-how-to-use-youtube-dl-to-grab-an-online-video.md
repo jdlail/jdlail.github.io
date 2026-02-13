@@ -2,22 +2,24 @@
 layout: post
 permalink: /2020/11/how-to-use-youtube-dl-to-grab-an-online-video/
 title: How to use (yt-dlp) youtube-dl to grab an online video
-description: None
+description: 'yt-dlp is a popular tool for downloading videos from most of the common sites.'
 date: 2020-11-13 18:16:22 -0000
 last_modified_at: 2022-09-21 16:44:58 -0000
 publish: true
 pin: false
 image:
   path: /assets/wp-content/uploads/2020/11/youtube-dl-featured-image.webp
-  alt: youtube-dl
+  alt: yt-dlp can download videos from popular sites
 categories:
 - Video
 tags:
 - Training
 ---
-**_Updated: Youtube-dl has not been updated in months, try using the actively maintained[yt-dlp](https://github.com/yt-dlp/yt-dlp). _**
+
+**_Updated: Youtube-dl has not been updated in months, try using the actively maintained [yt-dlp](https://github.com/yt-dlp/yt-dlp)._**
 
 {% include youtube.html id="LPGr0XArk6s" %}
+
 Are you journalist that needs to snag a copy of a video for reporting, for use "on air" or for use in a digital video piece?
 
 [Youtube-dl](https://youtube-dl.org/) ~~is~~ was (use [yt-dlp](https://github.com/yt-dlp/yt-dlp)) a popular tool for downloading videos from most of the common sites [that has been around for a long time](https://rg3.name/202011071352.html). Despite its name, it works not only with YouTube, but with Twitter, Facebook, and a host of other services. It is regularly updated to keep up with changes made by social media and video platforms.
@@ -36,7 +38,7 @@ It has been noted that it is a [popular tool of journalists](https://freedom.pre
 
 Here's how to use youtube-dl on a Chromebook to download a single video.
 
-Install it from the Linux command line. (Instructions at [youtube-dl.org download page.](https://yt-dl.org/download.html))
+Install it from the Linux command line. (Instructions at [youtube-dl.org download page.=](https://yt-dl.org/download.html),)
 
 Here is the most command I used:
   
@@ -82,6 +84,7 @@ I hope that helps you get started with this powerful and fast tool.
 Here's a take on the RIAA action:
 
 {% include youtube.html id="ck7utXYcZng" %}
+
 Please respect the rights of content creators and only use youtube-dl for legal purposes.
 
 Resources:
@@ -89,4 +92,3 @@ Resources:
 [yt-dlp on Github](https://github.com/yt-dlp/yt-dlp)
 
 [Youtube-dl form on Reddit (mostly talks about yt-dlp)](https://www.reddit.com/r/youtubedl/)
-

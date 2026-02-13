@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/from-serial-killers-to-race-an/
 title: From serial killers to race and IQ
-description: None
 date: 2007-12-17 07:09:01 -0000
 last_modified_at: 2007-12-17 07:09:01 -0000
 publish: true

@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/03/i-missed-the-running-twitter/
 title: A Saturday conversation on comments
-description: None
 date: 2010-03-21 08:27:04 -0000
 last_modified_at: 2010-03-21 08:27:04 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Media
+tags: [Comments]
 ---
 ![Comment Troll](/images/troll-thumb1.webp)I missed the running Twitter debate between [Mathew Ingram](https://www.mathewingram.com/work/about/ "Mathew Ingram") and [Howard Owens](https://twitter.com/howardowens "Howard Owens") on anonymous comments on Saturday; the weather in Knoxville was just too nice to stay indoors and on a computer.  
   
@@ -39,7 +38,7 @@ Here's the most ones I've tagged  (if there are others that should be on this l
 * [Local view: Let's raise our standards on anonymous postings | Duluth News Tribune | Duluth, Minnesota](https://www.duluthnewstribune.com/event/article/id/152129/group/Opinion/)
 * [Online Comments: Civic Engagement At Its Bestâ€"Or Worst? : Features : Metro Pulse](https://www.metropulse.com/news/2009/nov/04/online-comments-civic-engagement-its-bestor-worst/)
 * [Nieman Reports | Ethical Values and Quality Control in the Digital Era](https://www.nieman.harvard.edu/reportsitem.aspx?id=100699)
-* [  Updating comments on running stories by andydickinson.net](https://www.andydickinson.net/2009/10/22/do-we-need-a-related-comments-approach-to-running-stories/)
+* [Updating comments on running stories by andydickinson.net](https://www.andydickinson.net/2009/10/22/do-we-need-a-related-comments-approach-to-running-stories/)
 * [Reporters: How to respond to comments | patrickbeeson.com](https://patrickbeeson.com/blog/2009/oct/02/reporters-how-respond-comments-newspaper-web-site/)
 * [Newspapers get the kind of communities they deserve » Nieman Journalism Lab](https://www.niemanlab.org/2009/09/newspapers-get-the-kind-of-communities-they-deserve/)
 * [Chicago Tribune Mary Schmich column: Online commentary rules change is overdue](https://dailyme.com/story/2009101600001146/chicago-tribune-mary-schmich-column-online.html)
@@ -69,6 +68,3 @@ Here's the most ones I've tagged  (if there are others that should be on this l
 * [Editors explore issues surrounding Community Conversation; 'We want to reinforce importance of engaging people in a dialogue,' says Carroll(March 15, 2007)](https://www.gannett.com/go/newswatch/2007/march/nw0315-3.htm)
 * [Legal Watch: Letter-to-the-editor libel verdict highlights legal distinction for online comments (May 10, 2007)](https://www.gannett.com/go/newswatch/2007/may/nw0510-2.htm)
 * [Poynter Online - Dialogue or Diatribe?](https://www.poynter.org/column.asp?id=103)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=c7dcbd5a-d903-4a61-a79e-6924a6fea7e5)](https://reblog.zemanta.com/zemified/c7dcbd5a-d903-4a61-a79e-6924a6fea7e5/ "Reblog this post \[with Zemanta\]")
-

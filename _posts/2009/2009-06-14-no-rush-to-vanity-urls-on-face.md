@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/06/no-rush-to-vanity-urls-on-face/
 title: No rush to vanity URLs on Facebook, only 3 million so far
-description: None
 date: 2009-06-14 19:46:28 -0000
 last_modified_at: 2009-06-14 19:46:28 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Tony Hung of [Dive Jive Interests](https://www.deepjiveinterests.com/2009/06/14/on-the-so-called-gold-rush-for-facebook-vanity-urls/) points to a Bloomberg piece that says about 3 million "vanity URLs" were grabbed over the weekend, some 500,000 in the first 15 minutes (that would be me).  
@@ -22,4 +21,3 @@ Good point. I saw that social media evangelist [Chris Brogan](https://twitter.co
   
 Does any of this matter even if your name has some "brand equity?"  
   
-

@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/09/taking-the-shades-off-for-a-su/
 title: Taking the shades off for a Sunshine suit
-description: None
 date: 2007-09-08 17:16:29 -0000
 last_modified_at: 2007-09-08 17:16:29 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 The News Sentinel's decision to recruit some bloggers to help cover its Sunshine suit against the County Commissioners is drawing some react.  
@@ -28,8 +27,7 @@ Editor Jack McElroy [outlines the plan in his Sunday column](https://blogs.knoxn
 And northwest Tennessee journalist and blogger Trace Sharp ([Newscoma](https://www.newscoma.com/)), posting on [Music City Bloggers](https://www.musiccitybloggers.com/2007/09/08/breaking-news-on-tennessee-blogging/), may have captured it: "Campers, this is HUGE."  
   
 The three bloggers that stepped up to give this a try ([Dave Oatney](https://oatneyworld.blogspot.com/), [Rich Hailey](https://www.shotsacrossthebow.com/weblog/) and [Russ McBee](https://russmcbee.com/default.aspx)) are independent as hell, politically diverse from one another and can cogently put their thoughts to blog.  
-   
+
 As one of the bloggers, Russ McBee wrote on this [blog](https://russmcbee.com/archive/2007/08/30/watching-the-watchers.aspx), "Stay tuned. This will be interesting."  
   
 Yes, indeed.  
- 

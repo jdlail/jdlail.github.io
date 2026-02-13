@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/getting-a-fair-trial-amidst-a-blogosphere-feeding-frenzy/
 title: Getting a fair trial amidst a blogosphere feeding frenzy
-description: None
 date: 2007-11-16 21:07:46 -0000
 last_modified_at: 2007-11-16 21:07:46 -0000
 publish: true

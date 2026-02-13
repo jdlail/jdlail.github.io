@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/02/remembering-cha/
 title: Remembering Charles Scripps
-description: None
 date: 2007-02-13 20:14:29 -0000
 last_modified_at: 2007-02-13 20:14:29 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/08/still-wondering-about-this-twi/
 title: A Twitter success tale that doesn't involve a get rich quick pitch
-description: None
 date: 2009-08-05 13:38:20 -0000
 last_modified_at: 2009-08-05 13:38:20 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![forbesschaefer.jpg](/assets_c/2009/08/forbesschaefer-thumb-485x274-493.webp)](/images/forbesschaefer.webp)Still wondering about this [Twitter thing](https://twitter.com/).  
@@ -20,5 +19,3 @@ Schaefer developed a professional relationship through Twitter than led to him b
 He tells the story in a [blog post](https://schaefersolutions.blogspot.com/2009/08/formula-for-social-media-business.html). (My own first contact with Schaefer was on Twitter.) No matter how smart or talented he is,it's unlikely he would have developed such a national profile without Twitter.  
   
 Now, that can't be bad for business. Might there just be something to this social media stuff beside Facebook quizzes and "get hundreds of followers" pitches?  
-
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/on-free-from-dilbert-to-radioh/
 title: On free, from Dilbert to Radiohead
-description: None
 date: 2007-11-02 13:51:40 -0000
 last_modified_at: 2007-11-02 13:51:40 -0000
 publish: true

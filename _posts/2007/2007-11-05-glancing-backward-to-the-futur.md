@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/glancing-backward-to-the-futur/
 title: Glancing backward to the future
-description: None
 date: 2007-11-05 07:07:04 -0000
 last_modified_at: 2007-11-05 07:07:04 -0000
 publish: true

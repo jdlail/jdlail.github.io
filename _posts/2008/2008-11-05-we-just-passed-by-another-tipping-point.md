@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/we-just-passed-by-another-tipping-point/
 title: We just passed by another tipping point
-description: None
 date: 2008-11-05 21:02:02 -0000
 last_modified_at: 2008-11-05 21:02:02 -0000
 publish: true

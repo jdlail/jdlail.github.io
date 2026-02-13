@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/05/first-mcgill-medal-awarded/
 title: First McGill Medal awarded
-description: None
 date: 2009-05-22 15:43:10 -0000
 last_modified_at: 2009-05-22 15:43:10 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/elizabeth-spiers-secret-sauce/
 title: Elizabeth Spiers' secret sauce
-description: None
 date: 2008-02-24 00:56:42 -0000
 last_modified_at: 2008-02-24 00:56:42 -0000
 publish: true

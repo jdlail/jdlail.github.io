@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/free-beer-in-knoxville/
 title: Free Beer -- In Knoxville!
-description: None
 date: 2008-03-26 07:56:21 -0000
 last_modified_at: 2008-03-26 07:56:21 -0000
 publish: true

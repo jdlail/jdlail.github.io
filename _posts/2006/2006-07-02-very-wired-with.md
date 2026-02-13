@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/07/very-wired-with/
 title: Very wired with moxie
-description: None
 date: 2006-07-02 11:42:27 -0000
 last_modified_at: 2006-07-02 11:42:27 -0000
 publish: true

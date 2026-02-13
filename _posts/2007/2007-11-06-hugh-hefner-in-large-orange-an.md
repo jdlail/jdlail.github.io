@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/hugh-hefner-in-large-orange-an/
 title: Hugh Hefner in large orange and a cap
-description: None
 date: 2007-11-06 22:30:08 -0000
 last_modified_at: 2007-11-06 22:30:08 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/scrolls-were-be/
 title: Scrolls WERE better
-description: None
 date: 2007-05-05 18:01:02 -0000
 last_modified_at: 2007-05-05 18:01:02 -0000
 publish: true

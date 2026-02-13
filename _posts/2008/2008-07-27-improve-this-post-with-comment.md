@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/improve-this-post-with-comment/
 title: Improve this post with comments
-description: None
 date: 2008-07-27 22:59:11 -0000
 last_modified_at: 2008-07-27 22:59:11 -0000
 publish: true

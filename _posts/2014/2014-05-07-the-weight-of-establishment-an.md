@@ -2,7 +2,6 @@
 layout: post
 permalink: /2014/05/the-weight-of-establishment-an/
 title: The weight of establishment and tradition
-description: None
 date: 2014-05-07 08:28:44 -0000
 last_modified_at: 2014-05-07 08:28:44 -0000
 publish: true

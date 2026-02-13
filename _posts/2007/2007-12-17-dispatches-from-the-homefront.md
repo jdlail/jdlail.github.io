@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/dispatches-from-the-homefront/
 title: Dispatches from the homefront battle
-description: None
 date: 2007-12-17 07:39:29 -0000
 last_modified_at: 2007-12-17 07:39:29 -0000
 publish: true

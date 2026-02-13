@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/08/updated-site/
 title: Updated site
-description: None
 date: 2017-08-06 14:59:31 -0000
 last_modified_at: 2017-08-06 15:41:00 -0000
 publish: true

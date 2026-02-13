@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/02/king-of-online/
 title: 'King of online video: Newspapers, huh?'
-description: None
 date: 2007-02-12 21:24:42 -0000
 last_modified_at: 2007-02-12 21:24:42 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 - Video
 tags: []
 ---

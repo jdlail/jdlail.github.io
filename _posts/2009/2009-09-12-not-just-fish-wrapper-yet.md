@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/not-just-fish-wrapper-yet/
 title: Not just fish wrapper yet
-description: None
 date: 2009-09-12 12:34:28 -0000
 last_modified_at: 2009-09-12 12:34:28 -0000
 publish: true

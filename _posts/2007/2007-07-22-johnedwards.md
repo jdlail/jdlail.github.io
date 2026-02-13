@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/johnedwards/
 title: '@johnedwards'
-description: None
 date: 2007-07-22 20:31:20 -0000
 last_modified_at: 2007-07-22 20:31:20 -0000
 publish: true

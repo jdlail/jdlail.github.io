@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/riddle-me-this/
 title: Riddle me this Batman
-description: None
 date: 2007-05-21 12:34:40 -0000
 last_modified_at: 2007-05-21 12:34:40 -0000
 publish: true

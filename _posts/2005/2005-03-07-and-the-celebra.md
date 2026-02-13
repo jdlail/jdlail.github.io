@@ -2,7 +2,7 @@
 layout: post
 permalink: /2005/03/and-the-celebra/
 title: And the celebrating continues
-description: None
+description: The Lady Vols beat No. 1-ranked LSU to win their first SEC title in five years.
 date: 2005-03-07 01:48:15 -0000
 last_modified_at: 2005-03-07 01:48:15 -0000
 publish: true

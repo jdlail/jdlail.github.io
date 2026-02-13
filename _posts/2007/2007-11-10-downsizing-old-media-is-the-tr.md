@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/11/downsizing-old-media-is-the-tr/
 title: Downsizing Old Media is the troop supply train for "An Army of Davids"
-description: None
 date: 2007-11-10 14:55:54 -0000
 last_modified_at: 2007-11-10 14:55:54 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Terri Bennett](/images/blog/1110terribennett.webp)](https://www.terribennett.com/)Terri Bennett, a former chief meteorologist at a Charlotte, N.C., TV station is among the latest recruits in the "Army of Davids," according to New Media consultant [Terry Heaton](https://www.thepomoblog.com/archive/the-unintended-consequence-of-downsizing/).  

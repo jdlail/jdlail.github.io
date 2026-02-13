@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/11/two-knoxville-blogs-are-on-a-n/
 title: Two Knoxville blogs are on a news "Top 100" list
-description: None
 date: 2007-11-23 06:47:28 -0000
 last_modified_at: 2007-11-23 06:47:28 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 If you could only 100 blogs, which 100 should you read to be most on top of the news? Two Knoxville area blogs make the list: [Instapundit.com](https://www.instapundit.com/) at No. 1 and [SayUncle.com](https://www.sayuncle.com/) at No. 91 in a Carnegie Mellon research effort called the [CASCADES project](https://www.blogcascades.org/).  

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/three-little-ea/
 title: Three little Easter gifts for newspapers execs
-description: None
 date: 2007-04-05 21:21:40 -0000
 last_modified_at: 2007-04-05 21:21:40 -0000
 publish: true

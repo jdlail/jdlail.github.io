@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/09/tom-tomorrow-on-newspapers/
 title: Tom Tomorrow on newspapers
-description: None
 date: 2011-09-19 18:16:06 -0000
 last_modified_at: 2011-09-19 18:16:06 -0000
 publish: true

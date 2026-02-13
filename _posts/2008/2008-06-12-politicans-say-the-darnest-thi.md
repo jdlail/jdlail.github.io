@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/politicans-say-the-darnest-thi/
 title: Politicans say the darnest things
-description: None
 date: 2008-06-12 23:51:22 -0000
 last_modified_at: 2008-06-12 23:51:22 -0000
 publish: true

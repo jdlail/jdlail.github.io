@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/some-of-that-om-magic/
 title: Some of that Om Magic
-description: None
 date: 2007-09-24 10:16:37 -0000
 last_modified_at: 2007-09-24 10:16:37 -0000
 publish: true

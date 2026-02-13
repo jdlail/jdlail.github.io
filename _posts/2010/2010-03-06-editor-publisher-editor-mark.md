@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/03/editor-publisher-editor-mark/
 title: Letter from the epicenter
-description: None
 date: 2010-03-06 11:39:16 -0000
 last_modified_at: 2010-03-06 11:39:16 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Media
+tags: [Newspapers]
 ---
 [Editor & Publisher](https://www.editorandpublisher.com/eandp/index.jsp "Editor & Publisher") Editor Mark Fitzgerald [notes](https://www.editorandpublisher.com/eandp/search/article_display.jsp?vnu_content_id=1004071080) that with the departure of Rusty Coats from E.W. Scripps and the newspaper industry, "that's two Internet thinkers gone from the business in this young year. E&P's current Editor of the Year departed Gazette Communications in Cedar Rapids, Iowa for a digital startup in D.C."  
   
@@ -32,6 +31,3 @@ Among the start-ups, some of the innovation is ironically being nurtured from fo
 It will be interesting to see where these pioneers cut new trails. Best of luck to them. All us journalists need it.  
   
 (Update: Welcome [Instapundit](https://www.instapundit.com/) readers! If you like this blog, [consider subscribing](https://feeds.jacklail.com/RandomMumblings).)  
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=d8aaf614-5512-4e92-ba8a-a22d6b15c04f)](https://reblog.zemanta.com/zemified/d8aaf614-5512-4e92-ba8a-a22d6b15c04f/ "Reblog this post \[with Zemanta\]")
-

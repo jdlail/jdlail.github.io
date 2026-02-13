@@ -107,6 +107,13 @@ category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
 # -----------------------------
+# To allow inclusion of a specific file starting with an underscore
+# Include
+# -----------------------------
+include:
+  - _redirects
+
+# -----------------------------
 # Jekyll Settings
 # -----------------------------
 markdown: kramdown

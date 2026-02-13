@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/lessons-from-a/
 title: Lessons from a press baron of another era
-description: None
 date: 2006-12-07 22:11:10 -0000
 last_modified_at: 2006-12-07 22:11:10 -0000
 publish: true

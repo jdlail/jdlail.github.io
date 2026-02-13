@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/05/cultural-change-for-journalist/
 title: Cultural Change for journalists and newsrooms
-description: None
 date: 2011-05-30 11:01:00 -0000
 last_modified_at: 2011-05-30 11:01:00 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -27,4 +26,3 @@ Related articles
 * [#bbcsms - Editorial Issues](https://www.onemanandhisblog.com/archives/2011/05/bbcsms_-_editorial_issues.html) (onemanandhisblog.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=32498876-f3f1-4f34-8fb6-4790c84bdff3)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

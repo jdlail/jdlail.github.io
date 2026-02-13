@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/could-ida-tarbell-bust-standar/
 title: Could Ida Tarbell bust Standard Oil on Twitter?
-description: None
 date: 2009-03-25 23:30:19 -0000
 last_modified_at: 2009-03-25 23:30:19 -0000
 publish: true

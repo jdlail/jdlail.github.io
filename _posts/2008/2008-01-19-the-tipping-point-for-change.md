@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/the-tipping-point-for-change/
 title: The tipping point for change
-description: None
 date: 2008-01-19 11:20:11 -0000
 last_modified_at: 2008-01-19 11:20:11 -0000
 publish: true

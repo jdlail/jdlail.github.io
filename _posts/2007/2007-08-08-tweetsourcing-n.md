@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/tweetsourcing-n/
 title: Tweetsourcing news
-description: None
 date: 2007-08-08 17:48:19 -0000
 last_modified_at: 2007-08-08 17:48:19 -0000
 publish: true

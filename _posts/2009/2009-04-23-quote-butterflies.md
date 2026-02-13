@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/quote-butterflies/
 title: 'Quote: Butterflies'
-description: None
 date: 2009-04-23 10:39:20 -0000
 last_modified_at: 2009-04-23 10:39:20 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/on-cats-and-newsrooms/
 title: On cats and newsrooms
-description: None
 date: 2007-08-25 18:49:16 -0000
 last_modified_at: 2007-08-25 18:49:16 -0000
 publish: true

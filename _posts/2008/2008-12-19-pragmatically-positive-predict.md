@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/pragmatically-positive-predict/
 title: Pragmatically positive predictions for 2009
-description: None
 date: 2008-12-19 00:15:00 -0000
 last_modified_at: 2008-12-19 00:15:00 -0000
 publish: true

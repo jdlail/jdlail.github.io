@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/06/google-reader-replacements-r-u/
 title: Google Reader Replacements R Us
-description: None
 date: 2013-06-24 10:06:51 -0000
 last_modified_at: 2013-06-24 10:06:51 -0000
 publish: true

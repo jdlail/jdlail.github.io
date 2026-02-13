@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/12/pay-em-what-theyre-worth/
 title: Pay 'em what they're worth?
-description: None
 date: 2007-12-31 11:17:36 -0000
 last_modified_at: 2007-12-31 11:17:36 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Continuing a theme from a [Sunday post](/2007/12/your-writings-pretty-good-hows.html), here's some more views on how journalists might be compensated in a digital world where every click is a metric:  

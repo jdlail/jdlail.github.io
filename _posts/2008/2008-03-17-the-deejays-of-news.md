@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/03/the-deejays-of-news/
 title: The deejays of news
-description: None
 date: 2008-03-17 12:01:53 -0000
 last_modified_at: 2008-03-17 12:01:53 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![H.L. Mencken](/images/Mencken-thumb-150x114.webp)](/images/Mencken.webp)A trio of posts over the weekend had me musing about the new roles journalists find themselves in, roles far beyond what journalist and essayist [H.L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken) (pictured at right) probably envisioned. Beyond reporting and writing, they are becoming community discussion leaders, the deejays of news.  
@@ -42,5 +41,3 @@ The "for reactions" part struck me a particularly poignant in that she is lookin
 Is your request line open to live calls? Is your playlist sharp and engaging? Do your news deejays have personality?  
   
 I like to think Mencken would have leapt at this opportunity. He certainly had the personality and voice.  
-
-

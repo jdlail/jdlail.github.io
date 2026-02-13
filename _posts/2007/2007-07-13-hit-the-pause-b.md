@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/hit-the-pause-b/
 title: Hit the pause button for a second
-description: None
 date: 2007-07-13 08:59:04 -0000
 last_modified_at: 2007-07-13 08:59:04 -0000
 publish: true

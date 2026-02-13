@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/up-for-3-edgies/
 title: Up for 3 Edgies!
-description: None
 date: 2007-12-18 16:35:45 -0000
 last_modified_at: 2007-12-18 16:35:45 -0000
 publish: true

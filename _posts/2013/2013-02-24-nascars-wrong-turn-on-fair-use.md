@@ -2,13 +2,12 @@
 layout: post
 permalink: /2013/02/nascars-wrong-turn-on-fair-use/
 title: NASCAR's wrong turn on Fair Use
-description: None
 date: 2013-02-24 11:29:46 -0000
 last_modified_at: 2013-02-24 11:29:46 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 NASCAR made perhaps one of the more novel copyright claims ever: Compassion.
@@ -60,4 +59,3 @@ For its part, YouTube told the Washington Post's [Erik Wemple](https://www.washi
 NASCAR should protect its financial assets, which include the broadcast of its events, but should not do so at the expense of news coverage or social media use. It should take a position that favors a broad interepretation of Fair Use.
 
 Staci D. Kramer had [several additional suggestions](https://sdkramer.com/tag/tyler-andersen/) for the racing sanctioning organization.
-

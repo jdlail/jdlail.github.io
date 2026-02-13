@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/09/easy-to-use-trumps-everything/
 title: Easy to use trumps everything
-description: None
 date: 2008-09-11 11:43:13 -0000
 last_modified_at: 2008-09-11 11:43:13 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 A report released yesterday by Stacy Lynch and Vivian Vahlberg of the Media Management Center at Northwestern University says that being "easy to use" beats better or more complete in becoming a user's favorite Web site.  
@@ -36,4 +35,3 @@ The three main bullet points from the study:
 
 [Download the study](https://www.mediamanagementcenter.org/research/webfavorite.pdf).  
   
-

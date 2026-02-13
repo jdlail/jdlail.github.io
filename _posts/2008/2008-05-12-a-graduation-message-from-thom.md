@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/a-graduation-message-from-thom/
 title: A graduation message from Thomas Wolfe (and James Moeser)
-description: None
 date: 2008-05-12 11:49:23 -0000
 last_modified_at: 2008-05-12 11:49:23 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/10/google-reader-v/
 title: Google Reader vs Bloglines
-description: None
 date: 2006-10-17 17:08:10 -0000
 last_modified_at: 2006-10-17 17:08:10 -0000
 publish: true

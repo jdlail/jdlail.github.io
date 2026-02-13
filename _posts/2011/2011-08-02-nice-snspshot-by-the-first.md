@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/08/nice-snspshot-by-the-first/
 title: These days there's always a camera near the spotlight
-description: None
 date: 2011-08-02 21:57:59 -0000
 last_modified_at: 2011-08-02 21:57:59 -0000
 publish: true

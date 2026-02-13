@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/02/knoxnews-gosmok/
 title: Knoxnews, GoSmokies win Edgies
-description: None
 date: 2006-02-20 12:37:14 -0000
 last_modified_at: 2006-02-20 12:37:14 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Two sites I spend my life on -- knoxnews and gosmokies -- won Edgies at the NAA Connections. That is great! Here's a [news release](https://www.naa.org/utilartpage.cfm?TID=NR&AID=7566).

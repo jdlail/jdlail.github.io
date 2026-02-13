@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/quotable-myths-about-entrepren/
 title: 'Quotable: Myths about entrepreneurs'
-description: None
 date: 2008-10-08 05:00:53 -0000
 last_modified_at: 2008-10-08 05:00:53 -0000
 publish: true

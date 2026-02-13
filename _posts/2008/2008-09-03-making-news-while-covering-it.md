@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/09/making-news-while-covering-it/
 title: Making news while covering it
-description: None
 date: 2008-09-03 07:45:04 -0000
 last_modified_at: 2008-09-03 07:45:04 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Glenn Reynolds](/assets_c/2008/09/mepjtv-thumb-150x100.webp)](/images/mepjtv.webp)Glenn Reynolds, a blogging pioneer, may be marking a new trail in the electronic wilderness, this time to Internet-only TV.  
@@ -23,5 +22,3 @@ He's doing commentary this week at the Republican National Convention for [Pajam
 At knoxnews, we're working with a company called [Wazoo Sports](https://www.wazoosports.com/) that is similarly potentially disruptive in high school preps coverage.  
   
 _(Photo is of Glenn Reynolds on the Pajamas TV set at the GOP convention. Photo from Instapundit.com)_  
-
-

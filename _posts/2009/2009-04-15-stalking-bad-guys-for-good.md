@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/stalking-bad-guys-for-good/
 title: Stalking bad guys for good
-description: None
 date: 2009-04-15 12:42:51 -0000
 last_modified_at: 2009-04-15 12:42:51 -0000
 publish: true

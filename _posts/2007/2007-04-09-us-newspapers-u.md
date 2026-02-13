@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/04/us-newspapers-u/
 title: U.S. newspapers using Twitter
-description: None
 date: 2007-04-09 05:52:05 -0000
 last_modified_at: 2007-04-09 05:52:05 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 I've discovered ~~five~~ six U.S. newspapers providing headlines on Twitter. They are (with links to their Twitter pages):  

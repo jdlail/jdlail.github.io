@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/04/an-essential-download-about-th/
 title: An essential download about the iPad and print news
-description: None
 date: 2011-04-03 11:05:13 -0000
 last_modified_at: 2011-04-03 11:05:13 -0000
 publish: true

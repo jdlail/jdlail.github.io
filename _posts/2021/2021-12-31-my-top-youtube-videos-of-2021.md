@@ -2,7 +2,7 @@
 layout: post
 permalink: /2021/12/my-top-youtube-videos-of-2021/
 title: My top YouTube videos of 2021
-description: None
+description: 'Here are my top YouTube videos based on views in 2021. The No. 1 video had more than four times the views of the next one.'
 date: 2021-12-31 19:51:33 -0000
 last_modified_at: 2021-12-31 19:51:35 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/a-newspaper-is-a-blog-that-lea/
 title: A newspaper is a blog that leaves ink on your hands
-description: None
 date: 2009-04-02 08:41:36 -0000
 last_modified_at: 2009-04-02 08:41:36 -0000
 publish: true

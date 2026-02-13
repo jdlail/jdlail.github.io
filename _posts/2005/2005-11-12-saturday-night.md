@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/11/saturday-night/
 title: Saturday Night House Party
-description: None
 date: 2005-11-12 21:51:40 -0000
 last_modified_at: 2005-11-12 21:51:40 -0000
 publish: true

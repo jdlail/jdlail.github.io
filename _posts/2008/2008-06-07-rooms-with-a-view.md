@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/rooms-with-a-view/
 title: Rooms with a view
-description: None
 date: 2008-06-07 08:37:05 -0000
 last_modified_at: 2023-04-28 14:42:40 -0000
 publish: true

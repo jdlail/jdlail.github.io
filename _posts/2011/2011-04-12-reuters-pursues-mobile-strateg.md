@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/04/reuters-pursues-mobile-strateg/
 title: Reuters pursues mobile strategies on multiple platforms in multiple countries
-description: None
 date: 2011-04-12 18:53:12 -0000
 last_modified_at: 2011-04-12 18:53:12 -0000
 publish: true

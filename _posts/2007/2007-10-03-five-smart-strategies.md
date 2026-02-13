@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/10/five-smart-strategies/
 title: Five smart strategies
-description: None
 date: 2007-10-03 07:35:14 -0000
 last_modified_at: 2007-10-03 07:35:14 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   

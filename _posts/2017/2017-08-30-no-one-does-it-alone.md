@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/08/no-one-does-it-alone/
 title: No one does it alone
-description: None
 date: 2017-08-31 00:24:20 -0000
 last_modified_at: 2017-08-31 00:24:20 -0000
 publish: true

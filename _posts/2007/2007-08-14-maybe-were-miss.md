@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/maybe-were-miss/
 title: Maybe we're missing the picture?
-description: None
 date: 2007-08-14 08:04:29 -0000
 last_modified_at: 2007-08-14 08:04:29 -0000
 publish: true

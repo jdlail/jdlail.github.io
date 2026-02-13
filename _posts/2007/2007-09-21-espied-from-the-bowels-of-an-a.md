@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/espied-from-the-bowels-of-an-a/
 title: Espied from the bowels of an anomaly
-description: None
 date: 2007-09-21 13:50:07 -0000
 last_modified_at: 2007-09-21 13:50:07 -0000
 publish: true

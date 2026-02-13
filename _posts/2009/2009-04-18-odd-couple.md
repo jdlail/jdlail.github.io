@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/odd-couple/
 title: Odd Couple?
-description: None
 date: 2009-04-18 21:29:11 -0000
 last_modified_at: 2009-04-18 21:29:11 -0000
 publish: true

@@ -2,16 +2,16 @@
 layout: post
 permalink: /2019/10/poynters-al-tompkins-coming-to-knoxville/
 title: Poynter's Al Tompkins coming to Knoxville
-description: None
+description: 'Al Tompkins, a senior Poynter faculty member, will be in Knoxville on Nov. 8 and 9.'
 date: 2019-10-29 10:44:53 -0000
 last_modified_at: 2020-10-16 18:07:46 -0000
 publish: true
 pin: false
 categories:
-- ETSPJ
+- Training
 tags:
 - Journalism
-- Training
+- ETSPKKJ
 - Journalists
 - Poynter
 ---

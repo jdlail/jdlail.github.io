@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/blog-it-test-1/
 title: Blog it test
-description: None
 date: 2008-12-23 09:50:18 -0000
 last_modified_at: 2008-12-23 09:50:18 -0000
 publish: true

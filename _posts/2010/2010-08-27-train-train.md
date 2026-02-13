@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/08/train-train/
 title: Train, train
-description: None
 date: 2010-08-27 14:40:54 -0000
 last_modified_at: 2010-08-27 14:40:54 -0000
 publish: true

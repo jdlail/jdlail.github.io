@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/02/surely-its-not-a-problem/
 title: Surely, it's not a problem
-description: None
 date: 2008-02-29 11:02:33 -0000
 last_modified_at: 2008-02-29 11:02:33 -0000
 publish: true

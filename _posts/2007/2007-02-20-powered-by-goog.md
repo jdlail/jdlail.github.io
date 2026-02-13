@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/02/powered-by-goog/
 title: Powered by Google
-description: None
 date: 2007-02-20 20:46:15 -0000
 last_modified_at: 2007-02-20 20:46:15 -0000
 publish: true

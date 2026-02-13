@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/04/did-you-notice-we-just-passed/
 title: Did you notice we just passed into the 'post-PC era'?
-description: None
 date: 2011-04-15 07:14:56 -0000
 last_modified_at: 2011-04-15 07:14:56 -0000
 publish: true

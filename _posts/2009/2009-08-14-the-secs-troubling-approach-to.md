@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/the-secs-troubling-approach-to/
 title: The SEC's troubling approach to news on the Internet
-description: None
 date: 2009-08-14 17:55:12 -0000
 last_modified_at: 2009-08-14 17:55:12 -0000
 publish: true

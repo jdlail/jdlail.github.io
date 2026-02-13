@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/peas-from-the-heart/
 title: Peas from the heart
-description: None
 date: 2007-12-22 09:39:37 -0000
 last_modified_at: 2007-12-22 09:39:37 -0000
 publish: true

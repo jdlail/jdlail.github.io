@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/remembering-the/
 title: Remembering the 1982 World's Fair
-description: None
 date: 2007-04-29 09:22:06 -0000
 last_modified_at: 2007-04-29 09:22:06 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/never-let-them-see-you-sweat/
 title: Never let them see you sweat
-description: None
 date: 2008-05-28 22:03:21 -0000
 last_modified_at: 2008-05-28 22:03:21 -0000
 publish: true

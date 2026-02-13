@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/running-to-hot-rize/
 title: Running to Hot Rize
-description: None
 date: 2007-08-19 23:39:23 -0000
 last_modified_at: 2007-08-19 23:39:23 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/12/internet-pundit-finds-being-op/
 title: Internet pundit finds being open with FCC trying
-description: None
 date: 2009-12-16 07:46:09 -0000
 last_modified_at: 2009-12-16 07:46:09 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 In prepared testimony, University of Tennessee law professor and blogger Glenn Reynolds argues that an open Internet has allowed for the creation of new journalism models that harken to the pamphleteers of the Founding Fathers' age.  
@@ -35,4 +34,3 @@ He draws a sharp distinction between the existence or the need for an open (lowe
   
 You can read his prepared testimony and his trying experience in testifying to the commission via the Internet [on his blog](https://pajamasmedia.com/instapundit/so-im-doing-an-fcc-panel-on-their-open-internet-proposals-and-my-take-is-that-im-for-it-in-princi/). The FCC might do well to consider using openly and inexpensive tools to gather its testimony. They seem to work!  
   
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/05/dangerous-ideas-for-pushing-th/
 title: Dangerous ideas for pushing the boundaries of journalism
-description: None
 date: 2012-05-02 21:19:47 -0000
 last_modified_at: 2012-05-02 21:19:47 -0000
 publish: true

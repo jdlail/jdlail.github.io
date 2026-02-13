@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/03/join-this-facebook-group/
 title: Join this Facebook group
-description: None
 date: 2008-03-13 14:20:21 -0000
 last_modified_at: 2008-03-13 14:20:21 -0000
 publish: true
 pin: false
 categories:
 - Music
-- Online Media
+- Media
 tags: []
 ---
 I wonder if my headline is direct enough?  
@@ -26,5 +25,3 @@ She describes it:
 >
 
 Anyway, join her group to keep up with this interesting project. If you're into mountain roots or even ruts, it's a must.  
-
-

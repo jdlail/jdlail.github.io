@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/06/not-everything-stays-in-vegas/
 title: Not everything stays in Vegas
-description: None
 date: 2010-06-19 13:37:34 -0000
 last_modified_at: 2010-06-19 13:37:34 -0000
 publish: true

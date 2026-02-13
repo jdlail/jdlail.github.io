@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/10/white-house-photo-access-contr/
 title: White House photo access controls public image
-description: None
 date: 2013-10-30 11:18:21 -0000
 last_modified_at: 2024-12-19 16:22:53 -0000
 publish: true

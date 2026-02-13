@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/soul-jogging/
 title: Soul jogging
-description: None
 date: 2007-08-26 15:31:47 -0000
 last_modified_at: 2007-08-26 15:31:47 -0000
 publish: true

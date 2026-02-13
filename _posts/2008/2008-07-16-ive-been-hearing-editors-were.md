@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/ive-been-hearing-editors-were/
 title: In the Age of Editors
-description: None
 date: 2008-07-16 08:53:45 -0000
 last_modified_at: 2008-07-16 08:53:45 -0000
 publish: true

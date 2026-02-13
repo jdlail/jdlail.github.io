@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/twitter-stream/
 title: Twitter stream
-description: None
 date: 2007-09-18 07:14:23 -0000
 last_modified_at: 2007-09-18 07:14:23 -0000
 publish: true

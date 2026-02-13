@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/just-send-them-this-way/
 title: Just send them this way
-description: None
 date: 2009-01-01 18:03:01 -0000
 last_modified_at: 2009-01-01 18:03:01 -0000
 publish: true

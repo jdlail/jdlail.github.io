@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/snapshot-of-your-freedoms/
 title: Snapshot of your freedoms
-description: None
 date: 2008-01-27 12:07:19 -0000
 last_modified_at: 2008-01-27 12:07:19 -0000
 publish: true

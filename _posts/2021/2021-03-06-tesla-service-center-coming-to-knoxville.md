@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/03/tesla-service-center-coming-to-knoxville/
 title: Tesla service center coming to Knoxville
-description: None
 date: 2021-03-06 15:37:23 -0000
 last_modified_at: 2021-07-31 16:04:32 -0000
 publish: true

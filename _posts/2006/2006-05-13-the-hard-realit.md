@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/05/the-hard-realit/
 title: The hard reality is ...
-description: None
 date: 2006-05-13 17:00:00 -0000
 last_modified_at: 2006-05-13 17:00:00 -0000
 publish: true

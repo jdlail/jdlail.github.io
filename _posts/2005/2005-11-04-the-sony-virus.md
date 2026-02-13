@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/11/the-sony-virus/
 title: The Sony Virus
-description: None
 date: 2005-11-04 05:43:47 -0000
 last_modified_at: 2005-11-04 05:43:47 -0000
 publish: true

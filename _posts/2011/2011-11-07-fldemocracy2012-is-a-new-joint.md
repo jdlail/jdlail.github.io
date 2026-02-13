@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/11/fldemocracy2012-is-a-new-joint/
 title: FLDemocracy2012 is a new joint TV-newspaper political site
-description: None
 date: 2011-11-07 13:22:12 -0000
 last_modified_at: 2011-11-07 13:22:12 -0000
 publish: true

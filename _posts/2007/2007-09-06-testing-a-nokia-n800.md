@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/testing-a-nokia-n800/
 title: Testing a Nokia n800
-description: None
 date: 2007-09-06 19:21:49 -0000
 last_modified_at: 2007-09-06 19:21:49 -0000
 publish: true

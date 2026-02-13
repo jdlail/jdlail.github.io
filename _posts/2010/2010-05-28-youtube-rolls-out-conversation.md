@@ -2,14 +2,13 @@
 layout: post
 permalink: /2010/05/youtube-rolls-out-conversation/
 title: YouTube rolls out conversation tool for all to use
-description: None
 date: 2010-05-28 05:27:00 -0000
 last_modified_at: 2010-05-28 05:27:00 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Media
+tags: [Comments]
 ---
   
 YouTube and Google on Thursday released to all users a tool called [Google Moderator](https://help.youtube.com/support/youtube/bin/answer.py?answer=179865) it had used in just a few high-profile events like a Q&A project with President Obama.  
@@ -41,6 +40,3 @@ Related articles by Zemanta
 * [Google Moderator Adds Greater Interactivity to YouTube Experience](https://www.marketingpilgrim.com/2010/05/google-moderator-adds-greater-interactivty-to-youtube-experience.html) (marketingpilgrim.com)
 * [YouTube adds Google Moderator](https://vator.tv/news/show/2010-05-27-youtube-adds-google-moderator) (vator.tv)
 * [YouTube Launches Platform for Crowdsourcing Suggestions](https://mashable.com/2010/05/27/youtube-google-moderator/) (mashable.com)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=2167cfc5-ee56-4e7e-b081-ed590733b72b)](https://reblog.zemanta.com/zemified/2167cfc5-ee56-4e7e-b081-ed590733b72b/ "Reblog this post \[with Zemanta\]")
-

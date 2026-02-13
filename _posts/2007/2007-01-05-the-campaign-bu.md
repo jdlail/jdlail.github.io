@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/the-campaign-bu/
 title: The campaign bus rolls into YouTube
-description: None
 date: 2007-01-05 13:21:35 -0000
 last_modified_at: 2007-01-05 13:21:35 -0000
 publish: true

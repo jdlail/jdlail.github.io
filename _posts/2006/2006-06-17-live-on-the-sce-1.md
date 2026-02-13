@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/06/live-on-the-sce-1/
 title: Live on the scene at Bonnaroo
-description: None
 date: 2006-06-17 15:04:00 -0000
 last_modified_at: 2006-06-17 15:04:00 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: [Bonnaroo, Photos, Music]
 ---
 Wow, we have some terrific Bonnaroo coverage with our KnoxNews team on the scene ...

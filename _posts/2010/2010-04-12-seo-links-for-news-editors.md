@@ -2,14 +2,14 @@
 layout: post
 permalink: /2010/04/seo-links-for-news-editors/
 title: SEO links for news editors
-description: None
 date: 2010-04-12 10:10:47 -0000
 last_modified_at: 2010-04-12 10:10:47 -0000
 publish: true
 pin: false
 categories:
-- Online Media
-tags: []
+- Media
+- Journalism
+tags: [SEO]
 ---
 [![Google Inc.](https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Google.png/300px-Google.png)](https://en.wikipedia.org/wiki/Image:Google.png)
 
@@ -49,6 +49,3 @@ Others may find these useful as well.
 * [Topic Pages: A Video Interview with Marshall Simmonds, NYT SEO/Topic Page Chief Strategist](https://blog.newscred.com/?p=250) (newscred.com)
 * [How Online Journalists Can Improve Their Website Design, Usability And SEO Skills](https://www.masternewmedia.org/how-online-journalists-can-improve-their-website-design-usability-and-seo-skills/) (masternewmedia.org)
 * [Top 10 Tips on SEO . Tips on Search Engine Optimization](https://best-tutorial.net/blogger-tips/top-10-tips-on-seo-tips-on-search-engine-optimization.html) (best-tutorial.net)
-
-[![Reblog this post \[with Zemanta\]](https://img.zemanta.com/reblog_c.png?x-id=dae7ab68-f9a5-41c3-87e2-6608ad31ef04)](https://reblog.zemanta.com/zemified/dae7ab68-f9a5-41c3-87e2-6608ad31ef04/ "Reblog this post \[with Zemanta\]")
-

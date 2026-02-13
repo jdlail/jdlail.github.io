@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/tell-it-in-2-minutes/
 title: Tell it in 2 minutes
-description: None
 date: 2007-12-11 21:59:00 -0000
 last_modified_at: 2007-12-11 21:59:00 -0000
 publish: true

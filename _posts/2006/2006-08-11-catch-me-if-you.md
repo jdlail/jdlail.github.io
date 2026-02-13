@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/08/catch-me-if-you/
 title: Catch me if you can
-description: None
 date: 2006-08-11 07:40:20 -0000
 last_modified_at: 2006-08-11 07:40:20 -0000
 publish: true

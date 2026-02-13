@@ -2,14 +2,13 @@
 layout: post
 permalink: /2009/03/the-magic-number-is-22/
 title: The magic number is 22
-description: None
 date: 2009-03-07 10:58:08 -0000
 last_modified_at: 2009-03-07 10:58:08 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 ![Drawing the new newsroom org chart](/images/orgchart.webp)[Ken Doctor](https://www.contentbridges.com/2009/03/onlineonly-pi-22skidoo.html) said earlier this week:  
@@ -27,4 +26,3 @@ By nearly every estimate, surviving the cataclysm of going from print+online to 
   
 (via [Katie Allison Granju](https://blogs.knoxnews.com/knx/granju/2009/03/still-a-lot-of-jobs-to-be-lost.html), Drawing from [Creating Passionate Users](https://headrush.typepad.com/creating_passionate_users/2006/09/success_should_.html))  
   
-

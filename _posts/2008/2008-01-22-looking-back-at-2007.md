@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/looking-back-at-2007/
 title: Looking back at 2007
-description: None
 date: 2008-01-22 07:31:46 -0000
 last_modified_at: 2008-01-22 07:31:46 -0000
 publish: true

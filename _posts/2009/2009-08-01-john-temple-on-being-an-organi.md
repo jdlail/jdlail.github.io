@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/john-temple-on-being-an-organi/
 title: John Temple on being an organizational man
-description: None
 date: 2009-08-01 10:29:30 -0000
 last_modified_at: 2009-08-01 10:29:30 -0000
 publish: true

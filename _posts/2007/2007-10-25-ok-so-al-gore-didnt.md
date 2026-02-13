@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/ok-so-al-gore-didnt/
 title: Al Gore will change your life
-description: None
 date: 2007-10-25 06:46:40 -0000
 last_modified_at: 2007-10-25 06:46:40 -0000
 publish: true

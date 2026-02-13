@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/07/patriotic-in-the-sense-of-citi/
 title: Patriotic ... in the sense of citizen protest
-description: None
 date: 2009-07-04 21:21:16 -0000
 last_modified_at: 2009-07-04 21:21:16 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/its-a-roller-coaster-out-there/
 title: It's a roller coaster out there
-description: None
 date: 2007-12-01 13:39:48 -0000
 last_modified_at: 2007-12-01 13:39:48 -0000
 publish: true

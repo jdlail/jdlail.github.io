@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/08/sunset-set-at-b/
 title: Sunset at Badin Lake
-description: None
 date: 2005-08-29 22:56:44 -0000
 last_modified_at: 2005-08-29 22:56:44 -0000
 publish: true

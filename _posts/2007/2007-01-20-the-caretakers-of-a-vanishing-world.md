@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/01/the-caretakers-of-a-vanishing-world/
 title: Caretakers of a vanishing world
-description: None
 date: 2007-01-20 12:09:22 -0000
 last_modified_at: 2007-01-20 12:09:22 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/05/i-walk-like-an-egyptian/
 title: I Walk Like An Egyptian
-description: None
 date: 2011-05-04 22:14:22 -0000
 last_modified_at: 2011-05-04 22:14:22 -0000
 publish: true

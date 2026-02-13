@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/stop-calling-everything-conte/
 title: Your job is journalism, not container cargo
-description: None
 date: 2007-08-19 01:20:04 -0000
 last_modified_at: 2007-08-19 01:20:04 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/a-rx-from-mark/
 title: A Rx from Mark Potts
-description: None
 date: 2006-11-19 10:32:11 -0000
 last_modified_at: 2006-11-19 10:32:11 -0000
 publish: true

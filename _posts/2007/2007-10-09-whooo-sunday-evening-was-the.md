@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/whooo-sunday-evening-was-the/
 title: About time
-description: None
 date: 2007-10-09 07:27:10 -0000
 last_modified_at: 2007-10-09 07:27:10 -0000
 publish: true

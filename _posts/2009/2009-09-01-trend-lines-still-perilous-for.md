@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/trend-lines-still-perilous-for/
 title: Trend lines still perilous for newspapers
-description: None
 date: 2009-09-01 13:33:18 -0000
 last_modified_at: 2009-09-01 13:33:18 -0000
 publish: true

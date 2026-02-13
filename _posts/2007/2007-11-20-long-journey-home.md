@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/long-journey-home/
 title: Long Journey Home
-description: None
 date: 2007-11-20 07:29:46 -0000
 last_modified_at: 2007-11-20 07:29:46 -0000
 publish: true

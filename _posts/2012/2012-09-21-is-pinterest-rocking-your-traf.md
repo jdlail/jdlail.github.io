@@ -2,13 +2,12 @@
 layout: post
 permalink: /2012/09/is-pinterest-rocking-your-traf/
 title: Is Pinterest rocking your traffic?
-description: None
 date: 2012-09-21 08:15:29 -0000
 last_modified_at: 2012-09-21 08:15:29 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![English: Logo for Home & Garden Television](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/215px-HGTV_Logo.svg.png)](https://commons.wikipedia.org/wiki/File:HGTV_Logo.svg)

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/11/marks-15th-birt/
 title: Mark's 15th birthday
-description: None
 date: 2005-11-12 23:53:48 -0000
 last_modified_at: 2005-11-12 23:53:48 -0000
 publish: true

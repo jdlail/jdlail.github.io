@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/quotable-yelvington/
 title: Quotable Yelvington
-description: None
 date: 2007-11-03 13:13:56 -0000
 last_modified_at: 2007-11-03 13:13:56 -0000
 publish: true

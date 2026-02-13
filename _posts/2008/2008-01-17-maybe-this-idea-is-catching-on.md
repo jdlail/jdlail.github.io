@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/maybe-this-idea-is-catching-on/
 title: Maybe this idea is catching on ...
-description: None
 date: 2008-01-17 09:34:11 -0000
 last_modified_at: 2008-01-17 09:34:11 -0000
 publish: true

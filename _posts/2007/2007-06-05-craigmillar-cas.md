@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/craigmillar-cas/
 title: Craigmillar Castle
-description: None
 date: 2007-06-05 23:51:42 -0000
 last_modified_at: 2007-06-05 23:51:42 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/03/make-the-mobile-migration/
 title: Make the 'Mobile Migration'
-description: None
 date: 2011-03-15 11:20:24 -0000
 last_modified_at: 2011-03-15 11:20:24 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 > _A new survey released with this year's report, produced with the Pew Internet & American Life Project, in association with the Knight Foundation, finds that nearly half of all Americans (47%) now get some form of local news on a mobile device._  
@@ -53,4 +52,3 @@ Using a push-broadcasting system for community reporting and engagement from the
 If you have questions, please let me know. Hope to see you in Nashville!  
   
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=823cfb00-6781-477e-9664-e25fde92bcfb)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

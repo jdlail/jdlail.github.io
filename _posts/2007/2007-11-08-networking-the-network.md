@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/networking-the-network/
 title: Networking the network
-description: None
 date: 2007-11-08 15:00:18 -0000
 last_modified_at: 2007-11-08 15:00:18 -0000
 publish: true

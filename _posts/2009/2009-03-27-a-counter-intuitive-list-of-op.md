@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/a-counter-intuitive-list-of-op/
 title: A counter-intuitive list of opportunities for newspapers
-description: None
 date: 2009-03-27 08:11:39 -0000
 last_modified_at: 2009-03-27 08:11:39 -0000
 publish: true

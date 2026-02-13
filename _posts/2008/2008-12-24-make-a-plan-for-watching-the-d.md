@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/12/make-a-plan-for-watching-the-d/
 title: Make a plan for "Watching the Detectives"
-description: None
 date: 2008-12-24 12:07:34 -0000
 last_modified_at: 2023-03-13 14:03:50 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 It's growing clear to me that on a major story, covering the coverage is not a nice to have, it's an essential. As Steve Outing noted in a recent [Twitter Twee](https://twitter.com/steveouting/status/1072675529)t, people in news events increasingly _"most won't alert news orgs anymore; they tell their 'friends' (via social networks). Up to news orgs to track "_  
@@ -25,4 +24,3 @@ We started adding links to our own content and developments to her [Twitter hash
   
 The results have enriched the News Sentinel's [coverage](https://www.knoxnews.com/news/business/tva-pond-breach-roane-county/). Do you have your "Watching the Detectives" plan in place?  
   
-

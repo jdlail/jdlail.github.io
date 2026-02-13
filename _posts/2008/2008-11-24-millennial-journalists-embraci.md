@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/millennial-journalists-embraci/
 title: Millennial journalists embracing social media as a news tool
-description: None
 date: 2008-11-24 08:54:28 -0000
 last_modified_at: 2008-11-24 08:54:28 -0000
 publish: true

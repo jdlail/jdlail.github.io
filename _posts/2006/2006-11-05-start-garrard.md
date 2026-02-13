@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/start-garrard/
 title: Start Garrard
-description: None
 date: 2006-11-05 23:37:26 -0000
 last_modified_at: 2006-11-05 23:37:26 -0000
 publish: true

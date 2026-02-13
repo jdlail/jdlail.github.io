@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/a-critical-election-issue/
 title: A critical election issue
-description: None
 date: 2008-04-30 04:00:38 -0000
 last_modified_at: 2008-04-30 04:00:38 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/08/no-cable-no-net/
 title: No cable, No Net, No fun
-description: None
 date: 2005-08-14 08:53:09 -0000
 last_modified_at: 2005-08-14 08:53:09 -0000
 publish: true

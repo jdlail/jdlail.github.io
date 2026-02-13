@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/watch-this-whacky-case-and-hop/
 title: Watch this whacky case and hope for federal legislation
-description: None
 date: 2009-04-13 16:16:32 -0000
 last_modified_at: 2009-04-13 16:16:32 -0000
 publish: true

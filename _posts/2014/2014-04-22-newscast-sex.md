@@ -2,7 +2,6 @@
 layout: post
 permalink: /2014/04/newscast-sex/
 title: Newscast bunnies get into some sexy business
-description: None
 date: 2014-04-22 11:44:08 -0000
 last_modified_at: 2023-04-28 13:36:11 -0000
 publish: true

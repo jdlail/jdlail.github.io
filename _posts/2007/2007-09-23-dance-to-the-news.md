@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/dance-to-the-news/
 title: Dance to the news
-description: None
 date: 2007-09-23 11:42:32 -0000
 last_modified_at: 2007-09-23 11:42:32 -0000
 publish: true

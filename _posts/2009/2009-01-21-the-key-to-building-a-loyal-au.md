@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/01/the-key-to-building-a-loyal-au/
 title: The key to building a loyal audience
-description: None
 date: 2009-01-21 07:27:39 -0000
 last_modified_at: 2009-01-21 07:27:39 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 - Quotable
 tags: []
 ---
@@ -21,4 +20,3 @@ Dave Winer [points](https://twitter.com/davewiner/status/1136025328) to a 2005 [
 
 Seems simple enough, but often forgotten. I heard "we don't want to send them off" just yesterday in a business presentation.  
   
-

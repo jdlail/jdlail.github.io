@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/dollars-and-sen/
 title: Dollars and sense
-description: None
 date: 2007-04-07 19:38:37 -0000
 last_modified_at: 2007-04-07 19:38:37 -0000
 publish: true

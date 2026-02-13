@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/paperwork/
 title: Paperwork
-description: None
 date: 2007-05-05 12:16:17 -0000
 last_modified_at: 2007-05-05 12:16:17 -0000
 publish: true

@@ -2,19 +2,18 @@
 layout: post
 permalink: /2009/11/ethics-in-journalisms-digital/
 title: Ethics in journalism's digital age
-description: None
 date: 2009-11-03 13:48:05 -0000
 last_modified_at: 2009-11-03 13:48:05 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 I'm talking to a group of faculty members at Hampton University this afternoon about journalism ethics in the digital world.. As part of preparing for that talk, I rounded up some journalism ethics links that I thought others might also enjoy. (Special hat tip to Steve Buttry and Bob Steele for their help.)  
 _  
-[You reporters] should have printed what he meant, not what he said. -- Earl Bush, press aide to Richard Daley ([more quotes here](https://www.cci.utk.edu/%7Emdharmon/quotes8.html)) _  
+[You reporters] should have printed what he meant, not what he said. -- Earl Bush, press aide to Richard Daley ([more quotes here](https://www.cci.utk.edu/%7Emdharmon/quotes8.html))_  
   
     * [Ethics of social media for journalists | Save the Media](https://savethemedia.com/2009/10/19/a-journalists-guide-to-the-ethics-of-social-media/)
     * [Society of Professional Journalists: Code of Ethics](https://www.spj.org/ethicscode.asp)
@@ -37,5 +36,3 @@ _
     * [The Daily Tar Heel's policies | dailytarheel.com](https://dailytarheel.com/about/policies)
     * [Knoxville News Sentinel Code of Conduct](https://docs.google.com/fileview?id=0BwLtt9KAddttOGFiMGIyYzEtYjI0Mi00ZDc1LTkyZTgtM2NjYzA4OGRjZDJm&hl=en)
     * [Kathy English's Longtail of News (when to unpublish)](/pdf/apme-longtail-report.pdf)
-
-

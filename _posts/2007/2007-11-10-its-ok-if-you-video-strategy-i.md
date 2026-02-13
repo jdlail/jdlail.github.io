@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/its-ok-if-you-video-strategy-i/
 title: It's OK if your video strategy is a little furry
-description: None
 date: 2007-11-10 09:58:20 -0000
 last_modified_at: 2007-11-10 09:58:20 -0000
 publish: true

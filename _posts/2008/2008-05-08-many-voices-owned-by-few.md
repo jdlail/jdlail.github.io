@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/many-voices-owned-by-few/
 title: Many voices owned by few
-description: None
 date: 2008-05-08 22:26:29 -0000
 last_modified_at: 2008-05-08 22:26:29 -0000
 publish: true

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/12/trust-me-if-it-happened-its-co/
 title: Trust me, if it happened, it's covered on Twitter
-description: None
 date: 2008-12-21 08:41:35 -0000
 last_modified_at: 2008-12-21 08:41:35 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 As I've noted [before](/cgi-bin/mt/mt-search.cgi?search=twitter&IncludeBlogs=25&limit=20), [Twitter](https://twitter.com/jacklail) is a unique communication service that just may be the best innovation in breaking news in the last couple of years. Here's [Loic Le Meur](https://www.loiclemeur.com/english/2008/12/follow-the-plan.html) on the Denver Continental plane fire last night.  
@@ -26,4 +25,3 @@ Here's passenger Mike Wilson's [Twitter page](https://twitter.com/2drinksbehind)
   
 **Update:** Welcome [Instapundit readers](https://pajamasmedia.com/instapundit/54262/)! Consider [subscribing](https://feeds.jacklail.com/RandomMumblings) to this blog.  
   
-

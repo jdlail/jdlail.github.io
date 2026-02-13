@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/07/tennessee-journalist-honored-w/
 title: Tennessee journalist honored with lifetime achievement award
-description: None
 date: 2009-07-20 13:47:11 -0000
 last_modified_at: 2009-07-20 13:47:11 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/its-more-than-just-red-states/
 title: It's more than just red states, blue states
-description: None
 date: 2008-11-08 10:15:33 -0000
 last_modified_at: 2008-11-08 10:15:33 -0000
 publish: true

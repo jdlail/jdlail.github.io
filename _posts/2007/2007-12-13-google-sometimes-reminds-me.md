@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/google-sometimes-reminds-me/
 title: Google sometimes reminds me ...
-description: None
 date: 2007-12-13 06:56:48 -0000
 last_modified_at: 2007-12-13 06:56:48 -0000
 publish: true

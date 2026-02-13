@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/quotable-high-fidelity-vs-avai/
 title: 'Quotable: High fidelity vs availability'
-description: None
 date: 2009-03-30 21:33:25 -0000
 last_modified_at: 2009-03-30 21:33:25 -0000
 publish: true

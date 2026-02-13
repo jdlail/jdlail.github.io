@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/do-ya-think-im/
 title: Do Ya Think I'm Sexy
-description: None
 date: 2007-04-07 16:29:50 -0000
 last_modified_at: 2007-04-07 16:29:50 -0000
 publish: true

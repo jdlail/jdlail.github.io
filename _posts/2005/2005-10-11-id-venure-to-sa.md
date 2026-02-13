@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/id-venure-to-sa/
 title: I'd venture to say ...
-description: None
 date: 2005-10-11 07:24:01 -0000
 last_modified_at: 2005-10-11 07:24:01 -0000
 publish: true

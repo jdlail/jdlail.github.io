@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/its-hot-out-her/
 title: It's hot out here
-description: None
 date: 2007-08-12 11:11:02 -0000
 last_modified_at: 2007-08-12 11:11:02 -0000
 publish: true

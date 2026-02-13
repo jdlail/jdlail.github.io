@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/done-in-by-reform/
 title: Done in by reform
-description: None
 date: 2008-07-13 07:28:01 -0000
 last_modified_at: 2008-07-13 07:28:01 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2016/09/not-too-late-to-join-apmeasne/
 title: Not too late to join APME/ASNE in Philly!
-description: None
 date: 2016-09-02 08:44:17 -0000
 last_modified_at: 2016-09-02 08:44:17 -0000
 publish: true

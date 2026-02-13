@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/quality-begats/
 title: Quality begats brand
-description: None
 date: 2007-08-06 14:39:20 -0000
 last_modified_at: 2007-08-06 14:39:20 -0000
 publish: true

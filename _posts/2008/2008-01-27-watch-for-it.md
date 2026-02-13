@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/watch-for-it/
 title: Watch for it
-description: None
 date: 2008-01-27 11:12:46 -0000
 last_modified_at: 2008-01-27 11:12:46 -0000
 publish: true

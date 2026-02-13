@@ -2,13 +2,12 @@
 layout: post
 permalink: /2014/03/bot-journalist-reported-califo/
 title: Bot journalist reported California quake first
-description: None
 date: 2014-03-17 22:51:53 -0000
 last_modified_at: 2014-03-17 22:51:53 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 > [Ken Schwencke](https://schwanksta.com/), a journalist and programmer for the _Los Angeles Times_ , was jolted awake at 6:25 a.m. on Monday by an earthquake. He rolled out of bed and went straight to his computer, where he found a brief story about the quake already written and waiting in the system. He glanced over the text and hit "publish." And that's how the _LAT_ became the first media outlet to report on this morning's temblor. "I think we had it up within three minutes," Schwencke told me.

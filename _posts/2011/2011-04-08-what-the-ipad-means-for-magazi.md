@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/04/what-the-ipad-means-for-magazi/
 title: What the iPad means for magazines
-description: None
 date: 2011-04-08 08:36:48 -0000
 last_modified_at: 2011-04-08 08:36:48 -0000
 publish: true

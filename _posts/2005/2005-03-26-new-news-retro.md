@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/03/new-news-retro/
 title: '''New News'' Retro'
-description: None
 date: 2005-03-26 10:31:45 -0000
 last_modified_at: 2005-03-26 10:31:45 -0000
 publish: true

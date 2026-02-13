@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/12/tennessee-newspaper-network-ta/
 title: Tennessee Newspaper Network takes another step in its growth
-description: None
 date: 2009-12-06 11:32:14 -0000
 last_modified_at: 2009-12-06 11:32:14 -0000
 publish: true

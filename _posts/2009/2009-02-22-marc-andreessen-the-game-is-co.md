@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/marc-andreessen-the-game-is-co/
 title: 'Marc Andreessen: "The game is completely over"'
-description: None
 date: 2009-02-22 12:18:53 -0000
 last_modified_at: 2009-02-22 12:18:53 -0000
 publish: true

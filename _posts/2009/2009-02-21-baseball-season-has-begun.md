@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/baseball-season-has-begun/
 title: Baseball season has begun
-description: None
 date: 2009-02-21 16:46:21 -0000
 last_modified_at: 2009-02-21 16:46:21 -0000
 publish: true

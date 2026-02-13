@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/09/the-return-of-cauthorn/
 title: The return of Cauthorn
-description: None
 date: 2007-09-20 10:18:09 -0000
 last_modified_at: 2007-09-20 10:18:09 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
   

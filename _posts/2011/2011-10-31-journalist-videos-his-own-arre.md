@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/10/journalist-videos-his-own-arre/
 title: Journalist videos his own arrest during Occupy protest
-description: None
 date: 2011-10-31 06:38:12 -0000
 last_modified_at: 2011-10-31 06:38:12 -0000
 publish: true

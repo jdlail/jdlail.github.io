@@ -2,16 +2,15 @@
 layout: post
 permalink: /2011/02/new-licensing-group-to-defend/
 title: New Licensing Group to defend virtue of copyright
-description: None
 date: 2011-02-03 20:49:58 -0000
 last_modified_at: 2011-02-03 20:49:58 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
-![Tom Curley](/images/tom-curleyjpg.webp)[AP](https://en.wikipedia.org/wiki/Associated_Press "Associated Press")'s board approved plans today plans for the News Licensing Group, a spin-off news licensing agency that will be something of an ASCAP for news.  
+![Tom Curley](/images/tom-curleyjpg.webp)[AP](https://en.wikipedia.org/wiki/Associated_Press "Associated Press's") board approved plans today plans for the News Licensing Group, a spin-off news licensing agency that will be something of an ASCAP for news.  
 
 > AP Chief Executive [Tom Curley](https://en.wikipedia.org/wiki/Tom_Curley "Tom Curley") said the creation of the News Licensing Group marks a new phase in which all that data will be used to package and sell products to other media outlets, from online news sites to app developers. Mr. Curley said participating publishers will determine what content to contribute and what to charge and the group will pay them royalties based on how frequently and where their content is used.  
 >
@@ -24,7 +23,7 @@ It's a bold, potential game-changer for content creators built upon the AP News 
   
 Watch this one.  
   
-###### Related articles
+## Related articles
 
 * [The AP's Digital News Licensing Agency Will Launch This Summer](https://paidcontent.org/article/419-the-aps-digital-news-licensing-agency-will-launch-this-summer/) (paidcontent.org)
 * [Curley: AP Plans Independent Copyright Clearinghouse](https://paidcontent.org/article/419-curley-ap-plans-independent-copyright-clearinghouse/) (paidcontent.org)
@@ -35,4 +34,3 @@ Watch this one.
 * [Associated Press Will Form News Licensing Entity for Mobile-Based Revenue](https://www.dailyfinance.com/story/associated-press-will-form-news-licensing-entity-for-mobile-base/19679175/?icid=zemanta) (dailyfinance.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=133387c1-3419-4210-9a08-4069961b1071)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

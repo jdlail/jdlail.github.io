@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/no-newspaper-is-doing-video-ri/
 title: No newspaper is doing video right
-description: None
 date: 2008-06-16 12:49:14 -0000
 last_modified_at: 2008-06-16 12:49:14 -0000
 publish: true

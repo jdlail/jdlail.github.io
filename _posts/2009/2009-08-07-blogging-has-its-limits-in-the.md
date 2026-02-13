@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/blogging-has-its-limits-in-the/
 title: Blogging has its limits in the SEC
-description: None
 date: 2009-08-07 18:02:58 -0000
 last_modified_at: 2009-08-07 18:02:58 -0000
 publish: true

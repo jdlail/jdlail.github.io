@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/the-mystery-of-the-couch-in-kn/
 title: The mystery of "the couch" in KnoxVegas
-description: None
 date: 2008-06-06 11:59:33 -0000
 last_modified_at: 2008-06-06 11:59:33 -0000
 publish: true

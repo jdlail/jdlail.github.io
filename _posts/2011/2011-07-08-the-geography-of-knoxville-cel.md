@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/07/the-geography-of-knoxville-cel/
 title: The geography of Knoxville cell phone calls
-description: None
 date: 2011-07-08 07:53:22 -0000
 last_modified_at: 2011-07-08 07:53:22 -0000
 publish: true

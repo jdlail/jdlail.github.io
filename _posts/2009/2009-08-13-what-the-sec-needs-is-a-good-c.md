@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/08/what-the-sec-needs-is-a-good-c/
 title: What the SEC needs is a good coach controversy
-description: None
 date: 2009-08-13 12:24:28 -0000
 last_modified_at: 2009-08-13 12:24:28 -0000
 publish: true

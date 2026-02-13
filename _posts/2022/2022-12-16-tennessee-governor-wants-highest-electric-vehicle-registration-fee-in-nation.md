@@ -2,7 +2,7 @@
 layout: post
 permalink: /2022/12/tennessee-governor-wants-highest-electric-vehicle-registration-fee-in-nation/
 title: Tennessee governor wants highest electric vehicle registration fee in nation
-description: None
+description: 'Tennessee will triple its electric vehicle registration fee in 2023 to the highest in the land.'
 date: 2022-12-16 22:00:06 -0000
 last_modified_at: 2023-03-07 15:20:52 -0000
 publish: true

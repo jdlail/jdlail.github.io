@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/02/at-the-summit-of-summitt-cover/
 title: At the summit of Summitt coverage
-description: None
 date: 2009-02-06 12:56:43 -0000
 last_modified_at: 2009-02-06 12:56:43 -0000
 publish: true

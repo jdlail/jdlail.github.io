@@ -2,16 +2,15 @@
 layout: post
 permalink: /2006/08/cash-out-time/
 title: Cash out time?
-description: None
 date: 2006-08-26 11:17:27 -0000
 last_modified_at: 2006-08-26 11:17:27 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
-Mindy McAdams' [blog](https://tojou.blogspot.com/2006/08/comparing-hearst-tribune-scripps.html) pointed me to this piece in [The Hollywood Reporter](https://www.hollywoodreporter.com/thr/columns/mermigas_display.jsp?vnu_content_id=1003020415). It's about how the "publishing scions," including my employer, E.W. Scripps ([SSP](https://finance.google.com/finance?q=ssp)), are transitioning -- or not transitioning -- their businesses. Tags: [Newspapers](https://technorati.com/tag/newspapers) | [New Media](https://technorati.com/tag/new media)
+Mindy McAdams' [blog](https://tojou.blogspot.com/2006/08/comparing-hearst-tribune-scripps.html) pointed me to this piece in [The Hollywood Reporter](https://www.hollywoodreporter.com/thr/columns/mermigas_display.jsp?vnu_content_id=1003020415). It's about how the "publishing scions," including my employer, E.W. Scripps ([SSP](https://finance.google.com/finance?q=ssp)), are transitioning -- or not transitioning -- their businesses. Tags: [Newspapers](https://technorati.com/tag/newspapers) | [New Media](<https://technorati.com/tag/new> media)
 
 > ... the striking contrast of ways in which these old-line media companies are being proactive and reactive to interactive opportunities is raising serious questions about whether management is capable of repositioning their valuable assets in a digital media world.
 

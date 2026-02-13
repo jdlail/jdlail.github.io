@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/thats-not-a-hole-in-your-pocke/
 title: That's not a hole in your pocket, it's a gas pump
-description: None
 date: 2008-05-21 06:58:40 -0000
 last_modified_at: 2008-05-21 06:58:40 -0000
 publish: true

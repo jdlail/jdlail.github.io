@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/zero-time-zone/
 title: Zero time zone
-description: None
 date: 2007-08-10 11:23:36 -0000
 last_modified_at: 2007-08-10 11:23:36 -0000
 publish: true

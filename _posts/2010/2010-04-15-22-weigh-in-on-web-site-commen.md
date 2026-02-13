@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/04/22-weigh-in-on-web-site-commen/
 title: 22 weigh in on Web site comments
-description: None
 date: 2010-04-15 21:15:00 -0000
 last_modified_at: 2010-04-15 21:15:00 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Maybe it started with a weekend Twitter discussion by [Howard Owens](https://www.thebatavian.com/ "Howard Owens") and [Mathew Ingram](https://www.mathewingram.com/work/about/ "Mathew Ingram") a few weeks ago, but however it began, there's a lively new debate ongoing about Web site comments, particularly on news sites, a topic we've [written about previously](/cgi-bin/mt/mt-search.cgi?search=tag%3Dcomments&IncludeBlogs=25&limit=20).  
@@ -43,4 +42,3 @@ Need to catch up? Here are my most recent Delicious links tagged "[comments](htt
 * [Ill. newspaper suspends Web comments - UPI.com](https://www.upi.com/Top_News/US/2010/01/03/Ill-newspaper-suspends-Web-comments/UPI-43231262556091/)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=dccf04ac-4b65-4350-a682-d6a2e5f37294)](https://www.zemanta.com/?px "Enhanced by Zemanta")
-

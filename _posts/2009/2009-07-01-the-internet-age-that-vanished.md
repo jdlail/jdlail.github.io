@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/07/the-internet-age-that-vanished/
 title: The Internet Age that vanished
-description: None
 date: 2009-07-01 10:15:23 -0000
 last_modified_at: 2009-07-01 10:15:23 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/11/clarifying-the-perfectly-clear/
 title: Clarifying the perfectly clear is to muddle
-description: None
 date: 2010-11-26 17:12:53 -0000
 last_modified_at: 2010-11-26 17:12:53 -0000
 publish: true

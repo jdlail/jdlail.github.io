@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/04/winners-named-in-tennessee-ap/
 title: Winners named in Tennessee AP broadcast, newspaper contest
-description: None
 date: 2017-04-09 10:15:40 -0000
 last_modified_at: 2017-04-09 10:15:40 -0000
 publish: true

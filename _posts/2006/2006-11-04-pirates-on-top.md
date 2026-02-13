@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/pirates-on-top/
 title: Pirates on top
-description: None
 date: 2006-11-04 00:19:21 -0000
 last_modified_at: 2006-11-04 00:19:21 -0000
 publish: true

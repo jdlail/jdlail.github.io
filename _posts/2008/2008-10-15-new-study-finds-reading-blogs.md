@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/10/new-study-finds-reading-blogs/
 title: New study finds reading blogs doesn't make journalists stupid
-description: None
 date: 2008-10-15 06:37:02 -0000
 last_modified_at: 2008-10-15 06:37:02 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 In fact, there's evidence, at least among journalists that blog, that journalists are getting story ideas and spotting trends from "that one."  
@@ -26,6 +25,3 @@ Another trend he spotted:
 >
 
 I don't think we're completely beyond the "bloggers vs journalists" debate based on my own anecdotal experience, but Bradshaw's charts do show significant positive movement. And the audience is moving even faster than journalists to accepting bloggers as reliable information sources or the new lodes of [social currency](/2008/10/the-currency-markets-of-news.html).  
-   
-  
-

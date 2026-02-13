@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/funding-journalism/
 title: Funding journalism
-description: None
 date: 2008-01-28 21:23:57 -0000
 last_modified_at: 2008-01-28 21:23:57 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/of-voters-and-rabbit-ears/
 title: Of voters and rabbit ears
-description: None
 date: 2008-05-20 21:40:49 -0000
 last_modified_at: 2008-05-20 21:40:49 -0000
 publish: true

@@ -3,7 +3,6 @@ layout: post
 permalink: /2009/07/recapping-the-open-government/
 title: Recapping the "open government" agenda in the Tennessee Legislature now that
   lawmakers are safely home
-description: None
 date: 2009-07-17 08:37:19 -0000
 last_modified_at: 2009-07-17 08:37:19 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/thanksgiving-tidings/
 title: Thanksgiving tidings
-description: None
 date: 2007-11-19 11:47:01 -0000
 last_modified_at: 2007-11-19 11:47:01 -0000
 publish: true

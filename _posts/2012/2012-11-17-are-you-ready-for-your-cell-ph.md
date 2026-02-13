@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/11/are-you-ready-for-your-cell-ph/
 title: Are you ready for your cell phone to explode?
-description: None
 date: 2012-11-17 22:12:37 -0000
 last_modified_at: 2012-11-17 22:12:37 -0000
 publish: true

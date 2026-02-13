@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/07/state-of-the-first-amendment-2/
 title: State of the First Amendment 2015
-description: None
 date: 2015-07-05 10:34:35 -0000
 last_modified_at: 2015-07-05 10:34:35 -0000
 publish: true

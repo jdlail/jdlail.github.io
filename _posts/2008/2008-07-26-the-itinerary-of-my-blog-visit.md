@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/the-itinerary-of-my-blog-visit/
 title: The itinerary of my blog visitors
-description: None
 date: 2008-07-26 13:17:02 -0000
 last_modified_at: 2023-04-28 14:42:16 -0000
 publish: true

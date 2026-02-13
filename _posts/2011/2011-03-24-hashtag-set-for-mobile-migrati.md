@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/03/hashtag-set-for-mobile-migrati/
 title: Hashtag set for Mobile Migration workshop
-description: None
 date: 2011-03-24 17:10:15 -0000
 last_modified_at: 2011-03-24 17:10:15 -0000
 publish: true

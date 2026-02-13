@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/05/tv-is-becoming/
 title: TV is becoming its own sitcom
-description: None
 date: 2006-05-18 07:37:27 -0000
 last_modified_at: 2006-05-18 07:37:27 -0000
 publish: true

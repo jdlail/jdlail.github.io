@@ -2,14 +2,13 @@
 layout: post
 permalink: /2007/11/size-matters/
 title: Size matters
-description: None
 date: 2007-11-08 05:33:46 -0000
 last_modified_at: 2007-11-08 05:33:46 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 ![David Linthicum photo](/images/1108sizematters.webp)The problem with newspapers' online [business model](https://blogs.knoxnews.com/knx/silence/archives/2007/11/new_vs_old_medi.shtml) might be size matters.  

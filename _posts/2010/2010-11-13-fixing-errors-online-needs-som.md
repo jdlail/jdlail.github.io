@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/11/fixing-errors-online-needs-som/
 title: Fixing errors online needs some correcting at news organizations
-description: None
 date: 2010-11-13 08:22:04 -0000
 last_modified_at: 2010-11-13 08:22:04 -0000
 publish: true

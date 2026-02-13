@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/make-a-blog-marketing-move/
 title: Make a blog marketing move
-description: None
 date: 2007-09-14 15:03:06 -0000
 last_modified_at: 2007-09-14 15:03:06 -0000
 publish: true

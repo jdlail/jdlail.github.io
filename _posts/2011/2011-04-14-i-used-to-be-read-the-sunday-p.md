@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/04/i-used-to-be-read-the-sunday-p/
 title: I used to be read the Sunday paper; then I got an iPad
-description: None
 date: 2011-04-14 14:46:31 -0000
 last_modified_at: 2011-04-14 14:46:31 -0000
 publish: true

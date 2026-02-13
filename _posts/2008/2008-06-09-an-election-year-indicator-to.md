@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/an-election-year-indicator-to/
 title: An election year indicator to watch
-description: None
 date: 2008-06-09 18:05:38 -0000
 last_modified_at: 2008-06-09 18:05:38 -0000
 publish: true

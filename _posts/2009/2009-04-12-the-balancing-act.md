@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/the-balancing-act/
 title: The balancing act
-description: None
 date: 2009-04-12 13:38:02 -0000
 last_modified_at: 2009-04-12 13:38:02 -0000
 publish: true

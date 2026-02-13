@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/09/an-interesting-1/
 title: An interesting survey
-description: None
 date: 2006-09-11 08:05:30 -0000
 last_modified_at: 2006-09-11 08:05:30 -0000
 publish: true

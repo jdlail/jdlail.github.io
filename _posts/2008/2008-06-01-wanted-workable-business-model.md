@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/wanted-workable-business-model/
 title: 'Wanted: Workable business model for newspaper classifieds; will negotiate'
-description: None
 date: 2008-06-01 18:46:11 -0000
 last_modified_at: 2008-06-01 18:46:11 -0000
 publish: true

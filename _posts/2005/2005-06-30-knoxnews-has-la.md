@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/06/knoxnews-has-la/
 title: Knoxnews has launched RSS feeds
-description: None
 date: 2005-06-30 07:04:06 -0000
 last_modified_at: 2005-06-30 07:04:06 -0000
 publish: true

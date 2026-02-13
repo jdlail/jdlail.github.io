@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/im-sure-i-backed-it-up-somewhe/
 title: I'm sure I backed it up somewhere
-description: None
 date: 2008-03-20 22:04:00 -0000
 last_modified_at: 2008-03-20 22:04:00 -0000
 publish: true

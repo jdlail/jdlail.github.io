@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/at-the-fork-in-the-road-take-b/
 title: At the fork in the road, take both
-description: None
 date: 2009-09-23 12:16:13 -0000
 last_modified_at: 2009-09-23 12:16:13 -0000
 publish: true

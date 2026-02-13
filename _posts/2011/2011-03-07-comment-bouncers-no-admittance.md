@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/03/comment-bouncers-no-admittance/
 title: 'Comment bouncers: No admittance without a Facebook ID'
-description: None
 date: 2011-03-07 09:06:52 -0000
 last_modified_at: 2011-03-07 09:06:52 -0000
 publish: true

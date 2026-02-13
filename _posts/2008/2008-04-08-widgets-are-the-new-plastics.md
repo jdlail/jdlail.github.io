@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/04/widgets-are-the-new-plastics/
 title: Widgets are the new plastics
-description: None
 date: 2008-04-08 18:03:49 -0000
 last_modified_at: 2023-04-28 14:43:43 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Today Greg Howelet at [Marketing Pligram](https://www.marketingpilgrim.com/2008/04/here-come-the-widgets.html) is pointing to this study result:
@@ -27,4 +26,3 @@ And [last month](https://www.unitedbit.com/?p=284):
 And there's a [Widget Expo](https://www.nyctechevents.com/event/724/widgetwebexpo-new-york-2008.html) in June. which "looks at one of the key emerging online trends: the widgetization of content for social networks."
 
 Like Mr. McGuire in _The Graduate_ : Just one word: "Widgets."
-

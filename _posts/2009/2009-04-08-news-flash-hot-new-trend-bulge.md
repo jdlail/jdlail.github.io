@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/04/news-flash-hot-new-trend-bulge/
 title: 'News Flash: Hot new trend bulges from relaxed fit aisle'
-description: None
 date: 2009-04-08 12:29:08 -0000
 last_modified_at: 2009-04-08 12:29:08 -0000
 publish: true

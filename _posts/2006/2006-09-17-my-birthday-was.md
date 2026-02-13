@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/09/my-birthday-was/
 title: My birthday was all wet
-description: None
 date: 2006-09-17 21:17:19 -0000
 last_modified_at: 2006-09-17 21:17:19 -0000
 publish: true

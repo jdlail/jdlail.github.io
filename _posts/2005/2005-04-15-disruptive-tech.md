@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/04/disruptive-tech/
 title: And the largest digital camera makers are....
-description: None
 date: 2005-04-15 13:16:43 -0000
 last_modified_at: 2005-04-15 13:16:43 -0000
 publish: true

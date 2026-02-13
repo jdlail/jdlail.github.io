@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/03/journalism-is-not-an-federal-e/
 title: Journalism is not a federal earmark
-description: None
 date: 2009-03-04 05:33:33 -0000
 last_modified_at: 2009-03-04 05:33:33 -0000
 publish: true

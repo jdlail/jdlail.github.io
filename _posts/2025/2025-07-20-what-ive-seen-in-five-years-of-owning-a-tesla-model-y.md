@@ -2,8 +2,7 @@
 layout: post
 permalink: /2025/07/what-ive-seen-in-five-years-of-owning-a-tesla-model-y/
 title: What I've seen in five years of owning a Tesla Model Y
-description: I was an early Model Y buyer. Here is my ownership experience at five
-  years with a Tesla Model Y Long Range.
+description: 'I was an early Model Y buyer. Here is my ownership experience at five years with a Tesla Model Y Long Range.'
 date: 2025-07-20 17:12:05 -0000
 last_modified_at: 2025-07-20 17:12:07 -0000
 publish: true
@@ -80,4 +79,3 @@ I'm not sure what it will take to make this a priority with Tesla (somehow forge
 With the FSD issues and his "it's coming in two weeks" that never happen, I'm over the richest man in the world. Unlike the fan boys -- and perhaps his own overly compliant board of directors -- I hold the view that Tesla is larger than Musk.
 
 Considering buying a Tesla? Use my referral code to get [three months of Full Self-Driving (Supervised)](https://ts.la/jack65708).
-

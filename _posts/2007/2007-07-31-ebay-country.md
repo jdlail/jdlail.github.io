@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/07/ebay-country/
 title: eBay country
-description: None
 date: 2007-07-31 18:41:08 -0000
 last_modified_at: 2007-07-31 18:41:08 -0000
 publish: true

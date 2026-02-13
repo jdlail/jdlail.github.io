@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/just-got-this-c/
 title: Just got this card
-description: None
 date: 2007-03-04 15:55:44 -0000
 last_modified_at: 2007-03-04 15:55:44 -0000
 publish: true

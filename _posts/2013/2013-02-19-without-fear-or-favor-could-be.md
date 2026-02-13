@@ -2,7 +2,7 @@
 layout: post
 permalink: /2013/02/without-fear-or-favor-could-be/
 title: '''Without fear or favor'' could be an exception in journalism''s history'
-description: None
+description: Some 117 years ago, Adolph Ochs, who began his career in Knoxville, published a set of principles for his newest newspaper in which he said it would "to give the news impartially, without fear or favor, regardless of party, sect, or interests involved."
 date: 2013-02-19 07:22:45 -0000
 last_modified_at: 2013-02-19 07:22:45 -0000
 publish: true
@@ -11,7 +11,9 @@ categories:
 - Newspapers
 tags: []
 ---
-[![2244_Cover_Adolph.jpg](/assets_c/2013/02/2244_Cover_Adolph-thumb-250x386-2476.webp)](/images/2244_Cover_Adolph.webp)Some 117 years ago, [Adolph Ochs](https://tennesseeencyclopedia.net/entry.php?rec=1014), who began his career in Knoxville before buying a newspaper in Chattanooga, [published a set of principles](https://www.nytimes.com/1996/08/19/opinion/without-fear-or-favor.html) for his newest newspaper in which he said it would "to give the news impartially, without fear or favor, regardless of party, sect, or interests involved."  
+[![2244_Cover_Adolph.jpg](/assets_c/2013/02/2244_Cover_Adolph-thumb-250x386-2476.webp)](/images/2244_Cover_Adolph.webp)
+
+Some 117 years ago, [Adolph Ochs](https://tennesseeencyclopedia.net/entry.php?rec=1014), who began his career in Knoxville before buying a newspaper in Chattanooga, [published a set of principles](https://www.nytimes.com/1996/08/19/opinion/without-fear-or-favor.html) for his newest newspaper in which he said it would "to give the news impartially, without fear or favor, regardless of party, sect, or interests involved."  
   
 Ochs, but 38 at the time, wrote that in _The New York Times_. It was a winning business model. "Without fear or favor" became a [journalism credo](https://www.poynter.org/uncategorized/22557/values-moment-leading-without-fear-or-favor/) that served journalism and the business of media well for over 100 years.  
   
@@ -25,4 +27,3 @@ Some suggest [transparency is the new objectivit](https://www.nytimes.com/2013/0
 
 _(A rare photo of Adolph Ochs, about the time he was beginning his career as a Knoxville journalist. Photo from[Metro Pulse](https://www.metropulse.com/photos/2012/oct/31/13342/).)_  
   
-

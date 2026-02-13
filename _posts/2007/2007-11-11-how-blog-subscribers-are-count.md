@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/how-blog-subscribers-are-count/
 title: How blog subscribers are counted
-description: None
 date: 2007-11-11 11:56:34 -0000
 last_modified_at: 2007-11-11 11:56:34 -0000
 publish: true

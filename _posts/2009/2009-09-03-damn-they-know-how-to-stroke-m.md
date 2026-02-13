@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/09/damn-they-know-how-to-stroke-m/
 title: Damn, they know how to stroke my ego
-description: None
 date: 2009-09-03 07:00:55 -0000
 last_modified_at: 2009-09-03 07:00:55 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/music-to-your-ears/
 title: Music to your ears
-description: None
 date: 2007-09-05 23:10:59 -0000
 last_modified_at: 2007-09-05 23:10:59 -0000
 publish: true

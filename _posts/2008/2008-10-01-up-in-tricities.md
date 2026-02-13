@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/up-in-tricities/
 title: Up in TriCities
-description: None
 date: 2008-10-01 16:04:36 -0000
 last_modified_at: 2008-10-01 16:04:36 -0000
 publish: true

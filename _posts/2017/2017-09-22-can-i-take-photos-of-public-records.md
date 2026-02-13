@@ -2,7 +2,6 @@
 layout: post
 permalink: /2017/09/can-i-take-photos-of-public-records/
 title: Can I take photos of public records?
-description: None
 date: 2017-09-22 14:36:53 -0000
 last_modified_at: 2017-09-22 14:39:56 -0000
 publish: true

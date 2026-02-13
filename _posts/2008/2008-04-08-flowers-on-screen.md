@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/04/flowers-on-screen/
 title: Flowers on screen
-description: None
 date: 2008-04-08 07:25:52 -0000
 last_modified_at: 2008-04-08 07:25:52 -0000
 publish: true

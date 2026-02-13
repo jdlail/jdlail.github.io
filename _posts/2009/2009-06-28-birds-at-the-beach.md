@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/birds-at-the-beach/
 title: Birds at the beach
-description: None
 date: 2009-06-28 22:02:18 -0000
 last_modified_at: 2009-06-28 22:02:18 -0000
 publish: true

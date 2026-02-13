@@ -2,13 +2,12 @@
 layout: post
 permalink: /2005/10/gaga-at-google/
 title: Gaga at Google
-description: None
 date: 2005-10-24 21:44:19 -0000
 last_modified_at: 2005-10-24 21:44:19 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 These tidbits, which came out last week in the Google earnings, just boggle me:

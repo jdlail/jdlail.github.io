@@ -2,14 +2,13 @@
 layout: post
 permalink: /2009/12/why-examinercoms-traffic-is-gr/
 title: Why Examiner.com's traffic is growing through the roof
-description: None
 date: 2009-12-21 21:53:03 -0000
 last_modified_at: 2009-12-21 21:53:03 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![Examiner.com](/assets_c/2009/12/examiner-com-knoxville-thumb-275x414-535.webp)](/images/examiner-com-knoxville.webp)Much to my chagrin, I've been noticing Examiner.com versions of stories we're covering show up prominently in Google search results while our original journalism on [knoxnews](https://www.knoxnews.com/) or [govolsxtra](https://www.govolsxtra.com/) is buried.  
@@ -33,4 +32,3 @@ Oh yeah, some are more worried about Google "stealing" their content while the E
   
 _(You can click the image for a larger view of the screen shot.)_  
   
-

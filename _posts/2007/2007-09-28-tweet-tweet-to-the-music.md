@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/tweet-tweet-to-the-music/
 title: Tweet, tweet to the music
-description: None
 date: 2007-09-28 09:01:33 -0000
 last_modified_at: 2007-09-28 09:01:33 -0000
 publish: true

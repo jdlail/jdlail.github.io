@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/05/fish-where-the-fish-are/
 title: Fish where the fish are
-description: None
 date: 2009-05-26 17:02:03 -0000
 last_modified_at: 2009-05-26 17:02:03 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 [![Hobert Edwards](/assets_c/2009/05/fishes-thumb-150x216-465.webp)](/images/fishes.webp)Emily Bell, director of digital content at Guardian News and Media, [offers clues](https://evolvingnewsroom.co.nz/emily-bell-go-where-the-audience-is) to better fishing (for audience).  
@@ -17,4 +16,3 @@ tags: []
 >
 
 _(Photo of my grandfather Hobert Edwards)_
-

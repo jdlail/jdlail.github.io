@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/looking-for-support/
 title: Looking for support
-description: None
 date: 2008-07-29 13:05:17 -0000
 last_modified_at: 2008-07-29 13:05:17 -0000
 publish: true

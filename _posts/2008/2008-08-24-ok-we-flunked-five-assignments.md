@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/08/ok-we-flunked-five-assignments/
 title: OK, we flunked five assignments
-description: None
 date: 2008-08-24 21:51:45 -0000
 last_modified_at: 2008-08-24 21:51:45 -0000
 publish: true

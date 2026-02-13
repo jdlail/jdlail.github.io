@@ -2,13 +2,12 @@
 layout: post
 permalink: /2009/06/the-year-that-twitter-went-to/
 title: 'The year that Twitter went to #Bonnaroo'
-description: None
 date: 2009-06-11 09:51:37 -0000
 last_modified_at: 2009-06-11 09:51:37 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Twitter made Time's cover, but more telling for me is what is happening with Twitter and the [Bonnaroo Music and Arts Festival](https://www.bonnaroo.com/) here in Tennessee.  
@@ -26,5 +25,3 @@ Tweets up are being planned and I'm sure finds will find each other using the se
 Just another sign Twitter has gone "mainstream."  
   
 (We've also got complete Bonnaroo coverage at [knoxville.com](https://www.knoxville.com/news/bonnaroo).)  
-
-

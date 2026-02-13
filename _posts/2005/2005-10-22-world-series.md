@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/10/world-series/
 title: World Series
-description: None
 date: 2005-10-22 09:03:24 -0000
 last_modified_at: 2005-10-22 09:03:24 -0000
 publish: true

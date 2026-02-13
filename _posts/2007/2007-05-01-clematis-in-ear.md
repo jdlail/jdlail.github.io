@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/clematis-in-ear/
 title: Clematis in early morning
-description: None
 date: 2007-05-01 07:34:30 -0000
 last_modified_at: 2007-05-01 07:34:30 -0000
 publish: true

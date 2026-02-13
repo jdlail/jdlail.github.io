@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/09/welldeserved-ac/
 title: Well-deserved accolades for Tim O'Brien
-description: None
 date: 2006-09-30 22:12:04 -0000
 last_modified_at: 2006-09-30 22:12:04 -0000
 publish: true

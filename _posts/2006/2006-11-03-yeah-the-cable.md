@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/11/yeah-the-cable/
 title: Yeah, the cable works, but the office is another story
-description: None
 date: 2006-11-03 14:22:40 -0000
 last_modified_at: 2006-11-03 14:22:40 -0000
 publish: true

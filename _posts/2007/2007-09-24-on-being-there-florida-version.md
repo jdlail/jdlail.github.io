@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/on-being-there-florida-version/
 title: On being there (Florida version)
-description: None
 date: 2007-09-24 16:40:25 -0000
 last_modified_at: 2007-09-24 16:40:25 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2015/01/an-ancient-list-of-digital-new/
 title: An ancient list of digital newspapers
-description: None
 date: 2015-01-05 14:27:59 -0000
 last_modified_at: 2015-01-05 14:27:59 -0000
 publish: true

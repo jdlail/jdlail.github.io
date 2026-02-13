@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/12/good-news-in-th/
 title: Good news in the stocking
-description: None
 date: 2006-12-24 18:33:22 -0000
 last_modified_at: 2006-12-24 18:33:22 -0000
 publish: true

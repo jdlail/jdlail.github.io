@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/06/encyclopedia-braun-creates-a-j/
 title: Encyclopedia Braun creates a journo-New Media reading list
-description: None
 date: 2008-06-01 08:03:37 -0000
 last_modified_at: 2008-06-01 08:03:37 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Want a human filtered stream of blog postings from selected new-media-and-journalism blogs? [Josh](https://www.linkedin.com/pub/4/380/) [Braun](https://wideaperture.net/?page_id=36), a journalist, researcher and teaching assistant at Cornell University, has [created one](https://wideaperture.net/understudy/blog/2008/05/30/nifty-rss-selected-content-from-30-journalism-new-media-blogs-in-one-feed/).  He says:  
@@ -76,5 +75,3 @@ Early Sunday morning, the following post were in Braun's Understudy: Journalism,
 There's some good reading there. If you don't follow these blogs already or you're looking for interesting writers on journalism and New Media, you could very well find this "sampler" great browsing.  
   
 Pop Quiz: Why did I call Josh Bruan "Encyclopedia Braun?"  
-
-

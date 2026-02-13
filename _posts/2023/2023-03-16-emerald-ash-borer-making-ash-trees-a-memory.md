@@ -2,7 +2,7 @@
 layout: post
 permalink: /2023/03/emerald-ash-borer-making-ash-trees-a-memory/
 title: Emerald ash borer making ash trees a memory
-description: None
+description: 'The emerald ash borer: Small it may be; inconsequential it is not.'
 date: 2023-03-16 18:15:56 -0000
 last_modified_at: 2023-04-28 13:41:49 -0000
 publish: true
@@ -11,8 +11,8 @@ image:
   path: /assets/wp-content/uploads/2023/03/satellite-view-mountain-house.webp
   alt: Google Earth satellite view of house in Yancey County, North Carolina.
 categories:
-- Ramblings
-tags: []
+- Environment
+tags: [Invasive Insects, Emerald Ash Borer]
 ---
 I have firsthand experience at how devastating an invasive insect called the emerald ash borer can be. Small it may be; inconsequential it is not.
 
@@ -22,7 +22,7 @@ If you don't have ash trees, who some say are headed to "[functional extinction]
 
 EAB, as the insect is called for short, has killed millions upon millions of ash trees in at least 36 states. It is also ravaging trees in Canada.
 
-https://twitter.com/emeraldashborer
+<https://twitter.com/emeraldashborer>
 
 ## Millions of ash trees dead; millions more at risk
 
@@ -54,7 +54,7 @@ EAB was first noticed in Yancey County, North Carolina, where our mountain home 
 
 By last year, a giant ash tree on our property looked dead (no leaves) and had became dangerously brittle. The crowns of every other ash on the property showed signs of damage (the trees are killed from the top down).
 
-![](/assets/wp-content/uploads/2023/03/Map_EAB_NCTracking.webp)
+![Tracking EAB](/assets/wp-content/uploads/2023/03/Map_EAB_NCTracking.webp)
 
 Emerald ash border in North Carolina (North Carolina Forest Service)
 
@@ -75,6 +75,9 @@ Isak Pertee and his crew at [High Lonesome Timber](https://highlonesometimber.co
 Because a couple of the trees were very large, close to the house and far from the street, it was a complex project that involved cutting and lowering sections of the trees, using a crane and using a special "spider lift."
 
 {% include youtube.html id="eGZSQKxJL5A" %}
+<br>
 {% include youtube.html id="ReT13hOibTc" %}
+<br>
 {% include youtube.html id="-8utq46bfk0" %}
+<br>
 {% include youtube.html id="AxjOAd_9r8s" %}

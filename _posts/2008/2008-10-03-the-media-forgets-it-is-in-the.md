@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/10/the-media-forgets-it-is-in-the/
 title: The media forgets it is in the being useful business
-description: None
 date: 2008-10-03 15:03:45 -0000
 last_modified_at: 2008-10-03 15:03:45 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 A lot of media entities -- and the journalists who work for them -- think they are in the news business and all of their strategies and initiatives are wrapped around that concept.  
@@ -39,4 +38,3 @@ Scott Karp [had some thoughts](https://publishing2.com/2008/09/15/drudge-report-
   
 If you don't think your business is being useful to your users/readers/viewers (some more crass businesses would call them customers), then I would suggest your journalism is failing.  
   
-

@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/09/a-checklist-for-dont-tase-me-b-1/
 title: "A checklist for \"Don\u2019t tase me, bro!\u201D news"
-description: None
 date: 2007-09-19 06:34:55 -0000
 last_modified_at: 2007-09-19 06:34:55 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 The Andrew Meyer episode at the University of Florida has the social news phenomenon down to a checklist. It's worth studying.

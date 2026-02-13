@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/07/visit-to-biltmo/
 title: Visit to Biltmore
-description: None
 date: 2006-07-24 13:04:08 -0000
 last_modified_at: 2006-07-24 13:04:08 -0000
 publish: true

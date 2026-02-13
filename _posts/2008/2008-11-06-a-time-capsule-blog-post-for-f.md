@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/a-time-capsule-blog-post-for-f/
 title: A time capsule blog post for future generations
-description: None
 date: 2008-11-06 21:23:27 -0000
 last_modified_at: 2008-11-06 21:23:27 -0000
 publish: true

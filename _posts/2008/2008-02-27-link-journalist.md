@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/02/link-journalist/
 title: Link journalist
-description: None
 date: 2008-02-27 22:31:30 -0000
 last_modified_at: 2008-02-27 22:31:30 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 Scott Karp may have coined a new term in "[link journalism](https://publishing2.com/2008/02/25/how-link-journalism-could-have-transformed-the-new-york-times-reporting-on-mccain-ethics/)."  
@@ -23,7 +22,7 @@ But Karp, founder of [Publish2](https://publish2.com/), argues it's a valuable j
 > Link journalism is linking to other reporting on the web to enhance, complement, source, or add more context to a journalist's original reporting.  
 >
 
-In fact, he sees it as a Web approach to reporting. And Web specific innovations in journalism beyond adopting and adapting new technologies are few.    
+In fact, he sees it as a Web approach to reporting. And Web specific innovations in journalism beyond adopting and adapting new technologies are few.
   
 Karp says:  
   
@@ -49,5 +48,3 @@ As Karp notes, Google figured out the counter-intuitive nature of outbound linki
 Howard Weaver says [sites ought to be looking](https://editor.blogspot.com/2008/02/aggregation-and-linking-for-real-world.html) at how they can do this. He's dead right.  
   
 More on "[Link Journalism](https://www.google.com/search?hl=en&q=%22link+journalism%22&btnG=Search)."  
-
-

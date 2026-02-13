@@ -2,7 +2,6 @@
 layout: post
 permalink: /2011/08/reddingcom-tries-gamification/
 title: Redding.com tries gamification to improve comments
-description: None
 date: 2011-08-11 14:38:10 -0000
 last_modified_at: 2011-08-11 14:38:10 -0000
 publish: true

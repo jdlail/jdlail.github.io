@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/benchmarking-video-efforts/
 title: Benchmarking video efforts
-description: None
 date: 2007-10-23 14:16:11 -0000
 last_modified_at: 2007-10-23 14:16:11 -0000
 publish: true

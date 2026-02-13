@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/this-is-how-we-roll/
 title: This is how we roll
-description: None
 date: 2008-06-13 10:43:10 -0000
 last_modified_at: 2008-06-13 10:43:10 -0000
 publish: true

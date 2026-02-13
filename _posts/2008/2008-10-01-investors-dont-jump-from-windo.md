@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/investors-dont-jump-from-windo/
 title: Investors don't jump from windows anymore
-description: None
 date: 2008-10-01 14:39:42 -0000
 last_modified_at: 2008-10-01 14:39:42 -0000
 publish: true

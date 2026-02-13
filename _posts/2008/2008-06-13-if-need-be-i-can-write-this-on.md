@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/if-need-be-i-can-write-this-on/
 title: If need be, I can write this on your wall
-description: None
 date: 2008-06-13 06:04:30 -0000
 last_modified_at: 2008-06-13 06:04:30 -0000
 publish: true

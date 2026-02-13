@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/05/beyond-the-powe/
 title: Beyond the power of titans
-description: None
 date: 2007-05-06 10:44:25 -0000
 last_modified_at: 2007-05-06 10:44:25 -0000
 publish: true

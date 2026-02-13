@@ -2,13 +2,12 @@
 layout: post
 permalink: /2011/05/improving-comments-by-having-f/
 title: Improving comments by having fewer
-description: None
 date: 2011-05-12 15:37:14 -0000
 last_modified_at: 2011-05-12 15:37:14 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 The Ventura County Star has started limiting comments to just a handful of stories a day.  Editor Joe Howry [wrote a column](https://www.vcstar.com/news/2011/may/07/howry-cleaning-up-the-comment-cesspool/) about what the newspaper is doing.  
@@ -30,4 +29,3 @@ Related articles
 * [Our next step in News blogging](https://www.bbc.co.uk/blogs/theeditors/2011/05/our_next_step_in_news_blogging.html) (bbc.co.uk)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=1aefa58d-649b-426d-86b0-f595354cbcf2)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

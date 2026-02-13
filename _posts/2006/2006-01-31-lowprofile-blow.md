@@ -2,7 +2,7 @@
 layout: post
 permalink: /2006/01/lowprofile-blow/
 title: Low-profile blown
-description: None
+description: "That bux-maddened Mock Tech has blown my low-profile cover with a photo."
 date: 2006-01-31 17:27:02 -0000
 last_modified_at: 2006-01-31 17:27:02 -0000
 publish: true

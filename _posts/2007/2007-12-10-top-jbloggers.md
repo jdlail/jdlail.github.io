@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/top-jbloggers/
 title: Top J-Bloggers
-description: None
 date: 2007-12-10 14:53:02 -0000
 last_modified_at: 2007-12-10 14:53:02 -0000
 publish: true

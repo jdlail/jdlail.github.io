@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/04/honored-to-be-an-eppy-finalist/
 title: Honored to be an EPpy finalist times three
-description: None
 date: 2008-04-22 22:17:20 -0000
 last_modified_at: 2008-04-22 22:17:20 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![EPpy Awards](/images/eppy08-thumb-151x86.gif)](/images/eppy08.gif)Knoxnews/GoVolsXtra today were named finalists in three categories in the 2008 EPpy™ Awards for the Best Media-Affiliated Internet Services.  
@@ -26,14 +25,14 @@ Here are the categories knoxnews/GoVolsXtra are finalists in:
     *Las Vegas Sun  
    * Metromix.com  
     *Observer.com  
-   
+
 **Best Overall Newspaper-Affiliated Web Site with fewer than 1 million unique monthly visitors**  
    * APP.com, Asbury Park Press  
     *GazetteXtra.com  
    * Knoxnews.com  
     *Las Vegas Sun  
    * NWHerald.com  
-   
+
 **Best Sports Web Site with fewer than 1 million unique monthly visitors**  
     *arkansassports360.com  
    * CommunitySportsDesk,kenoshanews.com  
@@ -50,4 +49,3 @@ Much of design of knoxnews is the work of E.W. Scripps'  design wizard Herb Him
   
 Here is the [complete list](https://royal.reliaserve.com/eppy/finalists.html) of finalists. Other Scripps newspapers among the finalists are naplesnews.com and commercialappeal.com.  
   
-

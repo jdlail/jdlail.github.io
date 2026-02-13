@@ -2,7 +2,6 @@
 layout: post
 permalink: /2013/06/now-this-from-our-drone-desk/
 title: Now this from our drone desk
-description: None
 date: 2013-06-21 10:08:50 -0000
 last_modified_at: 2013-06-21 10:08:50 -0000
 publish: true

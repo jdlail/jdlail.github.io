@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/nothing-magical-about-this-num/
 title: Nothing magical about this number
-description: None
 date: 2008-12-10 20:40:02 -0000
 last_modified_at: 2008-12-10 20:40:02 -0000
 publish: true

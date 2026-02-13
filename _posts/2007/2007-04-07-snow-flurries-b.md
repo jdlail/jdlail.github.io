@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/snow-flurries-b/
 title: Snow flurries before baseball
-description: None
 date: 2007-04-07 22:44:18 -0000
 last_modified_at: 2007-04-07 22:44:18 -0000
 publish: true

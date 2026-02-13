@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/coming-back-from-a-short/
 title: A slave to email
-description: None
 date: 2008-06-30 20:40:22 -0000
 last_modified_at: 2008-06-30 20:40:22 -0000
 publish: true

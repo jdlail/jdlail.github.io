@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/12/a-business-model-built-on-intr/
 title: A business model built on intransigence
-description: None
 date: 2008-12-04 13:24:56 -0000
 last_modified_at: 2008-12-04 13:24:56 -0000
 publish: true

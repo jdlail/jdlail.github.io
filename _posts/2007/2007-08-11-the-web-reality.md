@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/the-web-reality/
 title: The Web reality
-description: None
 date: 2007-08-11 12:39:18 -0000
 last_modified_at: 2007-08-11 12:39:18 -0000
 publish: true

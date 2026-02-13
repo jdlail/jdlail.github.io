@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/03/jack-and-hill/
 title: Jack and Hill
-description: None
 date: 2008-03-03 05:39:24 -0000
 last_modified_at: 2008-03-03 05:39:24 -0000
 publish: true

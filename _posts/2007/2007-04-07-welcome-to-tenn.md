@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/welcome-to-tenn/
 title: Welcome to Tennessee
-description: None
 date: 2007-04-07 23:11:15 -0000
 last_modified_at: 2007-04-07 23:11:15 -0000
 publish: true

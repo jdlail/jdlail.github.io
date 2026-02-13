@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/newspapers-fish-wrapper-or-ori/
 title: 'Newspapers: Fish wrapper or origami'
-description: None
 date: 2009-01-11 09:15:59 -0000
 last_modified_at: 2009-01-11 09:15:59 -0000
 publish: true

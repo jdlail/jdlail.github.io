@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/traveling-and-t/
 title: Traveling and Tunes
-description: None
 date: 2007-06-16 09:20:07 -0000
 last_modified_at: 2007-06-16 09:20:07 -0000
 publish: true

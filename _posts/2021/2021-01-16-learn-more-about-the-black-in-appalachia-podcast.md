@@ -2,7 +2,6 @@
 layout: post
 permalink: /2021/01/learn-more-about-the-black-in-appalachia-podcast/
 title: Learn more about the Black in Appalachia podcast
-description: None
 date: 2021-01-16 20:32:22 -0000
 last_modified_at: 2021-01-16 20:34:27 -0000
 publish: true
@@ -11,7 +10,7 @@ image:
   path: /assets/wp-content/uploads/2021/01/Dr-Enkeshi-El-Amin-Angela-Dennis.webp
   alt: Dr. Enkeshi El-Amin and Angela Dennis
 categories:
-- Online Media
+- Media
 tags:
 - ETSPJ
 - Podcasts

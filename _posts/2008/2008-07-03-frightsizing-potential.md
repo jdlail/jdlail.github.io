@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/frightsizing-potential/
 title: Frightsizing potential
-description: None
 date: 2008-07-03 08:36:11 -0000
 last_modified_at: 2008-07-03 08:36:11 -0000
 publish: true

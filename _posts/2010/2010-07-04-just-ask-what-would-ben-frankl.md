@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/07/just-ask-what-would-ben-frankl/
 title: 'Just ask: "What would Ben Franklin do?"'
-description: None
 date: 2010-07-04 13:00:00 -0000
 last_modified_at: 2010-07-04 13:00:00 -0000
 publish: true

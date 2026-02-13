@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/02/local-news-is-national-story/
 title: Local news is national story
-description: None
 date: 2008-02-07 23:16:27 -0000
 last_modified_at: 2008-02-07 23:16:27 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Some thoughts on Google News new localization feature, or local headlines by city, state or zip. These local news headline area been getting lots of national attention.  
@@ -50,4 +49,3 @@ Some thoughts on Google News new localization feature, or local headlines by cit
 
 The Official [Google News Blog](https://googlenewsblog.blogspot.com/2008/02/all-news-is-local.html)  
   
-

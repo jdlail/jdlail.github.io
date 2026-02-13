@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/10/a-mind-meld-for-search-enigne/
 title: A mind meld for search engine fatigue
-description: None
 date: 2007-10-27 10:23:01 -0000
 last_modified_at: 2007-10-27 10:23:01 -0000
 publish: true

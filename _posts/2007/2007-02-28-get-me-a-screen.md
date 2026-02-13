@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/02/get-me-a-screen/
 title: Get me a screen shot of that site
-description: None
 date: 2007-02-28 21:58:48 -0000
 last_modified_at: 2007-02-28 21:58:48 -0000
 publish: true

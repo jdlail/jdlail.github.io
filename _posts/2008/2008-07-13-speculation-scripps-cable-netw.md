@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/07/speculation-scripps-cable-netw/
 title: 'Speculation: Scripps'' cable networks in play'
-description: None
 date: 2008-07-13 10:09:35 -0000
 last_modified_at: 2008-07-13 10:09:35 -0000
 publish: true

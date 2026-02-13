@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/the-best-of-times/
 title: The best of times
-description: None
 date: 2008-10-31 14:11:29 -0000
 last_modified_at: 2008-10-31 14:11:29 -0000
 publish: true

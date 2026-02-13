@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/11/the-person-who-wins-the-electi/
 title: The person who wins the election is America's president
-description: None
 date: 2008-11-04 10:35:42 -0000
 last_modified_at: 2008-11-04 10:35:42 -0000
 publish: true

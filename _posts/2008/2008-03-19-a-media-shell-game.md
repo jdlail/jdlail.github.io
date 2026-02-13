@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/03/a-media-shell-game/
 title: A media shell game
-description: None
 date: 2008-03-19 11:56:57 -0000
 last_modified_at: 2008-03-19 11:56:57 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 [![Tortoise](/images/tortiose-thumb-150x84.webp)](/images/tortiose.webp)When times get tough, companies like to hunker down like a tortoise in its shell. When the rough times pass, they'll come out of our shell again.  
@@ -29,4 +28,3 @@ Daily newspaper readership by age (click image for larger version).
 [![TVNewsShare](/images/averageearlyeveningnewshare-thumb-485x223.gif)](/images/averageearlyeveningnewshare.gif)Top online news sites and growth (click image for larger version).  
   
 [![TopSites](/images/toponlinenewssites-thumb-485x223.gif)](/images/toponlinenewssites.gif)
-

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/in-search-of-the-trs80-of-the/
 title: In search of the TRS-80 of the 21st Century
-description: None
 date: 2007-11-14 07:48:44 -0000
 last_modified_at: 2024-12-19 16:31:33 -0000
 publish: true

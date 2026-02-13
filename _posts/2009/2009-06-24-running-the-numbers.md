@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/06/running-the-numbers/
 title: Running the numbers
-description: None
 date: 2009-06-24 10:22:59 -0000
 last_modified_at: 2009-06-24 10:22:59 -0000
 publish: true

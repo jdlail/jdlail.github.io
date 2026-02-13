@@ -2,7 +2,6 @@
 layout: post
 permalink: /2012/01/my-most-read-blog-posts-in-201/
 title: My most read blog posts in 2011
-description: None
 date: 2012-01-01 10:08:26 -0000
 last_modified_at: 2012-01-01 10:08:26 -0000
 publish: true

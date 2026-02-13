@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/did-ok-this-wee/
 title: Did OK this week
-description: None
 date: 2007-03-18 20:17:08 -0000
 last_modified_at: 2007-03-18 20:17:08 -0000
 publish: true

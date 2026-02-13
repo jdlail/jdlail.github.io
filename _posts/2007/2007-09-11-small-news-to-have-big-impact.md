@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/09/small-news-to-have-big-impact/
 title: Small news to have big impact
-description: None
 date: 2007-09-11 14:49:22 -0000
 last_modified_at: 2007-09-11 14:49:22 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 As a person running a blog on MT [this sounds cool](https://www.movabletype.org/2007/09/one_more_reason_to_buy_an_ipho.html), a plugin that automatically presents an IPhone/iPod enhanced version of the site to users accessing the site with these Apple devices. What would be cooler would be a newspaper Web site announce it was doing this. Now that would be forward thinking.

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/a-better-week/
 title: A better week
-description: None
 date: 2007-04-16 21:43:43 -0000
 last_modified_at: 2007-04-16 21:43:43 -0000
 publish: true

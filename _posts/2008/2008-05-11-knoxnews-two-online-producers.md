@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/05/knoxnews-two-online-producers/
 title: Knoxnews, two online producers, online editor win awards
-description: None
 date: 2008-05-11 21:26:34 -0000
 last_modified_at: 2008-05-11 21:26:34 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Knoxnews won the Award of Excellence for Overall Web site in the East Tennessee Society of Professional Journalists Goldne Press Card Awards, which were presented Friday night at a dinner at the Foundry..  
@@ -25,11 +24,7 @@ Complete list of winners is below.
 
 Annual East Tennessee GPC Contest Winners for work published, broadcast or posted online in 2007  
   
-   
-  
 NEWSPAPERS  
-  
-   
   
 Deadline/Spot News Reporting  
   
@@ -55,7 +50,7 @@ Honorable Mention Jessica Stith, John Brice The Daily Times, "Summitt files for 
   
 Division 1-C. Non-Daily Newspapers  
   
-Award of Excellence Jason Davis, LaFollette Press, "Drama at the dog shelter"      
+Award of Excellence Jason Davis, LaFollette Press, "Drama at the dog shelter"
   
 Judges' comments - Interesting without relying on titillation  
   
@@ -140,8 +135,6 @@ Award of Merit Dave Flessner, Pam Sohn, Chattanooga Times Free Press, "Faces of 
 Third Place Kristi Nelson, Knoxville News Sentinel, "May we take your disorder?"  
   
 Honorable Mention Jason Reynolds, Dave Flessner, Chattanooga Times Free Press, "Foreclosures at home"  
-  
-   
   
 Division 4-B. Circulation under 25,000  
   
@@ -291,11 +284,7 @@ Award of Excellence Emily Schoen, Shopper-News
   
 Judges' comments - readable and straight forward  
   
-   
-  
 RADIO AND TELEVISION  
-  
-   
   
 News Reporting  
   
@@ -357,10 +346,6 @@ Award of Merit Don Dare, David Wignall, WATE-TV, "Dental dilemma"
   
 Third Place David Carroll, Reggie Coleman, WRCB-TV, "School patrol"  
   
-   
-  
-   
-  
 Sports Reporting  
   
 Division 13-B.Television  
@@ -388,4 +373,3 @@ Judges' comments - Connected emotionally, well-told and well-written.
 Award of Excellence 10 News Team, WBIR-TV, "Knox County files"  
   
 Judges' comments - excellent information and aggressive in scope
-

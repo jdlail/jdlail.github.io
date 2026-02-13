@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/10/future-of-fair-use-to-be-shape/
 title: Future of fair use to be shaped by a dancing baby
-description: None
 date: 2010-10-30 11:44:27 -0000
 last_modified_at: 2010-10-30 11:44:27 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -31,4 +30,3 @@ mikeorren
 * [Be like YouTube & Wired - protect your website from lawsuits](https://www.cloudspace.com/blog/2010/10/28/be-like-youtube-wired-protect-your-website-from-lawsuits/) (cloudspace.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=846fd857-ba58-4d6d-b655-11d85b9a636d)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

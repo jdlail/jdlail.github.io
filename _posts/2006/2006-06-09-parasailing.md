@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/06/parasailing/
 title: Parasailing
-description: None
 date: 2006-06-09 15:03:38 -0000
 last_modified_at: 2006-06-09 15:03:38 -0000
 publish: true

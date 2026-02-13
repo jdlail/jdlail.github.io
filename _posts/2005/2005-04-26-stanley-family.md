@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/04/stanley-family/
 title: Stanley Family Reunion blog site
-description: None
 date: 2005-04-26 21:26:44 -0000
 last_modified_at: 2005-04-26 21:26:44 -0000
 publish: true

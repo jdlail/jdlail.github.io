@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/free-air-condit/
 title: Free air conditioning here
-description: None
 date: 2007-03-04 15:35:06 -0000
 last_modified_at: 2007-03-04 15:35:06 -0000
 publish: true

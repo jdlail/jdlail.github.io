@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/01/one-more-blog-entry-and-youll/
 title: One more blog entry and you'll get a technical!
-description: None
 date: 2008-01-04 08:18:45 -0000
 last_modified_at: 2008-01-04 08:18:45 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 We need referees in the press box.  
@@ -35,5 +34,3 @@ The latest rule change is a woeful reform that will be welcomed only by those sp
 One wonders what the NCAA will do with [Twitter](https://www.twitter.com/jacklail)? That'd cause a shiver. It's [been suggested](https://www.steveouting.com/more-twitter-news-implications.html).  
   
 (via [Martin Stabe](https://www.martinstabe.com/blog/2008/01/02/new-york-times-ncaa-to-bloggers-too-many-posts-and-you%e2%80%99re-out/))  
-
-

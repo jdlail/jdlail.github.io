@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/09/ningcom-will-pass-100000-socia/
 title: Socialite
-description: None
 date: 2007-09-23 11:59:33 -0000
 last_modified_at: 2007-09-23 11:59:33 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   

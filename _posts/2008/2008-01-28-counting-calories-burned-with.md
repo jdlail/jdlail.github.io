@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/counting-calories-burned-with/
 title: Counting calories burned with Counting Crows
-description: None
 date: 2008-01-28 18:36:53 -0000
 last_modified_at: 2008-01-28 18:36:53 -0000
 publish: true

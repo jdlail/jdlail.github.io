@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/12/tidings-are-not-always-glad/
 title: Tidings are not always glad
-description: None
 date: 2008-12-20 09:55:38 -0000
 last_modified_at: 2008-12-20 09:55:38 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 There's a chorus of sorts at this holiday season bringing tidings of things to come.  
@@ -35,4 +34,3 @@ But it's hard to use the innovator's dilemma as an excuse when you know full wel
   
 My Christmas wish for 2009 is to see some great ideas of reinvention tested at media companies in 2009.  
   
-

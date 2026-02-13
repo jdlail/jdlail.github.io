@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/02/eight-views-of/
 title: Eight views of life
-description: None
 date: 2007-02-16 18:28:38 -0000
 last_modified_at: 2007-02-16 18:28:38 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/web-celeb-in-our-midst/
 title: Web Celeb in our midst
-description: None
 date: 2007-12-19 07:09:58 -0000
 last_modified_at: 2007-12-19 07:09:58 -0000
 publish: true

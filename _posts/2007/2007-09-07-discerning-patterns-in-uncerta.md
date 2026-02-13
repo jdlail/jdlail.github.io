@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/09/discerning-patterns-in-uncerta/
 title: Discerning patterns in uncertainty
-description: None
 date: 2007-09-07 18:48:54 -0000
 last_modified_at: 2007-09-07 18:48:54 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 ![yinyang.jpg](/images/yinyang.webp)

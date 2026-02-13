@@ -2,7 +2,6 @@
 layout: post
 permalink: /2018/05/google-tools-training-for-journalists-coming-to-knoxville/
 title: Google Tools training for journalists coming to Knoxville
-description: None
 date: 2018-05-14 00:38:42 -0000
 last_modified_at: 2018-05-14 00:38:42 -0000
 publish: true

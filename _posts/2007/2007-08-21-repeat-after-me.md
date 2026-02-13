@@ -2,13 +2,12 @@
 layout: post
 permalink: /2007/08/repeat-after-me/
 title: Repeat after me ...
-description: None
 date: 2007-08-21 13:35:35 -0000
 last_modified_at: 2007-08-21 13:35:35 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 - Quotable
 tags: []
 ---

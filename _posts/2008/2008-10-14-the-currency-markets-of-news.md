@@ -2,14 +2,13 @@
 layout: post
 permalink: /2008/10/the-currency-markets-of-news/
 title: The currency markets of news
-description: None
 date: 2008-10-14 17:42:06 -0000
 last_modified_at: 2008-10-14 17:42:06 -0000
 publish: true
 pin: false
 categories:
 - Newspapers
-- Online Media
+- Media
 tags: []
 ---
 In a Friday post, Dan Conover writes about "[10 reasons why newspapers won't reinvent news](https://xark.typepad.com/my_weblog/2008/10/10-reasons-why.html?cid=134206065)." It's an interesting list, but I found more provocative his answer in the comments to the question of what can be done: Newspaper companies [should get out of the news business](https://xark.typepad.com/my_weblog/2008/10/10-reasons-why.html#comment-134243091).  
@@ -47,4 +46,3 @@ Sites like Politico.com and political bloggers are where much of the social curr
   
 Certainly the social currency will be there. You can bank on it.  
   
-

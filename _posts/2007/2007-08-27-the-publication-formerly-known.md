@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/08/the-publication-formerly-known/
 title: The publication formerly known as a newspaper
-description: None
 date: 2007-08-27 12:42:08 -0000
 last_modified_at: 2007-08-27 12:42:08 -0000
 publish: true

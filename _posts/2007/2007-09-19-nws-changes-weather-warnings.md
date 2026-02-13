@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/09/nws-changes-weather-warnings/
 title: NWS changes weather warnings
-description: None
 date: 2007-09-19 09:47:20 -0000
 last_modified_at: 2007-09-19 09:47:20 -0000
 publish: true

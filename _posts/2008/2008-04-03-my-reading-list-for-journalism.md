@@ -2,13 +2,12 @@
 layout: post
 permalink: /2008/04/my-reading-list-for-journalism/
 title: My reading list for journalism grads
-description: None
 date: 2008-04-03 07:30:36 -0000
 last_modified_at: 2008-04-03 07:30:36 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
   
@@ -57,5 +56,3 @@ Here are some links to great blog posts in my opinion for journalism students, w
 [Doug Fisher: 'Generation Intransigent'?](https://commonsensej.blogspot.com/2007/11/generation-intransigent.html)  
   
 [Leonard Witt: Rob Curley Replies to PJNet Pitcher as Catcher Post](https://pjnet.org/post/1629/)  
-
-

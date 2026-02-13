@@ -2,13 +2,12 @@
 layout: post
 permalink: /2010/06/while-it-doesnt-reach-the/
 title: A tale from the delta of Social Media
-description: None
 date: 2010-06-21 07:07:54 -0000
 last_modified_at: 2010-06-21 07:07:54 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 While it doesn't reach the fame of [Dave Carroll and United Airlines' breaks guitars](https://www.ex-united.com/united-airlines/a-dave-carroll-united-breaks-guitars-update/), [Kevin Slimp](https://www.kevinslimp.com/ "Kevin Slimp") of Knoxville experienced the power of Social Media on Sunday when he posted this note at 11:32 a.m. Sunday on Facebook about his Delta Air Lines flight:  
@@ -33,4 +32,3 @@ He said he found it interesting how quickly people began to share their own expe
 * [Airline Pregnancy Policy -- Travel Restrictions for Pregnant Women](https://prenatal-health.suite101.com/article.cfm/airline-pregnancy-policy--travel-restrictions-for-pregnant-women) (prenatal-health.suite101.com)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=33a237cc-2550-4b92-a358-7778e94e3f39)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

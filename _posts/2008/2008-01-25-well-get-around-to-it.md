@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/well-get-around-to-it/
 title: We'll get around to it
-description: None
 date: 2008-01-25 16:42:13 -0000
 last_modified_at: 2008-01-25 16:42:13 -0000
 publish: true

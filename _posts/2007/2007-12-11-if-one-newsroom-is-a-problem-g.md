@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/12/if-one-newsroom-is-a-problem-g/
 title: If one newsroom is a problem, get two
-description: None
 date: 2007-12-11 06:47:29 -0000
 last_modified_at: 2007-12-11 06:47:29 -0000
 publish: true

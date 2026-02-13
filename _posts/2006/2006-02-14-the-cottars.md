@@ -2,7 +2,6 @@
 layout: post
 permalink: /2006/02/the-cottars/
 title: The Cottars
-description: None
 date: 2006-02-14 21:07:14 -0000
 last_modified_at: 2006-02-14 21:07:14 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/06/scotland-vacati/
 title: Scotland vacation photos
-description: None
 date: 2007-06-04 23:05:22 -0000
 last_modified_at: 2007-06-04 23:05:22 -0000
 publish: true

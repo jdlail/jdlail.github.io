@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/11/the-power-of-comment/
 title: The power of comment
-description: None
 date: 2007-11-21 09:15:46 -0000
 last_modified_at: 2007-11-21 09:15:46 -0000
 publish: true

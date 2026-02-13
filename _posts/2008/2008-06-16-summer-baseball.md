@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/06/summer-baseball/
 title: Summer baseball
-description: None
 date: 2008-06-16 23:49:02 -0000
 last_modified_at: 2008-06-16 23:49:02 -0000
 publish: true

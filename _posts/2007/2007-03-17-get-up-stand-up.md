@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/03/get-up-stand-up/
 title: Get Up, Stand Up
-description: None
 date: 2007-03-17 17:05:00 -0000
 last_modified_at: 2007-03-17 17:05:00 -0000
 publish: true

@@ -2,7 +2,6 @@
 layout: post
 permalink: /2007/04/bad-week-good-m/
 title: Bad week, good month
-description: None
 date: 2007-04-07 08:37:32 -0000
 last_modified_at: 2007-04-07 08:37:32 -0000
 publish: true

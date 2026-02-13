@@ -2,7 +2,6 @@
 layout: post
 permalink: /2005/11/beautiful-day/
 title: Beautiful day
-description: None
 date: 2005-11-06 20:45:09 -0000
 last_modified_at: 2005-11-06 20:45:09 -0000
 publish: true

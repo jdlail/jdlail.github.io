@@ -2,13 +2,12 @@
 layout: post
 permalink: /2006/11/info-at-the-cen/
 title: Info at the center
-description: None
 date: 2006-11-05 22:48:45 -0000
 last_modified_at: 2006-11-05 22:48:45 -0000
 publish: true
 pin: false
 categories:
-- Online Media
+- Media
 tags: []
 ---
 Gannett's announcement of plans to rename newsrooms "information centers," realign editorial newspaper operations along seven radically different "desks" and to embrace 'crowdsourcing" should strike fear in anyone who works in a newsroom and believes their job is to "put out the paper." Given the [distressed nature](https://www.calacanis.com/2006/11/05/newspaper-circulation-decline-im-loving-this/)of the newspaper business and the fact that the largest newspaper chain in America is embarking on a chain-wide sweeping reorg, a new urgency and higher profile for retooling and rethinking newsrooms at most every chain is a safe bet. The best coverage of the announcement may be Jeff Howe's in [Wired](https://wired.com/news/culture/media/0,72067-0.html?tw=wn_index_1) and [CrowdSourcing](https://crowdsourcing.com/). Read his reports to get the full scoop. A lot of people are weighing in. Here's a sampling (updated): Tags: [Gannett Information Center](https://technorati.com/tag/gannett+information+center) | [newspapers](https://technorati.com/tag/newspapers)

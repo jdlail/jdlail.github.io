@@ -2,7 +2,6 @@
 layout: post
 permalink: /2010/10/back-in-the-day-when-type-was/
 title: Back in the day when type was hot
-description: None
 date: 2010-10-07 07:15:52 -0000
 last_modified_at: 2010-10-07 07:15:52 -0000
 publish: true

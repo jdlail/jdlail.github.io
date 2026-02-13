@@ -2,7 +2,6 @@
 layout: post
 permalink: /2009/01/quotable-a-new-years-resolutio/
 title: 'Quotable: A New Year''s resolution'
-description: None
 date: 2009-01-01 19:44:19 -0000
 last_modified_at: 2009-01-01 19:44:19 -0000
 publish: true

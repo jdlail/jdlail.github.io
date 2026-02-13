@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/01/snapshots-of-tennessee/
 title: Snapshots of Tennessee
-description: None
 date: 2008-01-18 20:46:15 -0000
 last_modified_at: 2008-01-18 20:46:15 -0000
 publish: true

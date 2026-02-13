@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/10/asbestos-jammies/
 title: Asbestos jammies
-description: None
 date: 2008-10-22 17:44:13 -0000
 last_modified_at: 2008-10-22 17:44:13 -0000
 publish: true

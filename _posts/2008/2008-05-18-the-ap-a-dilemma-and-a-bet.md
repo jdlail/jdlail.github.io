@@ -2,7 +2,6 @@
 layout: post
 permalink: /2008/05/the-ap-a-dilemma-and-a-bet/
 title: The AP, a dilemma and a bet
-description: None
 date: 2008-05-18 15:14:24 -0000
 last_modified_at: 2008-05-18 15:14:24 -0000
 publish: true

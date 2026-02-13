@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Pottery pieces](/assets_c/2008/11/crystalkingpottery-thumb-150x122.webp)](/images/crystalkingpottery.webp)This weekend is the weekend of the dueling pottery festivals in tiny [Seagrove, NC](https://en.wikipedia.org/wiki/Seagrove,_NC). I'm heading to [the upstart one](https://www.celebrationofseagrovepotters.com/index.html) at the old Luck's Beans plant instead of [the traditional one](https://seagrovepotteryfestival.com/se_events_003.html). I suspect visitors to Seagrove will be at an all-time high for this weekend because the festival war has been getting a lot of [media coverage](https://www.news-record.com/content/2008/11/19/article/dueling_festivals_widen_rift).  
+[![Pottery pieces](/assets-c/2008/11/crystalkingpottery-thumb-150x122.webp)](/images/crystalkingpottery.webp)This weekend is the weekend of the dueling pottery festivals in tiny [Seagrove, NC](https://en.wikipedia.org/wiki/Seagrove,_NC). I'm heading to [the upstart one](https://www.celebrationofseagrovepotters.com/index.html) at the old Luck's Beans plant instead of [the traditional one](https://seagrovepotteryfestival.com/se_events_003.html). I suspect visitors to Seagrove will be at an all-time high for this weekend because the festival war has been getting a lot of [media coverage](https://www.news-record.com/content/2008/11/19/article/dueling_festivals_widen_rift).  
   
 Here are my delicious links [tagged pottery](https://delicious.com/jacklail/pottery).  
   

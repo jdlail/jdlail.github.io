@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Long Journey Home](/assets_c/2007/11/9780253349682_med-thumb-230x348-thumb-230x348.webp)](https://www.amazon.com/gp/search?ie=UTF8&keywords=0253349680&tag=wwwjacklailco-20&index=na-books-us&linkCode=ur2&camp=1789&creative=9325)Longtime friend and journalism professor Jim Brown has a new book coming out, [Long Journey Home](https://www.amazon.com/gp/search?ie=UTF8&keywords=0253349680&tag=wwwjacklailco-20&index=na-books-us&linkCode=ur2&camp=1789&creative=9325).![](https://www.assoc-amazon.com/e/ir?t=wwwjacklailco-20&l=ur2&o=1)
+[![Long Journey Home](/assets-c/2007/11/9780253349682-med-thumb-230x348-thumb-230x348.webp)](https://www.amazon.com/gp/search?ie=UTF8&keywords=0253349680&tag=wwwjacklailco-20&index=na-books-us&linkCode=ur2&camp=1789&creative=9325)Longtime friend and journalism professor Jim Brown has a new book coming out, [Long Journey Home](https://www.amazon.com/gp/search?ie=UTF8&keywords=0253349680&tag=wwwjacklailco-20&index=na-books-us&linkCode=ur2&camp=1789&creative=9325).![](https://www.assoc-amazon.com/e/ir?t=wwwjacklailco-20&l=ur2&o=1)
 
 The PR blurb:  
   

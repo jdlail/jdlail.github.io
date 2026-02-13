@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![nytredcounties.jpg](/assets_c/2008/11/nytredcounties-thumb-250x137.webp)](/images/nytredcounties.webp)The [New South](https://metamarketer.com/?p=572) is Tennessee, Missouri, Arkansas, Oklahoma, and Louisiana? Or are those five what's left of the Old South?  
+[![nytredcounties.jpg](/assets-c/2008/11/nytredcounties-thumb-250x137.webp)](/images/nytredcounties.webp)The [New South](https://metamarketer.com/?p=572) is Tennessee, Missouri, Arkansas, Oklahoma, and Louisiana? Or are those five what's left of the Old South?  
   
 It may be a [tribal effect](https://sethgodin.typepad.com/seths_blog/2008/11/tribal-effects.html)  ... "it's about telling a story that may just energize some that don't want you to succeed."  
   

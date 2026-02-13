@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![1889_Western_Union_Main_Operating_Room_NYC_Scribners_OM.JPG](/assets_c/2009/12/1889_Western_Union_Main_Operating_Room_NYC_Scribners_OM-thumb-485x302-537.webp)](/images/1889_Western_Union_Main_Operating_Room_NYC_Scribners_OM.webp)A prediction about the newspaper industry:  
+[![1889_Western_Union_Main_Operating_Room_NYC_Scribners_OM.JPG](/assets-c/2009/12/1889-Western-Union-Main-Operating-Room-NYC-Scribners-OM-thumb-485x302-537.webp)](/images/1889_Western_Union_Main_Operating_Room_NYC_Scribners_OM.webp)A prediction about the newspaper industry:  
   
 > All those papers which serve merely as vehicles of intelligence will be destroyed  
 >

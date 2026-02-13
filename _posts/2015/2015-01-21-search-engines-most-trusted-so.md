@@ -22,7 +22,7 @@ The [2015 Edelman Trust Barometer](https://www.edelman.com/insights/intellectual
 
 It's trend that continues to see the [number of people decline](https://www.edelman.com/insights/intellectual-property/2015-edelman-trust-barometer/trust-and-innovation-edelman-trust-barometer/executive-summary/)who turn to newspapers as a first source of general information or breaking news and as a source to validate business news.
 
-[![edelman-2015-tursted-source.jpg](/assets_c/2015/01/edelman-2015-tursted-source-thumb-550xauto-2515.webp)](/images/edelman-2015-tursted-source.webp)
+[![edelman-2015-tursted-source.jpg](/assets-c/2015/01/edelman-2015-tursted-source-thumb-550xauto-2515.webp)](/images/edelman-2015-tursted-source.webp)
 
 TV's influence is holding up better, holding flat or declining (instead of just declining). It has passed newspapers as source for general information, but it's mostly a race to own the bottom. Search is tied with TV as a source for breaking news and is by far the first source used to confirm or validate news.
 
@@ -30,7 +30,7 @@ And when it comes to social networks, we're most trusting of our family and frie
 
 The shift in trust is even more pronounced among "informed public" Millennials, where search enignes are the most trusted source for 72 percent vs 64 percent for traditional media (a slightly higher percentage than overall).
 
-[![Edelman 2015 Trust Barometer for Millenails](/assets_c/2015/01/edelman-2015-millenials-thumb-550xauto-2517.webp)](/images/edelman-2015-millenials.webp)
+[![Edelman 2015 Trust Barometer for Millenails](/assets-c/2015/01/edelman-2015-millenials-thumb-550xauto-2517.webp)](/images/edelman-2015-millenials.webp)
 
 > Although it's not confirmed in the public-facing data, I suspect the explanation for the survey results is the convenience and perceived comprehensiveness of news-search results -- also the perceived objectivity. However "trust" is a complex and opaque term that can mean a number different things to different people.  
 >

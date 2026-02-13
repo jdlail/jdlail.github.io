@@ -18,7 +18,7 @@ Carter's Tabor City Tribune and fellow Columbus County newspaper editor, Willard
 
 Watch the [documentary](https://www.pbs.org/black-culture/shows/list/editor-and-the-dragon/), which is narrated by Morgan Freeman. Also, here's a fascinating [back story of the Carter's life and times](https://www.carter-klan.org/HoraceCarter.html).
 
-[![The Dragon and the Editor](/assets_c/2015/01/w-horace-carter-thumb-550xauto-2513.webp)](/images/w-horace-carter.webp)
+[![The Dragon and the Editor](/assets-c/2015/01/w-horace-carter-thumb-550xauto-2513.webp)](/images/w-horace-carter.webp)
 
 _(W. Horace Carter photo from the Carter-Klan Documentary Project)_
 

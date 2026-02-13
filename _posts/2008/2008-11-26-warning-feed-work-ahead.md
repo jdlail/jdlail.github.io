@@ -10,5 +10,5 @@ categories:
 - Ramblings
 tags: []
 ---
-[![RSS logo](/assets_c/2008/03/rss247-thumb-100x94.webp)](/images/rss247.webp)I have made some changes in my feeds and not all is going well. If my feed is not updating for you, please use [this link](https://feedproxy.google.com/RandomMumblings).
+[![RSS logo](/assets-c/2008/03/rss247-thumb-100x94.webp)](/images/rss247.webp)I have made some changes in my feeds and not all is going well. If my feed is not updating for you, please use [this link](https://feedproxy.google.com/RandomMumblings).
 

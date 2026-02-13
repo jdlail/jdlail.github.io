@@ -10,9 +10,9 @@ categories:
 - Media
 tags: []
 ---
-[![IMG_0520.JPG](/assets_c/2011/09/IMG_0520-thumb-485x272-650.webp)](/images/IMG_0520.webp)  
+[![IMG-0520.JPG]](/images/IMG-0520.webp)  
   
-Facebook has begun doing quite a bit of extremely interesting research on how users interact with posts by journalists and on news pages.  
+Facebook has begun doing quite `a bit of extremely interesting research on how users interact with posts by journalists and on news pages.  
   
 Vadim Lavrusik, Journalist Program Manager for Facebook, shared a few highlights of [some of that researc](https://www.facebook.com/note.php?note_id=245775148767840)h on Wednesday at the Associated Press Media Editors conference in Denver.  
   
@@ -29,21 +29,19 @@ Weekend Traffic: Saturday links received +85% clicks (Wednesday receive +37% cli
 Post Through the Day: Spikes at 7 & 8 a.m., 4 & 5 p.m., 12 a.m. and 2 a.m. (all times Eastern).  
   
 He also said posts with questions received 2X times more comments and 64% more feedback overall than an average post.
-[
-From the study](https://www.facebook.com/note.php?note_id=245775148767840), the most effective posting styles are:  
-  
+
+[From the study](https://www.facebook.com/note.php?note_id=245775148767840), the most effective posting styles are:  
+
 Posts that asked questions or sought user input: +64%  
-  
+
 Call to read or take a closer look: +37%  
-  
+
 Personal reflections or behind-the-scenes posts: +25%  
-  
+
 Posts with catchy/clever language or tone: +18%  
-  
+
 Lavrusik and Facebook have [created a rich resource for journalists](https://www.facebook.com/journalists) with guides on getting started, best practices, an explainer on the differences between profiles and pages, and articles on some of the research data.  
-  
+
 If you're developing your own following as a journalist on Facebook or are involved in your news organization's social media efforts, this is a must bookmark resource.  
-_  
-(Photo: Vadim Lavrusik, Journalist Program Manager for Facebook, speaking at the Associated Press Media Conference in Denver on Sept. 14, 2011.)_  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=6dabdcd5-1e82-421e-862a-330312c30868)](https://www.zemanta.com/ "Enhanced by Zemanta")
+
+(Photo: Vadim Lavrusik, Journalist Program Manager for Facebook, speaking at the Associated Press Media Conference in Denver on Sept. 14, 2011.)

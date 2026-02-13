@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Glenn Reynolds](/assets_c/2008/09/mepjtv-thumb-150x100.webp)](/images/mepjtv.webp)Glenn Reynolds, a blogging pioneer, may be marking a new trail in the electronic wilderness, this time to Internet-only TV.  
+[![Glenn Reynolds](/assets-c/2008/09/mepjtv-thumb-150x100.webp)](/images/mepjtv.webp)Glenn Reynolds, a blogging pioneer, may be marking a new trail in the electronic wilderness, this time to Internet-only TV.  
   
 He's doing commentary this week at the Republican National Convention for [Pajamas TV](https://www.pjtv.com/), a part of [Pajamas Media](https://www.pajamasmedia.com/), where he hosts his hugely popular [Instapundit](https://www.instapundit.com/) blog.  
   

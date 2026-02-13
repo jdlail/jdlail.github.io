@@ -10,4 +10,4 @@ categories:
 - Media
 tags: []
 ---
-[![iPhone app](/assets_c/2008/11/iphone_app_knoxville-thumb-150x215.webp)](/images/iphone_app_knoxville.webp)Cell Journalist, the vendor for our photo/video sharing site, launched a free iPhone app to upload photos into [im.knoxnews.com](https://im.knoxnews.com/). It started showing up in the App store of iTunes on Sunday. [Learn more](https://blogs.knoxnews.com/knx/roll/2008/11/knoxnews-gets-an-iphone-app.html).
+[![iPhone app](/assets-c/2008/11/iphone-app-knoxville-thumb-150x215.webp)](/images/iphone_app_knoxville.webp)Cell Journalist, the vendor for our photo/video sharing site, launched a free iPhone app to upload photos into [im.knoxnews.com](https://im.knoxnews.com/). It started showing up in the App store of iTunes on Sunday. [Learn more](https://blogs.knoxnews.com/knx/roll/2008/11/knoxnews-gets-an-iphone-app.html).

@@ -8,11 +8,11 @@ last_modified_at: 2024-06-26 04:36:21 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2024/06/wall-mounted-samsung-a7-IMG_2450-scaled.webp
+  path: /assets/wp-content/uploads/2024/06/wall-mounted-samsung-a7-IMG-2450-scaled.webp
   alt: Samsung Galaxy A7 tablet
 categories:
-- Ramblings
-tags: []
+- DIY
+tags: [Home Security]
 ---
 This month I replaced an ancient security alarm system with a combination of DIY solutions.
 
@@ -28,7 +28,7 @@ Two other issues pushed me to a replacement: 1) I was worried about the aging so
 
 Time for something new.
 
-![](/assets/wp-content/uploads/2024/06/ademco-1440-security-sytem-IMG_2422.webp)
+![Ademco 1440 security system](/assets/wp-content/uploads/2024/06/ademco-1440-security-system-IMG-2422-scaled.webp)
 
 ## **A new system: WiFi and cloud connectivity**
 
@@ -60,7 +60,7 @@ Since the Aqara sensor supports Matter over Thread, I did not need Aqara hub, th
 
 ## **Home Monitor in Smartthings**
 
-![](/assets/wp-content/uploads/2024/06/smartthings-IMG_001-1.webp)
+![](/assets/wp-content/uploads/2024/06/smartthings-IMG-001-1.webp)
 
 From the Smartthings app, the system can be armed with ["away: or "stay"](https://www.homesecure.ie/blog/stay-and-away-mode-on-your-alarm-system/) modes and disarmed. If allowed location access on your phone, it [can work as a presence sensor](https://www.youtube.com/watch?v=70f9MkB-cOs), arming the system if both my phone and my wife's phone leave and disarming the system if either phone arrives.
 

@@ -8,7 +8,7 @@ last_modified_at: 2024-04-07 16:15:32 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2024/04/2024-04-03_15_34_24_IMG_2287.webp
+  path: /assets/wp-content/uploads/2024/04/2024-04-03-15-34-24-IMG-2287.webp
   alt: A bench for Taylor Swift in Centennial Park in Nashville, Tennessee
 categories:
 - Ramblings
@@ -18,7 +18,7 @@ tags:
 Here's a photo of "a bench for Taylor Swift," one of the odder features of the popular Centennial Park in Nashville.
 
 <figure class="align-center">
-  <a href="#"><img src="{{ '/assets/wp-content/uploads/2024/04/2024-04-03_15_33_59_IMG_2285-cropped.webp' | relative_url }}" alt="Plaque on Taylor Swift bench"></a>
+  <a href="#"><img src="{{ '/assets/wp-content/uploads/2024/04/2024-04-03-15-33-59-IMG-2285-cropped.webp' | relative_url }}" alt="Plaque on Taylor Swift bench"></a>
   <figcaption>Plaque on Taylor Swift bench which was dedicated by the City of Nashville in May 2023.</figcaption>
 </figure>
 
@@ -32,4 +32,4 @@ The [bench plaque is a reference to the lyric](https://www.billboard.com/music/m
 
 Nice setting, though.
 
-![A bench for Taylor Swift](/assets/wp-content/uploads/2024/04/2024-04-03_15_33_59_IMG_2285.webp)
+![A bench for Taylor Swift](/assets/wp-content/uploads/2024/04/2024-04-03-15-33-59-IMG-2285.webp)

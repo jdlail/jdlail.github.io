@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Credibility Roundtable](/assets_c/2009/05/05192009028-thumb-485x363-458.webp)](/images/05192009028.webp)
+[![Credibility Roundtable](/assets-c/2009/05/05192009028-thumb-485x363-458.webp)](/images/05192009028.webp)
 
 It would be fair to say when it comes to online, and more specifically comments on news sites, we're making it up as we go. Because it's evolving, it's great to get some feedback and ideas from others. That's what we did Wednesday night.  
   

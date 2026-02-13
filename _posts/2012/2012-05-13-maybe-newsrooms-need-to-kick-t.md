@@ -12,7 +12,7 @@ tags: []
 ---
 ![Barak Obama](/images/6953907112_94098b99f3.webp)  
   
-[![Charles Duhigg](/assets_c/2012/05/charlesduhigg-thumb-250x324-670.webp)](/images/charlesduhigg.webp)I recently did an email Q&A with [Charles Duhigg](https://www.charlesduhigg.com/), the New York Times reporter who wrote [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/gp/product/1400069289/ref=as_li_ss_tl?ie=UTF8&tag=wwwjacklailco-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1400069289)![](https://www.assoc-amazon.com/e/ir?t=wwwjacklailco-20&l=as2&o=1&a=1400069289). The interview appears Monday in The Knoxville News Sentinel (I hope you'll read it).  
+[![Charles Duhigg](/assets-c/2012/05/charlesduhigg-thumb-250x324-670.webp)](/images/charlesduhigg.webp)I recently did an email Q&A with [Charles Duhigg](https://www.charlesduhigg.com/), the New York Times reporter who wrote [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/gp/product/1400069289/ref=as_li_ss_tl?ie=UTF8&tag=wwwjacklailco-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1400069289)![](https://www.assoc-amazon.com/e/ir?t=wwwjacklailco-20&l=as2&o=1&a=1400069289). The interview appears Monday in The Knoxville News Sentinel (I hope you'll read it).  
   
 One chapter of Duhigg's book deals with civil rights pioneer Rosa Parks' Dec. 1, 1955 refusal to give up her seat to a white passenger on a city bus in Montgomery, Ala. and how social habits helped spark and sustain the famous Montgomery Bus Boycott and played a pivotal role in creating the Civil Rights Movement.  
   

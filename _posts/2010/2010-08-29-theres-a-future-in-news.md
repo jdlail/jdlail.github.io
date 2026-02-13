@@ -19,7 +19,7 @@ For part of my contributions, I decided I wanted to tap into the thoughts of a c
   
 The Q&A with Morgan, founder and chairman of [SimulMedia](https://www.simulmedia.com/), went [online and in print today](https://www.knoxnews.com/news/2010/aug/29/insider-touts-new-media/). The Q&A with [Spiers](https://www.elizabethspiers.com/), a media launch consultant, entrepreneur, and writer, runs Tuesday.  
   
-[![Dave Morgan](/assets_c/2010/08/082910davemorgan-thumb-150x183-598.webp)](/images/082910davemorgan.webp)One the quotes I particularly liked in Morgan's answers was his advice to journalism students:  
+[![Dave Morgan](/assets-c/2010/08/082910davemorgan-thumb-150x183-598.webp)](/images/082910davemorgan.webp)One the quotes I particularly liked in Morgan's answers was his advice to journalism students:  
   
 > You will have a great future if you recognize that there has never been a better time to practice great journalism; that great journalists are the eyes, ears and analysts for their audiences; that great journalists listen more than they talk and write; and that great journalists can now - more than ever before - get truly close to their audiences.  
 >

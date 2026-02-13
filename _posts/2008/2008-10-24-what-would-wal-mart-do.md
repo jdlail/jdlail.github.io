@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![AP Logo](/assets_c/2008/10/APLogo-thumb-150x105.webp)](/images/APLogo.webp)Some react on the Associated Press' decision to back off its controversial pricing plans for 2009.  
+[![AP Logo](/assets-c/2008/10/APLogo-thumb-150x105.webp)](/images/APLogo.webp)Some react on the Associated Press' decision to back off its controversial pricing plans for 2009.  
   
 I suspect this will cool the defection rumblings a bit, but the plan did cause newspaper companies looking for cost-cutting everywhere to cast a keen eye on their sizable AP bills. That one's on the evaluation table now.  
   

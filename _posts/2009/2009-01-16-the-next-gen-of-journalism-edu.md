@@ -10,4 +10,4 @@ categories:
 - Media
 tags: []
 ---
-ICONN conference first day [coverage](https://jprof.blogspot.com/2009/01/iconn-conference-day-1-pictures-and.html). ![Thumbnail image for ICONN](/assets_c/2009/01/iconn-logo-5-thumb-250x118-421.webp)
+ICONN conference first day [coverage](https://jprof.blogspot.com/2009/01/iconn-conference-day-1-pictures-and.html). ![Thumbnail image for ICONN](/assets-c/2009/01/iconn-logo-5-thumb-250x118-421.webp)

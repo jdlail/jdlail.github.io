@@ -11,7 +11,7 @@ categories:
 tags: []
 ---
   
-[![Nashville is Talking](/assets_c/2010/02/nashvilletalkinglogo-thumb-225x107-542.webp)](/images/nashvilletalkinglogo.webp)One of the pioneering efforts in new ways to deliver news and connect with audiences in Tennessee (and the country) is "going dark"  
+[![Nashville is Talking](/assets-c/2010/02/nashvilletalkinglogo-thumb-225x107-542.webp)](/images/nashvilletalkinglogo.webp)One of the pioneering efforts in new ways to deliver news and connect with audiences in Tennessee (and the country) is "going dark"  
   
 WKRN-TV's "Nashville is Talking" Web site, termed a  "quaint reminder" of days gone by shuts down on Friday.  
   

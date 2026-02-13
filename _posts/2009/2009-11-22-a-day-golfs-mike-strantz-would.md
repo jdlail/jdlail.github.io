@@ -16,7 +16,7 @@ The weather was splendid, the golf was good and the ribs, slow cooked for some t
   
 The video shot nine years ago of the construction at Tot Hill Farm Golf Club shows a guy with a twinkle in his eye, a smile on his face and obviously loving what he is doing.  
   
-[![Mike Strantz](/assets_c/2009/11/mikestrantz-thumb-100x149-525.webp)](/images/mikestrantz.webp)[Strantz](https://www.mikestrantzdesign.com/obituary.html) died at 50 of tongue cancer. By that time, he had become a hot talent in golf design known for [challenging and controversial designs](https://www.golfersguide.com/golf/golf-blog/remembering-mike-strantz.html).  
+[![Mike Strantz](/assets-c/2009/11/mikestrantz-thumb-100x149-525.webp)](/images/mikestrantz.webp)[Strantz](https://www.mikestrantzdesign.com/obituary.html) died at 50 of tongue cancer. By that time, he had become a hot talent in golf design known for [challenging and controversial designs](https://www.golfersguide.com/golf/golf-blog/remembering-mike-strantz.html).  
   
 He began his career as a golf course designer with the famed Tom Fazio, but did a mere nine courses after going out on his own.  
   

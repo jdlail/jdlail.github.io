@@ -10,7 +10,7 @@ categories:
 - Carnival
 tags: []
 ---
-[![Carnival of Journalism](/assets_c/2011/04/intersect-video-wall-sequence-from-chuck-hd-stills-091-thumb-485x297-638.webp)](/images/intersect-video-wall-sequence-from-chuck-hd-stills-091.webp)  
+[![Carnival of Journalism](/assets-c/2011/04/intersect-video-wall-sequence-from-chuck-hd-stills-091-thumb-485x297-638.webp)](/images/intersect-video-wall-sequence-from-chuck-hd-stills-091.webp)  
 I was too occupied to contribute to the [Carnival of Journalism](https://carnivalofjournalism.com/ "Carnival of Journalism")'s latest edition, but it's not surprising Carnival came up with a great set of pieces anyway.  
   
 Here is [David Cohn](https://www.digidave.org/ "David Cohn")'s rundown on the various [#jcarn posts](https://carnivalofjournalism.com/2011/04/01/carnival-roundup-no-3-driving-innovation-jcarn/), who writes:  

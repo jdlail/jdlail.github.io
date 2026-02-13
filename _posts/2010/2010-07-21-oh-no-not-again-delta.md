@@ -36,7 +36,7 @@ Below is a post after he finally made it to Bismarck, six hours late.
 
 >
 
-[![Delta Again](/assets_c/2010/07/kevin2-thumb-485x1656-589.webp)](/images/kevin2.webp)
+[![Delta Again](/assets-c/2010/07/kevin2-thumb-485x1656-589.webp)](/images/kevin2.webp)
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=94489921-2fb7-4bc8-89d7-83389a76f1b2)](https://www.zemanta.com/ "Enhanced by Zemanta")
 

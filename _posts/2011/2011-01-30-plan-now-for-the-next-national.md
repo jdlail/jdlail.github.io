@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Arizona Daily Star Page One](/assets_c/2011/01/Giffords2-thumb-250x508-618.webp)](/images/Giffords2.webp)[Arizona Daily Star](https://www.azstarnet.com/ "Arizona Daily Star") managing editor Teri Hayt shares some lessons learned for the newspaper in the [Tucson shootings](https://www.apme.com/news/news.asp?id=57613).  
+[![Arizona Daily Star Page One](/assets-c/2011/01/Giffords2-thumb-250x508-618.webp)](/images/Giffords2.webp)[Arizona Daily Star](https://www.azstarnet.com/ "Arizona Daily Star") managing editor Teri Hayt shares some lessons learned for the newspaper in the [Tucson shootings](https://www.apme.com/news/news.asp?id=57613).  
   
 Would you be ready?  
   

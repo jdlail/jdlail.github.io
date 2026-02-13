@@ -10,7 +10,7 @@ categories:
 - Training
 tags: [Nashville]
 ---
-[![Patrick Stiegman](/assets_c/2010/04/pas25-thumb-150x176-566.webp)](/images/pas25.webp)
+[![Patrick Stiegman](/assets-c/2010/04/pas25-thumb-150x176-566.webp)](/images/pas25.webp)
 
 We've made one lineup change in our speakers for Friday's "Smart Phones for Smart Journalists" workshop in Nashville at the [Freedom Forum's John Seigenthaler Center](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1207+18th+Ave+S,+Nashville,+TN+37212&sll=37.0625,-95.677068&sspn=32.059939,56.513672&ie=UTF8&hq=&hnear=1207+18th+Ave+S,+Nashville,+Davidson,+Tennessee+37212&z=16).  
   

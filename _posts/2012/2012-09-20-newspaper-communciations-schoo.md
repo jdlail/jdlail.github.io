@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: [Journalism]
 ---
-[![John Seigenthaler News Service](/assets_c/2012/09/seigenthalernewsservice1000-thumb-485x362-2457.webp)](/images/seigenthalernewsservice1000.webp)
+[![John Seigenthaler News Service](/assets-c/2012/09/seigenthalernewsservice1000-thumb-485x362-2457.webp)](/images/seigenthalernewsservice1000.webp)
 
 News organizations are busy transforming themselves as their traditional business models change, forcing hard decisions in newsrooms, but it has also provided the impetus for thinking above new ways of covering news.  
   

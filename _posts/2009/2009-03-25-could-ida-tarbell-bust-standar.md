@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Ida Tarbell](/assets_c/2009/03/Ida_Tarbell-thumb-150x202-440.webp)](/images/Ida_Tarbell.webp)[Dave Winer](https://www.scripting.com/stories/2009/03/25/isTwitterANewsSystem.html) on Twitter:   
+[![Ida Tarbell](/assets-c/2009/03/Ida-Tarbell-thumb-150x202-440.webp)](/images/Ida_Tarbell.webp)[Dave Winer](https://www.scripting.com/stories/2009/03/25/isTwitterANewsSystem.html) on Twitter:   
   
 > I wonder why press people have trouble seeing that news is what's happening there. Sure there's a lot of other stuff on Twitter -- they focus on that instead. I leave it to the investigative journalists to figure out why.  
 >

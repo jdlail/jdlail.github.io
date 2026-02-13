@@ -8,7 +8,7 @@ last_modified_at: 2023-04-26 05:08:08 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2023/04/t_c53bb4ecdf694f86a9cd85c41712b73f_name_file_1280x720_2000_v3_1_.webp
+  path: /assets/wp-content/uploads/2023/04/t-c53bb4ecdf694f86a9cd85c41712b73f-name-file-1280x720-2000-v3-1-.webp
   alt: the Tennessee Three
 categories:
 - Ramblings

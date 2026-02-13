@@ -12,4 +12,4 @@ categories:
 tags:
 - Google
 ---
-Google is funding news projects with up to[$300,000 per grant](https://www.niemanlab.org/2019/05/after-four-years-of-handing-out-money-for-european-news-projects-google-is-expanding-its-funding-to-north-america/).
+Google is funding news projects with up to [$300,000 per grant](https://www.niemanlab.org/2019/05/after-four-years-of-handing-out-money-for-european-news-projects-google-is-expanding-its-funding-to-north-america/).

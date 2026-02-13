@@ -28,9 +28,9 @@ At the 9/11 Memorial
 
 In 2013, I visited the [9/11 Memorial](https://www.911memorial.org/visit/memorial/about-memorial) with some colleagues on the board of the Associated Press Media Editors. The museum wouldn't open for another year, but the memorial was.
 
-![9/11 Memorial in 2013](/assets/wp-content/uploads/2021/09/IMG_3033-scaled.webp)9/11 Memorial in New York.
+![9/11 Memorial in 2013](/assets/wp-content/uploads/2021/09/IMG-3033-scaled.webp)9/11 Memorial in New York.
 
-![9/11 Memorial in 2013](/assets/wp-content/uploads/2021/09/IMG_3034.webp)9/11 Memorial (2013)
+![9/11 Memorial in 2013](/assets/wp-content/uploads/2021/09/IMG-3034.webp)9/11 Memorial (2013)
 
 In 2015, I returned to the site and took an elevator ride to the top of the [One World Trade Center](https://www.oneworldobservatory.com/en-US/).
 

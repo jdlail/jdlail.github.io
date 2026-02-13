@@ -8,7 +8,7 @@ last_modified_at: 2024-12-31 21:51:21 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2023/07/0_AKqO4aPKLuBz8SOi.webp
+  path: /assets/wp-content/uploads/2023/07/0-AKqO4aPKLuBz8SOi.webp
   alt: 'No. of Titles Banned by State. Data: PEN America. Visual: Statecraft'
 categories:
 - Ramblings

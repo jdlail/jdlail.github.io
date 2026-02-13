@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![GVX247](/assets_c/2010/12/gvx247-800-thumb-250x75-615.webp)](/images/gvx247-800.webp)Over on the "This is How We Roll" blog, I've [posted some thoughts](https://blogs.knoxnews.com/roll/2010/12/tennessee-sports-coverage-just.html) about a paid-content site I've been working on for weeks with [247Sports.com](https://247sports.com/) called [GVX247](https://www.gvx247.com/).  
+[![GVX247](/assets-c/2010/12/gvx247-800-thumb-250x75-615.webp)](/images/gvx247-800.webp)Over on the "This is How We Roll" blog, I've [posted some thoughts](https://blogs.knoxnews.com/roll/2010/12/tennessee-sports-coverage-just.html) about a paid-content site I've been working on for weeks with [247Sports.com](https://247sports.com/) called [GVX247](https://www.gvx247.com/).  
 
 It launches Thursday and you can get all the details from the post there.  
 

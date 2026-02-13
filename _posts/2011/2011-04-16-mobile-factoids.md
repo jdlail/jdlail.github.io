@@ -16,7 +16,7 @@ Learn More about [Mobile Tagging](https://tag.microsoft.com/) at Microsoft Tag.
   
 Saw this on Alltop's [Holy Kaw](https://holykaw.alltop.com/the-growth-of-mobile-marketing-infographic) blog. This is a great infographic, but why did Microsoft come up with its own tag system? Seems like just as QR codes are beginning to get some traction, Microsoft comes in and says, hey, let's do it the Microsoft way. Geez.  
   
-[![Thumbnail image for Jack_Lail_2011416185128.jpeg](/assets_c/2011/04/Jack_Lail_2011416185128-thumb-485x448-640.webp)](/Jack_Lail_2011416185128.jpeg)  
+[![Thumbnail image for Jack_Lail_2011416185128.jpeg](/assets-c/2011/04/Jack-Lail-2011416185128-thumb-485x448-640.webp)](/Jack_Lail_2011416185128.jpeg)  
   
 ###### Related articles
 

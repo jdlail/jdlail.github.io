@@ -81,7 +81,7 @@ Tesla estimates I added 3,306 kWh charging over the last 12 months for a total c
 
 A kilowatt-hour costs about 10.5 cents from my utility, the [Lenoir City Utilities Board](https://www.lcub.com/electric/electric-rate-schedule/). It is a flat rate for residential customers with no peak/off-peak pricing.
 
-![Supercharging on the first day of ownership at the Cookeville, Tennessee,  Supercharger.](/assets/wp-content/uploads/2023/07/IMG_1758.webp)
+![Supercharging on the first day of ownership at the Cookeville, Tennessee,  Supercharger.](/assets/wp-content/uploads/2023/07/IMG-1758-scaled.webp)
 
 My average charge at Tesla Superchargers cost 36 cents per kWh. In the past year, 49% of my charging has been at home,18% on regular electric plugs or Level 2 chargers while away from home and 33% at Superchargers.
 
@@ -135,7 +135,7 @@ The calculations change with each charge. As recently as late May, my car had an
 
 The chart below shows the change in TeslaFI's estimated 100% range. The blue line is my car and the green line is are MY's with similar mileage.
 
-![TeslaFi: Battery 100% range charge.](/assets/wp-content/uploads/2023/07/battery_test.webp)
+![TeslaFi: Battery 100% range charge.](/assets/wp-content/uploads/2023/07/battery-test.webp)
 
 Tesla claims the [battery loses about 12% over 200,000 miles](https://electrek.co/2023/04/25/tesla-update-battery-degradation/).
 

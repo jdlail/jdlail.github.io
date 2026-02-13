@@ -10,7 +10,7 @@ categories:
 - Adversity is a mean teacher
 tags: [Newspapers]
 ---
-[![Marc Andreessen](/assets_c/2010/03/2961278058_0eb2405f23_m-thumb-240x161-559.webp)](/images/2961278058_0eb2405f23_m.webp)Here are some excerpts from an Eric Schonfeld [post on TechCrunch](https://techcrunch.com/2010/03/06/andreessen-media-burn-boats/) about an interview with Marc Andreessen.  
+[![Marc Andreessen](/assets-c/2010/03/2961278058-0eb2405f23-m-thumb-240x161-559.webp)](/images/2961278058_0eb2405f23_m.webp)Here are some excerpts from an Eric Schonfeld [post on TechCrunch](https://techcrunch.com/2010/03/06/andreessen-media-burn-boats/) about an interview with Marc Andreessen.  
   
 Andreessen is the guy who co-authored the early Web browser, [Mosaic](https://www.ncsa.uiuc.edu/Projects/mosaic.html "Mosaic \(web browser\)"), which later became the Netscape browser. He co-founded [Ning.com](https://www.ning.com/ "Ning") and is investor in a slew of other Internet companies, including [Digg](https://www.digg.com/ "Digg") and [Twitter](https://twitter.com/ "Twitter").  
   

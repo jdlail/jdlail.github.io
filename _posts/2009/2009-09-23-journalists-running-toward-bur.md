@@ -10,7 +10,7 @@ categories:
 - Media
 tags: [Newspapers]
 image: 
-    path: /images/IMG_0206.webp
+    path: /images/IMG-0206.webp
     alt: Rusty Coats at KSMA
 ---
 

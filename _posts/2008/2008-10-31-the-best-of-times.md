@@ -10,7 +10,7 @@ categories:
 - Quotable
 tags: []
 ---
-[![Rafat Ali photo](/assets_c/2008/10/2215544673_b27acef63f-thumb-150x99.webp)](/images/2215544673_b27acef63f.webp)The economy is tough and the news business in particular is brutal. The operative word seems to be "retrenchment" at many mainstream media companies. In this environment, [PaidContent.org's](https://www.paidcontent.org/) Rafat Ali says:  
+[![Rafat Ali photo](/assets-c/2008/10/2215544673-b27acef63f-thumb-150x99.webp)](/images/2215544673_b27acef63f.webp)The economy is tough and the news business in particular is brutal. The operative word seems to be "retrenchment" at many mainstream media companies. In this environment, [PaidContent.org's](https://www.paidcontent.org/) Rafat Ali says:  
   
 > "This is probably the best time in history to be a journalist. I know there's a lot of fear in the industry with all the layoffs and it's hard to look beyond 2009, but the reality is that the craft of journalism and the need for it is the highest than any time in history..."  
 >

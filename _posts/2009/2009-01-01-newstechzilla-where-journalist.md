@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![NewsTechZilla](/assets_c/2009/01/NewsTechZilla-thumb-247x248-416.webp)](/images/NewsTechZilla.webp)A couple of Tennessee bloggers have something new to start off 2009, [NewsTechZilla](https://www.newstechzilla.com/), which aims to help journalists get a handle on tech to do better journalism.  
+[![NewsTechZilla](/assets-c/2009/01/NewsTechZilla-thumb-247x248-416.webp)](/images/NewsTechZilla.webp)A couple of Tennessee bloggers have something new to start off 2009, [NewsTechZilla](https://www.newstechzilla.com/), which aims to help journalists get a handle on tech to do better journalism.  
   
 Journalists are often ridiculously tech phobic. A digital camera is like a  device from the Space Shuttle. They've spent days walking around the building looking for the Word Press. And they've been amazed to discover the work computer has "Windows." At staff meetings, they trade revelations about finding email on their Blackberry _(and you can write email, too)_.  
   

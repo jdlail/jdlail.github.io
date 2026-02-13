@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Three Stooges](/assets_c/2009/12/ThreeStooges-background-thumb-485x363-533.webp)](/images/ThreeStooges-background.webp)
+[![Three Stooges](/assets-c/2009/12/ThreeStooges-background-thumb-485x363-533.webp)](/images/ThreeStooges-background.webp)
 
 Here is how [Eric Ward](https://www.ericward.com/bestpractices/2009/11/link-moses-resurrected-8-curly-theory.html) defines his "Curly Theory" of link building:  
 

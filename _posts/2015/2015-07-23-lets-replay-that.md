@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![ICD-UX533](/assets_c/2015/07/sony-voice-recorder-thumb-200xauto-2533.webp)](/images/sony-voice-recorder.webp)Still like a voice recorder for capturing interviews instead of a smartphone?
+[![ICD-UX533](/assets-c/2015/07/sony-voice-recorder-thumb-200xauto-2533.webp)](/images/sony-voice-recorder.webp)Still like a voice recorder for capturing interviews instead of a smartphone?
 
 But don't know what to buy?
 

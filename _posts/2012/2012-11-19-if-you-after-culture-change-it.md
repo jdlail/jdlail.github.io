@@ -10,7 +10,7 @@ categories:
 - Sports
 tags: [Culture]
 ---
-[![James Franklin](/assets_c/2012/11/jamesfranklin-thumb-250x186-2467.webp)](/images/jamesfranklin.webp)
+[![James Franklin](/assets-c/2012/11/jamesfranklin-thumb-250x186-2467.webp)](/images/jamesfranklin.webp)
 
 Anybody that has ever been involved in a culture change or newsroom transformation effort has got to appreciate what Vanderbilt University football coach James Franklin has accomplished.
 

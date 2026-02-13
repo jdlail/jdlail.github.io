@@ -11,7 +11,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![2244_Cover_Adolph.jpg](/assets_c/2013/02/2244_Cover_Adolph-thumb-250x386-2476.webp)](/images/2244_Cover_Adolph.webp)
+[![2244_Cover_Adolph.jpg](/assets-c/2013/02/2244-Cover-Adolph-thumb-250x386-2476.webp)](/images/2244_Cover_Adolph.webp)
 
 Some 117 years ago, [Adolph Ochs](https://tennesseeencyclopedia.net/entry.php?rec=1014), who began his career in Knoxville before buying a newspaper in Chattanooga, [published a set of principles](https://www.nytimes.com/1996/08/19/opinion/without-fear-or-favor.html) for his newest newspaper in which he said it would "to give the news impartially, without fear or favor, regardless of party, sect, or interests involved."  
   

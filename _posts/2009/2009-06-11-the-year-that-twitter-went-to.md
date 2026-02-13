@@ -14,7 +14,7 @@ Twitter made Time's cover, but more telling for me is what is happening with Twi
   
 Knoxville News Sentinel online producer Lauren Spuhler (heading to cover her fifth Bonnaroo today) grabbed the user name [@bonnaroo](https://twitter.com/bonnaroo) in March 2007. You can see her first Tweet below.  
   
-[![@bonnaroo's first tweet](/assets_c/2009/06/bonnaroofirsttweet2-thumb-485x48-478.webp)](/images/bonnaroofirsttweet2.webp)  
+[![@bonnaroo's first tweet](/assets-c/2009/06/bonnaroofirsttweet2-thumb-485x48-478.webp)](/images/bonnaroofirsttweet2.webp)  
   
 She used it in 2007 and 2008, but by December is had but [487 followers](https://graphicdesignr.net/blog/2008/12/17/november-newspapers-that-use-twitter/). Just last week, we renamed it [@bonnaroonews](https://twitter.com/bonnaroonews)  so the official festival site could grab @bonnaroo. By then, it had over 7,800 followers. Today it's pushing 8,000 (you can help by following [@bonnaroonews](https://twitter.com/bonnaroonews)).  
   

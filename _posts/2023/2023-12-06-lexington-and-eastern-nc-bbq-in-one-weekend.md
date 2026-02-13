@@ -8,7 +8,7 @@ last_modified_at: 2024-04-07 16:11:41 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2023/12/2023-11-02_18_27_55_IMG_1891-scaled.webp
+  path: /assets/wp-content/uploads/2023/12/2023-11-02-18-27-55-IMG-1891-scaled.webp
   alt: Lexington BBQ popular menu item. The chopped pork tray
 categories:
 - Ramblings
@@ -22,7 +22,7 @@ Wayne Monk opened Lexington BBQ was in 1962. During the Reagan presidency, the W
 
 It's now run by Monk's son, Rick.
 
-![The sign in the parking lot for Lexington BBQ.](/assets/wp-content/uploads/2023/12/2023-11-02_18_39_49_IMG_1893-scaled.webp)
+![The sign in the parking lot for Lexington BBQ.](/assets/wp-content/uploads/2023/12/2023-11-02-18-39-49-IMG-1893-scaled.webp)
 
 The next afternoon I was in Ayden, North Carolina at the equally iconic [Skylight Inn BBQ](https://www.skylightinnbbq.com/welcome), eastern-North Carolina style whole-hog barbecue that has was opened in 1947 by Pete Jones, a 17-year-old who read or write. There was a line in mid-afternoon that moved quickly to the chop-chop of barbecue on the cutting board. I had pretty much the same meal as in Lexington except instead of hushpuppies, I had the flat cornbread the Skylight Inn serves.
 
@@ -30,7 +30,7 @@ There was also a huge supply wood behind the restaurant for its wood-fired cooki
 
 It's still family run by Pete’s son Bruce, nephew Jeff, and grandson Sam Jones.
 
-![Skylight Inn BBQ in Ayden, North Carolina with its U.S. Capitol top.](/assets/wp-content/uploads/2023/12/2023-11-03_14_17_36_IMG_1894.webp)Skylight Inn BBQ in Ayden, North Carolina.
+![Skylight Inn BBQ in Ayden, North Carolina with its U.S. Capitol top.](/assets/wp-content/uploads/2023/12/2023-11-03-14-17-36-IMG-1894.webp)Skylight Inn BBQ in Ayden, North Carolina.
 
 If you want to delve into the differences between Lexington and Eastern NC, this [Washington Post article is a quick take](https://www.washingtonpost.com/archive/lifestyle/travel/2005/05/15/east-vs-west-which-is-best/89f81c98-b406-48cc-a5a9-ce621cd763d4/).
 

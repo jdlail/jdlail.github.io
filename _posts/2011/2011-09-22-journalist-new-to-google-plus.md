@@ -10,4 +10,4 @@ categories:
 - Media
 tags: []
 ---
-[![markgalsergplus.jpg](/assets_c/2011/09/markgalsergplus-thumb-484x238-652.webp)](https://www.pbs.org/mediashift/2011/09/a-journalists-primer-to-google265.html)
+[![markgalsergplus.jpg](/assets-c/2011/09/markgalsergplus-thumb-484x238-652.webp)](https://www.pbs.org/mediashift/2011/09/a-journalists-primer-to-google265.html)

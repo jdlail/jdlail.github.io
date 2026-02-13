@@ -10,8 +10,6 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Best Blog](/assets_c/2011/05/IMG_0244-thumb-485x348-643.webp)](/images/IMG_0244.webp)
+[![Best Blog](/assets-c/2011/05/IMG-0244-thumb-485x348-643.webp)](/images/IMG-0244.webp)
 
 This blog won Best Blog, Non-Media Affiliated in the regional East Tennessee Society of Professional Journalists' [Golden Press Card](https://goldenpresscard.wordpress.com/2010-golden-press-card-award-winners/) awards announced last week.  
-
-

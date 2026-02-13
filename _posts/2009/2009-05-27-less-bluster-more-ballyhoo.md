@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Mme. Clofullia](/assets_c/2009/05/josephine7ow-735892-thumb-150x224-468.webp)](/images/josephine7ow-735892.webp)Buzzmachine Jeff Jarvis often asks "What Would Google Do?" to outline a digital strategy, but maybe the question media companies need to ask is "What would P.T. Barnum Do?"  
+[![Mme. Clofullia](/assets-c/2009/05/josephine7ow-735892-thumb-150x224-468.webp)](/images/josephine7ow-735892.webp)Buzzmachine Jeff Jarvis often asks "What Would Google Do?" to outline a digital strategy, but maybe the question media companies need to ask is "What would P.T. Barnum Do?"  
   
 Tom Grubisich urges newspapers to [leverage their Google links](https://www.ojr.org/ojr/people/TomEditor/200905/1737/) to the gaudy max instead of lamenting about the search giant.  
   

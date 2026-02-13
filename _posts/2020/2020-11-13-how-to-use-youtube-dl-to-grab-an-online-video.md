@@ -18,8 +18,6 @@ tags:
 
 **_Updated: Youtube-dl has not been updated in months, try using the actively maintained [yt-dlp](https://github.com/yt-dlp/yt-dlp)._**
 
-{% include youtube.html id="LPGr0XArk6s" %}
-
 Are you journalist that needs to snag a copy of a video for reporting, for use "on air" or for use in a digital video piece?
 
 [Youtube-dl](https://youtube-dl.org/) ~~is~~ was (use [yt-dlp](https://github.com/yt-dlp/yt-dlp)) a popular tool for downloading videos from most of the common sites [that has been around for a long time](https://rg3.name/202011071352.html). Despite its name, it works not only with YouTube, but with Twitter, Facebook, and a host of other services. It is regularly updated to keep up with changes made by social media and video platforms.

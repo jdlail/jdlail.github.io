@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Henry King, March 10, 1919-October 31, 2010](/assets_c/2010/11/henry%20king-thumb-250x349-605.webp)](/images/henry%20king.webp)This week came news in my hometown newspaper that Henry King had died at age 91.  
+[![Henry King, March 10, 1919-October 31, 2010](/assets-c/2010/11/henry%20king-thumb-250x349-605.webp)](/images/henry%20king.webp)This week came news in my hometown newspaper that Henry King had died at age 91.  
 
 Henry King was a cotton mill worker in a mill town called Franklinville, who began submitting articles to the newspaper and it began to print them. He eventually left the mill, but not the mill town for writing. He didn't get his first full-time job as a newspaper writer until he was 40.  
   

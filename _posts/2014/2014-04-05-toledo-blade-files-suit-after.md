@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![General Dynamics tank manufacture](/assets_c/2014/04/n7tank-thumb-550xauto-2496.webp)](/images/n7tank.webp)Here's another incredible example of the government's trampling of the rights of photojournalists.  
+[![General Dynamics tank manufacture](/assets-c/2014/04/n7tank-thumb-550xauto-2496.webp)](/images/n7tank.webp)Here's another incredible example of the government's trampling of the rights of photojournalists.  
   
 [The Toledo Blade filed suit Friday](https://www.toledoblade.com/local/2014/04/04/The-Blade-files-lawsuit-over-incident-at-Lima-tank-plant.html) after the Army security personnel detained two journalists outside a tank plan in Lima, Ohio. Cameras were confiscated and some photos deleted.  
   

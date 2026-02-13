@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Lauren Spuhler and Linda Nguyen](/assets_c/2010/06/061010linda6_t600-thumb-485x364-574.webp)](/images/061010linda6_t600.webp)  
+[![Lauren Spuhler and Linda Nguyen](/assets-c/2010/06/061010linda6-t600-thumb-485x364-574.webp)](/images/061010linda6_t600.webp)  
 If you're into Boonaroo, there's no better place to follow happenings (whether you are there or not) than our [Bonnaroo section](https://www.knoxville.com/bonnaroo) on knoxville.com and our [Bonnaroonews](https://twitter.com/bonnaroonews) Twitter stream.  
   
 We've posting our stuff and linking to the rest! We have one of larger coverage teams this year with [Wayne Bledsoe](https://blogs.knoxnews.com/bledsoe), [Lauren Spuhler](https://twitter.com/sugirly), [Saul Young](https://twitter.com/saulyoung "Saul Young") and [Linda Nguyen](https://twitter.com/ttlnguyen).  

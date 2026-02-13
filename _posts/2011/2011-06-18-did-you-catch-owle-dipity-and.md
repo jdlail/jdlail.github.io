@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Bonnaroo 2011](/assets_c/2011/06/bonnaroo_pano-thumb-485x168-646.webp)](/images/bonnaroo_pano.webp)
+[![Bonnaroo 2011](/assets-c/2011/06/bonnaroo-pano-thumb-485x168-646.webp)](/images/bonnaroo_pano.webp)
 
 Owle, [Dipity](https://www.dipity.com/ "Dipity") and Elph are not bands that did secret shows at the Bonnarroo festival a week ago in Manchester, Tenn. They are some of the tools that Knoxville News Sentinel visuals eidtor Jigsha Desai used to cover the massive music festival.  
   

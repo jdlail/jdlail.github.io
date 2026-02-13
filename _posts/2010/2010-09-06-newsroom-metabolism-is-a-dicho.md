@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![David Nelson](/assets_c/2010/09/0421_LOC_Nelson-thumb-150x245-602.webp)](/images/0421_LOC_Nelson.webp)Kitsap Sun Editor David Nelson [has an answer](https://www.kitsapsun.com/news/2010/sep/04/david-nelson-finding-a-newsrooms-metabolism/) for my question: Can newsroom change their "web metabolism?"  
+[![David Nelson](/assets-c/2010/09/0421-LOC-Nelson-thumb-150x245-602.webp)](/images/0421_LOC_Nelson.webp)Kitsap Sun Editor David Nelson [has an answer](https://www.kitsapsun.com/news/2010/sep/04/david-nelson-finding-a-newsrooms-metabolism/) for my question: Can newsroom change their "web metabolism?"  
   
 I wondered in a [recent blog post](/2010/08/newspaper-newsrooms-need-to-ad.html) whether newspaper newsrooms could change their "metabolism" to what the instant, want-it-now, always-on Internet demands while still predominately operating on what I'll call a metabolism of setting deadlines and schedules and assignments based on printing cycles that at best are once every 24 hours and often just once a week (once a week sections, for example). Yes, within this printing press rhythm, newsrooms also are doing breaking news updates, and Twitter and Faceobook posts, live blogging, and sending text alerts, but often just a step or two late.  
   

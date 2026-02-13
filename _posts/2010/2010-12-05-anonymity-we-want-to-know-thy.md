@@ -10,7 +10,7 @@ categories:
 - Media
 tags: [Comments]
 ---
-[![Julie Zhuo](/assets_c/2010/12/jz-thumb-250x377-611.webp)](/images/jz.webp)The debate over anonymous commenters on the Internet got amped Nov. 29 when[Julie Zhuo](https://www.linkedin.com/pub/julie-zhuo/22/113/35b), product design manager at Facebook, threw her hat into the ring with [an Op-Ed piece](https://www.nytimes.com/2010/11/30/opinion/30zhuo.html?_r=2) in the New York Times challenging content providers to discourage or ban anonymous posters.  
+[![Julie Zhuo](/assets-c/2010/12/jz-thumb-250x377-611.webp)](/images/jz.webp)The debate over anonymous commenters on the Internet got amped Nov. 29 when[Julie Zhuo](https://www.linkedin.com/pub/julie-zhuo/22/113/35b), product design manager at Facebook, threw her hat into the ring with [an Op-Ed piece](https://www.nytimes.com/2010/11/30/opinion/30zhuo.html?_r=2) in the New York Times challenging content providers to discourage or ban anonymous posters.  
   
 She wrote:  
   

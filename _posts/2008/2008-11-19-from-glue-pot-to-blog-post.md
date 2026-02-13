@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![City Editor](/assets_c/2008/11/gdn1939-thumb-150x102.webp)](/images/gdn1939.webp)Randy Neal [covers a panel discussion](https://www.knoxviews.com/node/9719) we were on yesterday at a journalism class at the University of Tennessee.
+[![City Editor](/assets-c/2008/11/gdn1939-thumb-150x102.webp)](/images/gdn1939.webp)Randy Neal [covers a panel discussion](https://www.knoxviews.com/node/9719) we were on yesterday at a journalism class at the University of Tennessee.
 
 In addition to myself, the panel consisted of Neal, the creator of knoxviews.com, former Scripps digital exec Bob Benz now of Maroon Ventures, former News Sentinel city editor and retired federal court official Don K. Ferguson, and Knox County Commissioner, blogger, journalism professor Mark Harmon.
 

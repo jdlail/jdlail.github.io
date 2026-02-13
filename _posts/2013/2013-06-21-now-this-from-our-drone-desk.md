@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Photo from Drone in Texas](/assets_c/2013/06/meatplant1drone-thumb-500xauto-2480.webp)](/images/meatplant1drone.webp)
+[![Photo from Drone in Texas](/assets-c/2013/06/meatplant1drone-thumb-500xauto-2480.webp)](/images/meatplant1drone.webp)
 
 Which news organization will be the first to have a "drone desk?"
 

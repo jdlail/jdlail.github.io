@@ -11,7 +11,7 @@ categories:
 - Media
 tags: []
 ---
-[![IMGA0409.JPG](/assets_c/2009/02/IMGA0409-thumb-485x272-424.webp)](/images/IMGA0409.webp)
+[![IMGA0409.JPG](/assets-c/2009/02/IMGA0409-thumb-485x272-424.webp)](/images/IMGA0409.webp)
 
 Inside the two-football-field-sized newsroom at the Associated Press headquarters in New York on Sunday afternoon.  
   

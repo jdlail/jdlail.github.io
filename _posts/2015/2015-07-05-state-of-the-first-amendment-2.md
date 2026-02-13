@@ -24,5 +24,5 @@ Some highlights:
 
 See [full report (PDF).](/images/FAC_SOFA15_report.pdf)
 
-[![227851-INFO.jpg](/assets_c/2015/07/227851-INFO-thumb-autox842-2529.webp)](/images/227851-INFO.webp)
+[![227851-INFO.jpg](/assets-c/2015/07/227851-INFO-thumb-autox842-2529.webp)](/images/227851-INFO.webp)
 

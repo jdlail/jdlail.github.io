@@ -11,7 +11,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Tom Chester VCC](/assets_c/2009/06/DSC_3510-thumb-250x165-483.webp)](/images/DSC_3510.webp)We journalist types typically eschew focus groups and market research about news coverage, saying we know what a news story is and we don't need no stinkin' survey to figure it out. But we are learning to measure ... and are finding it useful even if we put away our [pica poles](https://metrocolumnistsblog.dallasnews.com/archives/2008/10/word-o-the-day-pica-pole.html) long ago.  
+[![Tom Chester VCC](/assets-c/2009/06/DSC-3510-thumb-250x165-483.webp)](/images/DSC_3510.webp)We journalist types typically eschew focus groups and market research about news coverage, saying we know what a news story is and we don't need no stinkin' survey to figure it out. But we are learning to measure ... and are finding it useful even if we put away our [pica poles](https://metrocolumnistsblog.dallasnews.com/archives/2008/10/word-o-the-day-pica-pole.html) long ago.  
   
 In an excerpt from his forthcoming book _Journalism Next_ , Mark Briggs [has this about the News Sentinel's Tom Chester](https://www.journalism20.com/blog/2009/06/22/part-1-building-a-digital-audience-for-news/):  
   

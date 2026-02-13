@@ -8,7 +8,7 @@ last_modified_at: 2022-04-17 19:16:40 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2022/04/2022-04-17_14_39_IMG_0407-1.webp
+  path: /assets/wp-content/uploads/2022/04/2022-04-17-14-39-IMG-0407-1.webp
   alt: Tesla Mobile Connector Bundle
 categories:
 - Tesla

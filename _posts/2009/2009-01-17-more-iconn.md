@@ -10,6 +10,6 @@ categories:
 - Media
 tags: []
 ---
-![ICONN](/assets_c/2009/01/iconn-logo-5-thumb-250x118-421.webp)The ICONN conference at the University of Tennessee wrapped up Friday afternoon. Wasn't able to attend as much as I would have liked, but here's some links posted to [Publish2](https://www.publish2.com/).  
+![ICONN](/assets-c/2009/01/iconn-logo-5-thumb-250x118-421.webp)The ICONN conference at the University of Tennessee wrapped up Friday afternoon. Wasn't able to attend as much as I would have liked, but here's some links posted to [Publish2](https://www.publish2.com/).  
   
 [More ICONN Links](https://www.publish2.com/newsgroups/iconn/ "More ICONN Links")

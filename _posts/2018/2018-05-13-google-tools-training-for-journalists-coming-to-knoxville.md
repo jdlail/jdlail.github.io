@@ -14,7 +14,7 @@ tags:
 - Training
 - SPJ
 ---
-![SPJ Training Program in association with Google News Initiative](/assets/wp-content/uploads/2018/05/SPJGNL_Logo2_highres.webp)
+![SPJ Training Program in association with Google News Initiative](/assets/wp-content/uploads/2018/05/SPJGNL-Logo2-highres.webp)
 
 _(SPJ Training Program in association with Google News Initiative)_
 

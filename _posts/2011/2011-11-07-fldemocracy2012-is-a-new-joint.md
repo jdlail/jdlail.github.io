@@ -10,7 +10,7 @@ categories:
 - Media
 tags: [Scripps]
 ---
-[![FLDemocracy2012.com](/assets_c/2011/11/FLDemocracy2012-thumb-458x106-657.webp)](/images/FLDemocracy2012.webp)  
+[![FLDemocracy2012.com](/assets-c/2011/11/FLDemocracy2012-thumb-458x106-657.webp)](/images/FLDemocracy2012.webp)  
   
 A new Florida political web site was announced by E.W. Scripps today that leverages its newspapers and TV stations in the state.  
   

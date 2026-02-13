@@ -8,7 +8,7 @@ description: Rainwater Ramsey was a colorful pioneer on what became known as Ram
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2006/05/enlarge_rainwater-ramsey-universal-franklin-ramsey.webp
+  path: /assets/wp-content/uploads/2006/05/enlarge-rainwater-ramsey-universal-franklin-ramsey.webp
   alt: William Rainwater Ramsey and Universal Franklin Ramsey. (Unknown source)
 categories:
 - Family

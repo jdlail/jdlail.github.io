@@ -10,7 +10,7 @@ categories:
 - Video
 tags: []
 ---
-[![bootcamp.png](/assets_c/2010/12/bootcamp-thumb-485x627-613.webp)](/images/bootcamp.webp)From Val Hoeppner:  
+[![bootcamp.png](/assets-c/2010/12/bootcamp-thumb-485x627-613.webp)](/images/bootcamp.webp)From Val Hoeppner:  
   
 Freedom Forum New Media Training at the Diversity Institute will offer a Multimedia Boot Camp for Journalism Professionals and Educators Feb. 23-27, 2011.  
   

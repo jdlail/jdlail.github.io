@@ -20,7 +20,7 @@ Regardless of the legal merits of the case, if the intent was to stifle negative
   
 The comments were originally made in relative obscurity even through they appeared on public networks. Since the suit, the news story on knoxnews has been one of the site's top read and most emailed stories of the past several days. And the case is generating attention worldwide.  
   
-[![Pizza Kitchen story](/assets_c/2009/10/pizzakitchepopular-thumb-485x272-516.webp)](/images/pizzakitchepopular.webp)_(This is a screen shot of the "most emailed" list on the knoxnews.com Web site on Oct. 6, 2009.)_  
+[![Pizza Kitchen story](/assets-c/2009/10/pizzakitchepopular-thumb-485x272-516.webp)](/images/pizzakitchepopular.webp)_(This is a screen shot of the "most emailed" list on the knoxnews.com Web site on Oct. 6, 2009.)_  
   
 Note that attorneys for the marketing company didn't sue Facebook or Twitter where the comments appeared; they sued the commenter.  
   

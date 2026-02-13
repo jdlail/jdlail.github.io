@@ -10,6 +10,6 @@ categories:
 - Media
 tags: []
 ---
-[![State Your Case](/assets_c/2008/07/korda1-thumb-500x331.webp)](/images/korda1.webp)
+[![State Your Case](/assets-c/2008/07/korda1-thumb-500x331.webp)](/images/korda1.webp)
 
 Glenn Reynolds photo taken during a break in the "State Your Case" radio show on Sunday aftenroon. Host George Korda is in the foreground, I'm on the left and Michael Silence is in the center. [More photos here](https://www.flickr.com/search/?w=96661011%40N00&q=wnox&m=tags).  

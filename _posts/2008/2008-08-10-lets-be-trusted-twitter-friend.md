@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Twitter](/assets_c/2008/05/twitterpng-thumb-150x96.webp)](/images/twitterpng.webp)Some newspapers have been experimenting with Twitter since its early days (you know, two years ago) and the number of newspaper-affiliated accounts continues to grow, according to Erica Smith's [stats](https://graphicdesignr.net/blog/2008/08/03/newspapers-that-twitter-july-numbers/).  
+[![Twitter](/assets-c/2008/05/twitterpng-thumb-150x96.webp)](/images/twitterpng.webp)Some newspapers have been experimenting with Twitter since its early days (you know, two years ago) and the number of newspaper-affiliated accounts continues to grow, according to Erica Smith's [stats](https://graphicdesignr.net/blog/2008/08/03/newspapers-that-twitter-july-numbers/).  
   
 It's up to 303. That sounds great. Newspapers innovating with a new technology. Rah, rah!  
   

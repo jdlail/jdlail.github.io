@@ -11,7 +11,7 @@ categories:
 - Media
 tags: []
 ---
-[![CheerleaderLibelLaw2l.jpg](/assets_c/2014/05/CheerleaderLibelLaw2l-thumb-580xauto-2499.webp)](/images/CheerleaderLibelLaw2l.webp)
+[![CheerleaderLibelLaw2l.jpg](/assets-c/2014/05/CheerleaderLibelLaw2l-thumb-580xauto-2499.webp)](/images/CheerleaderLibelLaw2l.webp)
 
 The fate of a law that was passed in the infancy of the commercial Internet and which created the legal underpinnings for everything from anonymous comments by trolls on news stories to your pet photo on Facebook was argued today in the U.S. Sixth Circuit Court of Appeals in Cincinnati.
 

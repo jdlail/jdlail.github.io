@@ -11,7 +11,7 @@ categories:
 tags: [Facebook]
 ---
   
-[![Bouncer](/assets_c/2011/03/bouncers-thumb-250x239-624.webp)](/images/bouncers.webp)
+[![Bouncer](/assets-c/2011/03/bouncers-thumb-250x239-624.webp)](/images/bouncers.webp)
 
 The introduction of the new Facebook comment plugin and the legal efforts to force the Indianapolis Star to disclose information it may have on anonymous commenters makes it a salient time to post an updated list of comments links.  
   

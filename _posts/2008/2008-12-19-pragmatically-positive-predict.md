@@ -10,7 +10,7 @@ categories:
 - Carnival
 tags: []
 ---
-[![The Great Depression](/assets_c/2008/12/2_great_depression-thumb-150x112-413.webp)](/images/2_great_depression.webp)This month's [Carnival of Journalism](https://www.carnivalofjournalism.com/) assignment is tough.  
+[![The Great Depression](/assets-c/2008/12/2-great-depression-thumb-150x112-413.webp)](/images/2_great_depression.webp)This month's [Carnival of Journalism](https://www.carnivalofjournalism.com/) assignment is tough.  
   
 Dave "Digidave" Cohn of [Spot.Us](https://spot.us/) suggested we make "New Media Predictions for 2009" and that we might be even so bold as to try to make positive New Media predictions.  
   

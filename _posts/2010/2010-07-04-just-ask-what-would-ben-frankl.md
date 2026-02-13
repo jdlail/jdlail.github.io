@@ -18,7 +18,7 @@ I saw Journal Register CEO John Paton talk [about this](https://jrcbenfranklinpr
   
 Jon Cooper, vice president of content for Journal Register (and pictured below) [said](https://jrcbenfranklinproject.wordpress.com/2010/07/04/let-freedom-ring-and-let-change-continue/):  
   
-[![Jon Cooper of the Journal Register](/assets_c/2010/07/BenNewsroom-thumb-150x87-583.webp)](/images/BenNewsroom.webp)
+[![Jon Cooper of the Journal Register](/assets-c/2010/07/BenNewsroom-thumb-150x87-583.webp)](/images/BenNewsroom.webp)
 
 > What began as a quiet conversation back in April has become a wide open opportunity. What seemed impossible less than 90 days ago has become reality and has left us asking "why not?" and "what's next?"  
 >

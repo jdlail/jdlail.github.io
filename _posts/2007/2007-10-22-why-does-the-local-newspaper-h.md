@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Jason Calacanis](/assets_c/2007/10/jasoncalacanis-thumb-262x216-thumb-262x216.webp)](https://pjnet.org/post/1613/) A video clip of Jason Calacanis in Greensboro, N.C., last week talking about [why it must suck to own newspapers.](https://pjnet.org/post/1613/)
+[![Jason Calacanis](/assets-c/2007/10/jasoncalacanis-thumb-262x216-thumb-262x216.webp)](https://pjnet.org/post/1613/) A video clip of Jason Calacanis in Greensboro, N.C., last week talking about [why it must suck to own newspapers.](https://pjnet.org/post/1613/)
 
 > I wouldn’t want to be in that business…I’m not so tied to the idea that there has to be a local paper….Maybe a local blog is a better concept….Maybe a group of local bloggers having their work appear in one location is better.
 

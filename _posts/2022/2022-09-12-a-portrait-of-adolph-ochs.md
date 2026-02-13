@@ -26,5 +26,5 @@ I dug out these photos from my photo archive:
 
 Please consider attending one or all of the ETSPJ events this month!
 
-![Portrait of Adolph Ochs in the National Portrait Gallery in Washington](/assets/wp-content/uploads/2022/09/IMG_5389.webp)
-Portrait of Adolph Ochs in the National Portrait Gallery in Washington. The portrait was painted by Philip de Laszlo. Photo by Jack D. Lail in 2017. ![Information on Adolph Ochs with National Portrait Gallery painting](/assets/wp-content/uploads/2022/09/IMG_5391.webp)Information on Adolph Ochs with National Portrait Gallery painting by Philip de Laszlo. Photo by Jack D. Lail in 2017.
+![Portrait of Adolph Ochs in the National Portrait Gallery in Washington](/assets/wp-content/uploads/2022/09/IMG-5389.webp)
+Portrait of Adolph Ochs in the National Portrait Gallery in Washington. The portrait was painted by Philip de Laszlo. Photo by Jack D. Lail in 2017. ![Information on Adolph Ochs with National Portrait Gallery painting](/assets/wp-content/uploads/2022/09/IMG-5391.webp)Information on Adolph Ochs with National Portrait Gallery painting by Philip de Laszlo. Photo by Jack D. Lail in 2017.

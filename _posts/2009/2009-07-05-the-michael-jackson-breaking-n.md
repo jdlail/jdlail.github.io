@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Famous by John Campbell](/assets_c/2009/07/famous-thumb-585x477-485.webp)](/images/famous.webp)  
+[![Famous by John Campbell](/assets-c/2009/07/famous-thumb-585x477-485.webp)](/images/famous.webp)  
 The above comic by [John Campbell](https://stereotypist.livejournal.com/131545.html) is a cynically funny view of news coverage of a celebrity death whether it's Michael Jackson, whose death inspired the above, or former NFL quarterback Steve McNair's yesterday in a bloody Nashville condo.  
   
 Continuing a pattern we've seen in the past with [Tim Russert' s death](/2008/06/blink-and-youre-beat.html) and other breaking news events, Wikipedia was one of the earliest sources of news on the death of Michael Jackson ([x17online.com](https://x17online.com/), not TMZ had it first, apparently).  

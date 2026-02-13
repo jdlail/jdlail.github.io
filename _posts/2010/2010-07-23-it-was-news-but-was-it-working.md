@@ -24,7 +24,7 @@ Delta airliner blew a tire taking off from Atlanta for Portland blew a tire. Cir
   
 All that ended Thursday when Foulk posted a Facebook post that said:  
   
-[![Dave Foulk said](/assets_c/2010/07/fouksaid-thumb-485x80-591.webp)](/images/fouksaid.webp)That generated 57 comments (at least by early this morning); most of them were sad, many of them thanked him for the service he had provided, several were mad at the radio station he works for.  
+[![Dave Foulk said](/assets-c/2010/07/fouksaid-thumb-485x80-591.webp)](/images/fouksaid.webp)That generated 57 comments (at least by early this morning); most of them were sad, many of them thanked him for the service he had provided, several were mad at the radio station he works for.  
   
 I'm not privy to all (or any of) the factors the radio station's management or Foulk considered, but discussions about the role of Social Media within news organizations and how it fits into newsgathering is a hot topic. How Social Meida fits into the organization's image and how it figures into the company's bottom line efforts are questions being discussed by news executives and publishers and general managers and station managers nearly everywhere.  
   
@@ -36,7 +36,7 @@ If I had the answers, I'd be a Social Media consultant, or failing at that, a me
 
 This last point cannot be overlooked as much as news organizations would like people to go our website or channel or newspaper. The audience now wants news to come to them. Or as a [college student told a market researcher](https://www.huffingtonpost.com/josh-young/if-news-is-that-important_b_307185.html): "If the news is that important, it will find me."  
   
-[![Brian Ellis' comment](/assets_c/2010/07/foukellis-thumb-485x195-595.webp)](/images/foukellis.webp)Ubiquity of the media organization's brand is a smarter strategy than a "play in my sandbox" approach. If you don't have audience as a media company, you have nothing in any media supported by advertising. But where's the money? Hopefully, that ubiquity will draw users to your station or channel or newspaper or website where you do have advertising environments.  
+[![Brian Ellis' comment](/assets-c/2010/07/foukellis-thumb-485x195-595.webp)](/images/foukellis.webp)Ubiquity of the media organization's brand is a smarter strategy than a "play in my sandbox" approach. If you don't have audience as a media company, you have nothing in any media supported by advertising. But where's the money? Hopefully, that ubiquity will draw users to your station or channel or newspaper or website where you do have advertising environments.  
   
 Where does the individual's brand begin and the employer's brand begin? Unfortunately there's no bright yellow line because the person is the human face of the faceless company. How that is managed is an evolving exploration for both the people and the companies they work for with various strategies and policies being tried, modiied, abandoned and implemented.  
   

@@ -11,7 +11,7 @@ categories:
 - Media
 tags: []
 ---
-[![Kodak Brownie](/assets_c/2009/01/brownie-thumb-150x160-418.webp)](/images/brownie.webp)Glenn Reynolds of Instapundit [argues in a post last night](https://pajamasmedia.com/instapundit/65187/) that the relationship between blogs and Mainstream Media ought to be viewed as symbiotic rather than competitive or confrontational.  
+[![Kodak Brownie](/assets-c/2009/01/brownie-thumb-150x160-418.webp)](/images/brownie.webp)Glenn Reynolds of Instapundit [argues in a post last night](https://pajamasmedia.com/instapundit/65187/) that the relationship between blogs and Mainstream Media ought to be viewed as symbiotic rather than competitive or confrontational.  
   
 He notes that bloggers who comment on or cover news seem to raise the ire of traditional journalists in a way that [Craigslist](https://www.craigslist.org/about/sites) doesn't. Yet Craigslist has done far more damage to economic model that underpins their ability to do journalism than anything that ever came out of the blogosphere.  
   

@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![UT's Bud Ford and WBIR's Bill Shory](/assets_c/2010/01/budfordbillshory-thumb-250x225-539.webp)](/images/budfordbillshory.webp)
+[![UT's Bud Ford and WBIR's Bill Shory](/assets-c/2010/01/budfordbillshory-thumb-250x225-539.webp)](/images/budfordbillshory.webp)
 
 > Too often, we let the sources set the terms. Even as (WBIR News Director) Bill (Shory) states this obvious truth, the crowd of his peers nearly shouts him down, yelling "Yes, he does!" That's absurd. This group of reporters in a major sports market is so cowed by the university media machine that it doesn't even know it's the victim here. Talk about Stockholm Syndrome. Perhaps the new term for sports reporter/hostages who've spent so much time under the thumb of sports information people they don't even know they're victims anymore should be "Knoxville Syndrome."  
 >

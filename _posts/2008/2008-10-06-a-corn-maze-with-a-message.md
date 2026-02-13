@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Summitt Corn Maze](/assets_c/2008/10/benton-thumb-288x188.webp)](/images/benton.webp)
+[![Summitt Corn Maze](/assets-c/2008/10/benton-thumb-288x188.webp)](/images/benton.webp)
 
 Diane Murray on the UT Sports e-mail list [posted a link](https://www.cornfieldmaze.com/sites.php?ID=&username=tnbenton) to this corn maze honoring legendary UT women's basketball coach, Pat Head Summitt.  
   

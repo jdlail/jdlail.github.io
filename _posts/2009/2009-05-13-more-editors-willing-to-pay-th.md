@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Fail Whate](/assets_c/2009/05/twitter-fail-whale-thumb-150x112-456.gif)](/images/twitter-fail-whale.gif)Despite the buzz on paid content, subscription sites and micro-payments, the idea that putting up pay walls and toll booths to save newspapers seems destined to only hasten the erosion of community relevance for newspapers.  
+[![Fail Whate](/assets-c/2009/05/twitter-fail-whale-thumb-150x112-456.gif)](/images/twitter-fail-whale.gif)Despite the buzz on paid content, subscription sites and micro-payments, the idea that putting up pay walls and toll booths to save newspapers seems destined to only hasten the erosion of community relevance for newspapers.  
   
 If the newspaper industry were Twitter, going to paid content most certainly would be a "Fail Whale" moment. But unlike Twitter all would not be well in just a few minutes.  
   

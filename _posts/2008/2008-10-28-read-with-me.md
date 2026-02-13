@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Brains 25 cents](/assets_c/2008/10/brainsii-327x500-thumb-200x305.webp)](/images/brainsii-327x500.webp)  
+[![Brains 25 cents](/assets-c/2008/10/brainsii-327x500-thumb-200x305.webp)](/images/brainsii-327x500.webp)  
   
 What I've been [reading lately](https://www.google.com/reader/shared/05008038728362665362).  
   

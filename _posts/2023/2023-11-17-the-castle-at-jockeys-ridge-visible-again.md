@@ -7,7 +7,7 @@ last_modified_at: 2024-02-24 21:46:42 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2023/11/Outer_Banks_Castle_161-scaled.webp
+  path: /assets/wp-content/uploads/2023/11/Outer-Banks-Castle-161-scaled.webp
   alt: Castle at Jockey's Ridge, North Carolina
 categories:
 - Environment
@@ -22,7 +22,7 @@ Above is a photo I took of the castle sometime in the 1990s and it was well expo
 
 Below is recent posting on Facebook.
 
-![The castle at Jockey's Ridge](/assets/wp-content/uploads/2023/11/castlesticking-up_fitted.webp)Questions about the castle’s origins began surfacing in early November, when photos began appearing on Facebook page. Facebook screengrab
+![The castle at Jockey's Ridge](/assets/wp-content/uploads/2023/11/castlesticking-up-fitted.webp)Questions about the castle’s origins began surfacing in early November, when photos began appearing on Facebook page. Facebook screengrab
 
 The castle was part of a miniature golf course that operated in the late 1970s through the late 1980s. Parts of the course are believed to be under 30 to 40 feet of sand, park superintendent Joy Greenwood told the News & Observer.
 

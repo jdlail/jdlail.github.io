@@ -12,7 +12,9 @@ tags: []
 ---
 Alison Bethel McKenzie, the new executive director of the Society of Professional Journalists, will speak to the East Tennessee SPJ chapter on May 10.
 
-![Alison Bethel McKenzie](/assets/wp-content/uploads/2018/04/alisonbethelmckenzie.webp)Alison Bethel McKenzie, SPJ executive director.
+![Alison Bethel McKenzie](/assets/wp-content/uploads/2018/04/alisonbethelmckenzie.webp)
+
+Alison Bethel McKenzie, SPJ executive director.
 
 McKenzie, the first African-American to serve as SPJ executive director, will speak at 7 p.m. at the [Knoxville Entreprenuer Center,](https://knoxec.com/) 17 Market Square Suite 10 (in the building where the Knoxville Chamber is).
 
@@ -33,4 +35,3 @@ Early in her career, she worked as a reporter and editor at newspapers in Louisi
 Bethel McKenzie is a journalism graduate of Howard University She studied non-profit leadership at Harvard Kennedy School of Executive Education and is nearing completion of an MBA in media leadership at the University of Cumbria (U.K.) in collaboration with the Robert F. Kennedy College (Switzerland).
 
 Please join us on May 10.
-

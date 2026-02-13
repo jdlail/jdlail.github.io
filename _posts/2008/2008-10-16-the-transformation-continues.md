@@ -10,7 +10,7 @@ categories:
 - Video
 tags: []
 ---
-[![Frank Munger at ORNL](/assets_c/2008/10/101608jagblog-thumb-150x122.webp)](/images/101608jagblog.webp)It doesn't take a Cray Jaguar supercomputer to figure out journalism is changing, but we used one anyway.  
+[![Frank Munger at ORNL](/assets-c/2008/10/101608jagblog-thumb-150x122.webp)](/images/101608jagblog.webp)It doesn't take a Cray Jaguar supercomputer to figure out journalism is changing, but we used one anyway.  
   
 > OK, I know I look like an idiot, but these are the things we do these days to add value to our news products.  
 >

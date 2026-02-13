@@ -11,7 +11,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Arenal Volcano](/assets_c/2008/10/arenal-volcano-4-thumb-150x99.webp)](/images/arenal-volcano-4.webp)The [Innovator's Dilemma](https://en.wikipedia.org/wiki/Disruptive_technology) for newspapers is that while they must radically adapt to the changing media landscape and the economic realities of an economic downturn, a sizable number of loyal print readers aren't ready to turn the page with them.  
+[![Arenal Volcano](/assets-c/2008/10/arenal-volcano-4-thumb-150x99.webp)](/images/arenal-volcano-4.webp)The [Innovator's Dilemma](https://en.wikipedia.org/wiki/Disruptive_technology) for newspapers is that while they must radically adapt to the changing media landscape and the economic realities of an economic downturn, a sizable number of loyal print readers aren't ready to turn the page with them.  
   
 In a [snarky blog post](https://blogs.tampabay.com/media/2008/10/amid-a-deluge-o.html) at the Tampa Tribune's cross bay rival tampabay.com, TV/media critic Eric Deggans wrote:  
   

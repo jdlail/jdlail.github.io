@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Hummingbird_66](/assets_c/2008/08/HB_0066-thumb-485x322.webp)](/images/HB_0066.webp)  
+[![Hummingbird_66](/assets-c/2008/08/HB-0066-thumb-485x322.webp)](/images/HB_0066.webp)  
 More hummingbird photos [here](https://www.flickr.com/search/?q=hummingbird&w=96661011%40N00).  
 
 

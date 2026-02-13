@@ -11,7 +11,7 @@ categories:
 - Carnival
 tags: [Journalism, Media Strategy]
 ---
-[![Obama text](/assets_c/2008/11/3006992794_86303154c6_m-thumb-150x150.webp)](/images/3006992794_86303154c6_m.webp)
+[![Obama text](/assets-c/2008/11/3006992794-86303154c6-m-thumb-150x150.webp)](/images/3006992794_86303154c6_m.webp)
 
 There's been a lot written about the lessons of President-elect Barack Obama's "Triple O" Internet campaign for marketers, but little on lessons for media and journalists.  
   

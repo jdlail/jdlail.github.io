@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Paid Content at Newspapers](/assets_c/2014/04/paidcontentpie01-thumb-autox290-2491.webp)](/images/paidcontentpie01.webp)2013 was the year when paywalls became the norm for newspapers.
+[![Paid Content at Newspapers](/assets-c/2014/04/paidcontentpie01-thumb-autox290-2491.webp)](/images/paidcontentpie01.webp)2013 was the year when paywalls became the norm for newspapers.
 
 70 percent of newspapers now have some sort of paywall (see pie chart on right), according to a [survey by the Reynolds Journalism Institute](https://www.rjionline.org/news/survey-newspaper-online-paid-content-models-now-norm). That's up from 41 percent in 2011 and 47 percent in 2012.
 

@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![News Sentinel newsroom VCC](/assets_c/2009/11/knsnewsroomvcc-thumb-200x133-523.webp)](/images/knsnewsroomvcc.webp)E.W. Scripps CEO Rich Boehne is getting some kudos for focusing on editorial quality and training even as the economics of the media business have forced painful cutbacks.  
+[![News Sentinel newsroom VCC](/assets-c/2009/11/knsnewsroomvcc-thumb-200x133-523.webp)](/images/knsnewsroomvcc.webp)E.W. Scripps CEO Rich Boehne is getting some kudos for focusing on editorial quality and training even as the economics of the media business have forced painful cutbacks.  
   
 A large training program focused on storytelling has launched amid the media industry recession for the company's 10 TV stations.  
   

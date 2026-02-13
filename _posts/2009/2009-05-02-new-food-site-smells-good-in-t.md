@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Food.com](/assets_c/2009/05/foodcom1-thumb-200x111-451.webp)](/images/foodcom1.webp)Influential tech site [TechCrunch](https://www.techcrunch.com/2009/05/01/online-recipe-search-engine-foodcom-is-the-kayakcom-for-recipes/) takes a look at Knoxville-based [Scripps Networks](https://www.google.com/finance?q=sni)' soft-launched [Food.com](https://www.food.com/), a beta search engine recipe site that TechCrunch heralds as the [Kayak.com](https://www.kayak.com/) for recipes.  
+[![Food.com](/assets-c/2009/05/foodcom1-thumb-200x111-451.webp)](/images/foodcom1.webp)Influential tech site [TechCrunch](https://www.techcrunch.com/2009/05/01/online-recipe-search-engine-foodcom-is-the-kayakcom-for-recipes/) takes a look at Knoxville-based [Scripps Networks](https://www.google.com/finance?q=sni)' soft-launched [Food.com](https://www.food.com/), a beta search engine recipe site that TechCrunch heralds as the [Kayak.com](https://www.kayak.com/) for recipes.  
   
 I didn't know Kayak.com was so ubiquitous to reach benchmark comparison status, but, hey, TechCrunch lives somewhere between Alpha and Beta so maybe Kayak seems like an old, established player .  
   

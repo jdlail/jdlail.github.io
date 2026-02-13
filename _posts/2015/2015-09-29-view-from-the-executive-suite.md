@@ -11,7 +11,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Chicago Tribune](/assets_c/2015/09/tribune-thumb-600x338-2535.webp)](/images/tribune.webp)
+[![Chicago Tribune](/assets-c/2015/09/tribune-thumb-600x338-2535.webp)](/images/tribune.webp)
 
 These are trends I've never seen.
 

@@ -10,7 +10,7 @@ categories:
 - Media
 tags: [Newspapers]
 ---
-[![David Carr of the New York Times](/assets_c/2011/11/3-thumb-485x272-659.webp)](/images/3.webp)  
+[![David Carr of the New York Times](/assets-c/2011/11/3-thumb-485x272-659.webp)](/images/3.webp)  
   
 One of the personal treats of [FutureMedia Fest 2011](https://www.futuremediaglobal.com/futuremedia-fest/2011) at the Georgia Tech Conference Center on Tuesday was getting to see "[Page One: Inside The New York Time](https://www.magpictures.com/pageone/#)s."  
   

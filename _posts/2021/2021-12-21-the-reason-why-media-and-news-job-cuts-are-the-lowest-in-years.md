@@ -24,7 +24,7 @@ In 2020 an astounding [16,160 newsroom jobs were lost](https://www.challengergra
 
 Poynter has been [maintaining a list](https://www.poynter.org/business-work/2021/here-are-the-newsroom-layoffs-furloughs-and-closures-caused-by-the-coronavirus/) of jobs losses during the pandemic. The Pew Research Center said earlier this year the nunmber of [newsroom jobs](https://www.pewresearch.org/fact-tank/2021/07/13/u-s-newsroom-employment-has-fallen-26-since-2008/) have fallen 26% since 2008 with big declines in newspaper newsrooms and big increases (but not as big as the newspaper declines) in digital-native newsrooms.
 
-![](/assets/wp-content/uploads/2021/12/ft_2021.07.13_newsroomemployment_03.webp)
+![](/assets/wp-content/uploads/2021/12/ft-2021.07.13-newsroomemployment-03.webp)
 
 Newsroom employment (Pew Research Center)
 

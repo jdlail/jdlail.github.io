@@ -25,17 +25,17 @@ The April 1st date is by design and by humor; it's roughly the anniversary of wh
   
 Here's a look at what is on tap for the workshop.  
   
-[![Grant Moise](/assets_c/2011/03/Moise003-thumb-150x210-628.webp)](/images/Moise003.webp)Grant Steven Moise, Digital General Manager for the [Dallas Morning News](https://www.dallasnews.com/ "The Dallas Morning News"), will talk about how the mobile web and tablet "apps" fit into the newspaper's ambitious paid-content strategies that were just implemented last week.  
+[![Grant Moise](/assets-c/2011/03/Moise003-thumb-150x210-628.webp)](/images/Moise003.webp)Grant Steven Moise, Digital General Manager for the [Dallas Morning News](https://www.dallasnews.com/ "The Dallas Morning News"), will talk about how the mobile web and tablet "apps" fit into the newspaper's ambitious paid-content strategies that were just implemented last week.  
   
 What the Dallas Morning News is doing is one of the most closely watched paid-content initiatives of 2011.  
   
 Apps and HMTL 5 sites are key components of its plan to charge for high quality unique content. Moise will be giving a fresh report of the battlefront!  
   
-[![Bill Tallent](/assets_c/2011/03/billtallent-thumb-150x225-630.webp)](/images/billtallent.webp)Bill Tallent, CEO of [Mercury Interactive](https://www.mercuryintermedia.com/), will talk about "Deciphering Disruption."  
+[![Bill Tallent](/assets-c/2011/03/billtallent-thumb-150x225-630.webp)](/images/billtallent.webp)Bill Tallent, CEO of [Mercury Interactive](https://www.mercuryintermedia.com/), will talk about "Deciphering Disruption."  
   
 Digital technologies have disrupted many industries and their established business models. While websites began the disruption of the printing medium, touch computers seem to be accelerating the disruptive effects. "Deciphering" the disruption is the key to building new competitive business models. This talk will focus on understanding why the disruption is accelerating, characteristics of consumers embracing the new medium, and ways to build the kind of applications that will maximize the revenues from news via touch screens.  
   
-[![Rex Hammock](/assets_c/2011/03/rex_hammock300x393-thumb-150x197-632.webp)](/images/rex_hammock300x393.webp)Rex Hammock of [Hammock Inc.](https://www.hammock.com/) will do a presentation called: "The Reader Decides: How Magazines are Learning What Screen Publishing is All About"  
+[![Rex Hammock](/assets-c/2011/03/rex-hammock300x393-thumb-150x197-632.webp)](/images/rex_hammock300x393.webp)Rex Hammock of [Hammock Inc.](https://www.hammock.com/) will do a presentation called: "The Reader Decides: How Magazines are Learning What Screen Publishing is All About"  
   
 The magazine industry is comprised of companies ranging from giant media corporations to   family-owned community monthlies targeting niches ranging from parents to pet-owners to indie-music loving hipsters. From multi-million dollar mega-apps to dorm-room developed content reading apps, the iPad is proving to be both a launch pad of opportunity and a landing pad for humbling crashes. What has year one of the iPad taught magazine publishers  that helps predict the future of screen-based media.  
   

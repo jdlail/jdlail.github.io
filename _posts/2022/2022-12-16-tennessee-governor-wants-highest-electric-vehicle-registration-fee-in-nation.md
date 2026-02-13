@@ -8,7 +8,7 @@ last_modified_at: 2023-03-07 15:20:52 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2022/12/Four_Tesla_Electric_Vehicles_Columbus_Texas_Supercharger_cropped_01.webp
+  path: /assets/wp-content/uploads/2022/12/Four-Tesla-Electric-Vehicles-Columbus-Texas-Supercharger-cropped-01.webp
   alt: Photo by Ed Uthman. Creative Commons license. Via WikiMedia Commons.
 categories:
 - Tesla

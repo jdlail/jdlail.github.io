@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-> [![Newspaper Correction](/assets_c/2010/11/papercor-1-thumb-250x182-607.webp)](/images/papercor-1.webp)We in the press talk a great game about correcting our errors, but in the end do a piss-poor job backing it up. (An [academic study of corrections](https://www.regrettheerror.com/2007/08/16/newspaper-corrections-tip-of-the-iceberg/) found that only two per cent of verified factual errors were corrected by newspapers. Perhaps piss-poor is too generous...)  
+> [![Newspaper Correction](/assets-c/2010/11/papercor-1-thumb-250x182-607.webp)](/images/papercor-1.webp)We in the press talk a great game about correcting our errors, but in the end do a piss-poor job backing it up. (An [academic study of corrections](https://www.regrettheerror.com/2007/08/16/newspaper-corrections-tip-of-the-iceberg/) found that only two per cent of verified factual errors were corrected by newspapers. Perhaps piss-poor is too generous...)  
 >
 
 \-- [Craig Silverman](https://newsbrief.posterous.com/new-cjr-column-the-state-of-online-correction)  

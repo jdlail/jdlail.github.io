@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Election Tweets](/assets_c/2008/11/freshsqueezed-thumb-275x292.webp)](/images/freshsqueezed.webp)In an email today, William Beutler, Innovation Manager at New Media Strategies, pointed to [a new site that launched on election day](https://anorangeamerica.com/):  
+[![Election Tweets](/assets-c/2008/11/freshsqueezed-thumb-275x292.webp)](/images/freshsqueezed.webp)In an email today, William Beutler, Innovation Manager at New Media Strategies, pointed to [a new site that launched on election day](https://anorangeamerica.com/):  
   
 > "Created by my team at New Media Strategies and powered by our long-time clients Tropicana/PepsiCo, we're calling it Freshly Squeezed Election Tweets.  
 >

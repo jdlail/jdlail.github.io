@@ -11,7 +11,7 @@ categories:
 tags: []
 ---
   
-[![Michael Moore website](/assets_c/2010/07/MichaelMoore.com_1278795283741-thumb-300x535-585.webp)](/images/MichaelMoore.com_1278795283741.webp)Michael Moore is an artistic and intellectual thief.  
+[![Michael Moore website](/assets-c/2010/07/MichaelMoore.com-1278795283741-thumb-300x535-585.webp)](/images/MichaelMoore.com_1278795283741.webp)Michael Moore is an artistic and intellectual thief.  
   
 Yes, Michael Moore, the American filmmaker, author, political commentator and self-professed liberal who enjoys the skewering the ethical transgressions of corporate organizations.  
   

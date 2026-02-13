@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![TN Transparency 2.0](/assets_c/2011/03/tennessee-opentransparency2-thumb-485x374-636.webp)](/images/tennessee-opentransparency2.webp)  
+[![TN Transparency 2.0](/assets-c/2011/03/tennessee-opentransparency2-thumb-485x374-636.webp)](/images/tennessee-opentransparency2.webp)  
 In the [second annual ranking](https://www.uspirg.org/home/reports/report-archives/tax--budget-policy/tax--budget-policy--reports/following-the-money-2011) of states' progress toward new standards of "comprehensive, one-stop, one-click budget accountability and accessibility," Tennesse gets a "D-."  
   
 The ranking of how states are achieving [Transparency 2.0](https://sunlightfoundation.com/blog/2009/04/15/transparency-20/) standards was done by [U.S. PIRG](https://www.uspirg.org/), the federation of state Public Interest Research Groups (PIRGs)  

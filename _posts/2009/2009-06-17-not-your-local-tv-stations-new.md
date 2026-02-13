@@ -10,7 +10,7 @@ categories:
 - Video
 tags: []
 ---
-[![702.tv](/assets_c/2009/06/702-full_page_LVWeekly-thumb-250x315-480.webp)](/images/702-full_page_LVWeekly.webp)Can a newspaper do local TV? One of the most ambitious efforts yet just launched in Las Vegas with a [brassy party](https://www.lasvegasweekly.com/photos/galleries/2009/jun/12/702launch2/34604/). Hey, it's Vegas, baby.  
+[![702.tv](/assets-c/2009/06/702-full-page-LVWeekly-thumb-250x315-480.webp)](/images/702-full_page_LVWeekly.webp)Can a newspaper do local TV? One of the most ambitious efforts yet just launched in Las Vegas with a [brassy party](https://www.lasvegasweekly.com/photos/galleries/2009/jun/12/702launch2/34604/). Hey, it's Vegas, baby.  
   
 [Greenspun Interactive](https://www.gmgvegas.com/) is doing a half-hour show called 702.tv on Tuesdays and Thursdays in the 10:30 p.m. slot on a cable channel in Las Vegas. As planned, it will go to five days a week in the fall.  
   

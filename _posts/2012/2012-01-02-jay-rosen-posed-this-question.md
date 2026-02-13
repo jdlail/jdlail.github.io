@@ -20,7 +20,7 @@ jayrosen_nyu
 
 I wasn't paying attention to my Twitter feed on Sunday so I have the luxury of reading John Robinson's excellent piece:  [A death in the family: How "our newspaper" became "the newspaper."](https://johnlrobinson.com/2012/01/a-death-in-the-family-how-our-newspaper-became-the-newspaper/)  There's a pretty good discussion going in the comments as well.  
   
-[![Fact & Fiction](/assets_c/2012/01/457px-Fact_%26_Fiction_by_Norman_Rockwell_1917-thumb-200x262-664.webp)](/images/457px-Fact_%26_Fiction_by_Norman_Rockwell_1917.webp)I'm not so sure it's as Norman Rockwellish as Jay Rosen seems to suggest in the "our paper" vs "the paper" debate. If it is, that may have vanished more than 35 years ago. In a comment on Robinson's piece, media consultant [Terry Heaton](https://www.thepomoblog.com/) suggests maybe it happened in the early '70s with Watergate.  
+[![Fact & Fiction](/assets-c/2012/01/457px-Fact-%26-Fiction-by-Norman-Rockwell-1917-thumb-200x262-664.webp)](/images/457px-Fact_%26_Fiction_by_Norman_Rockwell_1917.webp)I'm not so sure it's as Norman Rockwellish as Jay Rosen seems to suggest in the "our paper" vs "the paper" debate. If it is, that may have vanished more than 35 years ago. In a comment on Robinson's piece, media consultant [Terry Heaton](https://www.thepomoblog.com/) suggests maybe it happened in the early '70s with Watergate.  
   
 Maybe it was even earlier.  
   

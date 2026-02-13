@@ -10,7 +10,7 @@ categories:
 - Carnival
 tags: []
 ---
-[![4178265189_4785cf3fa5.jpg](/assets_c/2011/10/4178265189_4785cf3fa5-thumb-485x336-655.webp)](https://www.flickr.com/photos/aigle_dore/4178265189/)  
+[![4178265189_4785cf3fa5.jpg](/assets-c/2011/10/4178265189-4785cf3fa5-thumb-485x336-655.webp)](https://www.flickr.com/photos/aigle_dore/4178265189/)  
 Another blogging platform; another next Twitter or Facebook or YouTube; another must-have smart phone app; another groundbreaking piece of hardware that will revolutionize ... After awhile, it's just so much beta burnout.  
   
 If you are trying to lead the way to whatever is next for journalism (which I suspect is true of many of the readers of the [Carnival of Journalism](https://carnivalofjournalism.com/)), then you have been there and done that.  

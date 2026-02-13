@@ -11,7 +11,7 @@ categories:
 tags: [Newspapers]
 ---
 
-[![Celebrating Pulitzer Prize](/assets_c/2010/05/bristolheraldwin-thumb-150x130-568.webp)](/images/bristolheraldwin.webp)In an industry hard hit by declining fortunes, layoffs, furloughs, pay cuts and dizzying org-chart  reorganizations, there's been something that has brought smiles and way-to-go comments from many a journalist.  
+[![Celebrating Pulitzer Prize](/assets-c/2010/05/bristolheraldwin-thumb-150x130-568.webp)](/images/bristolheraldwin.webp)In an industry hard hit by declining fortunes, layoffs, furloughs, pay cuts and dizzying org-chart  reorganizations, there's been something that has brought smiles and way-to-go comments from many a journalist.  
   
 It's the story, as Bristol Herald Courier Editor J. Todd Foster [has put it](https://www2.tricities.com/tri/news/opinion/columnists/article/j._todd_foster_column_this_is_the_little_paper_that_could_..._and_did/45097/), of the "little engine that could."  
   

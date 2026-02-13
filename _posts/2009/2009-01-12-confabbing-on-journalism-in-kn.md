@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![ICONN](/assets_c/2009/01/iconn-logo-5-thumb-250x118-421.webp)](/images/iconn-logo-5.webp)I'm on the program of the founding conference of ICONN or the [Intercollegiate Online News Network](https://www.facebook.com/group.php?gid=48807420867&ref=mf).  
+[![ICONN](/assets-c/2009/01/iconn-logo-5-thumb-250x118-421.webp)](/images/iconn-logo-5.webp)I'm on the program of the founding conference of ICONN or the [Intercollegiate Online News Network](https://www.facebook.com/group.php?gid=48807420867&ref=mf).  
   
 The conference will be held at the University of Tennessee on Jan 15 and 16.  
   

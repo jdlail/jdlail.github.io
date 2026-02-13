@@ -36,7 +36,7 @@ The emerald ash borer been called the most destructive insect to ever invade the
 
 ## How ash trees are damaged
 
-![Life cycle of the emerald ash borer.](/assets/wp-content/uploads/2023/03/T-UNebraska-Lincoln-Life_Cycle_of_the_Emerald_Ash_Borer.webp)(Graphic from the University of Nebraska-Lincoln)
+![Life cycle of the emerald ash borer.](/assets/wp-content/uploads/2023/03/T-UNebraska-Lincoln-Life-Cycle-of-the-Emerald-Ash-Borer.webp)(Graphic from the University of Nebraska-Lincoln)
 
 "EAB larvae kill ash trees by tunneling under the bark and feeding on the part of the tree that moves water and sugars up and down the trunk," according to the [U.S. Department of Agriculture](https://www.usda.gov/media/blog/2019/02/28/did-polar-vortex-and-its-freezing-temperatures-wipe-out-emerald-ash-borer#:~:text=EAB%20larvae%20kill%20ash%20trees,States%20have%20been%20completely%20decimated.).
 
@@ -54,7 +54,7 @@ EAB was first noticed in Yancey County, North Carolina, where our mountain home 
 
 By last year, a giant ash tree on our property looked dead (no leaves) and had became dangerously brittle. The crowns of every other ash on the property showed signs of damage (the trees are killed from the top down).
 
-![Tracking EAB](/assets/wp-content/uploads/2023/03/Map_EAB_NCTracking.webp)
+![Tracking EAB](/assets/wp-content/uploads/2023/03/Map-EAB-NCTracking.webp)
 
 Emerald ash border in North Carolina (North Carolina Forest Service)
 

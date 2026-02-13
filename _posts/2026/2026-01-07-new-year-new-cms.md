@@ -5,7 +5,7 @@ date: 2026-01-07 23:52:43 -0500
 updated: 2026-01-16 11:10:53 -0500
 categories: [Website]
 tags: [CMS, Wordpress, Jekyll]
-image: /assets/2026/2014-04-05_19_34_DSC_0091.webp
+image: /assets/2026/2014-04-05-19-34-DSC-0091.webp
 ---
 
 After years of hosting my own site on Wordpress I have moved it to [Jekyll](https://jekyllrb.com/).

@@ -11,7 +11,7 @@ categories:
 tags: []
 ---
   
-[![Success in Hill Country](/assets_c/2012/04/hill_country_cover-thumb-200x311-666.webp)](/images/hill_country_cover.webp)
+[![Success in Hill Country](/assets-c/2012/04/hill-country-cover-thumb-200x311-666.webp)](/images/hill_country_cover.webp)
 
 Success is not one of the stereotypes of Appalachia or its people. If you watch TV, the images are of the violence and drugs of "Justified," moonshiners like Popcorn Sutton, the crazy dancing outlaw Jesico White of West Virginia and a host of other images in which "role model" never comes to mind.  
   
@@ -21,7 +21,7 @@ Working with the [Napoleon Hill Foundation](ttp://www.naphill.org/), she collect
   
 The book was published March 2 and the official launch with an author signing and a reading will be April 28 at the [Southwest Virginia Museum](https://www.swvamuseum.org/) in Big Stone Gap, Va.  
   
-[![Amy D. Clark](/assets_c/2012/04/amyclark-thumb-200x133-668.webp)](/images/amyclark.webp)
+[![Amy D. Clark](/assets-c/2012/04/amyclark-thumb-200x133-668.webp)](/images/amyclark.webp)
 
 Clark collected oral histories from, among others, NASCAR president Mike Helton (from near Bristol, Va.), former NFL player and College Football Hall of Famer Carroll Dale from Wise, Va., author Lee Smith who grew up in Grundy, Va., and novelist, television writer and film director Adriana Trigiani, who hails from Big Stone Gap, Va.  
 

@@ -7,15 +7,16 @@ last_modified_at: 2021-01-11 16:30:16 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2021/01/1024px-DC_Capitol_Storming_IMG_7915.webp
+  path: /assets/wp-content/uploads/2021/01/1024px-DC-Capitol-Storming-IMG-7915.webp
   alt: Photo of people during the riot at the Capitol on Wednesday, Jan. 6, 2020.
     (Photo by Reddit user TapTheForwardAssist, used via Creative Commons license.)
 categories:
 - Media
 - Video
 tags:
-- crowdsourced
+- Crowdsourced
 ---
+
 The FBI and District of Columbia police are searching for people involved in the violence at the Capitol on Wednesday -- and they're finding them and they are likely to find and arrest more.
 
 Along with these official law enforcement efforts, [volunteers are scouring and scraping up visual evidence](https://www.technologyreview.com/2021/01/08/1015929/archive-capitol-insurrection-trump-maga-footage/). It's an amazing effort.
@@ -32,17 +33,13 @@ Another group, [Bellingcat.com](https://www.bellingcat.com), which describes its
 
 European search engine and archive company Intelligence X has a [large collection of video and photo links from the Capitol riot](https://intelx.io/?did=814b39fe-ad98-45a1-9f44-0346bc9f9b94). (click the "tree view" tab).
 
-{% include twitter.html url="<https://twitter.com/_IntelligenceX/status/1347010806672732163>" %}
-
-{% include twitter.html url="<https://twitter.com/_IntelligenceX/status/1347779339518169088>" %}
-
 There are doubtless other efforts. These is amazing crowd-sourcing going on. Glad there are tools like [yt-dlp](/2020/11/how-to-use-youtube-dl-to-grab-an-online-video/) available.
 
 And if you think the descriptions of Jan. 6 a the Capitol are exaggerated, just spend some time perusing these archives.
 
-Photo credit: By[TapTheForwardAssist](https://www.reddit.com/user/TapTheForwardAssist/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:Contributions/TapTheForwardAssist).
+Photo credit: By [TapTheForwardAssist](https://www.reddit.com/user/TapTheForwardAssist/), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:Contributions/TapTheForwardAssist).
 
-![](/assets/wp-content/uploads/2021/01/fbi-poster.webp)
+![FBI wanted poster](/assets/wp-content/uploads/2021/01/fbi-poster.webp)
 FBI wanted posted.
 
 (Here is how to contact the [FBI regarding violence](https://www.fbi.gov/wanted/capitol-violence) at the Capitol.)

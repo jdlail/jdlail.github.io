@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![021103_wire_copy_sm.jpg](/assets_c/2008/12/021103_wire_copy_sm-thumb-150x137.webp)](/images/021103_wire_copy_sm.webp)A lot is being written about CNN's intentions on being a wire service to newspapers.  
+[![021103_wire_copy_sm.jpg](/assets-c/2008/12/021103-wire-copy-sm-thumb-150x137.webp)](/images/021103_wire_copy_sm.webp)A lot is being written about CNN's intentions on being a wire service to newspapers.  
   
 On Twitter yesterday, media strategist and all-around digital news pioneer [Steve Yelvington](https://twitter.com/yelvington/status/1037289651) said:  
   

@@ -10,7 +10,7 @@ categories:
 - Family
 tags: []
 ---
-[![Man at AT&T Park](/assets_c/2008/07/20080705_135901-thumb-490x275.webp)](/images/20080705_135901.webp)
+[![Man at AT&T Park](/assets-c/2008/07/20080705-135901-thumb-490x275.webp)](/images/20080705_135901.webp)
 
 Do you see him? [More photos here](https://www.flickr.com/search/?w=96661011%40N00&q=AT%26T&m=tags).  
 

@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![forbesschaefer.jpg](/assets_c/2009/08/forbesschaefer-thumb-485x274-493.webp)](/images/forbesschaefer.webp)Still wondering about this [Twitter thing](https://twitter.com/).  
+[![forbesschaefer.jpg](/assets-c/2009/08/forbesschaefer-thumb-485x274-493.webp)](/images/forbesschaefer.webp)Still wondering about this [Twitter thing](https://twitter.com/).  
   
 [Mark Schaefer](https://www.businessesgrow.com/home), a Knoxville marketing guy who's developed an expertise in the emerging social media marketing area, has parlayed Twitter into more publicity than his marketing budget could buy - by well over 1,000 percent by my conservative reckoning.  
   

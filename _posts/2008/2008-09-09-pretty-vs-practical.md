@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Rob Curley](/assets_c/2008/09/20080909_120107-1-thumb-485x349.webp)](/images/20080909_120107-1.webp)
+[![Rob Curley](/assets-c/2008/09/20080909-120107-1-thumb-485x349.webp)](/images/20080909_120107-1.webp)
 
 > "I'm tired of the anecdotal bullshit."  
 >

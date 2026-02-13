@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![White Lily](/assets_c/2008/08/whitelily14250L-thumb-150x150.webp)](/images/whitelily14250L.webp)Great post by [Randy Neal](https://www.knoxviews.com/node/8576) on how the blogosphere's growing importance in shaping customer opinions about companies and how companies are responding.  
+[![White Lily](/assets-c/2008/08/whitelily14250L-thumb-150x150.webp)](/images/whitelily14250L.webp)Great post by [Randy Neal](https://www.knoxviews.com/node/8576) on how the blogosphere's growing importance in shaping customer opinions about companies and how companies are responding.  
   
 This one involves a company close to home and a hallowed product in kitchen pantries, White Lily Flour, whose superiority to other flours long ago reached legendary proportions.  That would be great, except now blogging cooks are saying it's not as good as it used to be.  
   

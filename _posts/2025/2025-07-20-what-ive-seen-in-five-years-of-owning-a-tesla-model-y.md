@@ -8,7 +8,7 @@ last_modified_at: 2025-07-20 17:12:07 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2025/07/2025-07-20_12.02.56-1500.webp
+  path: /assets/wp-content/uploads/2025/07/2025-07-20-12.02.56-1500.webp
   alt: Tesla Y at five years
 categories:
 - Tesla

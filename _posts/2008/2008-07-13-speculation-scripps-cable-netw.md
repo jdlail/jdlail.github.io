@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Knoxville HQ](/assets_c/2008/07/HQSpring-thumb-150x99.webp)](/images/HQSpring.webp)I wonder what the Knoxville impact of this would be:  
+[![Knoxville HQ](/assets-c/2008/07/HQSpring-thumb-150x99.webp)](/images/HQSpring.webp)I wonder what the Knoxville impact of this would be:  
   
 > With a little more than one week of trading as a separate company under its belt, Scripps Networks Interactive  is once again the topic of merger speculation, with some analysts and observers predicting that NBC Universal could end up with the group of lifestyle cable networks.  
 >

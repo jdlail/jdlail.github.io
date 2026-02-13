@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Howard Finberg](/assets_c/2009/11/howardfinberg110509-thumb-250x333-521.webp)](/images/howardfinberg110509.webp)I had a great time doing a Webinar at the Poynter Institute on Thursday with Howard Finberg and a big assist from Elaine Kramer, who manages the Associated Press Managing Editors' Online Credibility Roundtables. Our topic was management of online comments and [Michele McLellan has some thoughts about it](https://www.knightdigitalmediacenter.org/leadership_blog/comments/learning_to_love_comments/).  
+[![Howard Finberg](/assets-c/2009/11/howardfinberg110509-thumb-250x333-521.webp)](/images/howardfinberg110509.webp)I had a great time doing a Webinar at the Poynter Institute on Thursday with Howard Finberg and a big assist from Elaine Kramer, who manages the Associated Press Managing Editors' Online Credibility Roundtables. Our topic was management of online comments and [Michele McLellan has some thoughts about it](https://www.knightdigitalmediacenter.org/leadership_blog/comments/learning_to_love_comments/).  
   
 Coincidentially, online comments on the [knoxnews.com](https://www.knoxnews.com/) Web site and the APME Roundtable on Comments are the [focus of a long piece](https://www.metropulse.com/news/2009/nov/04/online-comments-civic-engagement-its-bestor-worst/) by Frank Carlson in Wednesday's edition of Metro Pulse, an alternative and entertainment weekly in Knoxville. Knoxville area blogger Say Uncle has [some thoughts about that](https://www.saysuncle.com/2009/11/05/discourse/).  
   

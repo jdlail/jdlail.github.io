@@ -11,7 +11,7 @@ categories:
 - Media
 tags: []
 ---
-[![Examiner.com](/assets_c/2009/12/examiner-com-knoxville-thumb-275x414-535.webp)](/images/examiner-com-knoxville.webp)Much to my chagrin, I've been noticing Examiner.com versions of stories we're covering show up prominently in Google search results while our original journalism on [knoxnews](https://www.knoxnews.com/) or [govolsxtra](https://www.govolsxtra.com/) is buried.  
+[![Examiner.com](/assets-c/2009/12/examiner-com-knoxville-thumb-275x414-535.webp)](/images/examiner-com-knoxville.webp)Much to my chagrin, I've been noticing Examiner.com versions of stories we're covering show up prominently in Google search results while our original journalism on [knoxnews](https://www.knoxnews.com/) or [govolsxtra](https://www.govolsxtra.com/) is buried.  
   
 It happening a lot and not just to the sites I manage.  
   

@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Dolly Parton](/assets_c/2008/10/DollyParton102908-thumb-150x182.webp)](/images/DollyParton102908.webp)Nothing like some star power to spice up a wonkee policy debate: Dolly Parton, among others, has come out [against a plan](https://gigaom.com/2008/10/28/god-country-line-up-to-stop-white-spaces/) to turn over the space between the digital television channels to a wireless broadband service,  
+[![Dolly Parton](/assets-c/2008/10/DollyParton102908-thumb-150x182.webp)](/images/DollyParton102908.webp)Nothing like some star power to spice up a wonkee policy debate: Dolly Parton, among others, has come out [against a plan](https://gigaom.com/2008/10/28/god-country-line-up-to-stop-white-spaces/) to turn over the space between the digital television channels to a wireless broadband service,  
   
 Performers like Parton and sports and entertainment venues fear the Federal Communications Commission's "white space" plan will muck with wireless microphones.  
   

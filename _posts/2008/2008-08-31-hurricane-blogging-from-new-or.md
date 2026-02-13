@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Willow Nero](/assets_c/2008/08/083108webnero-thumb-150x206.webp)](/images/083108webnero.webp)An intern in our online group this summer, Willow Nero, is blogging this morning from the New Orleans airport. She's trying to get a flight to France, yeah, a bit far to evac from Hurricane Gustav, but while you're going ...  
+[![Willow Nero](/assets-c/2008/08/083108webnero-thumb-150x206.webp)](/images/083108webnero.webp)An intern in our online group this summer, Willow Nero, is blogging this morning from the New Orleans airport. She's trying to get a flight to France, yeah, a bit far to evac from Hurricane Gustav, but while you're going ...  
   
 > I started to think things were getting a little weird yesterday when the National Guard drove through my neighborhood in Bay St. Louis and set up camp outside town near the Silver Slipper Casino sign.
 >

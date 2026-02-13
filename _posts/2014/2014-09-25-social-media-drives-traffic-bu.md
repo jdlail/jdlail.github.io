@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Referral traffic to news sites](/assets_c/2014/09/1-PJ_14.01.09_ReferralTraffic-thumb-580xauto-2508.webp)](/images/1-PJ_14.01.09_ReferralTraffic.webp)
+[![Referral traffic to news sites](/assets-c/2014/09/1-PJ-14.01.09-ReferralTraffic-thumb-580xauto-2508.webp)](/images/1-PJ_14.01.09_ReferralTraffic.webp)
 
 > Facebook is an important source of website referrals for many news outlets, but the users who arrive via Facebook spend far less time and consume far fewer pages than those who arrive directly. The same is true of users arriving by search. Our analysis of comScore data found visitors who go to a news media website directly spend roughly three times as long as those who wind up there through search or Facebook, and they view roughly five times as many pages per month. This higher level of engagement from direct visitors is evident whether a site's traffic is driven by search or social sharing and it has big implications for news organizations who are experimenting with digital subscriptions while endeavoring to build a loyal audience.
 

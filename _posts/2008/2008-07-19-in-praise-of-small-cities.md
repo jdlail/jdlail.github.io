@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-![Thumbnail image for Franklin](/assets_c/2008/07/franklin_tn-thumb-150x112.webp)Tennessee is full of small cities, but only one was good enough to m ake Money magazine's 2008 version of the 100 [Best Places to Live](https://money.cnn.com/magazines/moneymag/bplive/2008/index.html), Mon ey's list of America's best small cities. That city is Franklin.  
+![Thumbnail image for Franklin](/assets-c/2008/07/franklin-tn-thumb-150x112.webp)Tennessee is full of small cities, but only one was good enough to m ake Money magazine's 2008 version of the 100 [Best Places to Live](https://money.cnn.com/magazines/moneymag/bplive/2008/index.html), Mon ey's list of America's best small cities. That city is Franklin.  
   
 The list was limited to cities with populations between 50,000 and 300,000 and is featured in the August edition. Here is a the [snapshot of Franklin](https://money.cnn.com/magazines/moneymag/bplive/2008/snapshots/PL4727740.html) and how [Knoxville compares](https://cgi.money.cnn.com/tools/bestplaces/compare_tool_2008.jsp?id=PL4740000) to the Top 10 (that's a great tool).  
   

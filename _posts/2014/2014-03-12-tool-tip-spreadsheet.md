@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Touchcast](/assets_c/2014/03/touchcsat-thumb-585xauto-2488.webp)](/images/touchcsat.webp)
+[![Touchcast](/assets-c/2014/03/touchcsat-thumb-585xauto-2488.webp)](/images/touchcsat.webp)
 
 Above is a screen shot of [Touchcast,](https://www.touchcast.com/) a powerful tool for creating a new kind of video presentation. It's one of the tools listed in an awesome spreadsheet of tools of interest to journalist (most i've never heard of, much less tried) from the [College Media Podcast blog](https://collegemediapodcast.libsyn.com/college-media-podcast-extra-tool-tip-spreadsheet).
 

@@ -10,7 +10,7 @@ categories:
 - Access
 tags: [Sunshine, Open Records]
 ---
-[![Black Spot](/assets_c/2011/03/blackspot-thumb-218x256-626.webp)](/images/blackspot.webp)
+[![Black Spot](/assets-c/2011/03/blackspot-thumb-218x256-626.webp)](/images/blackspot.webp)
 
 Jennifer LeFleur of [ProPublica](https://www.propublica.org/ "ProPublica") has put together a great piece on the dark spots in federal "Sunshine Laws" as part [Sunshine Week](https://www.sunshineweek.org/).  
   

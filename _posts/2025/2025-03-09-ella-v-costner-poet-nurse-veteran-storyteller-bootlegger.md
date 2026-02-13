@@ -8,7 +8,7 @@ last_modified_at: 2025-03-09 20:10:00 -0000
 publish: true
 pin: false
 image:
-  path: /assets/wp-content/uploads/2025/03/2015-04-26_12_24_27_DSCF0675.webp
+  path: /assets/wp-content/uploads/2025/03/2015-04-26-12-24-27-DSCF0675.webp
   alt: Grave marker for Ella V. Costner
 categories:
 - Ramblings

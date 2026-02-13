@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Twitter Hockey Stick](/assets_c/2009/05/twitter-april-comscore-thumb-485x223-454.webp)](/images/twitter-april-comscore.webp)
+[![Twitter Hockey Stick](/assets-c/2009/05/twitter-april-comscore-thumb-485x223-454.webp)](/images/twitter-april-comscore.webp)
 
 Seventeen million unique visitors in April, up 83 percent from March. -- [Silicon Alley Insider](https://www.businessinsider.com/twitter-traffic-explodes-in-april-2009-5)  
   

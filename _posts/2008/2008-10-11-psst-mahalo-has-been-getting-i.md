@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Mahalo screen shot](/assets_c/2008/10/mahalo-screen-shot-thumb-275x145.webp)](/images/mahalo-screen-shot.webp)[Mahalo](https://www.mahalo.com/), which launched as a beta site at the first of the year, was derided as no match for Google's algorithms with its "human search engine."  
+[![Mahalo screen shot](/assets-c/2008/10/mahalo-screen-shot-thumb-275x145.webp)](/images/mahalo-screen-shot.webp)[Mahalo](https://www.mahalo.com/), which launched as a beta site at the first of the year, was derided as no match for Google's algorithms with its "human search engine."  
   
 _(Click on image to see a larger version of the screen shot.)_  
   

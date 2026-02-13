@@ -10,7 +10,7 @@ categories:
 - Mobile
 tags: []
 ---
-[![slamphoto.jpg](/assets_c/2015/07/slamphoto-thumb-585xauto-2531.webp)](/images/slamphoto.webp)
+[![slamphoto.jpg](/assets-c/2015/07/slamphoto-thumb-585xauto-2531.webp)](/images/slamphoto.webp)
 
 Do you have a "SLAM ToolKit?"
 

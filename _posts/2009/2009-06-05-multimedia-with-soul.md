@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![South of Athens](/assets_c/2009/06/060509athens-thumb-250x176-472.webp)](/images/060509athens.webp)[Lido Vizzutti](https://www.flatheadbeacon.com/articles/article/what_can_professionals_lear_from_students/10871/) takes a look at an Ohio University student journalism project, [Soul of Athens](https://2009.soulofathens.com/). Pretty good stuff.  
+[![South of Athens](/assets-c/2009/06/060509athens-thumb-250x176-472.webp)](/images/060509athens.webp)[Lido Vizzutti](https://www.flatheadbeacon.com/articles/article/what_can_professionals_lear_from_students/10871/) takes a look at an Ohio University student journalism project, [Soul of Athens](https://2009.soulofathens.com/). Pretty good stuff.  
   
 The "about" page describes the project as:  
   

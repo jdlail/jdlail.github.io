@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Virgil Griffith](/assets_c/2008/07/VirgilGriffith-thumb-150x225.webp)](/images/VirgilGriffith.webp)Some are calling what [Virgil Griffith](https://virgil.gr/) is doing hacking, but I think it's journalism, computational journalism.  
+[![Virgil Griffith](/assets-c/2008/07/VirgilGriffith-thumb-150x225.webp)](/images/VirgilGriffith.webp)Some are calling what [Virgil Griffith](https://virgil.gr/) is doing hacking, but I think it's journalism, computational journalism.  
   
 Griffith, a graduate student in Computation and Neural Systems at Caltech, [created a stir](https://www.forbes.com/technology/2008/07/19/security-hackers-internet-tech-cx_ag_0719wikiwatcher.html) last year when he released [Wikiscanner](https://wikiscanner.virgil.gr/classic.php). It revealed how active companies were in cleansing their Wikipedia entries of negative news. Now, Griffith, pictured on right, has released [Wikiwatcher](https://wikiscanner.virgil.gr/), a set of tools that go further in revealing just who makes edits to Wikipedia entries.  
   

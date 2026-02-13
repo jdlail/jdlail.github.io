@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-[![Tornado Damage](/assets_c/2008/02/79585944.preview-thumb-480x320.webp)](/images/79585944.preview.webp)The tornadoes that ravaged West and Middle Tennessee left behind in the debris great gems of people telling their own stories in the tragedy.  
+[![Tornado Damage](/assets-c/2008/02/79585944.preview-thumb-480x320.webp)](/images/79585944.preview.webp)The tornadoes that ravaged West and Middle Tennessee left behind in the debris great gems of people telling their own stories in the tragedy.  
   
 Helen Waters at BusinessWeek [noticed](https://www.rexblog.com/2008/02/06/17489/):  
   

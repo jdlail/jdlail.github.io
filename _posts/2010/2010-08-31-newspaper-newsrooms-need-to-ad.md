@@ -15,7 +15,7 @@ The Knoxville News Sentinel ran Part 2 of the Scripps Howard News Service packag
   
 My contributions were Q&As with [Dave Morgan](https://www.knoxnews.com/news/2010/aug/29/insider-touts-new-media/) and [Elizabeth Spiers](https://www.knoxnews.com/news/2010/aug/31/elizabeth-spiers-media-landscape/). I mentioned the Dave Morgan piece in a Sunday [blog post](/2010/08/theres-a-future-in-news.html). Here's one of the questions and answers from the piece with Spiers.  
   
-> [![Elizabeth Spiers](/assets_c/2010/08/ElizabethSpiers2010-thumb-150x323-600.webp)](/images/ElizabethSpiers2010.webp)Q: How do traditional mainstream get digital products wrong?  
+> [![Elizabeth Spiers](/assets-c/2010/08/ElizabethSpiers2010-thumb-150x323-600.webp)](/images/ElizabethSpiers2010.webp)Q: How do traditional mainstream get digital products wrong?  
 >
 > A: (I gave a talk about this a couple of weeks ago, so from my notes:) They don't understand their audiences because they're not used to using data aggressively.  
 >

@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![James P. Hunter](/assets_c/2010/07/070410webaphunter-thumb-150x187-581.webp)](/images/070410webaphunter.webp)
+[![James P. Hunter](/assets-c/2010/07/070410webaphunter-thumb-150x187-581.webp)](/images/070410webaphunter.webp)
 
 The first Army Journalist killed in combat since 9/11 died June 18 when he was struck by improvised explosive device while on patrol near Kandahar. See [AP report](https://www.knoxnews.com/news/2010/jul/04/army-journalist-first-killed-war-911/).  
   

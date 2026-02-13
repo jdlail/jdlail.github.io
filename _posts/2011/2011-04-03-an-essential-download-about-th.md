@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-![Thumbnail image for Bill Tallent](/assets_c/2011/03/billtallent-thumb-150x225-630.webp)Bill Tallent, CEO of iPad and smartphone developer Mercury Intermedia, has published some thoughts for news executives on the disruptions they are facing.  
+![Thumbnail image for Bill Tallent](/assets-c/2011/03/billtallent-thumb-150x225-630.webp)Bill Tallent, CEO of iPad and smartphone developer Mercury Intermedia, has published some thoughts for news executives on the disruptions they are facing.  
   
 > Having built 30+ high-volume, high-visibility touch screen news apps for 14 behemoth print and television media organizations, apps that have been downloaded 20 million times and yield over 1� billion user sessions per year, our experiences lead us to suggest three things that will help news organizations decipher this disruption and "skate to where the puck is going."  
 >

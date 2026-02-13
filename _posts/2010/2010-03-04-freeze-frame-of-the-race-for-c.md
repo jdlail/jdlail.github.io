@@ -10,7 +10,7 @@ categories:
 - Adversity is a mean teacher
 tags: []
 ---
-[![Newsroom visual communication center](/assets_c/2010/03/DSC_3510-thumb-485x322-554.webp)](/images/DSC_3510.webp)  
+[![Newsroom visual communication center](/assets-c/2010/03/DSC-3510-thumb-485x322-554.webp)](/images/DSC_3510.webp)  
   
 Here is [a link to a piece](https://sc.edu/cmcis/news/convergence/v7no1.html) I wrote for the "Convergence Newsletter" of the Newsplex at the University of South Carolina. in the issue introduction, editor Matt McColl writes:  
   

@@ -18,7 +18,7 @@ In the video above, Susan Robinson a PhD student in the [Synaesthetic Media Lab]
 
 It's an effort to come up with something better than the "Magic Wall" type of displays you see on shows such as CNN's "The Situation Room."
 
-![Tangible Anchoring](/assets_c/2012/11/hero1-thumb-485x242-2469.webp)
+![Tangible Anchoring](/assets-c/2012/11/hero1-thumb-485x242-2469.webp)
 
 The hub of the project is a tabletop data display. You can use objects (in the demo, lighted blocks) on the tabletop to query and filter databases displayed in a map view of United States or in other ways.
 

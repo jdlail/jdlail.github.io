@@ -10,7 +10,7 @@ categories:
 - Video
 tags: []
 ---
-[![Pat Boone](/assets_c/2008/09/090408patboone-thumb-150x112.webp)](/images/090408patboone.webp)Even TV networks are using the Flip camera.  
+[![Pat Boone](/assets-c/2008/09/090408patboone-thumb-150x112.webp)](/images/090408patboone.webp)Even TV networks are using the Flip camera.  
   
 From CNNPolitics.com's "PoliticalTicker" blog is a photo of singer Pat Boone doing an interview at the RNC doing an interview with a guy with a [Flip Video camera](https://www.amazon.com/gp/search?ie=UTF8&keywords=B000V1PXMI&tag=wwwjacklailco-20&index=blended&linkCode=ur2&camp=1789&creative=9325)![](https://www.assoc-amazon.com/e/ir?t=wwwjacklailco-20&l=ur2&o=1).  
   

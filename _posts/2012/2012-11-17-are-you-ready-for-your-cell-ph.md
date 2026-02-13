@@ -10,7 +10,7 @@ categories:
 - Uncategorized
 tags: []
 ---
-[![231069_511140262237013_1435091552_n.jpg](/assets_c/2012/11/231069_511140262237013_1435091552_n-thumb-485x323-2465.webp)](/images/231069_511140262237013_1435091552_n.webp)
+[![231069_511140262237013_1435091552_n.jpg](/assets-c/2012/11/231069-511140262237013-1435091552-n-thumb-485x323-2465.webp)](/images/231069_511140262237013_1435091552_n.webp)
 
 At a panel last week on "Mobile Devices and Beyond," Bruce Thomas, director of the Wearable Computer Lab at the University of South Australia, held up his smartphone and said: "I just want to get rid of this."
 

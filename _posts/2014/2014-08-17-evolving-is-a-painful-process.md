@@ -10,7 +10,7 @@ categories:
 - Adversity is a mean teacher
 tags: []
 ---
-[![Tne Tennessean](/assets_c/2014/08/citylimits1-1-thumb-500xauto-2506.webp)](/images/citylimits1-1.webp)
+[![Tne Tennessean](/assets-c/2014/08/citylimits1-1-thumb-500xauto-2506.webp)](/images/citylimits1-1.webp)
 
 For many, working at a newspaper doesn't seem all that fun anymore.
 

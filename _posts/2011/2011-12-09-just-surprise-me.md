@@ -10,7 +10,7 @@ categories:
 - Carnival
 tags: []
 ---
-[![Chirstmas Treats](/assets_c/2011/12/4221748487_651f152313-thumb-485x323-661.webp)](/images/4221748487_651f152313.webp)  
+[![Chirstmas Treats](/assets-c/2011/12/4221748487-651f152313-thumb-485x323-661.webp)](/images/4221748487_651f152313.webp)  
 This month's [Carnival of Journalism](https://carnivalofjournalism.com/2011/11/27/join-in-decembers-carnival-of-journalism/) is themed for the holiday season.  
   
 > _THE TOPIC_  

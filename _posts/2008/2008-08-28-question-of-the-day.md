@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Jon Stewart](/assets_c/2008/08/jon-stewart-painting-thumb-150x211.webp)](/images/jon-stewart-painting.webp)Comedian Jon Stewart to journalists:  
+[![Jon Stewart](/assets-c/2008/08/jon-stewart-painting-thumb-150x211.webp)](/images/jon-stewart-painting.webp)Comedian Jon Stewart to journalists:  
   
 _"Why do I take this more seriously than you?"_  
   

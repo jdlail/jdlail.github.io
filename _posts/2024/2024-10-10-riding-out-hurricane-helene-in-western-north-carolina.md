@@ -67,7 +67,7 @@ It was still raining hard and wind continued to roar. Before 7 a.m., the power b
 
 As it began to get a little lighter, we could see one tree in the yard that had been more than 50 feet high snapped about halfway up. Later in the morning we watched an even taller tree just fall over, pulling its roots out of the ground.
 
-![Tree damage from Hurricane Helene](/assets/wp-content/uploads/2024/10/treee-damage-1024x768.webp)
+![Tree damage from Hurricane Helene](/assets/wp-content/uploads/2024/10/tree-damage.webp)
 
 Luckily, neither hit the house.
 
@@ -79,7 +79,7 @@ By mid-day it had ended.
 
 We ventured out to investigate. Normally gurgling streams of water were rushing waterfalls; little creeks were rapids. Trees, limbs and leaves covered everything.
 
-![](/assets/wp-content/uploads/2024/10/dmage-next-2-driveway.webp)
+![](/assets/wp-content/uploads/2024/10/damage-next-2-driveway.webp)
 
 Trees fell on this piece of equipment being used at a house under construction across the street.
 

@@ -10,7 +10,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Extinct](/assets_c/2008/07/extinct-thumb-150x104.gif)](/images/extinct.gif)I've been hearing editors were dinosaurs every since, well, I became one a couple of decades ago. We haven't gotten stuck in the tar pits yet -- or have we?  
+[![Extinct](/assets-c/2008/07/extinct-thumb-150x104.gif)](/images/extinct.gif)I've been hearing editors were dinosaurs every since, well, I became one a couple of decades ago. We haven't gotten stuck in the tar pits yet -- or have we?  
   
 Kurt Greenbaum has been listening to the drumbeats while working on an article on the future of editors. See what's he learned [so far](https://www.igreenbaum.com/2008/07/the-debate-over-the-ongoing-utility-of-editors/).  
   

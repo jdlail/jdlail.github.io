@@ -14,4 +14,4 @@ The old knoxnews (a design in use for just over seven years) and the new design,
 
 (Click on the image for a larger view.)
 
-[![old-new.png](/assets_c/2014/08/old-new-thumb-autox1616-2504.webp)](/images/old-new.webp)
+[![old-new.png](/assets-c/2014/08/old-new-thumb-autox1616-2504.webp)](/images/old-new.webp)

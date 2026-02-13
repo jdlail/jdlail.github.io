@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Seagrove Potters for Peace](/assets_c/2010/05/seagrovepottersforpeace-thumb-250x236-570.webp)](/images/seagrovepottersforpeace.webp)
+[![Seagrove Potters for Peace](/assets-c/2010/05/seagrovepottersforpeace-thumb-250x236-570.webp)](/images/seagrovepottersforpeace.webp)
 
 Here's an Interesting effort by at least 24 Seagrove, N.C., potters to raise money for help [Greg Mortenson](https://en.wikipedia.org/wiki/Greg_Mortenson "Greg Mortenson") build schools in Pakistan and Afghanistan.  
   
@@ -18,7 +18,7 @@ They are creating special pieces to sell on Aug. 14 to raise money for his [Cent
   
 You can find out more at the website "[Seagrove Potters for Peace](https://www.seagrovepottersforpeace.com/)."  
   
-![Thumbnail image for Beth Gore](/assets_c/2010/05/bethgore-thumb-75x99-572.webp)Seagrove Potters for Peace started with [Beth Gore](https://www.cadyclayworks.com/potters.cfm) (pictured at left) of Cady Clay Works, who finished reading Mortenson's book last spring and wanted to do something more than just write a check. The event last August involved 13 potteries and was called "Seagrove Potters for Peace - 100 Cups of Tea."  
+![Thumbnail image for Beth Gore](/assets-c/2010/05/bethgore-thumb-75x99-572.webp)Seagrove Potters for Peace started with [Beth Gore](https://www.cadyclayworks.com/potters.cfm) (pictured at left) of Cady Clay Works, who finished reading Mortenson's book last spring and wanted to do something more than just write a check. The event last August involved 13 potteries and was called "Seagrove Potters for Peace - 100 Cups of Tea."  
   
 Seagrove's potters are not rich. Their shops are small family businesses. Often their homes are on the same property as the shops, which dot the Seagrove area (Seagrove is a small town of 260 people or thereabouts). So if you want a piece of unique pottery and help a good cause, visit these potters in [rural North Carolina](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=seagrove,+nc&sll=35.870526,-84.057614&sspn=0.00666,0.018089&ie=UTF8&hq=&hnear=Seagrove,+Randolph,+North+Carolina&ll=35.532226,-79.760742&spn=13.677831,37.045898&z=5) on Aug. 14.  
   

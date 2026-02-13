@@ -10,6 +10,6 @@ categories:
 - Family
 tags: []
 ---
-[![DSC_0040.jpg](/assets_c/2013/02/DSC_0040-thumb-250x221-2474.webp)](https://plus.google.com/photos/107335989270198659518/albums/5645890041626980097?banner=pwa)  
+[![DSC_0040.jpg](/assets-c/2013/02/DSC-0040-thumb-250x221-2474.webp)](https://plus.google.com/photos/107335989270198659518/albums/5645890041626980097?banner=pwa)  
 
 Amy has busy decorating the house inside and out. Click on the photo to see her handiwork.

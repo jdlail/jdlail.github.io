@@ -9,11 +9,12 @@ pin: false
 categories:
 - Weather
 tags: [Nashville]
+image:
+    path: /images/Nashville-Flood-4592961661_9d0b67ff78_k.webp
+    alt: Second Avenue, Nashville, Tenn. after flood, May 2009. Photo by Jack D. Lail
 ---
   
-[![Second Avenue, Nashville, Tenn.](https://farm4.static.flickr.com/3323/4592961661_d9b2b13b77.jpg)](https://www.flickr.com/photos/jackdlail/4592961661/ "Second Avenue, Nashville, Tenn.")  
-  
-Photo taken Sunday morning on Second Avenue between Church Street and Broadway in downtown Nashville, Tennessee. Lots of workers were on the job just a bit down the street as the cleanup from the May 1-2 floods in Nashville and Middle Tennessee continues. Some [more photos](https://www.flickr.com/photos/jackdlail/tags/nashvilleflood/) on Flickr.  
+Lots of workers were on the job just a bit down the street as the cleanup from the May 1-2 floods in Nashville and Middle Tennessee continues. Some [more photos](https://www.flickr.com/photos/jackdlail/tags/nashvilleflood/) on Flickr.  
   
 Help out by donating to [the Community Foundation](https://www.cfmt.org/floodrelief/) for Middle Tennessee flood relief  
 

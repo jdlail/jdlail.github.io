@@ -29,7 +29,9 @@ Jill Geisler of the Poynter Institute had some advice for managing change in a p
 >](https://apme2009.files.wordpress.com/2009/10/four-barriers-to-collaboration.doc)
 >
 
-[![Kurt Greenbaum and Jack Lail](https://farm3.static.flickr.com/2704/4059267105_4b2a011f34.jpg)](https://www.flickr.com/photos/apme2009/4059267105/ "Kurt Greenbaum and Jack Lail by APME2009, on Flickr")There was a great update on [APME Online Credibility Workshops](https://apme2009.com/2009/10/29/online-credibility-slideshow/). Michele McLellan blogged on one intriguing aspect being looked at in the credibility projects: [When to unpublish news](https://www.knightdigitalmediacenter.org/leadership_blog/comments/when_to_unpublish_news_almost_never/). Kathy English, public editor at the Toronto Star, is heading that effort and has produced this white paper called "[The Longtail of News](/pdf/apme-longtail-report.pdf)."  
+[![Kurt Greenbaum and Jack Lail](https://farm3.static.flickr.com/2704/4059267105_4b2a011f34.jpg)](https://www.flickr.com/photos/apme2009/4059267105/ "Kurt Greenbaum and Jack Lail by APME2009, on Flickr")
+
+There was a great update on [APME Online Credibility Workshops](https://apme2009.com/2009/10/29/online-credibility-slideshow/). Michele McLellan blogged on one intriguing aspect being looked at in the credibility projects: [When to unpublish news](https://www.knightdigitalmediacenter.org/leadership_blog/comments/when_to_unpublish_news_almost_never/). Kathy English, public editor at the Toronto Star, is heading that effort and has produced this white paper called "[The Longtail of News](/pdf/apme-longtail-report.pdf)."  
   
 And, oh yeah, there was the panel that Kurt Greenbaum of the St. Louis Post-Dispatch and I were on involving [social media tools](https://apme2009.com/2009/10/30/10-a-m-session-social-media/).  
   

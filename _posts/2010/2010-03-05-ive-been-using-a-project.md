@@ -10,7 +10,7 @@ categories:
 - Ramblings
 tags: []
 ---
-[!['teambox-200x120'](https://s3.amazonaws.com/site_production/assets/5/teambox-200x120_original.webp)](https://www.teambox.com/)I've been using a project collaboration Web service called [Teambox](https://www.teambox.com/ "Teambox") for several weeks. I was drawn to it, frankly, because it was free and seemed to meet my needs for a Web site relaunch project involving a committee of several people all in different cities.  
+I've been using a project collaboration Web service called [Teambox](https://www.teambox.com/ "Teambox") for several weeks. I was drawn to it, frankly, because it was free and seemed to meet my needs for a Web site relaunch project involving a committee of several people all in different cities.  
   
 The Twitter-like design is intuitive for me.  
   

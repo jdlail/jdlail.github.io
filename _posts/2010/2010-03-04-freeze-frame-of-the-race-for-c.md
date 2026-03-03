@@ -8,11 +8,13 @@ publish: true
 pin: false
 categories:
 - Adversity is a mean teacher
-tags: []
+tags: [newsrooms, change]
+image:
+    path: /images/DSC-3510.webp
+    alt: Newsroom visual communication center
 ---
-[![Newsroom visual communication center](/assets-c/2010/03/DSC-3510-thumb-485x322-554.webp)](/images/DSC_3510.webp)  
   
-Here is [a link to a piece](https://sc.edu/cmcis/news/convergence/v7no1.html) I wrote for the "Convergence Newsletter" of the Newsplex at the University of South Carolina. in the issue introduction, editor Matt McColl writes:  
+Here is [a link to a piece](https://sc.edu/cmcis/news/convergence/v7no1.html) I wrote for the "Convergence Newsletter" of the Newsplex at the University of South Carolina. In the issue introduction, editor Matt McColl writes:  
   
 > In looking at the newsrooms of 10 or 20 years ago and those of today, the comparisons are staggering. The process of making, gathering, buying and selling the news has changed dramatically, with everything from massive layoffs to totally integrated newsrooms.
 >

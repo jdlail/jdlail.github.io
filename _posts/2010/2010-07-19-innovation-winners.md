@@ -8,6 +8,6 @@ publish: true
 pin: false
 categories:
 - Media
-tags: []
+tags: [Innovation]
 ---
 Congrats to the [Knight-Batten Innovation Award winners](https://www.j-lab.org/about/press_releases/2010_knight_batten_winners/)! All 30 ideas look exceptional.  

@@ -10,7 +10,7 @@ categories:
 - Media
 tags: []
 ---
-![knoxd_red.gif](/images/knoxd_red.gif)Casey Peters and Patrick Beeson have launched a Knoxville news aggregator, [Knox'd](https://knoxd.com/).  
+![knoxd_red.gif](/assets_c/2003/03/knoxd-red-thumb-240x240.gif)Casey Peters and Patrick Beeson have launched a Knoxville news aggregator, [Knox'd](https://knoxd.com/).  
   
 [Beeson](https://www.patrickbeeson.com/) is a project manager for E.W. Scripps' Interactive Newspaper Group.and [Peters](https://www.knoxify.com/) is soon to be one.  
   

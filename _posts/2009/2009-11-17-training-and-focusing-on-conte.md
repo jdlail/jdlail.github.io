@@ -9,8 +9,12 @@ pin: false
 categories:
 - Newspapers
 tags: []
+image: 
+    path: /images/knsnewsroomvcc.webp
+    alt: "Managing Editor Tom Chester at theNews Sentinel newsroom VCC"
 ---
-[![News Sentinel newsroom VCC](/assets-c/2009/11/knsnewsroomvcc-thumb-200x133-523.webp)](/images/knsnewsroomvcc.webp)E.W. Scripps CEO Rich Boehne is getting some kudos for focusing on editorial quality and training even as the economics of the media business have forced painful cutbacks.  
+
+E.W. Scripps CEO Rich Boehne is getting some kudos for focusing on editorial quality and training even as the economics of the media business have forced painful cutbacks.  
   
 A large training program focused on storytelling has launched amid the media industry recession for the company's 10 TV stations.  
   
@@ -33,7 +37,4 @@ The business journal got react from well-known newspaper industry blogger [Alan 
 
 A Newspaper Guild representative at the company's Memphis newspaper cast a more wary eye at the quality assertions.  
   
-_Photo by J. Miles Cary of the News Sentinel is of the newsroom "Visual Communication Center."  
-  
-_
-
+_Photo by J. Miles Cary of the News Sentinel is of the newsroom "Visual Communication Center."_

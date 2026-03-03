@@ -8,9 +8,11 @@ publish: true
 pin: false
 categories:
 - Ramblings
-tags: []
+tags: [Newspaper]
+image:
+    path: /images/dotheloladance.webp
+    alt: Lola Alapo
 ---
-![Lola Alapo](/images/dotheloladance.webp)
 
 Help Knoxville News Sentinel reporter [Lola Alapo](https://twitter.com/lolaalapo "Lola Alapo") in her effort to raise money for [East Tennessee Children's Hospital](https://maps.google.com/maps?ll=35.956192,-83.93824&spn=1.0,1.0&q=35.956192,-83.93824%20%28East%20Tennessee%20Children%27s%20Hospital%29&t=h "East Tennessee Children's Hospital") through "[Star 102.1's 2nd Annual Dancing with the Knoxville Stars](https://www.star1021fm.com/ContestsEvents/DWTKS2010/tabid/6955/Default.aspx) ."  
 

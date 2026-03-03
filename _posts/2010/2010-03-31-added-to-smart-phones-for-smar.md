@@ -8,9 +8,11 @@ publish: true
 pin: false
 categories:
 - Media
-tags: []
+tags: [Training]
 ---
-![Tom Clyde](/images/clyde_tom.webp)We have a speaker switch on our "Smart Phones for Smart Journalists" workshop on April 9 in Nashville at the Freedom Forum's [John Seigenthaler Center](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1207+18th+Ave.+S.,+Nashville,+tn+27212&sll=35.870526,-84.057614&sspn=0.007286,0.018883&ie=UTF8&hq=&hnear=1207+18th+Ave+S,+Nashville,+Davidson,+Tennessee+37212&z=16).  
+![Tom Clyde](/images/clyde-tom.webp)
+
+We have a speaker switch on our "Smart Phones for Smart Journalists" workshop on April 9 in Nashville at the Freedom Forum's [John Seigenthaler Center](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1207+18th+Ave.+S.,+Nashville,+tn+27212&sll=35.870526,-84.057614&sspn=0.007286,0.018883&ie=UTF8&hq=&hnear=1207+18th+Ave+S,+Nashville,+Davidson,+Tennessee+37212&z=16).  
   
 Coming up from Atlanta to hold the legal issues session is attorney and press law expert Tom Clyde. The bio:  
   
@@ -33,4 +35,3 @@ The low-cost of this workshop, sponsored by [ONA](https://journalists.org/?) and
   
 ![Cell Journalist Inc.](/images/cj-logo-2010.webp)    ![Scripps Howard Foundation](/images/ScrippsHwdFdtnlogo.webp)  
   
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=b5aa6486-56d5-4f0d-bc13-fc89b97dae4c)](https://www.zemanta.com/?px "Enhanced by Zemanta")

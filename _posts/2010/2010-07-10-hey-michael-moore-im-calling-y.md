@@ -7,14 +7,16 @@ last_modified_at: 2010-07-10 17:22:32 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- Legal
+tags: [Copyright, Journalism]
 ---
   
-[![Michael Moore website](/assets-c/2010/07/MichaelMoore.com-1278795283741-thumb-300x535-585.webp)](/images/MichaelMoore.com_1278795283741.webp)Michael Moore is an artistic and intellectual thief.  
-  
+![Michael Moore website](/images/MichaelMoore.com-1278795283741.webp)
+
+Michael Moore is an artistic and intellectual thief.  
+
 Yes, Michael Moore, the American filmmaker, author, political commentator and self-professed liberal who enjoys the skewering the ethical transgressions of corporate organizations.  
-  
+
 Yes, Michael Moore of the documentary films [Roger and Me](https://www.imdb.com/title/tt0098213/ "Roger & Me"), [Bowling for Columbine](https://en.wikipedia.org/wiki/Bowling_for_Columbine "Bowling for Columbine"), [Fahrenheit 9/11](https://www.imdb.com/title/tt0361596/ "Fahrenheit 9/11"), [Sicko](https://www.imdb.com/title/tt0386032/ "Sicko"), and [Capitalism: A Love Story](https://www.imdb.com/title/tt1232207/ "Capitalism: A Love Story").  
   
 Yes, Michael Moore, an unabashed and unrepentant nose-thumber at[copyright](https://en.wikipedia.org/wiki/Copyright)protections. Hey, it's just a federal law.  
@@ -58,7 +60,4 @@ _(Photo: Screenshot of MichaelMoore.com page with News Sentinel story and photos
 
 [![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=2f665d5a-4e61-4f21-ae4f-ca907cd8850d)](https://www.zemanta.com/ "Enhanced by Zemanta")
 
-**Update: Welcome Instapundit readers![Click here to return](https://www.instapundit.com/).  
-  
-**
-
+**Update: Welcome Instapundit readers![Click here to return](https://www.instapundit.com/).**

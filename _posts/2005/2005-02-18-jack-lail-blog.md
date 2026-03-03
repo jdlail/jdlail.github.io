@@ -9,6 +9,6 @@ publish: true
 pin: false
 categories:
 - Ramblings
-tags: []
+tags: [Blogging]
 ---
 OK, I mumble. But I think what I'm saying is clear. So follow these random mumbles to see where they lead.

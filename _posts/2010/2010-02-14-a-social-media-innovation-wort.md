@@ -9,8 +9,10 @@ pin: false
 categories:
 - Social
 tags: [Innvoation]
+image:
+    path: /images/bits-chatroulette-blogSpan.webp
+    alt: Andrey Ternovskiy, developer of Chatroulette
 ---
-[![Andrey Ternovskiy](/assets-c/2010/02/bits-chatroulette-blogSpan-thumb-200x136-544.webp)](/images/bits-chatroulette-blogSpan.webp)
 
 The Net buzz is about Google Buzz, which launched this week. It's an important product, another turning point in the development of Social Media, no doubt. But it's a week in which we were also reminded that game-changing ideas aren't the sole province of big companies with legions of brillantly smart people.  
   

@@ -19,4 +19,3 @@ For many, working at a newspaper doesn't seem all that fun anymore.
 > The Tennessean had just fired Sisk and the entire staff of the paper the day before and asked them to reapply for their jobs. The reorganization was announced in the paper by executive editor Stefanie Murray as a "bold step forward in our evolution."
 
 [The Nashville Scene](https://www.nashvillescene.com/nashville/the-tennesseans-newsroom-of-the-future-means-cuts-turmoil-and-rock-bottom-morale-at-present/Content?oid=4357474)
-

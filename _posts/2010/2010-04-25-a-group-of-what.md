@@ -8,11 +8,11 @@ publish: true
 pin: false
 categories:
 - Adversity is a mean teacher
-tags: []
+tags: [Journalism]
+image: 
+    path: /images/4550250205_d1ab9d34e5_o.webp
+    alt: BCNI Philly sessions board
 ---
-[![BCNI Philly sessions board](https://farm5.static.flickr.com/4066/4550250205_1c7c15fabf.jpg)](https://www.flickr.com/photos/jackdlail/4550250205/ "BCNI Philly sessions board")
-
-Image by [jacklail](https://www.flickr.com/photos/96661011@N00/4550246689) via Flickr
 
 [![DSC_0033](https://farm5.static.flickr.com/4026/4550246689_985e251b59_m.jpg)](https://www.flickr.com/photos/96661011@N00/4550246689)
 

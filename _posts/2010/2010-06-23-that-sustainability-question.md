@@ -7,8 +7,8 @@ last_modified_at: 2010-06-23 10:39:59 -0000
 publish: true
 pin: false
 categories:
-- Uncategorized
-tags: []
+- Media
+tags: [New Media, Journalism]
 ---
 It is not about just refashioning journalism, it's about reinventing the business proposition for news. [Janet Coats](https://www.facebook.com/janetcoats "Janet Coats") of the Patterson Foundation [wrote yesterday](https://nmj.thepattersonfoundation.org/?awesm=fbshare.me_AOWhp&p=63):  
   
@@ -31,6 +31,3 @@ Related articles by Zemanta
 * [Don't write obituary of newspapers yet, says OECD](https://www.newstatesman.com/newspapers/2010/06/newspapers-report-oecd-models) (newstatesman.com)
 * [The Future Of News - Peak Journalism](https://neilperkin.typepad.com/only_dead_fish/2010/06/the-future-of-news.html) (neilperkin.typepad.com)
 * [Journalism startups 'face tall odds'](https://www.lostremote.com/2010/06/08/journalism-startups-face-tall-odds/) (lostremote.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=63271a10-eb15-4138-8d9e-23117962e025)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

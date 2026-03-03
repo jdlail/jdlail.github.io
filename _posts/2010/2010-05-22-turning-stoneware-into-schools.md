@@ -7,12 +7,14 @@ last_modified_at: 2010-05-22 10:24:14 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- North Carolina
+tags: [Seagrove]
+image:
+    path: /images/seagrovepottersforpeace.webp
+    alt: Seagrove Potters for Peace
 ---
-[![Seagrove Potters for Peace](/assets-c/2010/05/seagrovepottersforpeace-thumb-250x236-570.webp)](/images/seagrovepottersforpeace.webp)
 
-Here's an Interesting effort by at least 24 Seagrove, N.C., potters to raise money for help [Greg Mortenson](https://en.wikipedia.org/wiki/Greg_Mortenson "Greg Mortenson") build schools in Pakistan and Afghanistan.  
+Here's an Interesting effort by at least 24 Seagrove, N.C., potters to raise money to help [Greg Mortenson](https://en.wikipedia.org/wiki/Greg_Mortenson "Greg Mortenson") build schools in Pakistan and Afghanistan.  
   
 They are creating special pieces to sell on Aug. 14 to raise money for his [Central Asia Institute](https://www.ikat.org/) (at least half the sales price of each piece will go to the group). The Central Asia Institute is one of 10 charities that received part of President Obama's Nobel Peace money. Mortenson's book, [Three Cups of Tea](https://www.amazon.com/gp/product/0143038257?ie=UTF8&tag=wwwjacklailco-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0143038257)![](https://www.assoc-amazon.com/e/ir?t=wwwjacklailco-20&l=as2&o=1&a=0143038257), inspired the potters, who held a smaller event last year.  
   

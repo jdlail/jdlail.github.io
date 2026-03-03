@@ -7,12 +7,12 @@ last_modified_at: 2010-03-03 13:33:30 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- Court
+tags: [Transparency]
+image:
+    path: /images/USSupremeCourtWestFacade.webp
+    alt: Supreme Court
 ---
-[![West face of the United States Supreme Court b...](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/USSupremeCourtWestFacade.JPG/300px-USSupremeCourtWestFacade.JPG)](https://commons.wikipedia.org/wiki/Image:USSupremeCourtWestFacade.JPG)
-
-Image via [Wikipedia](https://commons.wikipedia.org/wiki/Image:USSupremeCourtWestFacade.JPG)
 
 The media group Radio Television Digital News Association ([RTDNA](https://www.rtdna.org/)) expressed disappointment today that the Supreme Court refused to release same day audio tapes in the key Second Amendment case before the court yesterday.  
   
@@ -32,3 +32,5 @@ Related articles by Zemanta
 * [Dennis A. Henigan: The Most Dangerous Right](https://www.huffingtonpost.com/dennis-a-henigan/the-most-dangerous-right_b_481393.html) (huffingtonpost.com)
 * [McNuggets](https://www.saysuncle.com/2010/03/03/mcnuggets/) (SaysUncle)
 * ["Reasonable regulation" and McDonald](https://volokh.com/2010/03/02/reasonable-regulation-and-mcdonald/) (The Volokh Conspiracy via [Instapundit](https://pajamasmedia.com/instapundit/94914/))  
+
+Image via [Wikipedia](https://commons.wikipedia.org/wiki/Image:USSupremeCourtWestFacade.JPG)

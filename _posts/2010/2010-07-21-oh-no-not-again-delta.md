@@ -7,14 +7,9 @@ last_modified_at: 2010-07-21 11:19:19 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- Social Media
+tags: [Kevin Slimp, Delta]
 ---
->
-
-[![Image of Kevin Slimp from Twitter](https://a1.twimg.com/profile_images/405174642/kevlittle3_normal.jpg)](https://twitter.com/newsguru)
-
-Image of [Kevin Slimp](https://twitter.com/newsguru)
 
 Knoxville-based newspaper consultant [Kevin Slimp's](https://www.facebook.com/kevinslimp "Kevin Slimp") luck with [Delta Air Lines](https://www.delta.com/ "Delta Air Lines") continues to be a muddled mess of delays and cancellations.  
   
@@ -34,9 +29,4 @@ Later in the evening, he said:
 
 Below is a post after he finally made it to Bismarck, six hours late.  
 
->
-
-[![Delta Again](/assets-c/2010/07/kevin2-thumb-485x1656-589.webp)](/images/kevin2.webp)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=94489921-2fb7-4bc8-89d7-83389a76f1b2)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
+![Delta Again](/images/kevin2.webp)

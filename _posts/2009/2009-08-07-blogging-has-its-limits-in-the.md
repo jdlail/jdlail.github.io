@@ -7,8 +7,8 @@ last_modified_at: 2009-08-07 18:02:58 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- Sports
+tags: [SEC]
 ---
 The Southeastern Conference is [seeking to control](https://www.govolsxtra.com/news/2009/aug/07/sec-expected-impose-new-restrictions-media/) how many blog posts or, presumably, even Twitter updates, can be done during a football game as well as control even video from press conferences.  
   
@@ -27,13 +27,9 @@ Time limits on when video clips can be shown and how long clips can be also are 
 The most controversial aspect of the new rules is that it limits video from press conferences and even practice. In the usual scenario, press conferences are held for the cameras. Here's more from [TuscaloosaNews.com](https://www.tuscaloosanews.com/article/20090807/NEWS/908079992/1007?Title=SEC-plans-to-enact-new-media-policy).  
   
 There are similar provisions in the "fine print" of tickets for those going as spectators, which they might find surprising as they're tweeting, texting, blogging or shooting cell phone video that comes under wary gaze of the SEC rights guardians.  
-  
-Here is a [PDF of the new terms and conditions](/pdf/secpolicy.pdf).  
-  
+
 What a reporter or photographer can do at game has raised concerns before from media organizations that regularly cover member-school games, but in most cases, the SEC schools have employed more common-sense than lawyerese in balancing the rights of the television and radio networks (which pay a princely sum for the rights to the games) with the evolving technologies of the Internet.  
   
 Hopefully, this is not an effort, as it has been with some international sports organizations, to own every use of the games.  
   
-_Updated:_ Welcome [Instapundit readers](https://pajamasmedia.com/instapundit/83115/). Consider subscribing to my [RSS feed](https://feeds.jacklail.com/RandomMumblings).  
-  
-
+_Updated:_ Welcome [Instapundit readers](https://pajamasmedia.com/instapundit/83115/).

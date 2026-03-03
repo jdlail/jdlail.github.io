@@ -7,13 +7,10 @@ last_modified_at: 2010-05-31 10:40:33 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
 - Media
-tags: []
+tags: [Comments, Newspapers]
 ---
-[![Image of Steve Outing from Twitter](https://a1.twimg.com/profile_images/57177568/SteveO_x100_normal.jpg)](https://twitter.com/steveouting)
-
-Image of [Steve Outing](https://twitter.com/steveouting)
+[![Image of Steve Outing from Facebok](/images/steve-outing-facebook.webp)
 
 Steve Outing offers a hybrid approach to the real names vs anonymity debate in reader comments on news sites.  
   
@@ -36,4 +33,4 @@ Related articles by Zemanta
 * [The Real Problem With Internet Comments Isn't Anonymity](https://techdirt.com/articles/20100412/1526158979.shtml) (techdirt.com)
 * [Should anonymous comments be allowed in an online community?](https://www.socialmediatoday.com/SMC/179835) (socialmediatoday.com)
 
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=e0388cdd-7772-41d0-b1da-097c945b8f79)](https://www.zemanta.com/?px "Enhanced by Zemanta")
+_Image of Steve Outing from Facebook._

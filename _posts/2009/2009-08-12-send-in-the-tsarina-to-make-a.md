@@ -7,8 +7,8 @@ last_modified_at: 2009-08-12 08:17:27 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- Sports
+tags: [SEC, Twitter, Media]
 ---
 The Southeastern Conference is reacting to criticism of its iron-fisted media rights policy by saying it'll tweak the rules a bit.  
   
@@ -35,7 +35,8 @@ He explained in an email:
 
 Sports writers and others in the media didn't interpret it quite the same way, but they seem to be complying, begrudgingly.  
   
-[![Wes Rucker Twittering](/assets-c/2009/08/wesruckertwitter-thumb-485x293-495.webp)](/images/wesruckertwitter.webp)(More Twittering from the Chattanooga Times Free Press' [Rucker](https://twitter.com/rucker).)  
+![Wes Rucker Twittering](/images/wesruckertwitter.webp)
+(More Twittering from the Chattanooga Times Free Press' [Rucker](https://twitter.com/rucker).)  
   
 That's an area where we're all adjusting to the technology and the Tennessee athletic department staff has been flexible in accommodating local media requests, no matter how wacky. The NFL, and other sports leagues as well, are grappling with the issue of to Twitter or to not Twitter, what dost thou say. Even sports media organizations like ESPN are [trying to figure it out](https://www.mediaite.com/online/not-a-ban-just-guidelines-espn-responds-to-new-twitter-policy/).  
   
@@ -83,5 +84,3 @@ Here are some more links on the SEC media policy:
 Links powered by [Publish2.](https://publish2.com/)  
 
 An earlier set of links is [here](/2009/08/react-to-the-secs-new-media-po.html) and this post has a link to the [SEC policy](/2009/08/blogging-has-its-limits-in-the.html) released last week. And [follow me](https://twitter.com/jacklail) on Twitter.  
-
-

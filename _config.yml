@@ -12,11 +12,11 @@ tagline: "A retired Tennessee journalist writing about media, tech, and genealog
 # -----------------------------
 # Theme & Plugins
 # -----------------------------
-remote_theme: mmistakes/so-simple-theme
+# remote_theme: mmistakes/so-simple-theme
+theme: jekyll-theme-so-simple
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
@@ -113,14 +113,24 @@ tag_archive_path: "/tags/#"
 include:
   - _redirects
 
+#-------------------------
+# Exclude from processing
+#-----------------------
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .jekyll-cache
+  - .jekyll-metadata
+  - start-blog.sh
+  - _config_dev.yml
+
+
 # -----------------------------
 # Jekyll Settings
 # -----------------------------
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:title/
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+

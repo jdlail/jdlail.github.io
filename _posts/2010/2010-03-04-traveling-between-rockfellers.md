@@ -10,12 +10,12 @@ categories:
 - Ramblings
 tags: []
 ---
-![Nancy Sweezy](/images/nancysweezy.webp)The [remarkable story](https://www.nytimes.com/2010/02/24/arts/design/24sweezy.html) of Nancy Sweezy, the woman who may have just saved pottery making in Seagrove, N.C.  
-  
+![Nancy Sweezy](/images/nancysweezy.webp)
+
+The [remarkable story](https://www.nytimes.com/2010/02/24/arts/design/24sweezy.html) of Nancy Sweezy, the woman who may have just saved pottery making in Seagrove, N.C.  
+
 I had talked to her a couple of times, but knew little of her amazing life.  
-  
+
 The National Endowment of the Arts named her a "national treasure" in 2006.  
   
 _(Family photo via The New York Times)_  
-
-

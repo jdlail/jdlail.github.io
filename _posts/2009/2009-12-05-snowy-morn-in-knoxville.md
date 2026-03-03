@@ -8,9 +8,10 @@ publish: true
 pin: false
 categories:
 - Ramblings
-tags: []
+tags: [Snow, Knoxville, Christmas]
+image:
+    path: /images/star-in-backyard-4160261542_ff1c1d616b.webp
+    alt: "Snow in the backyard"
 ---
-[![Snow in the backyard](https://farm3.static.flickr.com/2544/4160261542_ff1c1d616b.jpg)](https://www.flickr.com/photos/jackdlail/4160261542/ "snow in the bakyard")  
+
 An [HDR](https://www.2expertsdesign.com/2009/06/02/85-examples-of-beautiful-hdr-photography/) photo of snow on the trees and our Christmas decorations. The star is a [Moravian star](https://en.wikipedia.org/wiki/Moravian_star). Taken Dec. 5, 2009.  
-
-

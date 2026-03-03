@@ -7,8 +7,8 @@ last_modified_at: 2010-06-24 21:56:23 -0000
 publish: true
 pin: false
 categories:
-- Ramblings
-tags: []
+- Media
+tags: [Music]
 ---
 Insert "blank" for music  
   
@@ -23,6 +23,3 @@ Insert "blank" for music
 * [Report: Google to Start iTunes Product](https://www.seroundtable.com/archives/022431.html) (seroundtable.com)
 * [Google planning music service: report](https://www.financialpost.com/Google+planning+music+service+report/3187206/story.html) (financialpost.com)
 * [Elton John & Leon Russell: The Union Out 10/19](https://www.jambase.com/headsup.asp?storyID=23177) (jambase.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=052df51c-baa5-47ba-a433-bab7044f9652)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

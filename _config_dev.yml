@@ -1,0 +1,16 @@
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+
+# Forces the feed plugin to do almost zero work
+feed:
+  disable_in_development: true # Some versions of the plugin respect this
+  posts_limit: 1               # If it runs, it only looks at ONE post instead of all of them
+  collections: []              # Tells it there are no collections to index
+
+# Add this to _config_dev.yml
+paginate: 2 
+taxonomy: false

@@ -9,8 +9,11 @@ pin: false
 categories:
 - Newspapers
 tags: []
+image: 
+    path: /images/1889-Western-Union-Main-Operating-Room-NYC-Scribners-OM.webp
+    alt: 1889 Western Union Main Operating Room NYC Scribners
 ---
-[![1889_Western_Union_Main_Operating_Room_NYC_Scribners_OM.JPG](/assets-c/2009/12/1889-Western-Union-Main-Operating-Room-NYC-Scribners-OM-thumb-485x302-537.webp)](/images/1889_Western_Union_Main_Operating_Room_NYC_Scribners_OM.webp)A prediction about the newspaper industry:  
+A prediction about the newspaper industry:  
   
 > All those papers which serve merely as vehicles of intelligence will be destroyed  
 >
@@ -54,7 +57,7 @@ The Dow will rise by 8% (from its Dec. 31 close), but newspaper stocks will sink
   
 > A "major" newspaper will fail to make it to 2011  
 >
-
+>
 > We've been talking for years about the impending death of the newspaper, in favor of Internet-based news channels.  I think back to our experience with the local paper earlier this year.  We subscribed purely for the reason of getting coupons.  We subscribed to the weekend package (so Friday - Sunday).  Total cost was about $10 a month.  The problem?  We only netted about $5-6 worth of coupons per month.  After 2 months, we canceled the subscription.  Ad revenues are already in the toilet for newspapers, and will only continue to decline.  Ask not for whom the bell tolls, it tolls for thee, Mr. Newspaper Man.  
 >
 
@@ -79,5 +82,3 @@ _
 (The original "Inter-Tubes?" The photo at top shows the main Operating Room of the Western Union in New York, from Scribner's Magazine, July 1889.   The image shows the pneumatic tube system for transmitting messages to and from city stations and the 600 operators in the room. Photo from the [Early Office Museum](https://www.officemuseum.com/communications_equipment.htm))_  
   
 Now for your predictions ...  
-
-

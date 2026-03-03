@@ -9,10 +9,16 @@ pin: false
 categories:
 - Training
 tags: [ONA]
+image:
+    path: /images/3239848068-3822cf43ef.webp
+    alt: John Seigenthaler Center
 ---
-![John Seigenthaler Center](/images/3239848068_3822cf43ef.webp)For the last couple of months, I have been helping plan a workshop that will be held April 9 at the Freedom Forum's [John Seigenthaler Center](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1207+18th+Ave.+S.,+Nashville,+tn+27212&sll=35.870526,-84.057614&sspn=0.007286,0.018883&ie=UTF8&hq=&hnear=1207+18th+Ave+S,+Nashville,+Davidson,+Tennessee+37212&z=16) in Nashville (pictured above).  
+
+For the last couple of months, I have been helping plan a workshop that will be held April 9 at the Freedom Forum's [John Seigenthaler Center](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1207+18th+Ave.+S.,+Nashville,+tn+27212&sll=35.870526,-84.057614&sspn=0.007286,0.018883&ie=UTF8&hq=&hnear=1207+18th+Ave+S,+Nashville,+Davidson,+Tennessee+37212&z=16) in Nashville (pictured above).  
   
-[![online news association](/images/ONA_logo_022210.webp)](https://www.journalists.org/)A joint effort by the [Online News Association](https://www.journalists.org/) and the [Freedom Forum](https://www.freedomforum.org/), it is called "_Smart Phones for Smart Journalists_."  
+[![online news association](/images/onalogo.webp)](https://www.journalists.org/)
+
+A joint effort by the [Online News Association](https://www.journalists.org/) and the [Freedom Forum](https://www.freedomforum.org/), it is called "_Smart Phones for Smart Journalists_."  
   
 It's extremely affordable training at $35 per person ($25 for Online News Association members and for alumni of the Freedom Forum's Diversity Institute). You can see the schedule for the day and register at the [Online News Association's site](https://journalists.org/events/event_details.asp?id=96897).  
   
@@ -20,7 +26,9 @@ The affordable registration cost was made possible in part through support from 
   
 Here's a look at the speakers, a lineup I'm extremely excited about. I hope you can join us in Nashville in April. If you have questions, drop me an [e-mail](mailto:contact@goldenleaf.addy.io?subject=ONA%20Nashville).  
   
-![Bill Tallent](/images/TallentPhotoHeadShot.webp)**Bill Tallent, CEO of Mercury Intermedia, Brentwood, Tenn.**  
+![Bill Tallent](/images/TallentPhotoHeadShot.webp)
+
+**Bill Tallent, CEO of Mercury Intermedia, Brentwood, Tenn.**  
   
 Tallent is CEO of Mercury Intermedia, a firm that develops native mobile applications for some of the nation's top news-related companies. The insights gained should be of interest to all attendees.  
   
@@ -28,7 +36,9 @@ Tallent has worked in technology since he helped start the first computer class 
   
 He sees the iPhone and Android phones as fourth generation computers that will expand computer usage dramatically given that they are truly personal and carried by the owner 16-18 hours per day.  
   
-![Rob King](/images/20070618_KingRob1_RA.webp)**Rob King, Vice President and Editor In Chief, ESPN Digital Media**  
+![Rob King](/images/20070618-KingRob1-RA.webp)
+
+**Rob King, Vice President and Editor In Chief, ESPN Digital Media**  
 
 Rob King was named Editor In Chief of ESPN Digital Media in September 2009. In the role, he is responsible for supervision of all content and the overall editorial direction for the leading portfolio of digital sports properties, including all text, audio, video and multimedia content.  He also oversees the management of the award-winning team of more than 200 editors, writers and designers across ESPN.com and its network of related sites.  He reports directly to John Kosner, senior vice president and general manager, ESPN Digital Media.  King had previously served as vice president and Editor In Chief of ESPN.com since June 2007, adding oversight of digital video and audio content as well as all editorial content on ESPN's local sites in 2009.  
   
@@ -40,16 +50,20 @@ King began his career in the newspaper business.  From 1997 - 2004, he was at t
   
 King received a Bachelor of Arts degree in English from Wesleyan University in 1984.  
   
-![Jeff Herr](/images/jeff_herr.webp)**Jeff Herr, Director Of Interactive Media, Lee Enterprises.**  
+![Jeff Herr](/images/jeff-herr.webp)
+
+**Jeff Herr, Director Of Interactive Media, Lee Enterprises.**  
   
 Jeff Herr joined Lee's corporate office in April 2006 as the director of interactive media.  Previously, Herr had been director of online operations for Tucson Newspapers Inc., the agency that handles business operations for the Arizona Daily Star, owned by Lee, and the Tucson Citizen, owned by Gannett Co., Inc.
   
 Herr began his career in 1985 as a newspaper reporter and editor covering business, politics and state and federal government, working for the Arizona Daily Star and other metropolitan newspapers in the West.  In 1994 he began his Internet career with an online international trade law online service and newsletter.  In 1995 he joined Paul Allen's Internet company, Starwave, working through 1999 on major sites including ABCNews.com, ESPN.com, Outside Online, and TheStreet.com.
   
 In 1999 he returned to Arizona to develop a suite of Internet-based financial calculators and tools that were licensed to more than 100 of the largest banks in the United States. He also worked as digital strategist with an online agency working with clients including Electronic Arts, Rational Software, Coty Cosmetics and America West Airlines before joining TNI in 2003.  
-**  
-**![Ray Meese](/images/RayMeese.webp)**Ray Meese, Director of Photography, Ventura County Star  
-**  
+
+![Ray Meese](/images/RayMeese.webp)
+
+**Ray Meese, Director of Photography, Ventura County Star**
+
 Ray Meese is the director of photography at the Ventura County Star in Southern California. A graduate of Western Kentucky University, he has worked at newspapers in Pennsylvania, Illinois, Indiana, Texas, Utah, Oregon and California. He has more than a decade of experience as a photojournalist and five years as a picture editor.  
   
 Meese has not let the constant advances in information technology escape him and is excited about how mobile devices can provide news to web readers within seconds. He currently oversees the use of mobile devices to: capture, edit and transmit still images and video; post information to Twitter and Facebook; update the Ventura County Star's photo galleries; and edit pictures and videos from staff photojournalists.  

@@ -8,9 +8,11 @@ publish: true
 pin: false
 categories:
 - Journalism
-tags: []
+tags: [Resources]
+image:
+    path: /images/tapelib.webp
+    alt: (Photo by Bob Resnikoff is of the tape library at Columbia University in the early 1980s.)
 ---
-![Data on tape](/images/tapelib.webp
 
 I'm speaking to a journalism class at the University of Tennessee this morning about:  
   
@@ -20,7 +22,7 @@ I'm speaking to a journalism class at the University of Tennessee this morning a
 
 I thought I might pass along the link set I created around what I plan to talk about. This is designed as a sampler, not an exhaustive list, but I would appreciate any feedback you might have on it.  
   
-_(Photo by Bob Resnikoff is of the[tape library at Columbia University](https://www.columbia.edu/acis/history/tapes.html) in the early 1980s.)_  
+_(Photo by Bob Resnikoff is of the [tape library at Columbia University](https://www.columbia.edu/acis/history/tapes.html) in the early 1980s.)_  
   
 **Computer-Assisted Reporting:**  
 
@@ -33,39 +35,39 @@ _(Photo by Bob Resnikoff is of the[tape library at Columbia University](https://
 
 **Computational Journalism**  
 
-* [Buying Into Computational Journalism :: The Scoop](https://www.ire.org/:%3EInvestigative%20Reporters%20and%20Editors%3C/a%3E%3C/li%3E%3C/ul%3EComputational%20Journalism:%3Cbr%20/%3E%3Cli%3E%3Ca%20href=)
-* [MediaShift . How Computer-Assisted Reporters Evolved into Programmer/Journalists | PBS](https://www.pbs.org/mediashift/2009/08/how-computer-assisted-reporters-evolved-into-programmerjournalists219.html)
-* [MediaShift Idea Lab . Journalists and Technologists: An Uneasy Courtship | PBS](https://www.pbs.org/idealab/2008/02/journalists-and-technologists-an-uneasy-courtship005.html)
+* [Buying Into Computational Journalism \| The Scoop](https://www.ire.org/:%3EInvestigative%20Reporters%20and%20Editors%3C/a%3E%3C/li%3E%3C/ul%3EComputational%20Journalism:%3Cbr%20/%3E%3Cli%3E%3Ca%20href=)
+* [MediaShift . How Computer-Assisted Reporters Evolved into Programmer/Journalists \| PBS](https://www.pbs.org/mediashift/2009/08/how-computer-assisted-reporters-evolved-into-programmerjournalists219.html)
+* [MediaShift Idea Lab . Journalists and Technologists: An Uneasy Courtship \| PBS](https://www.pbs.org/idealab/2008/02/journalists-and-technologists-an-uneasy-courtship005.html)
 * [Georgia Tech's Computational Journalism: What is Computational Journalism?](https://gt-cj.blogspot.com/2007/01/what-is-computational-journalism.html)
-* [definitions Â« DigiDave â€" Journalism is a Process, Not a Product](https://blog.digidave.org/tag/definitions)
-* [Online Journalism lesson #10: RSS and mashups | Online Journalism Blog](https://onlinejournalismblog.com/2010/03/12/online-journalism-lesson-10-rss-and-mashups/)
+* [definitions \| DigiDave \| Journalism is a Process, Not a Product](https://blog.digidave.org/tag/definitions)
+* [Online Journalism lesson #10: RSS and mashups \| Online Journalism Blog](https://onlinejournalismblog.com/2010/03/12/online-journalism-lesson-10-rss-and-mashups/)
 * [Data is Journalism: Politics API from The Guardian](https://blog.programmableweb.com/2010/03/01/data-is-journalism-politics-api-from-the-guardian/)
 * [jill/txt » computational journalism](https://jilltxt.net/?p=2313)
-Deep Throat Meets Data Mining | Smart Journalism. Real Solutions. | Miller-McCune Online Magazine [Duke University: DeWitt Wallace Center for Media & Democracy.](https://dewitt.sanford.duke.edu/)
-* [Nieman Reports | Tracking Toxics When the Data Are Polluted](https://www.nieman.harvard.edu/reportsitem.aspx?id=100933)
+* [Deep Throat Meets Data Mining \| Smart Journalism. Real Solutions. \| Miller-McCune Online Magazine \| Duke University: DeWitt Wallace Center for Media & Democracy.](https://dewitt.sanford.duke.edu/)
+* [Nieman Reports \| Tracking Toxics When the Data Are Polluted](https://www.nieman.harvard.edu/reportsitem.aspx?id=100933)
 
 **Examples:**  
 
-* [PolitiFact | Sorting out the truth in politics](https://www.politifact.com/)
+* [PolitiFact \| Sorting out the truth in politics](https://www.politifact.com/)
 * [The White House Visitor Records](https://www.whitehouse.gov/briefing-room/disclosures/visitor-records?order=RELEASE_DATE)
 * [Author - Jennifer LaFleur - ProPublica](https://www.propublica.org/site/author/jennifer_lafleur)
-* [EveryBlock â€" A news feed for your block](https://www.everyblock.com/)
+* [EveryBlock \| A news feed for your block](https://www.everyblock.com/)
 * [Reporting Matchmaker: Setting Up Home Loan Modification Applicants With Local Journalists - ProPublica](https://www.propublica.org/ion/loan-mods/item/loan-mod-matchmaking-reporting-map)
 
 **Tools**
 
 * [SIMILE Widgets](https://www.simile-widgets.org/)
 * [Recovery.gov](https://www.recovery.gov/Pages/home.aspx)
-* [Data in, Brilliance Out | Tableau Public](https://www.tableausoftware.com/public/?ref=https://public.tableausoftware.com/views/HealthUSA/ObesityIncomeMashup)
+* [Data in, Brilliance Out \| Tableau Public](https://www.tableausoftware.com/public/?ref=https://public.tableausoftware.com/views/HealthUSA/ObesityIncomeMashup)
 * [DocumentCloud](https://www.documentcloud.org/home)
-* [MediaShift Idea Lab . Sourcemap Makes Data Visualizations Transparent | PBS](https://www.pbs.org/idealab/2010/03/sourcemap-makes-data-visualizations-transparent090.html)
+* [MediaShift Idea Lab . Sourcemap Makes Data Visualizations Transparent \| PBS](https://www.pbs.org/idealab/2010/03/sourcemap-makes-data-visualizations-transparent090.html)
 * [Many Eyes](https://manyeyes.alphaworks.ibm.com/manyeyes/)
-* [Teaching Online Journalism » Data visualization resources](https://mindymcadams.com/tojou/2008/data-visualization-resources/)
+* [Teaching Online Journalism \> Data visualization resources](https://mindymcadams.com/tojou/2008/data-visualization-resources/)
 
 **Open Government Data Advocacy:**  
 
 * [Public.Resource.Org](https://public.resource.org/index.html)
-* [Carl Malamud](https://en.wikipedia.org/wiki/Carl_Malamud)
+* [Carl Malamud \| Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Carl_Malamud)
 * [Making Government Transparent and Accountable - SunlightFoundation.com (The Public Online Information Act, Design for America, Public=Online)](https://www.sunlightfoundation.com/)
 
 **More that Zementa suggested:**

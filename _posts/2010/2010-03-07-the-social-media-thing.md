@@ -11,7 +11,9 @@ categories:
 tags: []
 ---
   
-[![RSS logo](/images/rss247.webp)](https://feeds.feedburner.com/RandomMumblings) I have done this post in awhile!  
+[![RSS logo](/images/rss247.webp)](https://feeds.feedburner.com/RandomMumblings)
+
+I have done this post in awhile!  
   
 Be sociable:  
   
@@ -20,5 +22,3 @@ Be sociable:
 * [Subscribe on Friendfeed](https://friendfeed.com/jacklail)
 * [Add to LinkedIn](https://www.linkedin.com/in/jacklail "New window will open")
 * [Add as friend on Facebook](https://www.facebook.com/jacklail)
-
-

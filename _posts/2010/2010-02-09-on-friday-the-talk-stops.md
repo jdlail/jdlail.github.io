@@ -9,9 +9,12 @@ pin: false
 categories:
 - Adversity is a mean teacher
 tags: []
+image:
+    path: /images/nashvilletalkinglogo.webp
+    alt: Nashville is Talking
 ---
-  
-[![Nashville is Talking](/assets-c/2010/02/nashvilletalkinglogo-thumb-225x107-542.webp)](/images/nashvilletalkinglogo.webp)One of the pioneering efforts in new ways to deliver news and connect with audiences in Tennessee (and the country) is "going dark"  
+
+One of the pioneering efforts in new ways to deliver news and connect with audiences in Tennessee (and the country) is "going dark"  
   
 WKRN-TV's "Nashville is Talking" Web site, termed a  "quaint reminder" of days gone by shuts down on Friday.  
   
@@ -54,4 +57,3 @@ Heaton,  Sechrist, Gilbert, Kleinheider, Grantham demonstrated that the future 
   
 I hope that spirit of innovation is not what is "going dark" at WKRN. It's quite a legacy, quaint as it may seem to some. As with Heaton, Sechrist, Gilbert and Kleinheider, I'm sure Grantham will move to do even better things and I wish him well.  
   
-

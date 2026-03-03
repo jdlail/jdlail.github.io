@@ -9,10 +9,11 @@ pin: false
 categories:
 - Training
 tags: [Scripps]
+image:
+    path: /images/Hampton-Unversity-4309999951_41d5cc2503_o.webp
+    alt: Scripps Days at Hampton University
 ---
 
-[![DSC01835](https://farm5.static.flickr.com/4045/4309999951_c98bf5abf4.jpg)](https://www.flickr.com/photos/scrippsdays/4309999951/ "DSC01835 by Scripps Days, on Flickr")  
-  
 I spent most of last week at Hampton University at [Scripps Career Days](https://scrippsdays.com/). The students I met were extremely bright and they have a wonderful facility to work in at the Scripps Howard School of Journalism and Communications. There are links to more coverage, including photos and videos, of the week at the [ScrippsDays.com Web site](https://scrippsdays.com/).  
   
-_(Photo by Hampton student[Nolan Smash](https://www.flickr.com/photos/scrippsdays/tags/nolansmash/), who also shot video of some of the panels.)_  
+_(Photo by Hampton student [Nolan Smash](https://www.flickr.com/photos/scrippsdays/tags/nolansmash/), who also shot video of some of the panels.)_  

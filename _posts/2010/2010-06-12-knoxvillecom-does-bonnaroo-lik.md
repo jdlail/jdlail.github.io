@@ -9,8 +9,11 @@ pin: false
 categories:
 - Ramblings
 tags: []
+image:
+    path: /images/061010linda6-Laura-Linda.webp
+    alt: Lauren Spuhler and Linda Nguyen at Bonnaroo 2010
 ---
-[![Lauren Spuhler and Linda Nguyen](/assets-c/2010/06/061010linda6-t600-thumb-485x364-574.webp)](/images/061010linda6_t600.webp)  
+
 If you're into Boonaroo, there's no better place to follow happenings (whether you are there or not) than our [Bonnaroo section](https://www.knoxville.com/bonnaroo) on knoxville.com and our [Bonnaroonews](https://twitter.com/bonnaroonews) Twitter stream.  
   
 We've posting our stuff and linking to the rest! We have one of larger coverage teams this year with [Wayne Bledsoe](https://blogs.knoxnews.com/bledsoe), [Lauren Spuhler](https://twitter.com/sugirly), [Saul Young](https://twitter.com/saulyoung "Saul Young") and [Linda Nguyen](https://twitter.com/ttlnguyen).  
@@ -49,12 +52,9 @@ Here's the most recent coverage as of early Saturday morning (See [Knoxville.com
   
 [Grudge Match: Bonnaroo vs. Xanadu](https://www.knoxville.com/news/2010/jun/03/060410smack/?partner=RSS): We compare two pop-culture subjects to see which you like better. To be included in next week's tally, vote for your favorite before noon Monday. This week's match: Bonnaroo vs. Xanadu.  
   
-_Photo caption: Online producer Lauren Spuhler and online intern Linda Nguyen show off their hipster sunglasses at Bonnaroo 2010.  
+_Photo caption: Online producer Lauren Spuhler and online intern Linda Nguyen show off their hipster sunglasses at Bonnaroo 2010._
   
 _
 
 Common sense dictates that sex and fire don't go very well together, but it does seem to make for a good Kings of Leon song. [#bonnaroo](https://search.twitter.com/search?q=%23bonnaroo).[Sat Jun 12 03:36:10](https://twitter.com/saulyoung/status/15976504927 "Sat Jun 12 03:36:10 ") via [SocialScope](https://socialscope.net/)[![](https://a3.twimg.com/profile_images/890886657/twitter_normal.jpg)](https://twitter.com/saulyoung)**[Saul Young](https://twitter.com/saulyoung)**  
 saulyoung
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=e4ec644f-e7e5-4bc8-b738-29a26edce9d8)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

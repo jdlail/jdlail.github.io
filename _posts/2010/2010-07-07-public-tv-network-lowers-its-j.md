@@ -8,7 +8,7 @@ publish: true
 pin: false
 categories:
 - Video
-tags: []
+tags: [Legal, Journalism, North Carolina]
 ---
 Troubling "[Shield Law](https://en.wikipedia.org/wiki/Shield_laws_in_the_United_States)" incident in North Carolina as a legislative committee subpoenas raw, unaired footage from the state-funded UNC-TV public television network about a story involving the environmental record of aluminum giant Alcoa and its efforts to get re-licensed for a federal permit to run a hydro-dam on the Yakin River.  
   
@@ -20,6 +20,4 @@ Andria Krewson raises [that and other questions](https://globalvue.wordpress.com
   
 Surprised [RTNDA](https://www.rtdna.org/), [SPJ](https://www.spj.org/) and the [Reporters Committee for the Freedom of the Press](https://www.rcfp.org/) haven't weighed in vocally on this one (If they have, they're not touting it on their websites).  
   
-Tip: Great [interactive map](https://www.poynterextra.org/shieldlaw/) of state journalism "Shield Laws" in the United States.  
-  
-
+Tip: Great [interactive map](https://www.poynterextra.org/shieldlaw/) of state journalism "Shield Laws" in the United States.

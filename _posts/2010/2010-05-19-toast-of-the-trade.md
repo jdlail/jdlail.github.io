@@ -9,9 +9,12 @@ pin: false
 categories:
 - Media
 tags: [Newspapers]
+image:
+    path: /images/Bristol-Herald-Courier-BZK7C2TEFB536FUSPBPA3DQF5Q.webp    
+    alt: Celebrating Pulitzer Prize. Staffers of the Bristol Herald Courier celebrate 2010 Pulitzer Prize for public service in Bristol, Va. Bill McKee, Associated Press
 ---
 
-[![Celebrating Pulitzer Prize](/assets-c/2010/05/bristolheraldwin-thumb-150x130-568.webp)](/images/bristolheraldwin.webp)In an industry hard hit by declining fortunes, layoffs, furloughs, pay cuts and dizzying org-chart  reorganizations, there's been something that has brought smiles and way-to-go comments from many a journalist.  
+In an industry hard hit by declining fortunes, layoffs, furloughs, pay cuts and dizzying org-chart  reorganizations, there's been something that has brought smiles and way-to-go comments from many a journalist.  
   
 It's the story, as Bristol Herald Courier Editor J. Todd Foster [has put it](https://www2.tricities.com/tri/news/opinion/columnists/article/j._todd_foster_column_this_is_the_little_paper_that_could_..._and_did/45097/), of the "little engine that could."  
   
@@ -41,4 +44,4 @@ When the announcement came, they toasted with $4.99 bottles of champagne that Fo
   
 For journalists outside of the big metro newspapers, $4.99 champagne never tasted so good.  
   
-_In the photo above, Bristol Herald Courier Publisher Carl Esposito (center) and Managing Editor J. Todd Foster (right) yesterday toasted the Pulitzer Prize for public service won by the newspaper. The eight-day series was written by Daniel Gilbert (left). David Crigger / Media General News Service_  
+_In the photo above, Staffers of the Bristol Herald Courier celebrate 2010 Pulitzer Prize for public service in Bristol, Va. Bill McKee, Associated Press_  

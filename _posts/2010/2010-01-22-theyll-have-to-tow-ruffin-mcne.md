@@ -10,7 +10,9 @@ categories:
 - Ramblings
 tags: []
 ---
-> ![Ruffin McNeill](/images/012210ruffinmcneill.webp)GREENVILLE, N.C. (AP) -- Ruffin McNeill didn't say a word. He just walked into the room filled with reporters and fans waiting to hear from East Carolina's new coach and repeatedly pumped his right fist in the air.
+> ![Ruffin McNeill](/images/012210ruffinmcneill.webp)
+>
+>GREENVILLE, N.C. (AP) -- Ruffin McNeill didn't say a word. He just walked >into the room filled with reporters and fans waiting to hear from East >Carolina's new coach and repeatedly pumped his right fist in the air.
 >
 > He was home, back at his alma mater and in his native North Carolina.
 >
@@ -21,5 +23,3 @@ tags: []
 A great way to start. McNeill sounds like he'll do great at East Carolina and I wish him well. Amid the slew of  crazy college coach stories of the last few weeks, this is a positive one. Everything I have read about McNeill praises him as a person.  
 
 _AP photo by The Daily Reflector, Rhett Butler_  
-
-

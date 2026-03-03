@@ -9,12 +9,12 @@ pin: false
 categories:
 - Training
 tags: [Mobile]
+image:
+    path: /images/mary-meeker-3007695750_3bd31748c5_k.webp
+    alt: Mary Meeker, photo JD Lasica, socialmedia.biz
 ---
-[![Mary Meeker](https://farm4.static.flickr.com/3152/3007695750_30fc62ea91_m.jpg)](https://www.flickr.com/photos/36521958135@N01/3007695750)
 
-Image by [jdlasica](https://www.flickr.com/photos/36521958135@N01/3007695750) via Flickr
-
-Pay attention to what [Morgan Stanley](https://www.morganstanley.com/ "Morgan Stanley's") Mary Meeker says.  
+Pay attention to what [Morgan Stanley's](https://www.morganstanley.com/ "Morgan Stanley's") Mary Meeker says.  
   
 That bit of advice [Bill Tallent](/2010/04/the-ipad-as-transformative-dev.html), CEO of Mercury Intermedia, passed along to the audience last Friday at the "Smart Phones for Smart Journalists" workhop at the John Seigenthaler Center on the Vanderbilt campus in Nashville.  
   
@@ -37,3 +37,5 @@ Her whole presentation is in embedded in Ingram's post. Like Tallent said "pay a
 * [Mary Meeker: Mobile Internet Will Soon Overtake Fixed Internet](https://gigaom.com/2010/04/12/mary-meeker-mobile-internet-will-soon-overtake-fixed-internet/) (gigaom.com)
 * [Mary Meeker thinks Silicon Valley has done it again](https://blogs.ft.com/gapperblog/2009/12/mary-meeker-thinks-silicon-valley-has-done-it-again/) (blogs.ft.com)
 * [Mary Meeker's 424-Page Mobile Internet Report: The 4.5-Word Version](https://www.businessinsider.com/henry-blodget-mary-meeker-2009-12) (businessinsider.com)
+
+_Photo: Credit: Mary Meeker, photo by JD Lasica, socialmedia.biz._

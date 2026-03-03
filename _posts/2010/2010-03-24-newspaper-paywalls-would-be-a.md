@@ -10,7 +10,9 @@ categories:
 - Media
 tags: [Newspapers, Scripps]
 ---
-![richardboehne.jpg](/images/richardboehne.webp)Nice interview with [E.W. Scripps](https://en.wikipedia.org/wiki/E._W._Scripps "E. W. Scripps") CEO Richard Boehne over at [TVNewsCheck](https://www.tvnewscheck.com/articles/2010/03/23/daily.1/?page=1), but I hate it when they call the company I work for "_venerable_." Sounds so very musty.  
+![richardboehne.jpg](/images/richardboehne.webp)
+
+Nice interview with [E.W. Scripps](https://en.wikipedia.org/wiki/E._W._Scripps "E. W. Scripps") CEO Richard Boehne over at [TVNewsCheck](https://www.tvnewscheck.com/articles/2010/03/23/daily.1/?page=1), but I hate it when they call the company I work for "_venerable_." Sounds so very musty.  
   
 Some selected quotes, but read the whole thing:  
   

@@ -10,10 +10,6 @@ categories:
 - Media
 tags: [Newspapers]
 ---
-  
-[![SAN FRANCISCO - JANUARY 27:  \(EDITORS NOTE: Re...](https://cache.daylife.com/imageserve/0aau8VD4EQfRZ/99x150.jpg)](https://www.daylife.com/image/0aau8VD4EQfRZ?utm_source=zemanta&utm_medium=p&utm_content=0aau8VD4EQfRZ&utm_campaign=z1)
-
-Image by [Getty Images](https://www.daylife.com/source/Getty_Images) via [@daylife](https://www.daylife.com/)
 
 The iPad is being viewed by many as a transformation device like its siblings, the iPod and iPhone, but one of the changes it may bring is the return of an old idea, pay walls for news organization web sites.  
   

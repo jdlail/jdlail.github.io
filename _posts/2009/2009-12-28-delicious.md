@@ -9,8 +9,9 @@ pin: false
 categories:
 - Family
 tags: []
+image:
+    path: /images/blackberry-confections-4221748487_651f152313.webp
+    alt: "Blackberry Creek Confections"
 ---
-[![Blackberry Creek chocolates](https://farm5.static.flickr.com/4071/4221748487_651f152313.jpg)](https://www.flickr.com/photos/jackdlail/4221748487/ "Blackberry Creek chocolate")  
+
 [Blackberry Creek Confections](https://www.blackberrycreekconfections.com/)  
-
-

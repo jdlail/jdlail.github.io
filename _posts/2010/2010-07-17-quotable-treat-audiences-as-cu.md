@@ -8,10 +8,9 @@ publish: true
 pin: false
 categories:
 - Quotable
-tags: []
+tags: [Raju Narisetti]
 ---
 > "If we don't start treating our audiences as customers, they will stop treating us as a brand they want to consume."  
 >
 
 \-- [Raju Narisetti](https://voices.washingtonpost.com/ombudsman-blog/2010/07/post_online_strategy_grow_audi.html), the managing editor who oversees The Washington Post website.
-

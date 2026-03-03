@@ -53,5 +53,3 @@ Here is a collection of recent pieces on story comments from a [delicious list I
 * [Change of Subject: Pseudonymity can battle the scourge of comment anonymity](https://blogs.chicagotribune.com/news_columnists_ezorn/2010/04/pseudonymity-can-battle-the-scourge-of-comment-anonymity.html)
 * [The why and how of a real names policy on comments | Howard Owens](https://www.howardowens.com/node/7349)
 * [If you can't manage comments well, don't offer comments at all](https://www.ojr.org/ojr/people/robert/201003/1836/)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=560ff7c3-393f-4c25-9d70-933829b7a057)](https://www.zemanta.com/ "Enhanced by Zemanta")

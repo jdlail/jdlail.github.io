@@ -1,0 +1,26 @@
+{% comment %}
+This file scans all 2,000+ posts for tags and caches the result.
+{% endcomment %}
+<ul class="taxonomy-index">
+    {% assign tags = site.tags | sort %}
+    {% for tag in tags %}
+    <li>
+        <a href="#{{ tag[0] | slugify }}">
+            <strong>{{ tag[0] }}</strong> <span class="taxonomy-count">{{ tag[1].size }}</span>
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+
+{% for tag in tags %}
+<section id="{{ tag[0] | slugify }}" class="taxonomy-section">
+    <h2 class="taxonomy-title">{{ tag[0] }}</h2>
+    <div class="entries-{{ page.entries_layout | default: 'list' }}">
+        {% for post in tag[1] %}
+        {% include entry.html %}
+        {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }}
+        &uarr;</a>
+</section>
+{% endfor %}

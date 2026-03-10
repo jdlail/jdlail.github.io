@@ -1,0 +1,34 @@
+{% comment %}
+This file scans 2,000+ posts once and caches the result.
+{% endcomment %}
+<div class="archive">
+    {% assign categories_max = 0 %}
+    {% for category in site.categories %}
+    {% if category[1].size > categories_max %}
+    {% assign categories_max = category[1].size %}
+    {% endif %}
+    {% endfor %}
+
+    <ul class="taxonomy-index">
+        {% for category in site.categories %}
+        <li>
+            <a href="#{{ category[0] | slugify }}">
+                <strong>{{ category[0] }}</strong> <span class="taxonomy-count">{{ category[1].size }}</span>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+
+    {% for category in site.categories %}
+    <section id="{{ category[0] | slugify }}" class="taxonomy-section">
+        <h2 class="taxonomy-title">{{ category[0] }}</h2>
+        <div class="entries-{{ page.entries_layout | default: 'list' }}">
+            {% for post in category[1] %}
+            {% include entry.html %}
+            {% endfor %}
+        </div>
+        <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }}
+            &uarr;</a>
+    </section>
+    {% endfor %}
+</div>

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+    <article class="entry-wrapper">
+        <header class="entry-header">
+            <h1 class="entry-title">
+                {{ page.title | default: site.data.text[site.locale].tags }}
+            </h1>
+        </header>
+        <div class="entry-content">
+            {{ content }}
+            {% include_cached tag-list.html %}
+        </div>
+    </article>
+</div>

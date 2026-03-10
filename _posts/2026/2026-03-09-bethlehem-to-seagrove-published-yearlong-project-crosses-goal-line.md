@@ -9,7 +9,7 @@ image:
   alt: Bethlehem ... to Seagrove published
 ---
 
-<figure style="max-width: 150px; width: 100%;" class="align-right"> <img src="{{ '/assets/2026/kindle-cover-final.webp' | relative_url }}" alt="Bethlehem ... to Seagrove cover"> <figcaption>*Bethlehem ... to Seagrove cover"</figcaption> </figure>
+<figure style="max-width: 150px; width: 100%;" class="align-right"> <img src="{{ '/assets/2026/kindle-cover-final.webp' | relative_url }}" alt="Bethlehem ... to Seagrove cover"> <figcaption>Bethlehem ... to Seagrove cover</figcaption> </figure>
 
 My Dad began writing his memoir in February of last year and over the weekend the published book went live on Amazon.
 
@@ -25,7 +25,7 @@ He has startlingly clear memories of his life on the farm, his grade school teac
 
 (I can barely keep track of what day it is.)
 
-<figure style="max-width: 150px; width: 100%;" class="align-right"> <img src="{{ '/assets/2026/2019-04_IMG_5696-Jack-C-Lail.webp' | relative_url }}" alt="Jack C. Lail"> <figcaption>*Jack C. Lail"</figcaption> </figure>
+<figure style="max-width: 150px; width: 100%;" class="align-right"> <img src="{{ '/assets/2026/2019-04_IMG_5696-Jack-C-Lail.webp' | relative_url }}" alt="Jack C. Lail"> <figcaption>Jack C. Lail</figcaption> </figure>
 
 A healthy chunk of the book is the history of Mid-State Plastics in Seagrove which he co-founded in the early 1970s and sold in 1994.
 

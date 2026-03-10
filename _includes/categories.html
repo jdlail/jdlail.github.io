@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+    <article class="entry-wrapper">
+        <header class="entry-header">
+            <h1 class="entry-title">Categories</h1>
+        </header>
+        <div class="entry-content">
+            {% comment %}
+            We wrap the loop in a cache block so it only scans
+            your 2,000+ posts once per build.
+            {% endcomment %}
+            {% include_cached category-list.html %}
+        </div>
+    </article>
+</div>

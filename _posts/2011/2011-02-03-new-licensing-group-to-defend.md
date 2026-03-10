@@ -32,5 +32,3 @@ Watch this one.
 * [AP plans digital rights clearing house](https://www.newstatesman.com/digital/2010/10/revenue-rights-news-houses) (newstatesman.com)
 * [AP board approves business to sell digital news](https://seattletimes.nwsource.com/html/businesstechnology/2014119563_apusapdigitalrightsgroup.html?syndication=rss) (seattletimes.nwsource.com)
 * [Associated Press Will Form News Licensing Entity for Mobile-Based Revenue](https://www.dailyfinance.com/story/associated-press-will-form-news-licensing-entity-for-mobile-base/19679175/?icid=zemanta) (dailyfinance.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=133387c1-3419-4210-9a08-4069961b1071)](https://www.zemanta.com/ "Enhanced by Zemanta")

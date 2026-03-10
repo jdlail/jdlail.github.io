@@ -27,5 +27,3 @@ Related articles
 * [Last ever comment round up - April & May 2011](https://www.thefword.org.uk/blog/2011/05/last_ever_comment_roundup) (thefword.org.uk)
 * [Knight-Mozilla Initiative: Challenge 2 - Beyond Comment Threads](https://mozillalabs.com/conceptseries/2011/05/10/knight-mozilla-initiative-challenge-2-%25e2%2580%2593-beyond-comment-threads/) (mozillalabs.com)
 * [Our next step in News blogging](https://www.bbc.co.uk/blogs/theeditors/2011/05/our_next_step_in_news_blogging.html) (bbc.co.uk)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=1aefa58d-649b-426d-86b0-f595354cbcf2)](https://www.zemanta.com/ "Enhanced by Zemanta")

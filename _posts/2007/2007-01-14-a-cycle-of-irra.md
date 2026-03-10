@@ -7,8 +7,7 @@ last_modified_at: 2007-01-14 21:16:36 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
 - Quotable
-tags: []
+tags: [Newspapers]
 ---
-A superb line about the newspaper environment today ... The spin on newspapers is ... "A cycle of irrational negativity about their prospects." \-- [Steve Yelvington](https://www.yelvington.com/node/203) Tags: [newspapers](https://technorati.com/tag/newspapers)
+A superb line about the newspaper environment today ... The spin on newspapers is ... "A cycle of irrational negativity about their prospects." \-- [Steve Yelvington](https://www.yelvington.com/node/203)

@@ -36,6 +36,3 @@ There are a number of tools to do this ranging from just doing in you're your st
 This is an easy strategy for any news organization, but one I really don't see being used near enough. Jay Rosen came up with the blog post "[The People Formerly Known as the Audience](https://archive.pressthink.org/2006/06/27/ppl_frmr.html)" five years ago. Yes, five years ago.  
   
 So my challenge to myself and to others in my "unique circumstances" is to use curation more often and more effectively to add community voices to news coverage.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=72324214-2be6-4074-ae7f-32ffbe35a4ba)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

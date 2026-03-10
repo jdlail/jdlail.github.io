@@ -23,5 +23,3 @@ tags: []
 * [Parsing the Cooks Source Apology [Scandals]](https://gawker.com/5686495/parsing-the-cooks-source-apology) (gawker.com)
 * [Cooks Source finally issues half-hearted apology to blogger they ripped off](https://www.inquisitr.com/89886/cooks-source-finally-apologizes/) (inquisitr.com)
 * [Now Cooks Source Claims Its Facebook Page Was Hacked](https://www.allfacebook.com/cooks-source-hacked-2010-11) (allfacebook.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=aa6e16dc-2090-4e88-a815-0acbb1752749)](https://www.zemanta.com/ "Enhanced by Zemanta")

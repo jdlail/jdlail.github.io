@@ -8,7 +8,7 @@ publish: true
 pin: false
 categories:
 - Quotable
-tags: []
+tags: [Business]
 ---
 > "He's probably the leading expert in buying businesses he knows nothing about."
 

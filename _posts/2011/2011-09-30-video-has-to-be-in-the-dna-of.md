@@ -72,5 +72,3 @@ The only way video does not have a place in your strategic plans is if those pla
   
 That's why I say video has to be in a newspaper newsroom's DNA; it's about the future of those newsrooms.  
   
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=d454d5e7-ea06-4f46-9cee-7ea40b2ca7e1)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

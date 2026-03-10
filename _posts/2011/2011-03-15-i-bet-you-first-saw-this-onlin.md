@@ -30,5 +30,3 @@ The full State of the [News Media 2011](https://stateofthemedia.org/).
 * [You: Report: Online news consumption only area of industry showing growth](https://www.washingtonpost.com/wp-dyn/content/article/2011/03/14/AR2011031404509.html?wprss=rss_technology) (washingtonpost.com)
 * [Internet usage transforming news industry](https://talesfromthelou.wordpress.com/2011/03/14/internet-usage-transforming-news-industry/) (talesfromthelou.wordpress.com)
 * [Report: Internet usage transforming news industry](https://www.pbpulse.com/tv/2011/03/14/report-internet-usage-transforming-news-industry/) (pbpulse.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=13b15507-54c4-4247-962e-08aa6bfe527b)](https://www.zemanta.com/ "Enhanced by Zemanta")

@@ -46,17 +46,12 @@ The training will occur at the Diversity Institute's state-of-the-art school fac
   
 • Knowledge of smart phones and how they can be used to gather news.  
   
-   
 **To register for boot camp:  
 **[https://www.surveymonkey.com/s/REGISTER4bootcamp](https://www.surveymonkey.com/s/REGISTER4bootcamp)  
-   
-  
+
 **For more information about multimedia boot camp:  
 **[https://freedomforumdiversity.org/workshops-and-conferences/2010/12/16/multimedia-boot-camp-i-offered-feb-23-27-2011/](https://freedomforumdiversity.org/workshops-and-conferences/2010/12/16/multimedia-boot-camp-i-offered-feb-23-27-2011/)  
   
 The Diversity Institute was established and funded by the Freedom Forum as a school dedicated to teaching journalism skills and First Amendment values by advancing news media diversity, fairness and excellence. The Freedom Forum Diversity Institute, Inc., is a Tennessee public charity corporation with offices, staff, programs and classes at the John Seigenthaler Center in Nashville, at the Al Neuharth Media Center in Vermillion, S.D., and at the Freedom Forum headquarters and Newseum in Washington, D.C.  
   
 The tuition fee, payable at the time of registration, is non-refundable if the participant fails to show up, drops out or cancels within 30 days of the program's start. However, if the cancellation is due to an unavoidable personal or family emergency, the tuition payment may be credited to a future class when space is available.  
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=f84845fe-44ee-4f0e-ade4-d7eb66cd5aa9)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

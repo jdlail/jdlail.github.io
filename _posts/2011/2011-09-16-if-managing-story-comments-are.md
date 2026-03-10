@@ -20,5 +20,3 @@ tags: []
 It was a great discussion and highlighted several different directions for effective comment management.  
   
 >
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=6f1df0ba-04fd-4e84-b3ae-43240b23243d)](https://www.zemanta.com/ "Enhanced by Zemanta")

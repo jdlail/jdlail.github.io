@@ -51,5 +51,3 @@ Related articles by Zemanta
 * [500 Million](https://www.twistimage.com/blog/archives/500-million/) (twistimage.com)
 * [The web isn't killing newspapers, advertisers are](https://r.zemanta.com/?u=http%3A//www.cnn.com/2010/TECH/web/07/15/internet.affects.newspapers/index.html&a=20953512&rid=ec80adb4-4299-48cc-940a-46fc4d6d2b0f&e=e75aaf9cc633fa8526550eb02294dc71) (cnn.com)
 * [Facebook | 500 Million Stories](https://e1evation.com/2010/07/22/facebook-500-million-stories/) (e1evation.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=ec80adb4-4299-48cc-940a-46fc4d6d2b0f)](https://www.zemanta.com/ "Enhanced by Zemanta")

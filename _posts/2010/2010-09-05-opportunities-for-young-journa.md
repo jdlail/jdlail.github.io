@@ -22,6 +22,3 @@ And did I say these are paid internships? They certianly are.
 
 * [Six Steps to Becoming a Journalist](https://www.distance-education.org/Articles/Six-Steps-to-Becoming-a-Journalist-69.html) (distance-education.org)
 * [How to Become a Working Journalist](https://www.distance-education.org/Articles/How-to-Become-a-Working-Journalist-100.html) (distance-education.org)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=31f79bdf-4fb8-4956-8941-b6583ba24048)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

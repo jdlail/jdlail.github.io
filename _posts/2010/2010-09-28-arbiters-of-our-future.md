@@ -25,6 +25,3 @@ As Doctor observes, the challenge for those of us involved is to make this effor
 There's a difference between talking and doing; between opining and executing; between white papers and quantifiable results.  
   
 Wish us luck; we're about the latter!  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=ad77efcd-b0e0-425d-8406-0bce2e182bf4)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

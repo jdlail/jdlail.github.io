@@ -34,6 +34,3 @@ Today, it's often mentioned when serious foodies turn to talking country hams an
 * [Al Forno: A Visit to Benton's](https://www.robertfmoss.com/2007/01/visit-to-bentons.html):
 * [Benton's Smoky Mountain Country Hams](https://bentonshams.com/order/index.php):
 * [DiBruno Bros: The Queso-Files](https://dibruno.blogspot.com/2010/07/bentons-bacon-smoke-monster.html):
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=12f085cc-3e38-4495-8c6b-3936753cf0d3)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

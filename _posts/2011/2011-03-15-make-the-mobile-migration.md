@@ -50,5 +50,3 @@ Using a push-broadcasting system for community reporting and engagement from the
 (For those who want to stay overnight, there is a special $109 room rate at the nearby Embassy Suites Hotel, 1811 Broadway, To get the discounted rate, call Mike Henry, senior sales manager at the Embassy Suites, 615-277-4964. Only a limited number of rooms are available at this rate ... so hurry.)  
   
 If you have questions, please let me know. Hope to see you in Nashville!  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=823cfb00-6781-477e-9664-e25fde92bcfb)](https://www.zemanta.com/ "Enhanced by Zemanta")

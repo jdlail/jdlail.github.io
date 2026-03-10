@@ -25,7 +25,4 @@ She said at the team's Media Day a few weeks ago: "I've never compromised at all
 
 [The News Sentinel](https://www.fortwayne.com/mld/newssentinel/ "The News-Sentinel") building is not as cool to visit as the ESPN headquarters in Bristol? OK, I'll grant you, the News Sentinel building is not a hot spot in Knoxville even on Coffee Friday at SING (Scripps Interactive Newspaper Group).  
   
-But touring Dollywood arm-in-arm with Dolly Parton would be. There are lots of things to do in Knxoville that would be more fun. What's on your "Cooler than a Visit to ESPN Headquarters" list?    
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=42142e0b-9702-4926-ae78-4cd65e07810d)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
+But touring Dollywood arm-in-arm with Dolly Parton would be. There are lots of things to do in Knxoville that would be more fun. What's on your "Cooler than a Visit to ESPN Headquarters" list?

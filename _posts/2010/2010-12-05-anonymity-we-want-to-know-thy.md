@@ -61,5 +61,3 @@ More recent links added:
 * [Racist messages pose quandary for mainstream sites » Knoxville News Sentinel](https://www.knoxnews.com/news/2010/sep/26/racist-messages-pose-quandary-mainstream-sites/)
 * [In Response  | Banning unsigned online comments undermines the media's role as a forum for debate](https://ajr.org/Article.asp?id=4916)
 * [In Response: Banning unsigned online comments undermines the media's role as a forum for debate  | American Journalism Review](https://www.ajr.org/Article.asp?id=4916)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=19284d5f-8d82-42a4-97aa-f3782d2efad9)](https://www.zemanta.com/ "Enhanced by Zemanta")

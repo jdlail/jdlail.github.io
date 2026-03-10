@@ -1,5 +1,15 @@
 source 'https://rubygems.org'
 
-# Remove "group: :jekyll_plugins" so it doesn't force-load every plugin
-gem 'github-pages' 
+# Core Jekyll
+gem 'jekyll'
+
+# Theme
 gem 'jekyll-theme-so-simple'
+
+# Plugins (Matching your _config.yml)
+gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+gem 'jekyll-paginate'
+gem "kramdown-parser-gfm"
+gem "jekyll-include-cache"

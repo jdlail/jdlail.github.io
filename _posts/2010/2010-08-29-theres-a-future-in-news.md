@@ -51,5 +51,3 @@ stevebuttry
 jayrosen_nyu
 
 _(Photo provided by Dave Morgan)_
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=8caeacdb-9b12-43f4-8263-369ee660f245)](https://www.zemanta.com/ "Enhanced by Zemanta")

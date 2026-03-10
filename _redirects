@@ -9,4 +9,4 @@
 /wp-admin/    /            301
 /wp-login.php /            301
 /wp-comments-post.php /    301
-/.env /           /        301
+/.env /        301

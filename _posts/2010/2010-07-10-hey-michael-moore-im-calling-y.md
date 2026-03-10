@@ -58,6 +58,4 @@ _(Photo: Screenshot of MichaelMoore.com page with News Sentinel story and photos
 * ['Winnebago Man' a peculiar stalking documentary](https://www.reuters.com/article/idUSTRE66767D20100708) (reuters.com)
 * [Michael Moore Filled With 'Despair' Over ObamaCare, a 'Victory for Capitalism'](https://newsbusters.org/blogs/tim-graham/2010/03/26/michael-moore-filled-despair-over-obamacare-victory-capitalism) (newsbusters.org)
 
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=2f665d5a-4e61-4f21-ae4f-ca907cd8850d)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
 **Update: Welcome Instapundit readers![Click here to return](https://www.instapundit.com/).**

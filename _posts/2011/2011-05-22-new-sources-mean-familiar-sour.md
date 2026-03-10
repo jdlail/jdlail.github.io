@@ -29,5 +29,3 @@ New survey out on how journalists use Twitter, Facebook and social networks.
 * [Meet Facebook's Journalist Ambassador (Yes, We Said Ambassador)](https://www.fastcompany.com/1754388/facebooks-new-ambassador-to-journalists-talks-the-future-of-media) (fastcompany.com)
 * [Social Media's Rumour Mill & Africa?](https://teesdiary.wordpress.com/2011/05/20/social-medias-rumour-mill-africa/) (teesdiary.wordpress.com)
 * [Social media - the ultimate contacts book](https://measuresconsulting.wordpress.com/2011/03/21/social-media-the-ultimate-contacts-book/) (measuresconsulting.wordpress.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=6b67f70d-74ba-45bc-abd7-de2eb4de7c6f)](https://www.zemanta.com/ "Enhanced by Zemanta")

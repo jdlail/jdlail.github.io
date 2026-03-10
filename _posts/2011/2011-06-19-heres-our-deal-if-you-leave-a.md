@@ -54,5 +54,3 @@ Here's a roundup of recent articles and discussion on comments.
 * [The Pros And Cons Of Facebook Comments](https://techcrunch.com/2011/03/01/pros-cons-facebook-comments/)
 
 Here's my [complete list of nearly 150 bookmarks about online comments](https://www.delicious.com/jacklail/comments).  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=b730f1e8-a2fc-4a57-ada4-8f1f31c48194)](https://www.zemanta.com/ "Enhanced by Zemanta")

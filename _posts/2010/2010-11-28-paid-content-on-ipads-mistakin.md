@@ -47,6 +47,3 @@ Related articles
 * [NY Post Launches Paid iPad App; Subscriptions Available Monthly, Annually](https://paidcontent.org/article/419-ny-post-launches-paid-ipad-app-subscriptions-available-monthly-annually/) (paidcontent.org)
 * [Rupert Murdoch's Daily iPad venture looks thin in the profits column](https://r.zemanta.com/?u=http%3A//www.guardian.co.uk/media/2010/nov/28/rupert-murdoch-steve-jobs-ipad-the-daily&a=29274658&rid=ed888309-539a-4a5a-bc1f-db8f21912fd2&e=a43008610018ae688a95b4d792e3de28) (guardian.co.uk)
 * [News Corp. reportedly teaming up with Apple for tablet-only newspaper](https://www.gizmag.com/news-corp-and-apple-team-up-for-tablet-only-newspaper/17038/) (gizmag.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=ed888309-539a-4a5a-bc1f-db8f21912fd2)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

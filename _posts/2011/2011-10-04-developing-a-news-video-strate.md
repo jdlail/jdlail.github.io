@@ -21,7 +21,3 @@ Here's a round up by Andrew Pergam, consulting video editor at The Washington Po
 This collection goes in a lot of different directions and includes a lot of different views in trying to tackle this topic, which is great.  
   
 Check 'em out and let us know what you think.  
-   
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=b01e731a-7d7a-4dad-bc9b-ef371c2d9924)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

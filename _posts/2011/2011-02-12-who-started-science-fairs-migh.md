@@ -18,6 +18,3 @@ Newspaper mogul [E.W. Scripps](https://en.wikipedia.org/wiki/E._W._Scripps "E. W
 >
 
 \-- [Wikipedia](https://en.wikipedia.org/wiki/Science_fair)  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=8e737c6b-a544-4544-a465-f50eefc16536)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

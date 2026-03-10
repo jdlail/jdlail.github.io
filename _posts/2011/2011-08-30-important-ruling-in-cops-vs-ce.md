@@ -39,6 +39,3 @@ The [court's ruling in the Glik case](https://www.ca1.uscourts.gov/pdf.opinions/
 * [Key court case tests right to record the police with a cell phone](https://arstechnica.com/tech-policy/news/2011/06/if-you-pull-out-your.ars) (arstechnica.com)
 * [With Each Victory Comes Another Setback In Wiretapping War](https://www.pixiq.com/article/with-each-victory-comes-another-arrest-in-wiretapping-war) (pixiq.com)
 * [WAR ON PHOTOGRAPHY UPDATE: Court says state law used to ban recording of police officers in public ...](https://pajamasmedia.com/instapundit/126882/) (pajamasmedia.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=2f3c1839-ac59-4b83-9a5f-4ceae9dc9404)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

@@ -28,5 +28,3 @@ it will be at the John Seigenthaler Center on the campus of Vanderbilt Universit
 * [The Mobile Migration workshop will be April 1 in Nashville](/2011/02/the-mobile-migration-workshop-.html) (jacklail.com)
 * [Make the 'Mobile Migration'](/2011/03/make-the-mobile-migration.html) (jacklail.com)
 * [Ah, mobile's the new new thing](/2011/03/ah-mobiles-the-new-new-thing.html) (jacklail.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=1288a72b-0d7b-4663-9826-48afecf50c4b)](https://www.zemanta.com/ "Enhanced by Zemanta")

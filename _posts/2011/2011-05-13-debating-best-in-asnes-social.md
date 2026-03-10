@@ -12,5 +12,3 @@ tags: []
 ---
   
 [[View the story "ASNE Social Media "Best Practices"" on Storify]](https://storify.com/jacklail/asne-social-media-best-practices)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=acdc9074-5c34-454b-80ae-35eebb82ea71)](https://www.zemanta.com/ "Enhanced by Zemanta")

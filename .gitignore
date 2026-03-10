@@ -1,5 +1,10 @@
-_site
-.sass-cache
-.jekyll-cache
+# Generated site folder
+_site/
+
+# Jekyll caches
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-vendor
+
+# Bundler/Ruby dependencies (if installed locally)
+vendor/

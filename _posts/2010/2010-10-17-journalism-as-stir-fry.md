@@ -22,5 +22,3 @@ Related articles
 * [Nick Denton Is "The New Rupert Murdoch"](https://www.businessinsider.com/nick-denton-is-the-new-rupert-murdoch-2010-10) (businessinsider.com)
 * [New site uses Twitter to track down celebs](https://news.cnet.com/8301-31001_3-20019624-261.html?part=rss&subj=MediaMaverick) (news.cnet.com)
 * [A Skeptical Take on Gawker's Sale Prospects](https://dealbook.blogs.nytimes.com/2010/10/15/a-skeptical-take-on-a-gawker-sale/) (dealbook.blogs.nytimes.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=859885f1-a6d7-4cf3-b0e8-851a02bf1e2c)](https://www.zemanta.com/ "Enhanced by Zemanta")

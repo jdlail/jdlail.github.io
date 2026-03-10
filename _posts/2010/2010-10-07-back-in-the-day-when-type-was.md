@@ -22,6 +22,3 @@ _Do you realize, they printed pages of paper and delivered them, mind you, in th
 * [Why local newspapers are worth saving](https://alexdmoore.com/local-newspapers-preserve-our-culture) (alexdmoore.com)
 * [Newspaper Page Elements: Definitions and Examples](https://www.brighthub.com/multimedia/publishing/articles/81427.aspx) (brighthub.com)
 * [E-Reader Owners More Engaged Online](https://www.webpronews.com/topnews/2010/10/06/e-reader-owners-more-engaged-online) (webpronews.com)
-
-_[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=43e0dcae-f46c-4a8d-a340-07f0c565233a)](https://www.zemanta.com/ "Enhanced by Zemanta")_
-

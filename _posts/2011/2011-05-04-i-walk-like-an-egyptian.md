@@ -66,6 +66,3 @@ There are, however, some things I and you can do to not get sucked into always w
 How am I doing? It's a work in progress. I hope to call this a failure I've overcome one day.  
   
 I'm looking forward to reading the other "Fail" pieces this month.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=718cae7e-5fd2-4e84-9793-dc97cb2fe99c)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

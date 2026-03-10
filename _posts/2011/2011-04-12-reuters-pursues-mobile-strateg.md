@@ -16,6 +16,3 @@ Ilicco Elia, Head of Consumer Mobile Products for [Reuters](https://www.reuters.
 More [videos of the presentations](https://www.youtube.com/view_play_list?p=213C2614F1D17290) at the workshop are on YouTube.  
   
 The workshop was co-sponsored by the [Online News Association](https://www.jouranlists.org/) and the [Freedom Forum Diversity Institute](https://freedomforumdiversity.org/).  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=41badce2-2fe7-4de4-8734-17754bcd98ec)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

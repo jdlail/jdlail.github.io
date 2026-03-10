@@ -25,5 +25,3 @@ I do not see much of a future in taking [shovelware](https://en.wikipedia.org/wi
 I do see the potential for deep dive paid-subscription content in niches with sports being one of the obvious top of the list plays. Financial information seems to work pretty for the Wall Street Journal and Bloomberg as well.  
 
 What future do you see for paid content?  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=194ba644-7c78-41fe-8658-c342d3a844f1)](https://www.zemanta.com/ "Enhanced by Zemanta")

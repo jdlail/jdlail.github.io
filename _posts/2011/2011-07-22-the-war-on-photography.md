@@ -23,6 +23,3 @@ Attrorney [Morgan Manning writing in a perspective column](https://www.knoxnews.
 * [Status Report on the War on Photography](https://www.schneier.com/blog/archives/2011/06/status_report_o.html) (schneier.com)
 * [Winning The War on Photography](https://reason.com/blog/2010/07/21/winning-the-war-on-photography) (reason.com)
 * [WAR AGAINST PHOTOGRAPHY - AND ACCOUNTABILITY - CONT'D: Growing Number of Prosecutions for Videota...](https://pajamasmedia.com/instapundit/103212/) (pajamasmedia.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=51e07d6f-5311-477c-b82f-9e890930d52d)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

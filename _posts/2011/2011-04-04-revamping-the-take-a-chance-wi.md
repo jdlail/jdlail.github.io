@@ -19,7 +19,3 @@ Here is [David Cohn](https://www.digidave.org/ "David Cohn")'s rundown on the va
 >
 
 See you at the next carnival!  
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=9e46f25d-254c-4d0d-a8df-4f60a570fb0c)](https://www.zemanta.com/ "Enhanced by Zemanta")  
-  
-

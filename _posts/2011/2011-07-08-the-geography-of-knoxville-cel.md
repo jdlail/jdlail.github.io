@@ -15,6 +15,3 @@ tags: []
 This screen shot shows where Knox County AT&T mobile phone users call in total minutes from aggregated, anonymous AT&T data. It's a [cool interactive map](https://senseable.mit.edu/csa/interact.html), you can look up counties and view by call minutes or number of text messages. (Click on the image to see a larger version.)  
   
 It's part of a [MIT research project](https://senseable.mit.edu/csa/), the Connected States of America.  
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=02c82082-17a3-4b7f-a996-b6a59f14ed09)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

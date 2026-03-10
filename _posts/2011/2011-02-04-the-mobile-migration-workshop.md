@@ -23,6 +23,3 @@ We also will have an international perspective on exploding mobile and tablet ma
 The workshop is being made possible in part with funding from the Scripps Howard Foundation.  
   
 _("Save the date" photo from[thrownoverbored](https://www.flickr.com/photos/thrownoverbored/2378160342/) on flickr.)_  
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=f9f03b6a-d658-42a6-8c7d-b1304e85c1cb)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

@@ -30,5 +30,3 @@ Maybe not.
 * [47% of Facebook Users Have Profanity on Their Walls [STUDY]](https://mashable.com/2011/05/24/profanity-facebook-walls-2/) (mashable.com)
 * [Facebook Users are Dirty, Foul-Mouthed Heathens](https://www.webpronews.com/facebook-users-are-dirty-foul-mouthed-heathens-2011-05) (webpronews.com)
 * [Profanity in the age of transparency](https://strategicallycommunicating.wordpress.com/2011/05/24/profanity-in-the-age-of-transparency/) (strategicallycommunicating.wordpress.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=d08fbbbb-7461-445e-a0b5-f78f883f132a)](https://www.zemanta.com/ "Enhanced by Zemanta")

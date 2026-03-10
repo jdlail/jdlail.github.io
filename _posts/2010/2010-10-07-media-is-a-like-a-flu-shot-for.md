@@ -12,7 +12,7 @@ tags: []
 ---
   
 > I've stated that **"trust is the new black"** and that the press should be **"the immune system of democracy."  
-> **
+>**
 
 \-- [Craig Newmark](https://www.cnewmark.com/2010/10/a-few-words-regarding-news-orgs-i-trust.html)  
   
@@ -28,6 +28,3 @@ Newmark may be right, but I don't see that happening except for a few media orga
 * [What I Should Have Said to CNN's Amber Lyon When She Ambushed Me (Craig Newmark/Tech Life)](https://www.techmeme.com/100902/p55) (techmeme.com)
 * [Craig Newmark: Trustworthy financial crisis reporting from ProPublica](https://www.huffingtonpost.com/craig-newmark/trustworthy-financial-cri_b_740045.html) (huffingtonpost.com)
 * [How Craig Newmark Built A 20 Billion Pageview Behemoth](https://www.businessinsider.com/how-craig-newmark-built-a-20-billion-page-view-behemoth-2010-9) (businessinsider.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=3d8cc8ff-2c07-4bb0-9957-15de5af1a4fb)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

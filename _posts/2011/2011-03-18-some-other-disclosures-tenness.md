@@ -25,6 +25,3 @@ What's the Sunlight Foundation? It's "[about page](https://sunlightfoundation.co
   
 > Sunlight develops and encourages new government policies to make it more open and transparent, facilitates searchable, sortable and machine readable databases, builds tools and websites to enable easy access to information, fosters distributed research projects as an community building tool, engages in advocacy for 21st century laws to require that government make data available in real time and trains thousands of journalists and citizens in using data and the web to watchdog Washington.  
 >
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=ac93cd61-e5ed-48b5-a01d-4693d1b43be6)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

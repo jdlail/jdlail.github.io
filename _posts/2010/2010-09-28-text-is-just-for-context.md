@@ -35,6 +35,3 @@ Interestingly, Denton is not talking about producing a great deal of video conte
 * [Fake Nick Denton Outs Self [Self-referential]](https://gawker.com/5108030/fake-nick-denton-outs-self) (gawker.com)
 * [Media Mavens: Christopher Batty, Gawker Media](https://adage.com/mediamavens2010/article?article_id=146079) (adage.com)
 * [Nick Denton's Secret Weapon: Gaby Darbyshire Is Gawker's Chief Enforcer](https://www.observer.com/2010/media/nick-denton%25E2%2580%2599s-secret-weapon-gaby-darbyshire-gawker%25E2%2580%2599s-chief-enforcer) (observer.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=5eb94cde-4c6a-4777-9ddc-ede86bc1936f)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

@@ -34,6 +34,3 @@ Bonus post. The man wants your real name if you want to post comments or the "[a
 * [How badges help news websites build community, make money](https://www.nextlevelofnews.com/2011/07/how-badges-help-news-websites-build-community-make-money.html) (nextlevelofnews.com)
 * [Huffington Post, Facebook Create HuffPo Social News](https://nyconvergence.com/2009/08/huffington-post-facebook-create-huffpo-social-news.html) (nyconvergence.com)
 * [#Tip of the day from Journalism.co.uk - using badge systems on news sites](https://blogs.journalism.co.uk/editors/2011/07/26/tip-of-the-day-from-journalism-co-uk-using-badge-systems-on-news-sites/) (blogs.journalism.co.uk)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=a7062c13-05c9-45c7-9b35-298c8ed08c9a)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

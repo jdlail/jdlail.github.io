@@ -1,25 +1,30 @@
 export default async (request, context) => {
     const url = new URL(request.url);
 
-    // 1. SAFETY CHECK: Skip common asset extensions.
-    // Add pdf, zip, etc. to ensure we don't break file downloads.
-    if (url.pathname.match(/\.(jpg|jpeg|png|gif|css|js|woff|xml|pdf|zip|docx)$/)) {
+    // 1. SAFETY CHECK: Ignore Netlify internal routing
+    if (url.pathname.startsWith('/.netlify/')) {
         return context.next();
     }
 
-    // 2. CHECK: Does the PATH (not the query) contain an underscore?
+    // 2. SAFETY CHECK: Skip common asset extensions.
+    // Added 'i' flag for case-insensitivity (.JPG) and included .webp, .svg, .json, etc.
+    if (url.pathname.match(/\.(jpg|jpeg|png|gif|webp|svg|css|js|woff|woff2|xml|json|pdf|zip|docx)$/i)) {
+        return context.next();
+    }
+
+    // 3. CHECK: Does the PATH (not the query) contain an underscore?
     if (url.pathname.includes("_")) {
 
-        // 3. REPLACE: Swap underscores for hyphens ONLY in the path
+        // 4. REPLACE: Swap underscores for hyphens ONLY in the path
         const newPath = url.pathname.replace(/_/g, "-");
 
-        // 4. CONSTRUCT: Create the new URL
+        // 5. CONSTRUCT: Create the new URL
         const newUrl = new URL(newPath, url.origin);
 
-        // 5. CRITICAL: Copy the "utm_" and other query params to the new URL
+        // 6. CRITICAL: Copy the "utm_" and other query params to the new URL
         newUrl.search = url.search;
 
-        // 6. REDIRECT: Permanent redirect (301)
+        // 7. REDIRECT: Permanent redirect (301)
         return Response.redirect(newUrl, 301);
     }
 

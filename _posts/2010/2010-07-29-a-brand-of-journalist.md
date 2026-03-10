@@ -51,5 +51,3 @@ _Where do you weigh in on "Brand Me" for journalists? Are there additional links
 [Boned! - Age columnist sacked over Twitter comments - Digital Media](https://www.digital-media.net.au/article/Boned-Age-columnist-sacked-over-Twitter-comments/516470.aspx)
 
 [Octavia Nasr Resigns from CNN Following Controversial Tweet](https://mashable.com/2010/07/08/octavia-nasr-cnn/)  
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=2aef8745-9dcc-4906-b70f-1f2f4f1138cc)](https://www.zemanta.com/ "Enhanced by Zemanta")

@@ -42,6 +42,3 @@ In "retirement," he wrote at least [seven books](https://obituaries.news-record.
 I count myself fortunate to have known him.  
   
 (Photo from the Coruier-Tribune)  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=d05cb691-b051-48e6-9e79-88cbd998b930)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

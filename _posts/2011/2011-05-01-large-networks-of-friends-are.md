@@ -29,6 +29,3 @@ He looks to startups like [Instagram](https://instagr.am/) for clues. Do you fin
 * [The Laws of Attention by keynote speaker Steve Rubel](https://thenextweb.com/eu/2011/04/08/the-laws-of-attention-by-keynote-speaker-steve-rubel/) (thenextweb.com)
 * [Public Engagement Takes More Than One Media Platform](https://www.proactivereport.com/c/social-media/public-engagement-takes-more-than-one-media-platform/) (proactivereport.com)
 * [Attentionomics: Captivating Attention in the Age of Content Decay](https://www.steverubel.com/attentionomics-captivating-attention-in-the-a?c=1) (steverubel.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=57c66894-8ac8-4b7b-bf21-8a38121a166c)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

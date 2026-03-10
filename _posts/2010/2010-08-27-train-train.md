@@ -34,6 +34,3 @@ Put on by the  Freedom Forum Diversity Institute, "the multimedia training is t
 Tuition is $850. Registration is open until Oct. 31 or until the class is full..  
   
 [Learn more.](https://freedomforumdiversity.org/)  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=a759abdd-f738-4ec0-a107-56732a2677bc)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

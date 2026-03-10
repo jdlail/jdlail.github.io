@@ -20,7 +20,3 @@ An interactive map on the federation's website lets you [drill down into the dat
 Tennessee, for example, gets the maximum positive score for having a ["checkbook-level" website](https://tn.gov/opengov/), but its low grades come from the site not offering much information.  
   
 Seems to be story of open government in Tennessee.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=c3fe2a5b-07e1-44f3-88fd-1aec7133face)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
-

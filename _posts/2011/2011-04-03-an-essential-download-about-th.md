@@ -25,7 +25,4 @@ Read [Deciphering the Print News Industry Disruption](https://www.mercuryinterme
   
 Here is a PDF version of the PowerPoint deck Tallent presented at "The Mobile Migration" workshop on Friday in Nashville at the John Seigenthaler Center. It includes a lot of great information on [tablets, touch  computing, the iPad, the iPhone and Android devices](https://www.mercuryintermedia.com/downloads/bill/20110401FreedomForum2.pdf).  
 
-The workshop was co-sponsored by the [Online News Association](https://journalists.org/) and the [Freedom Forum Diversity Institute](https://freedomforumdiversity.org/)with underwriting assistance from the [Scripps Howard Foundation](https://www.scripps.com/foundation/).  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=82adfd19-0048-4032-b0d1-516c95c9699b)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
+The workshop was co-sponsored by the [Online News Association](https://journalists.org/) and the [Freedom Forum Diversity Institute](https://freedomforumdiversity.org/)with underwriting assistance from the [Scripps Howard Foundation](https://www.scripps.com/foundation/).

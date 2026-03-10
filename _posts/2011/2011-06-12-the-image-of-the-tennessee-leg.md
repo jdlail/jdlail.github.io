@@ -21,8 +21,4 @@ Cari Wade Gervin says take a deep breath, it's not you won't run afoul of the la
   
 I doubt we'll have to wait long to find the first person to run afoul of this. Frankly, quite a few Faceobook profile pics frighten me.  
   
-This is the same Legislature that made sharing [Netflix passwords illegal](https://mashable.com/2011/06/03/tennessee-illegal-sharing-netflix/).Thankfully, lawmakers are out of sessions and can't pass any more bills to fix the Internet for awhile.  
-  
-.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=0d2653fe-b43f-4a79-abf8-b2213517461f)](https://www.zemanta.com/ "Enhanced by Zemanta")
+This is the same Legislature that made sharing [Netflix passwords illegal](https://mashable.com/2011/06/03/tennessee-illegal-sharing-netflix/). Thankfully, lawmakers are out of sessions and can't pass any more bills to fix the Internet for awhile.  

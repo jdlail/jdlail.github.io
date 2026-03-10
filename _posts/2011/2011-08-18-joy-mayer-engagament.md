@@ -46,6 +46,3 @@ The value statements from her latest report:
 > There are a variety of ways users can act on, share and react to our news  
 > and information.  
 >
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=b9c91008-396d-4c9f-9592-26fce83bd85b)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

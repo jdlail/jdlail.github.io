@@ -27,6 +27,3 @@ He sees newsrooms working it out.
 For readers of print and online newspapers (and those who work for them), I certainly hope Nelson is right. What do you thnk?  
   
 _(Photo of David Nelson from the Kitsap Sun)_  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=cb5467a1-8f9e-4d90-8825-a3bb8245da7b)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

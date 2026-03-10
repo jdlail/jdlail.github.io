@@ -19,6 +19,3 @@ It's a cold case tale featuring [investigative journalists](https://en.wikipedia
 The real story involved a Charlotte Observer investigation of an unsolved murder in South Carolina. In the movie, the location has been moved to a Nashville newspaper and a small town in Alabama because the movie production company is based in Nashville.  
   
 Look for it in your town next year.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=69cf2db8-f076-4486-9785-e0481e9191e2)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

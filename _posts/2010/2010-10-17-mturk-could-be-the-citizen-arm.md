@@ -34,7 +34,7 @@ Here a snippet from Michel's piece.
 Ran an MTurk pricing experiment, transcribing audio at an exploitative $0.25/minute. Disturbing result: A fast, near-perfect transcription.[Fri Oct 08 19:31:08](https://twitter.com/waxpancake/status/26778520751 "Fri Oct 08 19:31:08 ") via web[![](https://a1.twimg.com/profile_images/733253377/sxsw_square_2010_normal.jpg)](https://twitter.com/waxpancake)**[Andy Baio](https://twitter.com/waxpancake)**  
 waxpancake
 
-###### 
+######
 
 ###### Related articles
 
@@ -46,6 +46,3 @@ waxpancake
 * [5 Ways to Make Money with Amazon Mechanical Turk](https://www.wisebread.com/5-ways-to-make-money-with-amazon-mechanical-turk) (wisebread.com)
 * [Human computation and lemons](https://glinden.blogspot.com/2010/08/human-computation-and-lemons.html) (glinden.blogspot.com)
 * [Four short links: 15 October 2010](https://radar.oreilly.com/2010/10/four-short-links-15-october-20-1.html) (radar.oreilly.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=95d5178e-eb37-490a-8264-49db4a767abf)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

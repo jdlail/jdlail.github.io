@@ -29,5 +29,3 @@ Huffington Post gets its own AP Stylebook entry:
 * [Is there a difference between "aggregators" and "rewriters?"](https://www.zdnet.com/blog/foremski/is-there-a-difference-between-aggregators-and-rewriters/1881) (zdnet.com)
 * [HuffPost Greatest Person Of The Day: Kona Shen Uses Soccer To Inspire Haiti's Youth Leaders](https://www.huffingtonpost.com/2011/07/14/kona-shen-soccer-inspires-haiti-youth_n_899410.html) (huffingtonpost.com)
 * [AOL launches Huffington Post in the UK](https://www.digitaltrends.com/international/aol-launches-huffington-post-in-the-uk/) (digitaltrends.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=3ed4092e-8003-4b7c-8c86-fc9c49a9b9e9)](https://www.zemanta.com/ "Enhanced by Zemanta")

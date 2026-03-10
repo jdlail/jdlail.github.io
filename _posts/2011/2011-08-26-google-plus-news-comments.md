@@ -75,6 +75,3 @@ Some more links for your consideration are below:
 * [Redding.com presents a new recognition system » Redding Record Searchlight](https://www.redding.com/news/2011/aug/10/reddingcom-presents-new-recognition-system/)
 * [Arianna Huffington: How HuffPo Got to 100 Million Comments](https://mashable.com/2011/08/02/arianna-huffington-100-million-comments/#)
 * [danah boyd | apophenia Â» â€œReal Names |  Policies Are an Abuse of Power](https://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=bfd2b94b-cf57-4b62-afc1-298ed1a946aa)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

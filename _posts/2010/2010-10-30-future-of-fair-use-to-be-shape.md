@@ -28,5 +28,3 @@ mikeorren
 * [Big Brother Is Watching YouTube: How My Dancing Kid Joined the Copyright Wars](https://www.dailyfinance.com/story/media/big-brother-youtube-dancing-kid-copyright-fair-use-video-takedown/19625797/?icid=zemanta) (dailyfinance.com)
 * [The $105 Fix That Could Protect You From Copyright Troll Lawsuits](https://www.wired.com/threatlevel/2010/10/dmca-righthaven-loophole/) (wired.com)
 * [Be like YouTube & Wired - protect your website from lawsuits](https://www.cloudspace.com/blog/2010/10/28/be-like-youtube-wired-protect-your-website-from-lawsuits/) (cloudspace.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=846fd857-ba58-4d6d-b655-11d85b9a636d)](https://www.zemanta.com/ "Enhanced by Zemanta")

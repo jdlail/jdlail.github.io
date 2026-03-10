@@ -26,5 +26,3 @@ Photo by Jigsha Desai.
 * [Bonnaroo 2011 - Day 4 in pics (The Strokes, Mavis Staples, Beirut, EITS. John Waters, Greg Allman & more)](https://www.brooklynvegan.com/archives/2011/06/bonnaroo_2011_-_1.html) (brooklynvegan.com)
 * [Festival Review: Bonnaroo X (Sunday) **Plus Pretty Lights Video**](https://westlacnct.com/2011/06/17/festival-review-bonnaroo-x-sunday-plus-pretty-lights-video/) (westlacnct.com)
 * [2011 Bonnaroo Downloads and Streams](https://www.largeheartedboy.com/blog/archive/2011/06/2011_bonnaroo_d.html) (largeheartedboy.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=62beda38-3a53-4734-b0c3-0a13c3a06918)](https://www.zemanta.com/ "Enhanced by Zemanta")

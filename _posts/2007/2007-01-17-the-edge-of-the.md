@@ -16,4 +16,4 @@ tags: []
 * Admin submitted content
 * "Original" content
 
-Whether [Netscape](https://www.netscape.com/) has the model nailed -- and it has numerous detractors -- remains to be seen, but I believe it does provide a useful outline for mainstream media, despite the exiting of Calacanis and some of his lieutenants. Read Berlin's post, and if you haven't, tool around Netscape. Does it work or flop for you? Tags: [online media](<https://technorati.com/tag/online> media) | [netscape](https://technorati.com/tag/netscape) | [digg](https://technorati.com/tag/digg) | [social news](<https://technorati.com/tag/social> news) | [mainstream media](<https://technorati.com/tag/mainstream> media) | [Jason Calacanis](<https://technorati.com/tag/Jason> Calacanis)
+Whether [Netscape](https://www.netscape.com/) has the model nailed -- and it has numerous detractors -- remains to be seen, but I believe it does provide a useful outline for mainstream media, despite the exiting of Calacanis and some of his lieutenants. Read Berlin's post, and if you haven't, tool around Netscape. Does it work or flop for you?

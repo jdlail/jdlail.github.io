@@ -16,5 +16,3 @@ That's from an AP story on a [controversy within the Department of Homeland Secu
   
 Embarrassment?  
   
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=56ae64cb-ed46-4836-8a08-d8ecb0c355db)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

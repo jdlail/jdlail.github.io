@@ -16,6 +16,3 @@ Linda Nguyen, who graduates from the University of Tennessee at the end of the f
 .  
   
 I wish them well and I expect them to have great success.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=c33902d8-2bdd-4adb-baf7-29527420c294)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

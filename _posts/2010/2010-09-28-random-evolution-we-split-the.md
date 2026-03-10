@@ -47,6 +47,3 @@ Thoughts on how blogging and social media and digital life are evolving? Post 'e
 * [VideoEgg Buys Six Apart: What Does That Mean for Your TypePad Blog?](https://www.blogher.com/videoegg-buys-six-apart-what-does-mean-your-typepad-blog) (blogher.com)
 * [Movable Type will Continue Evolving !](https://www.movabletype.com/blog/2010/09/movable-type-will-continue-evolving.html) (movabletype.com)
 * [More on Movable Type's Future](https://www.onemanandhisblog.com/archives/2010/09/more_on_movable_types_future.html) (onemanandhisblog.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=d8f87714-d900-402a-9403-9a3c3119c3c4)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

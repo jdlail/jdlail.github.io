@@ -24,5 +24,3 @@ Magdy posted a couple of other videos of O'Brien as well:
 
 * [Tim O'Brien: Chicken and Egg | CD review](https://r.zemanta.com/?u=http%3A//www.guardian.co.uk/music/2010/aug/19/tim-obrien-chicken-and-egg-cd-review&a=22914626&rid=887b59b3-01b8-448a-97ea-dc2d332baea5&e=7b70e811a003c992d45b64be6b83c08f) (guardian.co.uk)
 * [2010 International Bluegrass Music Awards Nominees](https://www.the9513.com/2010-international-bluegrass-music-awards-nominees/) (the9513.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=887b59b3-01b8-448a-97ea-dc2d332baea5)](https://www.zemanta.com/ "Enhanced by Zemanta")

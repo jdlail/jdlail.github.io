@@ -50,6 +50,3 @@ Without the efforts by this University of Tennessee employee and his team, it wo
 I think the spirit of the Knight Commission recommendation is for there to be many stories like Greg Cole and his crazy idea for a community directory open to every group.  
   
 It's a challenge colleges and universities should be taking on regularly to enrich their communities.  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=db8d69f7-dd5a-4b89-8f8f-77f4681676c7)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

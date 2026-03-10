@@ -44,6 +44,3 @@ And the discussion so far has swirled around news websites. Mobile sites and app
 * [Journalists' Code of Ethics: Time for an update?](https://stevebuttry.wordpress.com/2010/11/07/journalists-code-of-ethics-time-for-an-update/) (stevebuttry.wordpress.com)
 * [Best Practices: Tips for Creating Newspaper Ads](https://www.brighthub.com/multimedia/publishing/articles/33765.aspx) (brighthub.com)
 * [The Public Editor: Why I Would Do This](https://r.zemanta.com/?u=http%3A//www10.nytimes.com/2010/08/29/opinion/29pubed.html%3F_r%3D5&a=23444529&rid=500bf35b-9102-4950-8b0f-b7a86f464bd7&e=43bf25ce848168503d00a44d13797446) (nytimes.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=500bf35b-9102-4950-8b0f-b7a86f464bd7)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

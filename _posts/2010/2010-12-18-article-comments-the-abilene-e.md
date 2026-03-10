@@ -27,6 +27,3 @@ An [interesting approach to managing comments](https://www.reporternews.com/news
 * [...and your enemies closer](https://oenologic.blogspot.com/2010/12/and-your-enemies-closer.html) (oenologic.blogspot.com)
 * [3+ Ideas on Being/Stopping a Comment Troll](https://www.toddlyden.com/3-ideas-on-beingstopping-a-comment-troll) (toddlyden.com)
 * [Comment is Free: Panel debate on web moderation for news sites](https://blogs.journalism.co.uk/editors/2010/10/26/comment-is-free-panel-debate-on-web-moderation-for-news-sites/) (blogs.journalism.co.uk)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=f27db1d1-aefb-4e38-b3b9-96b12be5f421)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

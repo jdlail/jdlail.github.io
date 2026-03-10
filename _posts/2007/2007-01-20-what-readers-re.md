@@ -8,7 +8,7 @@ publish: true
 pin: false
 categories:
 - Quotable
-tags: []
+tags: [Journalism]
 ---
 > One of these days journalists are going to find out what people actually want to read. And that should scare the hell out of them.
 

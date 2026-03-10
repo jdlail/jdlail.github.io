@@ -8,12 +8,14 @@ publish: true
 pin: false
 categories:
 - Ramblings
-tags: []
+tags: [Dolly Parton]
 ---
-[![Dolly Parton](/assets-c/2008/10/DollyParton102908-thumb-150x182.webp)](/images/DollyParton102908.webp)Nothing like some star power to spice up a wonkee policy debate: Dolly Parton, among others, has come out [against a plan](https://gigaom.com/2008/10/28/god-country-line-up-to-stop-white-spaces/) to turn over the space between the digital television channels to a wireless broadband service,  
-  
+[![Dolly Parton](/images/DollyParton102908.webp)
+
+Nothing like some star power to spice up a wonkee policy debate: Dolly Parton, among others, has come out [against a plan](https://gigaom.com/2008/10/28/god-country-line-up-to-stop-white-spaces/) to turn over the space between the digital television channels to a wireless broadband service,  
+
 Performers like Parton and sports and entertainment venues fear the Federal Communications Commission's "white space" plan will muck with wireless microphones.  
-  
+
 Parton said in a [letter to the FCC](https://www.tvweek.com/news/2008/10/parton_adds_voice_to_argument.php):  
   
 > "As someone who uses the white spaces and knows the value of them for the work that I and many of my friends do around the country, I ask the FCC to recognize the entertainment industry's valuable contribution to the cultural life. I can unequivocally confirm that the importance of clear, consistent wireless microphone broadcasts simply cannot be overstated. This industry relies on wireless technology and is in jeopardy of being irreversibly devastated by the commission's pending decision."  
@@ -25,5 +27,3 @@ The space would be used by new WiFi devices that could deliver video. Aligned ag
 >
 
 Who's your money on?  
-
-

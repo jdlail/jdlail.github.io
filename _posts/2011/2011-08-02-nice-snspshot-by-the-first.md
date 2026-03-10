@@ -29,7 +29,3 @@ The Radio, Television, Digital news Association said Tuesday it is trying to [op
 * [Stringer News Service Cameraman Arrested While Filming Scene In Bohemia](https://newyork.cbslocal.com/2011/07/31/stringer-news-service-cameraman-arrested-while-filming-scene-in-bohemia/) (newyork.cbslocal.com)
 * [Photography Is Not A Crime of the Day](https://thedailywh.at/2011/08/02/photography-is-not-a-crime-of-the-day-5/) (thedailywh.at)
 * [Charges To Be Dropped In Case Of News Photographer Arrested For Shooting Video Of Police](https://www.mediaite.com/tv/charges-to-be-dropped-in-case-of-news-photographer-arrested-for-shooting-video-of-police/) (mediaite.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=59592410-b65c-481b-806b-4eca82b321f3)](https://www.zemanta.com/ "Enhanced by Zemanta")  
-  
-

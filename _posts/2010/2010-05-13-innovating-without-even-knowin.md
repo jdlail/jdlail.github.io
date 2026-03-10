@@ -20,5 +20,3 @@ Damon Kiesow did a story today on [Poynter.org](https://www.poynter.org/column.a
 Meese's presentation in Nashville was chock full of apps and accessories he had tried for doing journalism with the iPhone. It was fascinating. Several of the programs and accessories are mentioned with links in Kiesow's piece.  
   
 Sets the bar pretty high for next year's workshop.  
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=3cc9025c-638a-46c3-8b26-fd71172876ca)](https://www.zemanta.com/?px "Enhanced by Zemanta")

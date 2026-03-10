@@ -24,6 +24,3 @@ We need to clarify that an e-mail sent from a taxpayer purchased computer is a p
 * [Wash. high court: E-mail metadata is public record](https://seattletimes.nwsource.com/html/localnews/2013097562_apwascowemailmetadata.html?syndication=rss) (seattletimes.nwsource.com)
 * [Ethics Group Says DOJ is Withholding Public Records](https://legaltimes.typepad.com/blt/2010/11/ethics-group-says-doj-is-withholding-public-records.html) (legaltimes.typepad.com)
 * [DAVID NELSON | Why We Were Right to Ask for, and Get, Video of Police Shooting](https://www.kitsapsun.com/news/2010/nov/20/david-nelson-pursuit-of-police-shooting-video/?partner=RSS) (kitsapsun.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=fb33ef6a-07d6-4c62-a31a-6858f4a9355a)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

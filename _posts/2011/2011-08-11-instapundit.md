@@ -30,5 +30,3 @@ Congratulations on passing a milestone worth noting and what will he be saying o
 * [Congratulations to Glenn for 10 Years of Instapundit](https://volokh.com/2011/08/08/congratulations-to-glenn-for-10-years-of-instapundit/) (volokh.com)
 * [SO WE'RE LESS THAN A WEEK FROM INSTAPUNDIT'S TENTH BLOGGIVERSARY. I can't believe it's been that lo...](https://pajamasmedia.com/instapundit/125440/) (pajamasmedia.com)
 * [OKAY, I HAD AN INSTAPUNDIT INTERN ONCE - it was Kevin Deenihan of the late, lamented CalStuff blog ...](https://pajamasmedia.com/instapundit/123201/) (pajamasmedia.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=0f5b9457-8d83-4568-b2cb-b1ad7ff921c1)](https://www.zemanta.com/ "Enhanced by Zemanta")

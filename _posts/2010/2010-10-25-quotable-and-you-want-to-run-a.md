@@ -20,6 +20,3 @@ Related articles
 * [Against Odds, Web Site Finds Niche](https://r.zemanta.com/?u=http%3A//www10.nytimes.com/2010/10/25/business/media/25carr.html%3F_r%3D5&a=27037298&rid=bbe2d0ee-cdd3-4a66-8b53-0920f740b606&e=a0c6fb0f85fb051ba1615e6a504ac070) (nytimes.com)
 * [Choire Sicha Blogging On Liberated Wonkette [Gawker Alum Report]](https://gawker.com/5005928/choire-sicha-blogging-on-liberated-wonkette) (gawker.com)
 * [Choire Sicha to Save New York, With Book [Alum Report]](https://gawker.com/5182014/choire-sicha-to-save-new-york-with-book) (gawker.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=bbe2d0ee-cdd3-4a66-8b53-0920f740b606)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

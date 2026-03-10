@@ -18,6 +18,3 @@ Great data on the smartphone, the iPad and the tablet market in his talk..
 More [videos of the presentations](https://www.youtube.com/view_play_list?p=213C2614F1D17290) at the workshop are on YouTube.  
   
 The workshop was co-sponsored by the [Online News Association](https://www.jouranlists.org/) and the [Freedom Forum Diversity Institute](https://freedomforumdiversity.org/).  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=be2d0b92-8872-4653-ad43-0454e0f2a799)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

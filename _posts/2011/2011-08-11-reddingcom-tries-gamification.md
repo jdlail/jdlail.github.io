@@ -41,6 +41,3 @@ As you see from the links below, the topic of gamification has as many  hot but
 * ["Gamification is bullshit. I'm not being flip or glib or provocative. I'm speaking..."](https://www.stoweboyd.com/post/8690027895/gamification-is-bullshit-im-not-being-flip-or) (stoweboyd.com)
 * ["The problem with gamification isn't the term, or its objectives, but how it is applied. As I've..."](https://www.stoweboyd.com/post/8690104773/the-problem-with-gamification-isnt-the-term-or) (stoweboyd.com)
 * [What is... Gamification?](https://jamesgardneruk.wordpress.com/2011/06/29/what-is-gamification/) (jamesgardneruk.wordpress.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=5484a221-6322-4087-a19b-8e6594564315)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

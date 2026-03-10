@@ -24,6 +24,3 @@ Read [more at CNET](ttp://news.cnet.com/8301-31021_3-20053645-260.html#ixzz1JaZq
 More [videos of the presentations](https://www.youtube.com/view_play_list?p=213C2614F1D17290) at the workshop are on YouTube.  
   
 The workshop was co-sponsored by the [Online News Association](https://www.jouranlists.org/) and the [Freedom Forum Diversity Institute](https://freedomforumdiversity.org/).  
-  
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=cf0a29a9-3a5f-4885-ba03-5c5b6b5ed522)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

@@ -34,6 +34,3 @@ Instead of a massacre, it turns out the newsroom had never seen the page due to 
 * [Switching to a Digital First Newsroom: Middletown Press](https://www.futurechanges.org/2010/09/30/switching-to-a-digital-first-newsroom-middletown-press/) (futurechanges.org)
 * [Masturbation At New York Times Alleged By Super-Friendly Copy Editor [Lawsuits]](https://gawker.com/5035522/masturbation-at-new-york-times-alleged-by-super+friendly-copy-editor) (gawker.com)
 * [Who proofs the proofreaders?](https://ask.metafilter.com/167116/Who-proofs-the-proofreaders) (ask.metafilter.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=ba63ad26-9c26-49c4-ad6b-b0e8b2730912)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

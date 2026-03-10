@@ -38,5 +38,3 @@ Moroney had former Belo Interactive vice president/technology and digital journa
 * [The New York Times to Offer Platform for Publishers to Deliver High-Quality iPhone and iPad Applications](https://eon.businesswire.com/news/eon/20100802006196/en) (eon.businesswire.com)
 * [NPR's iPhone and iPad Apps, Developed by Bottle Rocket Apps, Win Advertising Age 2010 Media Vanguard Award](https://www.prweb.com/releases/prwebbottlerocketapps/npr-media-vanguard-award/prweb8023032.htm) (prweb.com)
 * [The gift of iPad: It's not a sweater, but...](https://news.cnet.com/8301-13924_3-20026119-64.html?part=rss&subj=news) (news.cnet.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=8e3149a2-8e66-4cc5-94ad-99400589afa9)](https://www.zemanta.com/ "Enhanced by Zemanta")

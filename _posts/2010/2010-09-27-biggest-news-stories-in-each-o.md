@@ -29,6 +29,3 @@ From the [Google News blog](https://googlenewsblog.blogspot.com/2010/09/google-n
 >>
 The 2008 election of President Obama takes the cake as the biggest news story since Google News was born.  
 >
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=3732bca0-ffa2-4e1d-a03e-37667b376da0)](https://www.zemanta.com/ "Enhanced by Zemanta")
-

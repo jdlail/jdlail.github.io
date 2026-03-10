@@ -24,5 +24,3 @@ Related articles
 * [#bbcsms - Bringing together the digital conversation](https://www.onemanandhisblog.com/archives/2011/05/bbcsms_-_bringing_together_the_digital_c.html) (onemanandhisblog.com)
 * [#bbcsms - Technology and Innovation](https://www.onemanandhisblog.com/archives/2011/05/bbcsms_-_technology_and_innovation.html) (onemanandhisblog.com)
 * [#bbcsms - Editorial Issues](https://www.onemanandhisblog.com/archives/2011/05/bbcsms_-_editorial_issues.html) (onemanandhisblog.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=32498876-f3f1-4f34-8fb6-4790c84bdff3)](https://www.zemanta.com/ "Enhanced by Zemanta")

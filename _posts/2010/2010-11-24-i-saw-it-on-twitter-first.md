@@ -27,5 +27,3 @@ Related articles
 * [Twitter: "No Plans For A Twitter News Network", But It's Still An Interesting Idea](https://techcrunch.com/2010/11/24/twitter-news-service/) (techcrunch.com)
 * [News Service Proposed by Twitter Co-Founder](https://www.pcworld.com/article/211688/news_service_proposed_by_twitter_co_founder.html?tk=rss_news) (pcworld.com)
 * [Is a Twitter News Service What Consumers Need? | WebProNews](https://www.webpronews.com/topnews/2010/11/23/is-a-twitter-news-service-what-consumers-need) (webpronews.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=84add9a8-de40-4fd8-ba6a-0cf8d501bf1b)](https://www.zemanta.com/ "Enhanced by Zemanta")

@@ -21,7 +21,8 @@ From 2 to 3 p.m., I'm hanging around as friend and newspaper consultant [Kevin S
 Should be fun. The show is on the same station, but it has a new home at 98.7. It's also streamed on the Internet.  
 
 ###### [  
-](https://www.facebook.com/kevinslimp)
+
+](<https://www.facebook.com/kevinslimp>)
 
 ###### [Related articles by Zemanta](https://www.facebook.com/kevinslimp)
 
@@ -32,7 +33,3 @@ Should be fun. The show is on the same station, but it has a new home at 98.7. I
 * [Who don't you trust? Newspapers and TV news, that's who](https://feldmanfile.blogspot.com/2010/08/who-dont-you-trust-newspapers-and-tv.html) (feldmanfile.blogspot.com)
 * [Confidence in Newspapers and TV News at Near-Record Low](https://politicalwire.com/archives/2010/08/17/confidence_in_newspapers_and_tv_news_at_near-record_low.html) (politicalwire.com)
 * [The Nasty Fine Print from Delta Airlines](https://www.patspapers.com/blog/item/the_nasty_fine_print_from_delta_airlines_american_express/) (patspapers.com)
-
-[![Enhanced by Zemanta](https://img.zemanta.com/zemified_a.png?x-id=7899d316-ba61-4381-aa51-3e9c2f70e341)](https://www.zemanta.com/ "Enhanced by Zemanta")
-
-

@@ -10,7 +10,8 @@ categories:
 - Ramblings
 tags: []
 ---
-[![Nixon-Elvis.jpg](/assets-c/2015/02/Nixon-Elvis-thumb-500x342-2519.webp)](/images/Nixon-Elvis.webp)
+
+![Nixon-Elvis.jpg](/images/Nixon-Elvis.webp)
 
 Interesting project!
 
@@ -65,4 +66,3 @@ _University of Tennessee news release:_
 > CUTLINE: Elvis Presley meets with President Richard M. Nixon at the White House. Photographed by Ollie Atkins on Dec. 21, 1970. Photo from the National Archives and Records Administration.
 
 [![Kennerly photo 1.jpg](/assets-c/2015/02/Kennerly%20photo%201-thumb-500x788-2521.webp)](/images/Kennerly%20photo%201.webp)
-

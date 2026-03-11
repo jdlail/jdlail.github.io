@@ -8,9 +8,9 @@ publish: true
 pin: false
 categories:
 - Ramblings
-tags: []
+tags: [Drones]
 ---
-[![Photo from Drone in Texas](/assets-c/2013/06/meatplant1drone-thumb-500xauto-2480.webp)](/images/meatplant1drone.webp)
+![Photo from Drone in Texas](/images/meatplant1drone.webp)
 
 Which news organization will be the first to have a "drone desk?"
 
@@ -25,4 +25,3 @@ Tremayne was part of a University of Texas at Arlington communication team that 
 [There are lot of issues with private use of drones](https://www.sciencedaily.com/releases/2013/06/130618102003.htm) in the United States, but as the price of the devices drops, it's inevitable that they will be used; if not in the pursuit of journalism, certainly in many other fields for applications we haven't even thought of.
 
 (H/T: Danny McCall, photo via sUAS News)
-

@@ -10,7 +10,7 @@ categories:
 - Mobile
 tags: []
 ---
-[![slamphoto.jpg](/assets-c/2015/07/slamphoto-thumb-585xauto-2531.webp)](/images/slamphoto.webp)
+![slamphoto.jpg](/images/slamphoto.webp)
 
 Do you have a "SLAM ToolKit?"
 
@@ -48,5 +48,3 @@ Periscope is the buzz currently. If you are interested in using the streaming vi
 * [Periscope â€" Medium](https://medium.com/@periscope)
 * [Best Practices For Using Periscope | Jenny Weigle](https://jennyweigle.com/best-practices-for-using-periscope/)
 * [Periscope Up: 15 Tips to Mastering the Platform | Ketchum Blog](https://blog.ketchum.com/15-periscope-twitter-tips/)
-
-

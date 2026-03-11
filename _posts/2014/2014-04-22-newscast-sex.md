@@ -8,9 +8,12 @@ publish: true
 pin: false
 categories:
 - Ramblings
-tags: []
+tags: [Television]
+image: /images/wbirbunny.webp
+
 ---
-![wbirbunny.jpg](https://jacklail.com/images/wbirbunny.webp) Local TV station WBIR has been in the news as an Easter segment last week went viral. What made everything from Gawker to the Today Show were some bunnies that in an on-air segment in front of the anchors did what ... ah ... rabbits often do. The Gawker headline: "[Bunnies Have Sex Like Bunnies on Local News Channel's Easter Broadcast](https://gawker.com/bunnies-have-sex-like-bunnies-on-local-news-channels-ea-1565559010)" And CNN:
+
+Local TV station WBIR has been in the news as an Easter segment last week went viral. What made everything from Gawker to the Today Show were some bunnies that in an on-air segment in front of the anchors did what ... ah ... rabbits often do. The Gawker headline: "[Bunnies Have Sex Like Bunnies on Local News Channel's Easter Broadcast](https://gawker.com/bunnies-have-sex-like-bunnies-on-local-news-channels-ea-1565559010)" And CNN:
 
 > Things got a little awkward when these fuzzy guests decided to get frisky during [@wbir](https://twitter.com/wbir)'s live newscast. Video: <https://t.co/0QKj6FxwSH> \-- CNN Video (@CNNVideo) [April 21, 2014](https://twitter.com/CNNVideo/statuses/458281605178482689)
 

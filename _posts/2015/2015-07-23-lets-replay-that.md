@@ -10,7 +10,9 @@ categories:
 - Ramblings
 tags: []
 ---
-[![ICD-UX533](/assets-c/2015/07/sony-voice-recorder-thumb-200xauto-2533.webp)](/images/sony-voice-recorder.webp)Still like a voice recorder for capturing interviews instead of a smartphone?
+![ICD-UX533](/images/sony-voice-recorder.webp)
+
+Still like a voice recorder for capturing interviews instead of a smartphone?
 
 But don't know what to buy?
 
@@ -18,6 +20,4 @@ But don't know what to buy?
   
 They trimmed a pool of dozens of recorders down to eight that were looked at closely. Of those, the Sony model was the pick.  
   
-Take a look at what it said and how it tested.  
-  
-
+Take a look at what it said and how it tested.

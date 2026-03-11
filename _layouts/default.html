@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
 {% comment %}
-Google Analytics and Head contain dynamic page-specific data (titles/SEO).
-We keep these as regular includes.
+Keep these as regular includes because they contain page-specific SEO/Analytics metadata.
 {% endcomment %}
 {% include google-analytics.html %}
 {% include head.html %}
@@ -11,17 +10,25 @@ We keep these as regular includes.
   class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
 
   {% comment %}
-  The following are identical on every page.
-  Switching to include_cached will drop their build count from 2,210 to 1.
+  Safe to cache: These are identical site-wide.
   {% endcomment %}
   {% include_cached skip-links.html %}
   {% include_cached navigation.html %}
   {% include_cached masthead.html %}
 
-  {{ content }}
+  {% comment %}
+  The 'main' ID is critical for the Search JS and theme margins.
+  {% endcomment %}
+  <div id="main" role="main">
+    {{ content }}
+  </div>
 
   {% include_cached footer.html %}
-  {% include_cached scripts.html %}
+
+  {% comment %}
+  Must be a regular include so the JS can detect the /search/ page and initialize.
+  {% endcomment %}
+  {% include scripts.html %}
 </body>
 
 </html>

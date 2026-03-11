@@ -7,10 +7,10 @@ last_modified_at: 2012-11-17 22:12:37 -0000
 publish: true
 pin: false
 categories:
-- Uncategorized
+- Mobile
 tags: []
 ---
-[![231069_511140262237013_1435091552_n.jpg](/assets-c/2012/11/231069-511140262237013-1435091552-n-thumb-485x323-2465.webp)](/images/231069_511140262237013_1435091552_n.webp)
+![231069_511140262237013_1435091552_n.jpg](/images/231069_511140262237013_1435091552_n.webp)
 
 At a panel last week on "Mobile Devices and Beyond," Bruce Thomas, director of the Wearable Computer Lab at the University of South Australia, held up his smartphone and said: "I just want to get rid of this."
 
@@ -37,4 +37,3 @@ What else is coming? Better voice controls, including the ability to listen for 
 Longer battery life, however, is not moving at the same pace as the computer power. In fact, increased capabilities have resulted in dramatically shorter battery life. "Sometimes we over-feature things," Thomas said.
 
 _Photo: "Mobile Device & Beyond" panel- Bruce Thomas, Director, Wearable Computer Lab University of South Australia & Jay Wright, Vice President, Business Development at Qualcomm discuss future of mobile devices & wearable computing -- at Georgia Tech Global Learning Center. (Georgia Tech Photo)_
-

@@ -7,9 +7,9 @@ last_modified_at: 2008-02-20 12:49:28 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
 - Media
-tags: []
+tags: [Newspapers]
+excerpt: "Got some great news on Tuesday. From an Inland Press Association news release."
 ---
 Got some great news on Tuesday. From an Inland Press Association news release:  
   

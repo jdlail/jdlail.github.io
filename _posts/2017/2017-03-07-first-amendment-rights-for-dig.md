@@ -9,8 +9,8 @@ pin: false
 categories:
 - Ramblings
 tags: []
+excerpt: "Is Amazon Echo's protected by the First Amendment? Amazon was ready to argue so."
 ---
 ![echo2.jpg](/images/echo2.webp)
 
 Is Amazon Echo's protected by the First Amendment? Amazon [was ready to argue so](https://www.theverge.com/2017/3/7/14839684/amazon-alexa-first-amendment-case).
-

@@ -7,9 +7,9 @@ last_modified_at: 2012-09-24 16:52:53 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
 - Media
-tags: []
+tags: [Newspapers]
+excerpt: "The Social Media Day at the Associated Press Media Editors Conference at the John Seigenthaler Center in Nashville turned out newsier than I had anticipated. It had the 'time-suck' that went viral in the world of digital journos."
 ---
 [![Steve Buttry, director of community engagement](https://farm2.static.flickr.com/1384/5163460403_02585d89c7_m.jpg)](https://www.flickr.com/photos/16483298@N00/5163460403)
 

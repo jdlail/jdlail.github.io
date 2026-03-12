@@ -9,8 +9,8 @@ pin: false
 categories:
 - Ramblings
 tags: []
+excerpt: "Turns out, a lot of real news is being read on Facebook."
 ---
-![](/assets/wp-content/uploads/2017/09/AP.webp) 
+![AP](/assets/wp-content/uploads/2017/09/AP.webp)
 
 Turns out, a lot of [real news](https://www.newswhip.com/2017/08/ap-hidden-force-facebook/) is being read on Facebook.
-

@@ -8,9 +8,9 @@ publish: true
 pin: false
 categories:
 - Music
-tags: [Music]
+tags: [R.L. Burnside]
 ---
-[![burnsideonburnside.jpg](/images/burnsideonburnside-thumb.webp)](/images/burnsideonburnside.webp)
+![burnsideonburnside.jpg](/images/burnsideonburnside.webp)
 
 I recently bought a couple R.L. Burnside CDs: "Burnside on Burnside" and "Wish I was in Heaven Sitting Down." Of the two, I like "Burnside on Burnside" the best.
 

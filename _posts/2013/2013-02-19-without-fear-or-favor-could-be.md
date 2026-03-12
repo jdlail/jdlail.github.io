@@ -9,11 +9,13 @@ publish: true
 pin: false
 categories:
 - Newspapers
-tags: []
+tags: [History]
+excerpt: "Some 117 years ago, Adolph Ochs, who began his career in Knoxville before buying a newspaper in Chattanooga, published a set of principles for his newest newspaper in which he said it would \"to give the news impartially, without fear or favor, regardless of party, sect, or interests involved.\""
+
 ---
 ![2244_Cover_Adolph.jpg](/images/2244-Cover-Adolph.webp)
 
-Some 117 years ago, [Adolph Ochs](https://tennesseeencyclopedia.net/entry.php?rec=1014), who began his career in Knoxville before buying a newspaper in Chattanooga, [published a set of principles](https://www.nytimes.com/1996/08/19/opinion/without-fear-or-favor.html) for his newest newspaper in which he said it would "to give the news impartially, without fear or favor, regardless of party, sect, or interests involved."  
+Some 117 years ago, [Adolph Ochs](https://tennesseeencyclopedia.net/entry.php?rec=1014), who began his career in Knoxville before buying a newspaper in Chattanooga, [published a set of principles](https://www.nytimes.com/1996/08/19/opinion/without-fear-or-favor.html) for his newest newspaper in which he said it would \"to give the news impartially, without fear or favor, regardless of party, sect, or interests involved.\""
   
 Ochs, but 38 at the time, wrote that in _The New York Times_. It was a winning business model. "Without fear or favor" became a [journalism credo](https://www.poynter.org/uncategorized/22557/values-moment-leading-without-fear-or-favor/) that served journalism and the business of media well for over 100 years.  
   

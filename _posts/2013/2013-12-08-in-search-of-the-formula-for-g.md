@@ -9,6 +9,7 @@ pin: false
 categories:
 - Newspapers
 tags: []
+excerpt: "Will news judgment eventually be reduced to a formula that can be charted or is it best practiced by those, like Neetzan Zimmerman, with a particularly good gut instinct for what is news, or at lesat what will grab reader's attention?  "
 ---
   
 Will news judgment eventually be reduced to a formula that can be charted or is it best practiced by those, like Neetzan Zimmerman, with a particularly good gut instinct for what is news, or at lesat what will grab reader's attention?  
@@ -44,4 +45,3 @@ A related question is: Are there data points to measure whether a newsroom had a
   
 The idea of a data-driven newsroom is so foreign that editors don't even have a good idea of what to measure or how.  
   
-

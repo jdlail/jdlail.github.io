@@ -9,6 +9,7 @@ pin: false
 categories:
 - Media
 tags: [APME]
+excerpt: Some random tweets from Social Media Day at the Associated Press Media Editors Conference in Nashville. The conference was held at the John Seigenthaler Center.
 ---
   
 [[View the story "APME Social Media Day" on Storify](https://storify.com/jacklail/apme-social-media-day)]

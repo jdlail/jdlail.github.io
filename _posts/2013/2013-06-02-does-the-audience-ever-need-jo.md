@@ -8,16 +8,15 @@ publish: true
 pin: false
 categories:
 - Adversity is a mean teacher
-- Newspapers
-tags: []
+tags: [Newspapers]
 ---
-![newsphotographers.jpg](/images/8666655050_74953dd68d.webp)
+![newsphotographers.jpg](/images/8666655050-74953dd68d.webp)
 
 As a journalist, I tend to think the audience, Society, a democracy and even apple pie needs journalists and journalism. Call it an overly self-important view if you want.  
   
 > "But our role and relevance are arguably even more imperiled by politicians' ability, in this newly wired world of ours, to go around us and present themselves in packages that we can't simultaneously unwrap. To get a message out, they don't have to beseech a network's indulgence. They don't have to rely on a newspaper's attention. The Bachmann, Weiner and Clinton videos are especially vivid examples of that, reflections and harbingers of an era in which YouTube is the public square, and the fourth estate is a borderline obsolescent one."
 
-That's Frank Bruni[writing in the New York Times](https://www.nytimes.com/2013/06/02/opinion/sunday/bruni-who-needs-reporters.html?nl=todaysheadlines&emc=edit_th_20130602&_r=0) (H/T: Danny McCall).
+That's Frank Bruni [writing in the New York Times](https://www.nytimes.com/2013/06/02/opinion/sunday/bruni-who-needs-reporters.html?nl=todaysheadlines&emc=edit_th_20130602&_r=0) (H/T: Danny McCall).
 
 The Chicago Sun-Times believes it doesn't need staff photojournalists. It laid off its [entire photo staff](https://pandodaily.com/2013/05/30/what-is-a-mobile-news-company-and-do-we-even-want-one/) and will use freelancers, contributed photos or photos shot by writers with cellphones ([they are planning some training](https://www.facebook.com/permalink.php?story_fbid=575244935831289&id=175146445841142)).
 
@@ -32,4 +31,3 @@ Jeff Jarvis said media organizations may reach a limit in multi-tasking journali
 And as addition to my last post "Does journalism even need articles?" and Cica, see [Hamish McKenzie's piece in PandoDaily](https://pandodaily.com/2013/05/30/what-is-a-mobile-news-company-and-do-we-even-want-one/).
 
 _[Photo](https://www.flickr.com/photos/imfphoto/8666655050/in/photolist-ecQSB5-dxJg31-6kwzte-aRAZcZ-cRUwHQ-5XyL2f-4GtBjx-4GxM2y-4GxM47-8eG5RH-dxJGbE-dxDAd2-dxD2yK-dxDzTn-dxK3WQ-dxJfqA-dxDfTR-dxK52q-dxJfJS-dxCFHP-dxJEtq-dxCZF8-dxDeip-dxJsXC-dxK3DJ-dxDeYK-dxK4d1-dxCQgX-dxD1hH-dxCZXp-dxD2jx-dxJgJm-dxJGxw-9HHWVL-26W2K-5y2GM6-cy5duy-avvhe8-3kK14L-cy5hgo-cy5haL-7JiaZi-7Jib9n-7Jn5Tu-7Jn5vC-7JiaA6-7Jn5mG-7Jia9R-7JiaUt-7Jn687-7Jn5Nj/): News photographers and reporters cover the Finance Ministers from Africa as they hold a briefing for the news media on April 20, 2013 during the 2013 IMF World Bank Spring Meetings in Washington, D.C. (IMF Photo/Cliff Owen) Used under Creative Commons License._
-

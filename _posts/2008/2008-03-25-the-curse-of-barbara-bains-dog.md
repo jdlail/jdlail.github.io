@@ -10,6 +10,7 @@ pin: false
 categories:
 - Media
 tags: [Newspapers]
+excerpt: " You'd think regular reader of O'Reilly Radar would have gotten over their emotional attachment to news on paper years ago. But, no." 
 ---
 Jimmy Guterman, editorial director of O'Reilly's Radar group and the editor of O'Reilly's Release 2.0, is [parting company](https://radar.oreilly.com/archives/2008/03/goodbye-new-york-times.html) with the printed edition of the _New York Times_.  
   

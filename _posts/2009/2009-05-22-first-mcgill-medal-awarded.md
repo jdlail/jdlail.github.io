@@ -13,7 +13,9 @@ tags:
 - Journalism
 - UGA
 ---
-[![Jerry Mitchell](/assets-c/2009/05/AINTREPID-P1-thumb-150x99-462.webp)](/images/AINTREPID_P1.webp)You might have missed this. The University of Georgia awarded the first "[McGill Medal for Journalist Courage](https://www.grady.uga.edu/mcgill/news/mcgill09medalrelease.pdf)" on April 30 to Clarion-Ledger reporter Jerry Mitchell for his reporting that has put four Ku Klux Klansmen behind bars.  
+![Jerry Mitchell](/images/AINTREPID-P1.webp)
+
+You might have missed this. The University of Georgia awarded the first "[McGill Medal for Journalist Courage](https://www.grady.uga.edu/mcgill/news/mcgill09medalrelease.pdf)" on April 30 to Clarion-Ledger reporter Jerry Mitchell for his reporting that has put four Ku Klux Klansmen behind bars.  
   
 His investigation and reporting on the Byron de la Beckwith case alone was enough merit the award, said E. Culpepper Clark, dean of the Gray College of Journalism and Communication. Beckwith murdered Mississippi civil rights leader Medgar Evers in 1963.  
   
@@ -23,7 +25,4 @@ Here's another piece about Mitchell in the [Christian Science Monitor](https://w
   
 About [Ralph Emerson McGill](https://en.wikipedia.org/wiki/Ralph_McGill).  
   
-_(Mitchell photo by Patrik Johnson, Christian Science Monitor)  
-  
-_
-
+_(Mitchell photo by Patrik Johnson, Christian Science Monitor)

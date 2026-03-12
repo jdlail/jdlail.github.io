@@ -8,9 +8,8 @@ publish: true
 pin: false
 categories:
 - Mobile
-tags: []
+tags: [Georgia Tech]
 ---
-![231069_511140262237013_1435091552_n.jpg](/images/231069_511140262237013_1435091552_n.webp)
 
 At a panel last week on "Mobile Devices and Beyond," Bruce Thomas, director of the Wearable Computer Lab at the University of South Australia, held up his smartphone and said: "I just want to get rid of this."
 

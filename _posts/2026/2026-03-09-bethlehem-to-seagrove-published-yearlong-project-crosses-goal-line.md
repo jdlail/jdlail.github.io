@@ -7,6 +7,7 @@ tags: [History, Genealogy]
 image:
   path: /assets/2026/bethlehemtoseagrove-hero.webp
   alt: Bethlehem ... to Seagrove published
+excerpt: "My Dad began writing his memoir in February of last year and over the weekend the published book went live on Amazon."
 ---
 
 <figure style="max-width: 150px; width: 100%;" class="align-right"> <img src="{{ '/assets/2026/kindle-cover-final.webp' | relative_url }}" alt="Bethlehem ... to Seagrove cover"> <figcaption>Bethlehem ... to Seagrove cover</figcaption> </figure>

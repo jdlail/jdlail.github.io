@@ -8,8 +8,11 @@ publish: true
 pin: false
 categories:
 - Media
-tags: []
+tags: [Comments]
 ---
+
+Links to articles about comments.
+
 * [Four Ways to Improve the Culture of Commenting - NYTimes.com](https://6thfloor.blogs.nytimes.com/2013/09/23/four-ways-to-improve-the-culture-of-commenting/?_r=1)
 * [Gawker founder Nick Denton is still trying to reinvent reader comments -- and it's working -- Tech News and Analysis](https://gigaom.com/2013/09/23/gawker-founder-nick-denton-is-still-trying-to-reinvent-reader-comments-and-its-working/)
 * [Why We're Shutting Off Our Comments | Popular Science](https://www.popsci.com/science/article/2013-09/why-were-shutting-our-comments)

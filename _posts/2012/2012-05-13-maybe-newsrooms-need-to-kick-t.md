@@ -7,10 +7,11 @@ last_modified_at: 2012-05-13 13:34:49 -0000
 publish: true
 pin: false
 categories:
-- Newspapers
-tags: []
+- Media
+tags: [Newspapers]
+excerpt: "Newspapers have organizational habits built around the front page - that's how most newsrooms decide what is important, and it's how editors transmit signals to reporters. As more and more readers go online, we need to figure out how to create habits that respond to more segmented audiences, and news cycles that have varying durations."
 ---
-![Barak Obama](/images/6953907112_94098b99f3.webp)  
+![Barak Obama](/images/6953907112-94098b99f3.webp)
 
 ![Charles Duhigg](/images/charlesduhigg.webp)I recently did an email Q&A with [Charles Duhigg](https://www.charlesduhigg.com/), the New York Times reporter who wrote [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/gp/product/1400069289/ref=as_li_ss_tl?ie=UTF8&tag=wwwjacklailco-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1400069289)![](https://www.assoc-amazon.com/e/ir?t=wwwjacklailco-20&l=as2&o=1&a=1400069289). The interview appears Monday in The Knoxville News Sentinel (I hope you'll read it).  
 

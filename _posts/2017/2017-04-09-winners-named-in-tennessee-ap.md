@@ -8,7 +8,8 @@ publish: true
 pin: false
 categories:
 - Newspapers
-tags: []
+tags: [Awards]
+excerpt: "Winners of the 2016 Tennessee Associated Press Broadcasters and APME professional and college contests were announced Saturday, April 8, in Nashville, Tennessee."
 ---
   
 NASHVILLE, Tenn. (AP) -- Winners of the 2016 Tennessee Associated Press Broadcasters and APME professional and college contests were announced Saturday, April 8, in Nashville, Tennessee.  
@@ -319,4 +320,3 @@ Radio Sports Reporting: 1, Cutler Klein, Vanderbilt University, "Interview with 
   
 Use of Sound: 1, Hannah Dokkestul, Middle Tennessee State University, "Zombie Drummers Make Halloween Event 'Lively'''; 2, Katie Inman, Middle Tennessee State University, "Justin Reed Uncovers History One Tune at a Time"; 3, Katie Inman, Middle Tennessee State University, "New School Year, New High School for Ryan Siebe."  
   
-

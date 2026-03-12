@@ -8,6 +8,8 @@ publish: true
 pin: false
 categories:
 - Ramblings
-tags: []
+tags: [Music]
 ---
-[![ebw.jpg](/images/ebw-thumb.webp)](/images/ebw.webp) [North Mississippi AllStars](https://www.nmallstars.com) new album Electric Blue Watermelon. Hear this [NPR interview](https://www.npr.org/templates/story/story.php?storyId=4968908). The brothers Dickinson and Chris Chew add some funk to their hill country blues with guests Robert Randolph, Lucinda Williams, Al Kapone and others. Give it a listen if you like the blues.
+![ebw.jpg](/images/ebw.webp)
+
+[North Mississippi AllStars](https://www.nmallstars.com) new album Electric Blue Watermelon. Hear this [NPR interview](https://www.npr.org/templates/story/story.php?storyId=4968908). The brothers Dickinson and Chris Chew add some funk to their hill country blues with guests Robert Randolph, Lucinda Williams, Al Kapone and others. Give it a listen if you like the blues.

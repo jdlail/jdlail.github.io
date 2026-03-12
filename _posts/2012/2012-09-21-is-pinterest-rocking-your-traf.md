@@ -8,9 +8,9 @@ publish: true
 pin: false
 categories:
 - Media
-tags: []
+tags: [Pinterest, APME]
+image: /assets/2012/HGTV_2010.svg.png
 ---
-[![English: Logo for Home & Garden Television](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/215px-HGTV_Logo.svg.png)](https://commons.wikipedia.org/wiki/File:HGTV_Logo.svg)
 
 It is for one of the folks on a panel I'm moderating this morning during the APME Conference in Nashville at the John Seigenthaler Cemter.  
   

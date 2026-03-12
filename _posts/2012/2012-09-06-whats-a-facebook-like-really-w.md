@@ -9,7 +9,9 @@ pin: false
 categories:
 - Media
 tags: [APME]
+excerpt: "The Social Media Day at the Associated Press Media Editors Conference in Nashville has one panel that will attempt to provide some answers to the question: What's a Facebook like really worth?"
 ---
+
 The Social Media Day at the Associated Press Media Editors Conference in Nashville has one panel that will attempt to provide some answers to that question. It's a star-studded lineup of newspaper and TV digital pioneers, who have been innovators and ground-breakers as traditional media expanded into digital.  
   
 Social Media Day is Friday, Sept. 21 at the John Seigenthaler Center on the campus of Vanderbilt University. APME is doing a [special one-day rate](/2012/08/get-deal-on-apmes-social-media.html) of $35 for editors, broadcasters and journalism educators who would like to attend just that day. Contact [Sally Jacobsen](SJacobsen@ap.org) or [Adam Yeomans](mailto:ayeomans@ap.org) if you are interested. There are [two great morning panels](/2012/08/youre-likely-to-first-find-out-1.html), a lunch speaker and an aftenroon panel, plus an update from a couple Associated Press political writers fresh from the campaign trail.  

@@ -8,10 +8,11 @@ publish: true
 pin: false
 categories:
 - Ramblings
-tags: []
+tags: [Music]
+excerpt: "Success is not one of the stereotypes of Appalachia or its people. If you watch TV, the images are of the violence and drugs of \"Justified,\" moonshiners like Popcorn Sutton, the crazy dancing outlaw Jesico White of West Virginia and a host of other images in which \"role model\" never comes to mind."
 ---
   
-[![Success in Hill Country](/assets-c/2012/04/hill-country-cover-thumb-200x311-666.webp)](/images/hill_country_cover.webp)
+![Success in Hill Country](/images/hill-country-cover.webp)
 
 Success is not one of the stereotypes of Appalachia or its people. If you watch TV, the images are of the violence and drugs of "Justified," moonshiners like Popcorn Sutton, the crazy dancing outlaw Jesico White of West Virginia and a host of other images in which "role model" never comes to mind.  
   

@@ -10,6 +10,7 @@ categories:
 - Video
 tags:
 - Google Earth
+excerpt: "I'm experimenting with Google Earth Studio, the new web-based animation tool for Google Earth. I suspect it replaces the aging Google Earth Pro desktop program. It certainly appears more powerful."
 ---
 {% include youtube.html id="eytLvvscBIU" %}
 

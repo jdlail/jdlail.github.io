@@ -9,7 +9,8 @@ publish: true
 pin: false
 categories:
 - Ramblings
-tags: []
+tags: [DNA]
+excerpt: "Cool map (or data visualization) from 23andMe of where my relatives are located."
 ---
 ![23andMe map visualization of where my DNA relatives using the 23andMe are located.](/assets/wp-content/uploads/2019/01/23andme-visualization.webp)
 

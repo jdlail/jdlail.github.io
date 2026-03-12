@@ -13,6 +13,7 @@ tags:
 - Google
 - Training
 - SPJ
+excerpt: "Don’t miss an upcoming free training opportunity in Knoxville for journalists. The East Tennessee chapter of the Society of Professional Journalists is bringing SPJ’s Google Tools training to town on Saturday, June 2."
 ---
 ![SPJ Training Program in association with Google News Initiative](/assets/wp-content/uploads/2018/05/SPJGNL-Logo2-highres.webp)
 

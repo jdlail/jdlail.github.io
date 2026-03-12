@@ -9,9 +9,10 @@ pin: false
 categories:
 - Media
 tags: [Newspapers]
+excerpt: "A [great read for anyone worried about the newspaper business](https://jxpaton.wordpress.com/2012/02/18/old-dogs-new-tricks-and-crappy-newspaper-executives/) from John Paton, CEO of Digital First Media:"
 ---
   
-A [great read for anyone worried about the newspaper business](https://jxpaton.wordpress.com/2012/02/18/old-dogs-new-tricks-and-crappy-newspaper-executives/) from John Paton, CEO of Digital First Media:  
+A [great read for anyone worried about the newspaper business](https://jxpaton.wordpress.com/2012/02/18/old-dogs-new-tricks-and-crappy-newspaper-executives/) from John Paton, CEO of Digital First Media:
   
 > As career journalists we have entered a new era where what we know and what we traditionally do has finally found its value in the marketplace and that value is about zero.  
 >

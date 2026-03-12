@@ -8,10 +8,10 @@ publish: true
 pin: false
 categories:
 - Adversity is a mean teacher
-- Newspapers
-tags: []
+tags: [Newspapers]
+excerpt: "The American Press Institute has published a new report on paywalls at U.S. newspapers that finds that 'everybody''s doing it.'"
 ---
-[![paying-for-news.png](/assets-c/2016/02/paying-for-news-thumb-600xauto-2537.webp)](/images/paying-for-news.webp)
+![paying-for-news.png](/images/paying-for-news.webp)
 
 The American Press Institute has published a [new report on paywalls at U.S. newspapers](https://www.americanpressinstitute.org/publications/reports/digital-subscriptions/) that finds that "everybody''s doing it."
 

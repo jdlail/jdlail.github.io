@@ -8,7 +8,8 @@ publish: true
 pin: false
 categories:
 - Newspapers
-tags: []
+tags: [News Sentine]
+excerpt: "News Sentinel Editor Jack McElroy notes the departures late next week of three long-time newsroom folks, Gerry Segroves, Lynn Lewis and Fred Brown."
 ---
 News Sentinel Editor Jack McElroy [notes the departures](https://www.knoxnews.com/news/2008/jan/13/three-newspaper-pros-will-be-missed/) late next week of three long-time newsroom folks, Gerry Segroves, Lynn Lewis and Fred Brown.  
   
@@ -21,5 +22,3 @@ Lynn is the master of detail and organization. He has helped the online staff im
 Gerry or the night online producer is the last person out of the newsroom in the early morning hours. I've turned the lights out on him more than once (he's at the extreme other end of the newsroom). He often brought to the online producer's attention late stories that he couldn't get more than a couple graphs in somewhere deep in the paper that deserved better. And he let us know of fixes made that we might have missed.  
   
 Good folks all and to be missed.  
-
-

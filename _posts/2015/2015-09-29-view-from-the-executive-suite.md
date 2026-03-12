@@ -11,7 +11,7 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Chicago Tribune](/assets-c/2015/09/tribune-thumb-600x338-2535.webp)](/images/tribune.webp)
+![Chicago Tribune](/images/tribune.webp)
 
 These are trends I've never seen.
 
@@ -24,4 +24,3 @@ These are trends I've never seen.
 Tribune's PR folks "clarified" his comments a bit to the Vox Media site [re/code](https://recode.net/2015/09/28/tribune-publishing-boss-jack-griffin-says-actually-mobile-isnt-a-problem-for-newspapers/).
 
 (Photo by [Spacedust2019/Flickr.com](https://www.flickr.com/photos/ruben9/albums/72157601089078813))
-

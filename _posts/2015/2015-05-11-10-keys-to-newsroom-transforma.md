@@ -11,7 +11,9 @@ categories:
 - Newspapers
 tags: []
 ---
-[![Digital Leads: 10 keys to newsroom transformation](/assets-c/2015/05/Digital-Leads-report-thumb-550xauto-2526.webp)](/images/Digital-Leads-report.webp)[Steve Buttry](https://stevebuttry.wordpress.com/about/), a longtime digital pioneer, agent provocateur for newsroom change and currently the Lamar Family Visiting Scholar at Louisiana State University, has done a series of blog posts over the past week on the "Four Platform Newsroom" effort of the former Scripps newspapers.  
+![Digital Leads: 10 keys to newsroom transformation](/images/Digital-Leads-report.webp)
+
+[Steve Buttry](https://stevebuttry.wordpress.com/about/), a longtime digital pioneer, agent provocateur for newsroom change and currently the Lamar Family Visiting Scholar at Louisiana State University, has done a series of blog posts over the past week on the "Four Platform Newsroom" effort of the former Scripps newspapers.  
   
 Working with the Knight Digital Media Center at the University of Southern California at Annenberg, the "Four Platform" program set out to "transform" the newsrooms of the 13 newspapers then owned by [E.W. Scripps](https://www.scripps.com) and now known as the "Baker's Dozen Newspapers" of the [Journal Media Group](https://www.journalmediagroup.com/).
 
@@ -27,4 +29,3 @@ Here's Buttry's coverage:
   
 [Michelle Rogers shares links showing newsroom transformation](https://stevebuttry.wordpress.com/2015/05/11/michelle-rogers-shares-links-showing-newsroom-transformation/)  
   
-

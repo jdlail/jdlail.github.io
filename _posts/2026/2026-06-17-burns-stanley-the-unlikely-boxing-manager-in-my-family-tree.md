@@ -131,7 +131,7 @@ Stanley had a close relationship with his two boxes. Banks lived for a time in h
 
 "My wife and kids are crazy about him. You ask why he wants to fight and he'll tell you because he wants to be somebody and because he want to do something for his mother and father. He's devoted to them."
 
-In days after Banks' death, Stanley was asked he had regrets.
+In the days after Banks's death, Stanley was asked he had regrets.
 
 "No, I can't regret getting into boxing, although I certainly regret what has happened.
 

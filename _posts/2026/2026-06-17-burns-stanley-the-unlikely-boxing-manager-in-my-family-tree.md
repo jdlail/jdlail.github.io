@@ -9,6 +9,7 @@ image:
   alt: "Muhammad Ali vs Sonny Banks, February 1962"
   caption: "Muhammad Ali vs Sonny Banks, February 1962"
 excerpt: "I've found a family link to two heavyweight boxers entwined in the career and legacy of Muhammad Ali."
+last_modified_at: 2026-06-18 09:40:21 -0400
 ---
 
 I have been spending time lately coloring the leaves of my family tree and I've found a family link to two heavyweight boxers entwined in the career and legacy of Muhammad Ali.
@@ -101,7 +102,7 @@ His work with Ali included:
 
 **The 1964 Sonny Liston Camp:** Leading up to his first heavyweight championship fight, Ali and Jones frequently sparred, with training camp reports detailing intense sessions. Jones later estimated he went more than 150 rounds with Ali in preparation for the Liston fight.
 
-Jones helped Ali train for Liston's left hook. Sports Illustrated said Jones had a left hook that was quicker than Liston's, but not as devastating.
+Jones helped Ali train for Liston's left hook. [Sports Illustrated](https://www.si.com/boxing/2015/09/24/cassius-clay-his-fight-future) said Jones had a left hook that was quicker than Liston's, but not as devastating.
 
 **The 1966 Brian London Preparation:** While training at the Noble Art gym in Hampstead, London, Ali and Jones went head-to-head in multiple sparring sessions in training to defend his World Heavyweight title against Brian London.
 
